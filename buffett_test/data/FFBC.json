@@ -1312,11 +1312,14 @@
 "sources": {
 "fundamentals": "FactSet Fundamentals ANN (USD), pulled 2026-10-19",
 "entity": "FactSet EntityReference, pulled 2026-10-19",
-"adj_eps": "FactSet EstimatesConsensus surprise (actual EPS, broker/adjusted basis, USD), pulled 2026-10-19"
+"adj_eps": "FactSet EstimatesConsensus surprise (actual EPS, broker/adjusted basis, USD), pulled 2026-10-19",
+"market_value": "FactSet GlobalPrices market_value (USD m), pulled 2026-10-19"
 },
 "missing": [
 "market_value"
 ],
 "fmp_backup": {},
-"name": "First Financial Bancorp."
+"name": "First Financial Bancorp.",
+"market_value_usd_m": 3304.422231,
+"market_value_date": "2026-10-16"
 }
