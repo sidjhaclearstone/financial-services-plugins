@@ -1,0 +1,148 @@
+{
+"ticker": "SYM-US",
+"name": "Symbotic, Inc.",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Machinery Manufacturing / Factory Automation Equipment",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": null,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "0/0",
+"worst_eps_year": null,
+"eps_series": {
+"2020": -0.0,
+"2022": -0.07,
+"2023": -0.24,
+"2024": -0.14,
+"2025": -0.16
+},
+"gaap_eps_series": {
+"2020": -0.0,
+"2022": -0.07,
+"2023": -0.24,
+"2024": -0.14,
+"2025": -0.16
+},
+"rev_series_m": {
+"2020": 0,
+"2022": 593,
+"2023": 1177,
+"2024": 1788,
+"2025": 2247
+},
+"ebit_margin_series": {
+"2022": -23.7,
+"2023": -16.8,
+"2024": -4.6,
+"2025": -3.6
+},
+"ebit_margin_latest": -3.6,
+"ebit_margin_10y_avg": -12.2,
+"ebit_margin_10y_max": -3.6,
+"ebit_margin_10y_min": -23.7,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": null,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 0.61,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 0.0,
+"net_debt_m": -1213,
+"net_debt_ebitda": 32.44,
+"roic_latest": -7.4,
+"roic_10y_avg": -113.6,
+"roe_latest": -8.1,
+"roe_10y_avg": -217.4,
+"adj_vs_gaap_gap_5y_avg_pct": null,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 92.02,
+"is_reit": "False",
+"price": "39.01",
+"fcf_yield": 8.2,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.225,
+"std": null,
+"hi": 0.225442,
+"lo": 0.225442,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.205,
+"std": 0.025,
+"hi": 0.24,
+"lo": 0.18,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.4,
+"std": 0.123,
+"hi": 0.64,
+"lo": 0.24,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.86,
+"std": 0.403,
+"hi": 1.66,
+"lo": 0.57,
+"n": 6
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+95.1,
+115.0
+],
+"cons_EPS_growth_FY1": -9.1,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2246.922,
+"std": null,
+"hi": 2246.922,
+"lo": 2246.922,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2803.434,
+"std": 10.711,
+"hi": 2835.8,
+"lo": 2790.641,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 3581.094,
+"std": 89.463,
+"hi": 3750.675,
+"lo": 3429.9290492,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 4510.104,
+"std": 261.772,
+"hi": 4843.6127104276,
+"lo": 4126.99,
+"n": 10
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+27.7,
+25.9
+],
+"cons_SALES_growth_FY1": 24.8,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}
