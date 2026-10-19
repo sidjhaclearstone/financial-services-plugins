@@ -16,9 +16,13 @@ def cagr(a, b, n):
 def pct(x): return None if x is None else round(100 * x, 1)
 
 def load_stage1():
-    p = os.path.join(BASE, 'stage1_universe.csv'); out = {}
-    if os.path.exists(p):
-        for r in csv.DictReader(open(p)): out[r['ticker']] = r
+    out = {}
+    for fn in ('stage1_universe.csv', 'stage1b_universe.csv'):   # v2 file adds 15-18x and FCF-yield passes
+        p = os.path.join(BASE, fn)
+        if os.path.exists(p):
+            for r in csv.DictReader(open(p)):
+                if fn == 'stage1_universe.csv' or r['ticker'] not in out or out[r['ticker']].get('test1') != 'PASS':
+                    out[r['ticker']] = r
     return out
 
 def load_cons():
@@ -94,6 +98,8 @@ def summarize(t, s1, cons):
     r1 = s1.get(t, {})
     o['ntm_pe'] = round(float(r1['ntm_pe']), 2) if r1.get('ntm_pe') not in (None, '') else None
     o['is_reit'] = r1.get('is_reit'); o['price'] = r1.get('price_usd')
+    if r1.get('fcf_yield_used') not in (None, ''):
+        o['fcf_yield'] = round(100 * float(r1['fcf_yield_used']), 1); o['test1_route'] = ('PE' if r1.get('pe_route') == 'Y' else '') + ('+FCF' if r1.get('fcf_route') == 'Y' else '')
     c = cons.get(t, {})
     for m in ('EPS', 'SALES', 'FFO'):
         cm = c.get(m)
@@ -114,7 +120,7 @@ def summarize(t, s1, cons):
     return o
 
 def compact(o):
-    keys = ['ntm_pe', 'mkt_cap_usd_m', 'is_reit', 'eps_basis_for_growth', 'eps_cagr_10y', 'eps_cagr_5y', 'rev_cagr_10y', 'shares_cagr_10y', 'years_eps_growth_ge7', 'worst_eps_year', 'latest_eps_vs_10y_max', 'ebit_margin_latest', 'ebit_margin_10y_avg', 'ebit_margin_10y_max', 'margin_pctile_in_history', 'fcf_conversion_10y', 'acq_to_fcf_10y', 'buyback_to_fcf_10y', 'net_debt_ebitda', 'roic_10y_avg', 'roe_10y_avg', 'adj_vs_gaap_gap_5y_avg_pct', 'cons_EPS_growth_FY1', 'cons_EPS_growth_FY2_FY3', 'eps_ltg']
+    keys = ['ntm_pe', 'fcf_yield', 'test1_route', 'mkt_cap_usd_m', 'is_reit', 'eps_basis_for_growth', 'eps_cagr_10y', 'eps_cagr_5y', 'rev_cagr_10y', 'shares_cagr_10y', 'years_eps_growth_ge7', 'worst_eps_year', 'latest_eps_vs_10y_max', 'ebit_margin_latest', 'ebit_margin_10y_avg', 'ebit_margin_10y_max', 'margin_pctile_in_history', 'fcf_conversion_10y', 'acq_to_fcf_10y', 'buyback_to_fcf_10y', 'net_debt_ebitda', 'roic_10y_avg', 'roe_10y_avg', 'adj_vs_gaap_gap_5y_avg_pct', 'cons_EPS_growth_FY1', 'cons_EPS_growth_FY2_FY3', 'eps_ltg']
     s = f"## {o['ticker']} | {o.get('name')} | {o.get('rbics')}\n"
     s += '; '.join(f'{k}={o.get(k)}' for k in keys if o.get(k) is not None) + '\n'
     s += f"EPS: {o['eps_series']}\n"

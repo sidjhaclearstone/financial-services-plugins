@@ -39,3 +39,8 @@ Do NOT exclude whole sectors mechanically — Buffett owns banks, insurers, rail
 Write `triage/batch_NN.csv` (create `triage/` dir) with header `ticker,name,verdict,reason,flags` — one row per ticker; `reason` = one sentence, specific (cite a number where useful, e.g. "EPS 0.98x 10y peak with margin at 10y high in a commodity chemical"); quote the field with double quotes; `flags` = semicolon list from {REIT, DATA_GAP, FMP_BACKUP, ADJ_GAAP_GAP, LOW_COVERAGE} as applicable. Every ticker in the batch must have a row (use verdict `NO` + reason "insufficient data" + DATA_GAP only if essentially nothing could be retrieved).
 
 Finally update `progress.json` safely: `python3 -c "import json;p=json.load(open('progress.json'));p.setdefault('batches',{})['NN']='done';json.dump(p,open('progress.json','w'),indent=1)"` (replace NN).
+
+## v2 re-run notes (batches 41+)
+- These names passed the WIDER Test 1 (NTM P/E <18x OR FCF yield ≥6%). REIT flags, P/E, FCF yield and route are in `data/stage1b_universe.csv` (columns is_reit, ntm_pe, fcf_yield_used, pe_route, fcf_route). summarize.py prints `fcf_yield` and `test1_route`.
+- Apply exactly the same triage rules and strictness (expect ~5–10% KEEP). A high FCF yield or low P/E is not a reason to keep — judge the business. For FCF-route names check the FCF is recurring (not working-capital release / one-off) and flag `FCF_ROUTE` in flags.
+- Write `triage/batch_NN.csv` with your batch number (41–58).
