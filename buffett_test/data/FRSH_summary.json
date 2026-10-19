@@ -1,0 +1,157 @@
+{
+"ticker": "FRSH-US",
+"name": "Freshworks, Inc.",
+"last_fy": 2025,
+"rbics": "Software and Consulting / Software / Enterprise Management Software",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 27.4,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "0/0",
+"worst_eps_year": null,
+"eps_series": {
+"2019": -2.2,
+"2020": -5.69,
+"2021": -10.39,
+"2022": -0.82,
+"2023": -0.47,
+"2024": -0.32,
+"2025": 0.63
+},
+"gaap_eps_series": {
+"2019": -2.2,
+"2020": -5.69,
+"2021": -10.39,
+"2022": -0.82,
+"2023": -0.47,
+"2024": -0.32,
+"2025": 0.63
+},
+"rev_series_m": {
+"2019": 172,
+"2020": 250,
+"2021": 371,
+"2022": 498,
+"2023": 596,
+"2024": 720,
+"2025": 839
+},
+"ebit_margin_series": {
+"2019": -16.6,
+"2020": -22.4,
+"2021": -55.2,
+"2022": -46.9,
+"2023": -28.5,
+"2024": -17.9,
+"2025": 1.6
+},
+"ebit_margin_latest": 1.6,
+"ebit_margin_10y_avg": -26.6,
+"ebit_margin_10y_max": 1.6,
+"ebit_margin_10y_min": -55.2,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 0.52,
+"buyback_to_fcf_10y": 1.16,
+"div_to_fcf_10y": 0.0,
+"net_debt_m": -801,
+"net_debt_ebitda": -20.3,
+"roic_latest": 16.4,
+"roic_10y_avg": -13.2,
+"roe_latest": 16.9,
+"roe_10y_avg": -13.3,
+"adj_vs_gaap_gap_5y_avg_pct": 5.5,
+"adj_vs_gaap_gap_latest_pct": 5.5,
+"ntm_pe": 17.72,
+"is_reit": "False",
+"price": "14.13",
+"fcf_yield": 7.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.66,
+"std": null,
+"hi": 0.66,
+"lo": 0.66,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.669,
+"std": 0.005,
+"hi": 0.68,
+"lo": 0.66,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.83,
+"std": 0.045,
+"hi": 0.97,
+"lo": 0.77,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.982,
+"std": 0.047,
+"hi": 1.06,
+"lo": 0.9,
+"n": 10
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+24.0,
+18.4
+],
+"cons_EPS_growth_FY1": 1.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 838.809,
+"std": null,
+"hi": 838.809,
+"lo": 838.809,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 965.02,
+"std": 0.164,
+"hi": 965.3,
+"lo": 964.65821833,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 1101.914,
+"std": 7.855,
+"hi": 1119.797,
+"lo": 1090.0,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 1271.543,
+"std": 20.838,
+"hi": 1307.054,
+"lo": 1243.892336,
+"n": 10
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+14.2,
+15.4
+],
+"cons_SALES_growth_FY1": 15.0,
+"eps_ltg": 17.5,
+"missing": [],
+"fmp_backup": []
+}

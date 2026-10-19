@@ -1,0 +1,164 @@
+{
+"ticker": "CTOS-US",
+"name": "Custom Truck One Source Inc",
+"last_fy": 2025,
+"rbics": "Miscellaneous Retail / Auto Retail / Motor Vehicles and Parts Sales and Rental",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 45.1,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "1/2",
+"worst_eps_year": [
+2024,
+-157.1
+],
+"eps_series": {
+"2019": -0.82,
+"2020": -0.43,
+"2021": -0.75,
+"2022": 0.16,
+"2023": 0.21,
+"2024": -0.12,
+"2025": -0.14
+},
+"gaap_eps_series": {
+"2017": -0.07,
+"2018": 0.0,
+"2019": -0.82,
+"2020": -0.43,
+"2021": -0.75,
+"2022": 0.16,
+"2023": 0.21,
+"2024": -0.12,
+"2025": -0.14
+},
+"rev_series_m": {
+"2017": 0,
+"2018": 0,
+"2019": 264,
+"2020": 303,
+"2021": 1167,
+"2022": 1573,
+"2023": 1865,
+"2024": 1802,
+"2025": 1944
+},
+"ebit_margin_series": {
+"2019": 16.8,
+"2020": 9.9,
+"2021": 0.8,
+"2022": 8.2,
+"2023": 9.9,
+"2024": 6.7,
+"2025": 7.3
+},
+"ebit_margin_latest": 7.3,
+"ebit_margin_10y_avg": 8.5,
+"ebit_margin_10y_max": 16.8,
+"ebit_margin_10y_min": 0.8,
+"margin_pctile_in_history": 43,
+"latest_eps_vs_10y_max": -0.67,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"net_debt_m": 2411,
+"net_debt_ebitda": 5.88,
+"roic_latest": -1.2,
+"roic_10y_avg": -2.4,
+"roe_latest": -3.7,
+"roe_10y_avg": -7.8,
+"adj_vs_gaap_gap_5y_avg_pct": 1.8,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 34.46,
+"is_reit": "False",
+"price": "9.11",
+"fcf_yield": 13.0,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": -0.14,
+"std": null,
+"hi": -0.14,
+"lo": -0.14,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.135,
+"std": 0.048,
+"hi": 0.19,
+"lo": 0.08,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.297,
+"std": 0.073,
+"hi": 0.4,
+"lo": 0.18,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.48,
+"std": 0.042,
+"hi": 0.51,
+"lo": 0.45,
+"n": 2
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+119.8,
+61.8
+],
+"cons_EPS_growth_FY1": -196.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1943.957,
+"std": null,
+"hi": 1943.957,
+"lo": 1943.957,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2123.69,
+"std": 25.108,
+"hi": 2150.0,
+"lo": 2085.1,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 2237.238,
+"std": 39.378,
+"hi": 2280.0,
+"lo": 2187.7291,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 2310.783,
+"std": 107.562,
+"hi": 2414.0,
+"lo": 2199.3476,
+"n": 3
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.3,
+3.3
+],
+"cons_SALES_growth_FY1": 9.2,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

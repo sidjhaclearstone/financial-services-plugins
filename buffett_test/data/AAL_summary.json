@@ -1,0 +1,176 @@
+{
+"ticker": "AAL-US",
+"name": "American Airlines Group Inc.",
+"last_fy": 2025,
+"rbics": "Industrial Services / Passenger Transportation / Air Passenger Transportation",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -27.6,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": -34.2,
+"rev_cagr_10y": 2.9,
+"rev_cagr_5y": 25.8,
+"shares_cagr_10y": -0.4,
+"years_eps_growth_ge7": "3/9",
+"worst_eps_year": [
+2020,
+-501.2
+],
+"eps_series": {
+"2015": 9.12,
+"2016": 5.71,
+"2017": 4.88,
+"2018": 4.55,
+"2019": 4.9,
+"2020": -19.66,
+"2021": -8.38,
+"2022": 0.5,
+"2023": 2.65,
+"2024": 1.96,
+"2025": 0.36
+},
+"gaap_eps_series": {
+"2015": 11.07,
+"2016": 4.81,
+"2017": 3.9,
+"2018": 3.03,
+"2019": 3.79,
+"2020": -18.36,
+"2021": -3.09,
+"2022": 0.19,
+"2023": 1.14,
+"2024": 1.17,
+"2025": 0.17
+},
+"rev_series_m": {
+"2015": 40990,
+"2016": 40180,
+"2017": 42207,
+"2018": 44541,
+"2019": 45768,
+"2020": 17337,
+"2021": 29882,
+"2022": 48971,
+"2023": 52788,
+"2024": 54211,
+"2025": 54633
+},
+"ebit_margin_series": {
+"2015": 17.8,
+"2016": 15.0,
+"2017": 11.4,
+"2018": 7.7,
+"2019": 8.1,
+"2020": -65.7,
+"2021": -18.5,
+"2022": 3.7,
+"2023": 7.6,
+"2024": 6.0,
+"2025": 3.0
+},
+"ebit_margin_latest": 3.0,
+"ebit_margin_10y_avg": -0.4,
+"ebit_margin_10y_max": 17.8,
+"ebit_margin_10y_min": -65.7,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 0.04,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"net_debt_m": 29399,
+"net_debt_ebitda": 7.65,
+"roic_latest": 0.4,
+"roic_10y_avg": -0.1,
+"roe_latest": 75.2,
+"roe_10y_avg": 95.1,
+"adj_vs_gaap_gap_5y_avg_pct": 117.8,
+"adj_vs_gaap_gap_latest_pct": 114.4,
+"ntm_pe": 16.77,
+"is_reit": "False",
+"price": "11.68",
+"fcf_yield": 1.7,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.36,
+"std": null,
+"hi": 0.36,
+"lo": 0.36,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": -1.034,
+"std": 0.471,
+"hi": 0.58,
+"lo": -1.791916333,
+"n": 23
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.129,
+"std": 0.698,
+"hi": 2.56,
+"lo": -0.35,
+"n": 23
+},
+"FY3": {
+"fy": 2028,
+"mean": 3.109,
+"std": 0.924,
+"hi": 4.58084455,
+"lo": 0.4,
+"n": 18
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-209.2,
+175.3
+],
+"cons_EPS_growth_FY1": -387.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 54633.0,
+"std": null,
+"hi": 54633.0,
+"lo": 54633.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 63466.436,
+"std": 376.397,
+"hi": 63939.0,
+"lo": 62100.0,
+"n": 21
+},
+"FY2": {
+"fy": 2027,
+"mean": 67356.845,
+"std": 1420.733,
+"hi": 68935.4251219487,
+"lo": 63052.3362,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 70162.43,
+"std": 1473.146,
+"hi": 72301.429,
+"lo": 66559.542,
+"n": 18
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+6.1,
+4.2
+],
+"cons_SALES_growth_FY1": 16.2,
+"eps_ltg": 91.28038929105,
+"missing": [],
+"fmp_backup": []
+}

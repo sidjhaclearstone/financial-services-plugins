@@ -1,0 +1,165 @@
+{
+"ticker": "CARR-US",
+"name": "Carrier Global Corp.",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Machinery Manufacturing / Air, Liquid and Gas Control Equipment",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 9.3,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 4.5,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "2/5",
+"worst_eps_year": [
+2024,
+-6.2
+],
+"eps_series": {
+"2020": 1.66,
+"2021": 2.26,
+"2022": 2.34,
+"2023": 2.73,
+"2024": 2.56,
+"2025": 2.59
+},
+"gaap_eps_series": {
+"2017": 1.42,
+"2018": 3.16,
+"2019": 2.44,
+"2020": 2.25,
+"2021": 1.87,
+"2022": 4.1,
+"2023": 1.58,
+"2024": 0.47,
+"2025": 1.75
+},
+"rev_series_m": {
+"2017": 17814,
+"2018": 18914,
+"2019": 18608,
+"2020": 17456,
+"2021": 20613,
+"2022": 20421,
+"2023": 22098,
+"2024": 22486,
+"2025": 21747
+},
+"ebit_margin_series": {
+"2017": 14.3,
+"2018": 14.3,
+"2019": 13.8,
+"2020": 11.2,
+"2021": 12.1,
+"2022": 21.0,
+"2023": 9.9,
+"2024": 10.0,
+"2025": 10.0
+},
+"ebit_margin_latest": 10.0,
+"ebit_margin_10y_avg": 12.9,
+"ebit_margin_10y_max": 21.0,
+"ebit_margin_10y_min": 9.9,
+"margin_pctile_in_history": 22,
+"latest_eps_vs_10y_max": 0.95,
+"fcf_conversion_5y": 0.83,
+"fcf_conversion_10y": 0.83,
+"acq_to_fcf_10y": 0.88,
+"buyback_to_fcf_10y": 0.5,
+"div_to_fcf_10y": 0.22,
+"net_debt_m": 10836,
+"net_debt_ebitda": 3.15,
+"roic_latest": 5.7,
+"roic_10y_avg": 10.7,
+"roe_latest": 10.4,
+"roe_10y_avg": 20.8,
+"adj_vs_gaap_gap_5y_avg_pct": 108.9,
+"adj_vs_gaap_gap_latest_pct": 48.3,
+"ntm_pe": 17.15,
+"is_reit": "False",
+"price": "55.21",
+"fcf_yield": 5.4,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.59,
+"std": null,
+"hi": 2.59,
+"lo": 2.59,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.89,
+"std": 0.021,
+"hi": 2.9307669,
+"lo": 2.85,
+"n": 25
+},
+"FY2": {
+"fy": 2027,
+"mean": 3.301,
+"std": 0.101,
+"hi": 3.5,
+"lo": 3.09,
+"n": 26
+},
+"FY3": {
+"fy": 2028,
+"mean": 3.746,
+"std": 0.159,
+"hi": 4.00212668,
+"lo": 3.4,
+"n": 16
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+14.2,
+13.5
+],
+"cons_EPS_growth_FY1": 11.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 21747.0,
+"std": null,
+"hi": 21747.0,
+"lo": 21747.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 23325.632,
+"std": 192.8,
+"hi": 23698.0,
+"lo": 23023.165,
+"n": 24
+},
+"FY2": {
+"fy": 2027,
+"mean": 24597.593,
+"std": 536.101,
+"hi": 25715.0,
+"lo": 23792.7196,
+"n": 24
+},
+"FY3": {
+"fy": 2028,
+"mean": 26018.559,
+"std": 769.486,
+"hi": 27782.117718,
+"lo": 24911.7857,
+"n": 15
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.5,
+5.8
+],
+"cons_SALES_growth_FY1": 7.3,
+"eps_ltg": 11.70191172135,
+"missing": [],
+"fmp_backup": []
+}

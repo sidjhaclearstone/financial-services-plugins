@@ -1,0 +1,176 @@
+{
+"ticker": "GEO-US",
+"name": "GEO Group Inc",
+"last_fy": 2025,
+"rbics": "Business Services / Business Support Services / Security Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -4.2,
+"eps_cagr_5y": -7.9,
+"gaap_eps_cagr_10y": 3.8,
+"rev_cagr_10y": 3.6,
+"rev_cagr_5y": 2.3,
+"shares_cagr_10y": 2.3,
+"years_eps_growth_ge7": "3/10",
+"worst_eps_year": [
+2023,
+-32.1
+],
+"eps_series": {
+"2015": 1.32,
+"2016": 1.46,
+"2017": 1.41,
+"2018": 1.36,
+"2019": 1.6,
+"2020": 1.3,
+"2021": 1.32,
+"2022": 1.4,
+"2023": 0.95,
+"2024": 0.75,
+"2025": 0.86
+},
+"gaap_eps_series": {
+"2015": 1.25,
+"2016": 1.33,
+"2017": 1.21,
+"2018": 1.2,
+"2019": 1.4,
+"2020": 0.94,
+"2021": 0.58,
+"2022": 1.17,
+"2023": 0.72,
+"2024": 0.22,
+"2025": 1.82
+},
+"rev_series_m": {
+"2015": 1843,
+"2016": 2179,
+"2017": 2263,
+"2018": 2331,
+"2019": 2478,
+"2020": 2350,
+"2021": 2257,
+"2022": 2377,
+"2023": 2413,
+"2024": 2424,
+"2025": 2632
+},
+"ebit_margin_series": {
+"2015": 12.9,
+"2016": 11.7,
+"2017": 11.0,
+"2018": 11.4,
+"2019": 12.1,
+"2020": 10.4,
+"2021": 12.8,
+"2022": 16.1,
+"2023": 14.6,
+"2024": 12.8,
+"2025": 11.4
+},
+"ebit_margin_latest": 11.4,
+"ebit_margin_10y_avg": 12.5,
+"ebit_margin_10y_max": 16.1,
+"ebit_margin_10y_min": 10.4,
+"margin_pctile_in_history": 36,
+"latest_eps_vs_10y_max": 0.54,
+"fcf_conversion_5y": 1.14,
+"fcf_conversion_10y": 1.09,
+"acq_to_fcf_10y": 0.25,
+"buyback_to_fcf_10y": 0.14,
+"div_to_fcf_10y": 0.79,
+"net_debt_m": 1655,
+"net_debt_ebitda": 3.82,
+"roic_latest": 8.0,
+"roic_10y_avg": 3.8,
+"roe_latest": 17.9,
+"roe_10y_avg": 11.8,
+"adj_vs_gaap_gap_5y_avg_pct": 72.5,
+"adj_vs_gaap_gap_latest_pct": -52.8,
+"ntm_pe": 15.94,
+"is_reit": "False",
+"price": "27.77",
+"fcf_yield": 7.4,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.86,
+"std": null,
+"hi": 0.86,
+"lo": 0.86,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.31,
+"std": 0.085,
+"hi": 1.37,
+"lo": 1.19,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.85,
+"std": 0.066,
+"hi": 1.91,
+"lo": 1.78,
+"n": 3
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.005,
+"std": 0.035,
+"hi": 2.03,
+"lo": 1.98,
+"n": 2
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+41.2,
+8.4
+],
+"cons_EPS_growth_FY1": 52.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2631.549,
+"std": null,
+"hi": 2631.549,
+"lo": 2631.549,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2992.492,
+"std": 12.757,
+"hi": 3005.472,
+"lo": 2973.869,
+"n": 5
+},
+"FY2": {
+"fy": 2027,
+"mean": 3264.797,
+"std": 75.997,
+"hi": 3336.882,
+"lo": 3150.0,
+"n": 5
+},
+"FY3": {
+"fy": 2028,
+"mean": 3468.651,
+"std": 7.712,
+"hi": 3474.104,
+"lo": 3463.197,
+"n": 2
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+9.1,
+6.2
+],
+"cons_SALES_growth_FY1": 13.7,
+"eps_ltg": 14.0,
+"missing": [],
+"fmp_backup": []
+}

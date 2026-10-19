@@ -1,0 +1,176 @@
+{
+"ticker": "CMS-US",
+"name": "CMS Energy Corporation",
+"last_fy": 2025,
+"rbics": "Utilities / Energy Utilities / Electric Utilities",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 6.7,
+"eps_cagr_5y": 6.2,
+"gaap_eps_cagr_10y": 6.4,
+"rev_cagr_10y": 2.8,
+"rev_cagr_5y": 5.0,
+"shares_cagr_10y": 0.9,
+"years_eps_growth_ge7": "7/10",
+"worst_eps_year": [
+2021,
+-0.7
+],
+"eps_series": {
+"2015": 1.89,
+"2016": 2.02,
+"2017": 2.17,
+"2018": 2.33,
+"2019": 2.49,
+"2020": 2.67,
+"2021": 2.65,
+"2022": 2.89,
+"2023": 3.11,
+"2024": 3.34,
+"2025": 3.61
+},
+"gaap_eps_series": {
+"2015": 1.89,
+"2016": 1.98,
+"2017": 1.64,
+"2018": 2.32,
+"2019": 2.39,
+"2020": 2.64,
+"2021": 4.66,
+"2022": 2.85,
+"2023": 3.01,
+"2024": 3.33,
+"2025": 3.52
+},
+"rev_series_m": {
+"2015": 6456,
+"2016": 6399,
+"2017": 6583,
+"2018": 6873,
+"2019": 6845,
+"2020": 6680,
+"2021": 7329,
+"2022": 8596,
+"2023": 7462,
+"2024": 7515,
+"2025": 8539
+},
+"ebit_margin_series": {
+"2015": 18.0,
+"2016": 20.3,
+"2017": 20.3,
+"2018": 16.9,
+"2019": 18.1,
+"2020": 20.4,
+"2021": 15.6,
+"2022": 14.2,
+"2023": 16.6,
+"2024": 19.8,
+"2025": 20.2
+},
+"ebit_margin_latest": 20.2,
+"ebit_margin_10y_avg": 18.2,
+"ebit_margin_10y_max": 20.4,
+"ebit_margin_10y_min": 14.2,
+"margin_pctile_in_history": 73,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": -1.08,
+"fcf_conversion_10y": -0.87,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"net_debt_m": 18305,
+"net_debt_ebitda": 6.04,
+"roic_latest": 4.2,
+"roic_10y_avg": 4.2,
+"roe_latest": 12.3,
+"roe_10y_avg": 12.8,
+"adj_vs_gaap_gap_5y_avg_pct": -7.1,
+"adj_vs_gaap_gap_latest_pct": 2.4,
+"ntm_pe": 16.43,
+"is_reit": "False",
+"price": "67.37",
+"fcf_yield": -10.7,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.61,
+"std": null,
+"hi": 3.61,
+"lo": 3.61,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.874,
+"std": 0.016,
+"hi": 3.91,
+"lo": 3.85,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.158,
+"std": 0.015,
+"hi": 4.19,
+"lo": 4.13,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 4.476,
+"std": 0.021,
+"hi": 4.5132,
+"lo": 4.43,
+"n": 12
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+7.3,
+7.7
+],
+"cons_EPS_growth_FY1": 7.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 8539.0,
+"std": null,
+"hi": 8539.0,
+"lo": 8539.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 9013.867,
+"std": 177.146,
+"hi": 9393.160531,
+"lo": 8813.0,
+"n": 10
+},
+"FY2": {
+"fy": 2027,
+"mean": 9368.858,
+"std": 329.144,
+"hi": 9842.194133,
+"lo": 8702.0,
+"n": 10
+},
+"FY3": {
+"fy": 2028,
+"mean": 9813.389,
+"std": 579.156,
+"hi": 10489.1,
+"lo": 8528.3704,
+"n": 9
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.9,
+4.7
+],
+"cons_SALES_growth_FY1": 5.6,
+"eps_ltg": 7.2139046406,
+"missing": [],
+"fmp_backup": []
+}

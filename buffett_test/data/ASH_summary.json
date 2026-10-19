@@ -1,0 +1,176 @@
+{
+"ticker": "ASH-US",
+"name": "Ashland Inc.",
+"last_fy": 2025,
+"rbics": "Chemical, Plastic and Rubber Materials / Specialty and Performance Chemicals / Additives Manufacturing",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -0.2,
+"eps_cagr_5y": 2.2,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": -10.3,
+"rev_cagr_5y": -4.7,
+"shares_cagr_10y": -4.0,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2019,
+-30.0
+],
+"eps_series": {
+"2015": 3.43,
+"2016": 3.28,
+"2017": 2.44,
+"2018": 3.58,
+"2019": 2.5,
+"2020": 3.03,
+"2021": 4.43,
+"2022": 5.7,
+"2023": 4.04,
+"2024": 4.45,
+"2025": 3.38
+},
+"gaap_eps_series": {
+"2015": 4.32,
+"2016": -0.45,
+"2017": 0.02,
+"2018": 1.78,
+"2019": 8.02,
+"2020": -8.2,
+"2021": 3.66,
+"2022": -2.47,
+"2023": 3.36,
+"2024": 3.38,
+"2025": -18.37
+},
+"rev_series_m": {
+"2015": 5387,
+"2016": 4948,
+"2017": 3260,
+"2018": 3743,
+"2019": 2493,
+"2020": 2326,
+"2021": 2111,
+"2022": 2391,
+"2023": 2191,
+"2024": 2113,
+"2025": 1824
+},
+"ebit_margin_series": {
+"2015": 9.0,
+"2016": 8.2,
+"2017": 7.7,
+"2018": 10.4,
+"2019": 12.4,
+"2020": 8.3,
+"2021": 8.8,
+"2022": 13.9,
+"2023": 7.7,
+"2024": 5.4,
+"2025": 5.4
+},
+"ebit_margin_latest": 5.4,
+"ebit_margin_10y_avg": 8.8,
+"ebit_margin_10y_max": 13.9,
+"ebit_margin_10y_min": 5.4,
+"margin_pctile_in_history": 9,
+"latest_eps_vs_10y_max": 0.59,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 0.61,
+"buyback_to_fcf_10y": 1.19,
+"div_to_fcf_10y": 0.41,
+"net_debt_m": 1225,
+"net_debt_ebitda": 3.17,
+"roic_latest": -21.4,
+"roic_10y_avg": -1.5,
+"roe_latest": -34.5,
+"roe_10y_avg": -2.5,
+"adj_vs_gaap_gap_5y_avg_pct": 24.4,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 16.43,
+"is_reit": "False",
+"price": "71.19",
+"fcf_yield": 6.9,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.38,
+"std": null,
+"hi": 3.38,
+"lo": 3.38,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.507,
+"std": 0.116,
+"hi": 3.65,
+"lo": 3.2,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.298,
+"std": 0.181,
+"hi": 4.65,
+"lo": 4.01,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 4.946,
+"std": 0.413,
+"hi": 5.76,
+"lo": 4.48,
+"n": 8
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+22.5,
+15.1
+],
+"cons_EPS_growth_FY1": 3.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1824.0,
+"std": null,
+"hi": 1824.0,
+"lo": 1824.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1865.859,
+"std": 5.068,
+"hi": 1872.0,
+"lo": 1855.0,
+"n": 10
+},
+"FY2": {
+"fy": 2027,
+"mean": 1928.074,
+"std": 22.492,
+"hi": 1958.0,
+"lo": 1883.0,
+"n": 10
+},
+"FY3": {
+"fy": 2028,
+"mean": 2002.683,
+"std": 37.081,
+"hi": 2052.0,
+"lo": 1954.0,
+"n": 8
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.3,
+3.9
+],
+"cons_SALES_growth_FY1": 2.3,
+"eps_ltg": 11.63602,
+"missing": [],
+"fmp_backup": []
+}

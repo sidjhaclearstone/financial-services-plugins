@@ -1,0 +1,176 @@
+{
+"ticker": "CPRT-US",
+"name": "Copart, Inc.",
+"last_fy": 2026,
+"rbics": "Miscellaneous Retail / Auto Retail / Motor Vehicle Sales",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 19.4,
+"eps_cagr_5y": 10.9,
+"gaap_eps_cagr_10y": 18.8,
+"rev_cagr_10y": 13.9,
+"rev_cagr_5y": 11.6,
+"shares_cagr_10y": -0.2,
+"years_eps_growth_ge7": "9/10",
+"worst_eps_year": [
+2026,
+-2.5
+],
+"eps_series": {
+"2016": 0.26,
+"2017": 0.32,
+"2018": 0.43,
+"2019": 0.56,
+"2020": 0.64,
+"2021": 0.93,
+"2022": 1.11,
+"2023": 1.26,
+"2024": 1.4,
+"2025": 1.59,
+"2026": 1.55
+},
+"gaap_eps_series": {
+"2016": 0.28,
+"2017": 0.42,
+"2018": 0.43,
+"2019": 0.62,
+"2020": 0.73,
+"2021": 0.97,
+"2022": 1.13,
+"2023": 1.28,
+"2024": 1.4,
+"2025": 1.59,
+"2026": 1.55
+},
+"rev_series_m": {
+"2016": 1268,
+"2017": 1448,
+"2018": 1806,
+"2019": 2042,
+"2020": 2206,
+"2021": 2693,
+"2022": 3501,
+"2023": 3870,
+"2024": 4237,
+"2025": 4647,
+"2026": 4666
+},
+"ebit_margin_series": {
+"2016": 32.0,
+"2017": 33.3,
+"2018": 36.2,
+"2019": 35.1,
+"2020": 37.0,
+"2021": 42.2,
+"2022": 39.3,
+"2023": 38.4,
+"2024": 37.1,
+"2025": 36.5,
+"2026": 35.4
+},
+"ebit_margin_latest": 35.4,
+"ebit_margin_10y_avg": 36.6,
+"ebit_margin_10y_max": 42.2,
+"ebit_margin_10y_min": 32.0,
+"margin_pctile_in_history": 36,
+"latest_eps_vs_10y_max": 0.97,
+"fcf_conversion_5y": 0.76,
+"fcf_conversion_10y": 0.7,
+"acq_to_fcf_10y": 0.04,
+"buyback_to_fcf_10y": 0.29,
+"div_to_fcf_10y": 0.0,
+"net_debt_m": -4401,
+"net_debt_ebitda": -2.34,
+"roic_latest": 16.1,
+"roic_10y_avg": 23.4,
+"roe_latest": 16.2,
+"roe_10y_avg": 27.7,
+"adj_vs_gaap_gap_5y_avg_pct": -0.6,
+"adj_vs_gaap_gap_latest_pct": -0.1,
+"ntm_pe": 16.64,
+"is_reit": "False",
+"price": "27.51",
+"fcf_yield": 5.5,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2026,
+"mean": 1.55,
+"std": null,
+"hi": 1.55,
+"lo": 1.55,
+"n": 1
+},
+"FY1": {
+"fy": 2027,
+"mean": 1.62,
+"std": 0.041,
+"hi": 1.67,
+"lo": 1.5623914842,
+"n": 11
+},
+"FY2": {
+"fy": 2028,
+"mean": 1.768,
+"std": 0.085,
+"hi": 1.88,
+"lo": 1.6191859953,
+"n": 10
+},
+"FY3": {
+"fy": 2029,
+"mean": 1.906,
+"std": 0.25,
+"hi": 2.19,
+"lo": 1.72,
+"n": 3
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+9.1,
+7.8
+],
+"cons_EPS_growth_FY1": 4.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2026,
+"mean": 4666.209,
+"std": null,
+"hi": 4666.209,
+"lo": 4666.209,
+"n": 1
+},
+"FY1": {
+"fy": 2027,
+"mean": 4916.308,
+"std": 242.26,
+"hi": 5571.1,
+"lo": 4705.0,
+"n": 10
+},
+"FY2": {
+"fy": 2028,
+"mean": 5245.294,
+"std": 432.449,
+"hi": 6273.2,
+"lo": 4835.0,
+"n": 8
+},
+"FY3": {
+"fy": 2029,
+"mean": 5785.867,
+"std": 873.538,
+"hi": 6792.5,
+"lo": 5227.0,
+"n": 3
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+6.7,
+10.3
+],
+"cons_SALES_growth_FY1": 5.4,
+"eps_ltg": 17.0,
+"missing": [],
+"fmp_backup": []
+}

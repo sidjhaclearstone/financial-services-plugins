@@ -1,0 +1,176 @@
+{
+"ticker": "HCSG-US",
+"name": "Healthcare Services Group, Inc.",
+"last_fy": 2025,
+"rbics": "Household Services / Personal Professional Services / Personal Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 1.6,
+"eps_cagr_5y": -3.6,
+"gaap_eps_cagr_10y": 0.1,
+"rev_cagr_10y": 2.5,
+"rev_cagr_5y": 0.9,
+"shares_cagr_10y": 0.1,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2021,
+-53.8
+],
+"eps_series": {
+"2015": 0.94,
+"2016": 1.05,
+"2017": 1.19,
+"2018": 1.41,
+"2019": 0.87,
+"2020": 1.32,
+"2021": 0.61,
+"2022": 0.47,
+"2023": 0.76,
+"2024": 0.53,
+"2025": 1.1
+},
+"gaap_eps_series": {
+"2015": 0.8,
+"2016": 1.05,
+"2017": 1.19,
+"2018": 1.12,
+"2019": 0.87,
+"2020": 1.32,
+"2021": 0.61,
+"2022": 0.47,
+"2023": 0.52,
+"2024": 0.53,
+"2025": 0.81
+},
+"rev_series_m": {
+"2015": 1437,
+"2016": 1563,
+"2017": 1866,
+"2018": 2009,
+"2019": 1841,
+"2020": 1760,
+"2021": 1642,
+"2022": 1690,
+"2023": 1671,
+"2024": 1716,
+"2025": 1837
+},
+"ebit_margin_series": {
+"2015": 6.2,
+"2016": 7.5,
+"2017": 6.8,
+"2018": 5.0,
+"2019": 4.2,
+"2020": 6.1,
+"2021": 2.9,
+"2022": 2.6,
+"2023": 3.7,
+"2024": 2.1,
+"2025": 0.5
+},
+"ebit_margin_latest": 0.5,
+"ebit_margin_10y_avg": 4.3,
+"ebit_margin_10y_max": 7.5,
+"ebit_margin_10y_min": 0.5,
+"margin_pctile_in_history": 9,
+"latest_eps_vs_10y_max": 0.78,
+"fcf_conversion_5y": 1.01,
+"fcf_conversion_10y": 1.01,
+"acq_to_fcf_10y": 0.05,
+"buyback_to_fcf_10y": 0.16,
+"div_to_fcf_10y": 0.65,
+"net_debt_m": -189,
+"net_debt_ebitda": -7.39,
+"roic_latest": 11.5,
+"roic_10y_avg": 14.8,
+"roe_latest": 11.7,
+"roe_10y_avg": 15.0,
+"adj_vs_gaap_gap_5y_avg_pct": 16.6,
+"adj_vs_gaap_gap_latest_pct": 36.0,
+"ntm_pe": 17.43,
+"is_reit": "False",
+"price": "21.11",
+"fcf_yield": 7.4,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.1,
+"std": null,
+"hi": 1.1,
+"lo": 1.1,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.193,
+"std": 0.092,
+"hi": 1.33,
+"lo": 1.09,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.215,
+"std": 0.096,
+"hi": 1.37,
+"lo": 1.07,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.424,
+"std": 0.093,
+"hi": 1.5284,
+"lo": 1.35,
+"n": 3
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+1.8,
+17.2
+],
+"cons_EPS_growth_FY1": 8.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1837.173,
+"std": null,
+"hi": 1837.173,
+"lo": 1837.173,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1920.804,
+"std": 12.601,
+"hi": 1939.961,
+"lo": 1901.7119,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 2055.302,
+"std": 48.178,
+"hi": 2152.233,
+"lo": 2002.6534,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 2167.654,
+"std": 45.566,
+"hi": 2202.3905,
+"lo": 2116.06148,
+"n": 3
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+7.0,
+5.5
+],
+"cons_SALES_growth_FY1": 4.6,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

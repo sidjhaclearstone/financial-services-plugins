@@ -1,0 +1,175 @@
+{
+"ticker": "AMRX-US",
+"name": "Amneal Pharmaceuticals, Inc.",
+"last_fy": 2025,
+"rbics": "Biopharmaceuticals / Other Biopharmaceuticals / Diversified Biopharmaceuticals",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -5.4,
+"eps_cagr_5y": 5.7,
+"gaap_eps_cagr_10y": -8.5,
+"rev_cagr_10y": 13.4,
+"rev_cagr_5y": 8.7,
+"shares_cagr_10y": 16.3,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2019,
+-64.3
+],
+"eps_series": {
+"2015": 1.45,
+"2016": 1.16,
+"2017": 0.63,
+"2018": 0.98,
+"2019": 0.35,
+"2020": 0.63,
+"2021": 0.85,
+"2022": 0.68,
+"2023": 0.64,
+"2024": 0.58,
+"2025": 0.83
+},
+"gaap_eps_series": {
+"2015": 0.54,
+"2016": -6.63,
+"2017": 0.0,
+"2018": -0.16,
+"2019": -2.74,
+"2020": 0.61,
+"2021": 0.07,
+"2022": -0.86,
+"2023": -0.48,
+"2024": -0.38,
+"2025": 0.22
+},
+"rev_series_m": {
+"2015": 860,
+"2016": 824,
+"2017": 0,
+"2018": 1663,
+"2019": 1626,
+"2020": 1993,
+"2021": 2094,
+"2022": 2212,
+"2023": 2394,
+"2024": 2794,
+"2025": 3019
+},
+"ebit_margin_series": {
+"2015": 9.9,
+"2016": -57.5,
+"2018": 18.1,
+"2019": 0.1,
+"2020": 7.8,
+"2021": 10.7,
+"2022": 9.1,
+"2023": 11.0,
+"2024": 12.6,
+"2025": 14.0
+},
+"ebit_margin_latest": 14.0,
+"ebit_margin_10y_avg": 3.6,
+"ebit_margin_10y_max": 18.1,
+"ebit_margin_10y_min": -57.5,
+"margin_pctile_in_history": 90,
+"latest_eps_vs_10y_max": 0.57,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 1.27,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 0.16,
+"net_debt_m": 2378,
+"net_debt_ebitda": 3.68,
+"roic_latest": 3.0,
+"roic_10y_avg": -5.1,
+"roe_latest": -52.8,
+"roe_10y_avg": -23.7,
+"adj_vs_gaap_gap_5y_avg_pct": 694.2,
+"adj_vs_gaap_gap_latest_pct": 274.2,
+"ntm_pe": 16.71,
+"is_reit": "False",
+"price": "19.36",
+"fcf_yield": 7.8,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.83,
+"std": null,
+"hi": 0.83,
+"lo": 0.83,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.024,
+"std": 0.023,
+"hi": 1.05,
+"lo": 0.978,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.192,
+"std": 0.106,
+"hi": 1.31,
+"lo": 1.0,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.452,
+"std": 0.107,
+"hi": 1.58,
+"lo": 1.31,
+"n": 6
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+16.4,
+21.8
+],
+"cons_EPS_growth_FY1": 23.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 3018.76,
+"std": null,
+"hi": 3018.76,
+"lo": 3018.76,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3155.589,
+"std": 22.683,
+"hi": 3178.1,
+"lo": 3114.19,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 3443.622,
+"std": 55.883,
+"hi": 3492.272733,
+"lo": 3351.838,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 3812.129,
+"std": 208.306,
+"hi": 4090.794749,
+"lo": 3592.4,
+"n": 5
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+9.1,
+10.7
+],
+"cons_SALES_growth_FY1": 4.5,
+"eps_ltg": 17.5,
+"missing": [],
+"fmp_backup": []
+}

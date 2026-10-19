@@ -1,0 +1,151 @@
+{
+"ticker": "DAVE-US",
+"name": "Dave, Inc.",
+"last_fy": 2025,
+"rbics": "Banking / United States Banks / United States Internet Banks",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": null,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "1/1",
+"worst_eps_year": [
+2025,
+223.1
+],
+"eps_series": {
+"2021": -5.32,
+"2022": -11.12,
+"2023": -4.07,
+"2024": 4.19,
+"2025": 13.53
+},
+"gaap_eps_series": {
+"2021": -5.32,
+"2022": -11.12,
+"2023": -4.07,
+"2024": 4.19,
+"2025": 13.53
+},
+"rev_series_m": {
+"2021": 0,
+"2022": 205,
+"2023": 259,
+"2024": 347,
+"2025": 554
+},
+"ebit_margin_series": {
+"2022": -28.8,
+"2023": 6.5,
+"2024": 25.2,
+"2025": 48.3
+},
+"ebit_margin_latest": 48.3,
+"ebit_margin_10y_avg": 12.8,
+"ebit_margin_10y_max": 48.3,
+"ebit_margin_10y_min": -28.8,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 5.2,
+"fcf_conversion_10y": 5.2,
+"acq_to_fcf_10y": 0.0,
+"buyback_to_fcf_10y": 0.12,
+"div_to_fcf_10y": 0.0,
+"net_debt_m": -46,
+"net_debt_ebitda": -0.17,
+"roic_latest": 64.1,
+"roic_10y_avg": 4.5,
+"roe_latest": 73.1,
+"roe_10y_avg": -3.0,
+"adj_vs_gaap_gap_5y_avg_pct": 0.1,
+"adj_vs_gaap_gap_latest_pct": 0.0,
+"ntm_pe": 19.13,
+"is_reit": "False",
+"price": "359.46",
+"fcf_yield": 8.7,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 13.53,
+"std": null,
+"hi": 13.53,
+"lo": 13.53,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 13.497,
+"std": 1.308,
+"hi": 16.89,
+"lo": 12.16,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 20.113,
+"std": 2.068,
+"hi": 23.14,
+"lo": 15.66,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 27.81,
+"std": 1.318,
+"hi": 29.53,
+"lo": 26.21,
+"n": 6
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+49.0,
+38.3
+],
+"cons_EPS_growth_FY1": -0.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 554.2,
+"std": null,
+"hi": 554.2,
+"lo": 554.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 731.501,
+"std": 5.368,
+"hi": 746.0,
+"lo": 725.0,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 899.229,
+"std": 32.71,
+"hi": 959.0,
+"lo": 851.0,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 1133.658,
+"std": 25.566,
+"hi": 1177.0,
+"lo": 1089.0,
+"n": 8
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+22.9,
+26.1
+],
+"cons_SALES_growth_FY1": 32.0,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

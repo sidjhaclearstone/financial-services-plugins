@@ -1,0 +1,176 @@
+{
+"ticker": "BF.B-US",
+"name": "Brown-Forman Corporation",
+"last_fy": 2025,
+"rbics": "Food and Tobacco Production / Food and Beverage Production / Beverages Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 1.0,
+"eps_cagr_5y": -1.0,
+"gaap_eps_cagr_10y": -3.0,
+"rev_cagr_10y": 2.7,
+"rev_cagr_5y": 2.7,
+"shares_cagr_10y": -0.9,
+"years_eps_growth_ge7": "3/10",
+"worst_eps_year": [
+2025,
+-16.8
+],
+"eps_series": {
+"2015": 1.38,
+"2016": 1.38,
+"2017": 1.67,
+"2018": 1.73,
+"2019": 1.72,
+"2020": 1.61,
+"2021": 1.74,
+"2022": 1.63,
+"2023": 2.14,
+"2024": 1.84,
+"2025": 1.53
+},
+"gaap_eps_series": {
+"2015": 2.09,
+"2016": 1.37,
+"2017": 1.48,
+"2018": 1.73,
+"2019": 1.72,
+"2020": 1.88,
+"2021": 1.74,
+"2022": 1.63,
+"2023": 2.15,
+"2024": 1.84,
+"2025": 1.53
+},
+"rev_series_m": {
+"2015": 3028,
+"2016": 2952,
+"2017": 3264,
+"2018": 3312,
+"2019": 3336,
+"2020": 3453,
+"2021": 3916,
+"2022": 4192,
+"2023": 4166,
+"2024": 3963,
+"2025": 3946
+},
+"ebit_margin_series": {
+"2015": 32.3,
+"2016": 31.5,
+"2017": 31.8,
+"2018": 33.7,
+"2019": 32.2,
+"2020": 29.4,
+"2021": 31.8,
+"2022": 29.1,
+"2023": 27.8,
+"2024": 27.8,
+"2025": 28.6
+},
+"ebit_margin_latest": 28.6,
+"ebit_margin_10y_avg": 30.6,
+"ebit_margin_10y_max": 33.7,
+"ebit_margin_10y_min": 27.8,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 0.71,
+"fcf_conversion_5y": 0.71,
+"fcf_conversion_10y": 0.74,
+"acq_to_fcf_10y": 0.25,
+"buyback_to_fcf_10y": 0.26,
+"div_to_fcf_10y": 0.74,
+"net_debt_m": 2284,
+"net_debt_ebitda": 1.87,
+"roic_latest": 11.3,
+"roic_10y_avg": 17.9,
+"roe_latest": 17.8,
+"roe_10y_avg": 36.8,
+"adj_vs_gaap_gap_5y_avg_pct": -0.1,
+"adj_vs_gaap_gap_latest_pct": -0.1,
+"ntm_pe": 16.51,
+"is_reit": "False",
+"price": "28.22",
+"fcf_yield": 5.9,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.53,
+"std": null,
+"hi": 1.53,
+"lo": 1.53,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.707,
+"std": 0.04,
+"hi": 1.8,
+"lo": 1.64,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.713,
+"std": 0.06,
+"hi": 1.8399126,
+"lo": 1.62,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.775,
+"std": 0.092,
+"hi": 1.94187442,
+"lo": 1.61,
+"n": 10
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+0.4,
+3.6
+],
+"cons_EPS_growth_FY1": 11.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 3928.0,
+"std": null,
+"hi": 3928.0,
+"lo": 3928.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3935.425,
+"std": 28.788,
+"hi": 3984.7,
+"lo": 3859.3,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 4001.842,
+"std": 54.497,
+"hi": 4074.7948,
+"lo": 3847.5,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 4117.222,
+"std": 126.877,
+"hi": 4292.1418,
+"lo": 3839.0,
+"n": 10
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+1.7,
+2.9
+],
+"cons_SALES_growth_FY1": 0.2,
+"eps_ltg": 2.04279833015,
+"missing": [],
+"fmp_backup": []
+}

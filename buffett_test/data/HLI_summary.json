@@ -1,0 +1,176 @@
+{
+"ticker": "HLI-US",
+"name": "Houlihan Lokey, Inc.",
+"last_fy": 2025,
+"rbics": "Investment Services / Investment Services / Investment Banking and Corporate Finance",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 17.9,
+"eps_cagr_5y": 10.4,
+"gaap_eps_cagr_10y": 18.9,
+"rev_cagr_10y": 14.2,
+"rev_cagr_5y": 11.4,
+"shares_cagr_10y": 0.8,
+"years_eps_growth_ge7": "8/10",
+"worst_eps_year": [
+2022,
+-36.1
+],
+"eps_series": {
+"2015": 1.46,
+"2016": 1.89,
+"2017": 2.39,
+"2018": 2.87,
+"2019": 3.2,
+"2020": 4.62,
+"2021": 7.1,
+"2022": 4.54,
+"2023": 4.49,
+"2024": 6.29,
+"2025": 7.56
+},
+"gaap_eps_series": {
+"2015": 1.1,
+"2016": 1.63,
+"2017": 2.6,
+"2018": 2.42,
+"2019": 2.8,
+"2020": 4.55,
+"2021": 6.41,
+"2022": 3.76,
+"2023": 4.11,
+"2024": 5.82,
+"2025": 6.22
+},
+"rev_series_m": {
+"2015": 694,
+"2016": 872,
+"2017": 963,
+"2018": 1084,
+"2019": 1160,
+"2020": 1526,
+"2021": 2270,
+"2022": 1810,
+"2023": 1915,
+"2024": 2392,
+"2025": 2621
+},
+"ebit_margin_series": {
+"2015": 22.3,
+"2016": 20.9,
+"2017": 22.3,
+"2018": 20.2,
+"2019": 19.8,
+"2020": 26.8,
+"2021": 27.0,
+"2022": 18.9,
+"2023": 18.9,
+"2024": 21.0,
+"2025": 20.8
+},
+"ebit_margin_latest": 20.8,
+"ebit_margin_10y_avg": 21.7,
+"ebit_margin_10y_max": 27.0,
+"ebit_margin_10y_min": 18.9,
+"margin_pctile_in_history": 45,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.43,
+"fcf_conversion_10y": 1.49,
+"acq_to_fcf_10y": 0.14,
+"buyback_to_fcf_10y": 0.2,
+"div_to_fcf_10y": 0.27,
+"net_debt_m": -702,
+"net_debt_ebitda": -1.19,
+"roic_latest": 16.0,
+"roic_10y_avg": 18.5,
+"roe_latest": 18.8,
+"roe_10y_avg": 20.4,
+"adj_vs_gaap_gap_5y_avg_pct": 14.0,
+"adj_vs_gaap_gap_latest_pct": 21.5,
+"ntm_pe": 16.13,
+"is_reit": "False",
+"price": "127.07",
+"fcf_yield": 7.8,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 7.56,
+"std": null,
+"hi": 7.56,
+"lo": 7.56,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 6.959,
+"std": 0.339,
+"hi": 7.6,
+"lo": 6.3124095264,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 8.618,
+"std": 0.614,
+"hi": 9.75,
+"lo": 7.580895044,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 9.429,
+"std": 1.009,
+"hi": 10.95,
+"lo": 8.5116624469,
+"n": 5
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+23.8,
+9.4
+],
+"cons_EPS_growth_FY1": -7.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2617.516,
+"std": null,
+"hi": 2617.516,
+"lo": 2617.516,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2624.19,
+"std": 107.242,
+"hi": 2805.0,
+"lo": 2466.0,
+"n": 10
+},
+"FY2": {
+"fy": 2027,
+"mean": 3098.393,
+"std": 158.115,
+"hi": 3437.1,
+"lo": 2851.9733274,
+"n": 10
+},
+"FY3": {
+"fy": 2028,
+"mean": 3328.999,
+"std": 155.377,
+"hi": 3478.950248,
+"lo": 3084.548142312,
+"n": 5
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+18.1,
+7.4
+],
+"cons_SALES_growth_FY1": 0.3,
+"eps_ltg": 5.6436679966,
+"missing": [],
+"fmp_backup": []
+}

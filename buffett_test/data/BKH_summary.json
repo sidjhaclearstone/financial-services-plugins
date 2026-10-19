@@ -1,0 +1,176 @@
+{
+"ticker": "BKH-US",
+"name": "Black Hills Corporation",
+"last_fy": 2025,
+"rbics": "Utilities / Energy Utilities / Natural Gas Utilities",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 3.2,
+"eps_cagr_5y": 1.9,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 6.0,
+"rev_cagr_5y": 6.4,
+"shares_cagr_10y": 4.9,
+"years_eps_growth_ge7": "1/10",
+"worst_eps_year": [
+2023,
+-1.5
+],
+"eps_series": {
+"2015": 2.98,
+"2016": 3.19,
+"2017": 3.36,
+"2018": 3.54,
+"2019": 3.53,
+"2020": 3.73,
+"2021": 3.74,
+"2022": 3.97,
+"2023": 3.91,
+"2024": 3.91,
+"2025": 4.1
+},
+"gaap_eps_series": {
+"2015": -0.71,
+"2016": 1.37,
+"2017": 3.21,
+"2018": 4.66,
+"2019": 3.28,
+"2020": 3.65,
+"2021": 3.74,
+"2022": 3.97,
+"2023": 3.91,
+"2024": 3.91,
+"2025": 3.98
+},
+"rev_series_m": {
+"2015": 1290,
+"2016": 1562,
+"2017": 1680,
+"2018": 1754,
+"2019": 1735,
+"2020": 1697,
+"2021": 1949,
+"2022": 2552,
+"2023": 2331,
+"2024": 2128,
+"2025": 2310
+},
+"ebit_margin_series": {
+"2015": 20.5,
+"2016": 23.3,
+"2017": 24.8,
+"2018": 22.6,
+"2019": 23.4,
+"2020": 25.2,
+"2021": 20.8,
+"2022": 17.8,
+"2023": 20.6,
+"2024": 23.8,
+"2025": 23.3
+},
+"ebit_margin_latest": 23.3,
+"ebit_margin_10y_avg": 22.4,
+"ebit_margin_10y_max": 25.2,
+"ebit_margin_10y_min": 17.8,
+"margin_pctile_in_history": 64,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": -0.41,
+"fcf_conversion_10y": -0.48,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"net_debt_m": 4511,
+"net_debt_ebitda": 5.48,
+"roic_latest": 3.6,
+"roic_10y_avg": 3.7,
+"roe_latest": 8.0,
+"roe_10y_avg": 9.0,
+"adj_vs_gaap_gap_5y_avg_pct": 0.6,
+"adj_vs_gaap_gap_latest_pct": 2.9,
+"ntm_pe": 16.7,
+"is_reit": "False",
+"price": "76.4",
+"fcf_yield": -3.9,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 4.1,
+"std": null,
+"hi": 4.1,
+"lo": 4.1,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4.355,
+"std": 0.027,
+"hi": 4.41,
+"lo": 4.34,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.63,
+"std": 0.072,
+"hi": 4.76,
+"lo": 4.56,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 5.082,
+"std": 0.204,
+"hi": 5.3,
+"lo": 4.8505,
+"n": 5
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+6.3,
+9.8
+],
+"cons_EPS_growth_FY1": 6.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2310.0,
+"std": null,
+"hi": 2310.0,
+"lo": 2310.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2428.722,
+"std": 130.516,
+"hi": 2672.0316026294,
+"lo": 2296.0,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 3454.609,
+"std": 974.11,
+"hi": 4343.7,
+"lo": 2312.0,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 3828.64,
+"std": 1152.968,
+"hi": 4836.1,
+"lo": 2316.5,
+"n": 5
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+42.2,
+10.8
+],
+"cons_SALES_growth_FY1": 5.1,
+"eps_ltg": 6.939563249733333,
+"missing": [],
+"fmp_backup": []
+}

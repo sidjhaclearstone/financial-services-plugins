@@ -1,0 +1,160 @@
+{
+"ticker": "KVUE-US",
+"name": "Kenvue, Inc.",
+"last_fy": 2025,
+"rbics": "Household Products / Personal Care and Cleaning Products / General Personal Care and Cleaning Products Makers",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 0.9,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "1/5",
+"worst_eps_year": [
+2020,
+-161.2
+],
+"eps_series": {
+"2019": 0.76,
+"2020": -0.47,
+"2021": 1.08,
+"2022": 1.1,
+"2023": 0.87,
+"2024": 0.54,
+"2025": 0.76
+},
+"gaap_eps_series": {
+"2019": 0.76,
+"2020": -0.47,
+"2021": 1.08,
+"2022": 1.1,
+"2023": 0.87,
+"2024": 0.54,
+"2025": 0.76
+},
+"rev_series_m": {
+"2019": 14317,
+"2020": 14469,
+"2021": 15043,
+"2022": 14929,
+"2023": 15443,
+"2024": 15456,
+"2025": 15123
+},
+"ebit_margin_series": {
+"2019": 17.7,
+"2020": 20.6,
+"2021": 20.4,
+"2022": 18.2,
+"2023": 19.0,
+"2024": 19.1,
+"2025": 18.1
+},
+"ebit_margin_latest": 18.1,
+"ebit_margin_10y_avg": 19.0,
+"ebit_margin_10y_max": 20.6,
+"ebit_margin_10y_min": 17.7,
+"margin_pctile_in_history": 29,
+"latest_eps_vs_10y_max": 0.69,
+"fcf_conversion_5y": 0.96,
+"fcf_conversion_10y": 1.56,
+"acq_to_fcf_10y": 0.14,
+"buyback_to_fcf_10y": 0.03,
+"div_to_fcf_10y": 1.28,
+"net_debt_m": 7612,
+"net_debt_ebitda": 2.31,
+"roic_latest": 8.5,
+"roic_10y_avg": 8.7,
+"roe_latest": 14.4,
+"roe_10y_avg": 11.1,
+"adj_vs_gaap_gap_5y_avg_pct": 67.2,
+"adj_vs_gaap_gap_latest_pct": 41.4,
+"ntm_pe": 15.32,
+"is_reit": "False",
+"price": "18.87",
+"fcf_yield": 6.5,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.08,
+"std": null,
+"hi": 1.08,
+"lo": 1.08,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.176,
+"std": 0.05,
+"hi": 1.23219884,
+"lo": 1.02,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.246,
+"std": 0.052,
+"hi": 1.34914479,
+"lo": 1.16,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.33,
+"std": 0.061,
+"hi": 1.40891317,
+"lo": 1.2525455962,
+"n": 6
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+6.0,
+6.7
+],
+"cons_EPS_growth_FY1": 8.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 15124.0,
+"std": null,
+"hi": 15124.0,
+"lo": 15124.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 15605.547,
+"std": 59.003,
+"hi": 15705.946,
+"lo": 15485.142,
+"n": 12
+},
+"FY2": {
+"fy": 2027,
+"mean": 15969.279,
+"std": 103.462,
+"hi": 16081.6871902468,
+"lo": 15793.79909,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 16480.948,
+"std": 153.714,
+"hi": 16600.102888,
+"lo": 16186.66481,
+"n": 6
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.3,
+3.2
+],
+"cons_SALES_growth_FY1": 3.2,
+"eps_ltg": 8.041111668225,
+"missing": [],
+"fmp_backup": []
+}

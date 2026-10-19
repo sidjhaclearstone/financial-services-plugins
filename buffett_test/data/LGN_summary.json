@@ -1,0 +1,137 @@
+{
+"ticker": "LGN-US",
+"name": "Legence Corp.",
+"last_fy": 2025,
+"rbics": "Industrial Services / Facilities and Construction Services / Specialty Contracting Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": null,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "0/0",
+"worst_eps_year": null,
+"eps_series": {
+"2024": -0.27,
+"2025": -0.57
+},
+"gaap_eps_series": {
+"2024": -0.27,
+"2025": -0.57
+},
+"rev_series_m": {
+"2024": 2099,
+"2025": 2550
+},
+"ebit_margin_series": {
+"2024": 4.3,
+"2025": 3.6
+},
+"ebit_margin_latest": 3.6,
+"ebit_margin_10y_avg": 4.0,
+"ebit_margin_10y_max": 4.3,
+"ebit_margin_10y_min": 3.6,
+"margin_pctile_in_history": 50,
+"latest_eps_vs_10y_max": null,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 1.05,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 1.32,
+"net_debt_m": 724,
+"net_debt_ebitda": 3.49,
+"roic_latest": -3.8,
+"roic_10y_avg": -3.8,
+"roe_latest": -20.1,
+"roe_10y_avg": -20.1,
+"adj_vs_gaap_gap_5y_avg_pct": null,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 18.58,
+"is_reit": "False",
+"price": "44.21",
+"fcf_yield": 9.2,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": -0.57,
+"std": null,
+"hi": -0.57,
+"lo": -0.57,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.333,
+"std": 0.628,
+"hi": 2.82839003,
+"lo": 0.36,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.642,
+"std": 0.683,
+"hi": 3.63,
+"lo": 1.04,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 3.484,
+"std": 0.316,
+"hi": 3.86555578,
+"lo": 2.97,
+"n": 6
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+98.2,
+31.9
+],
+"cons_EPS_growth_FY1": -333.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2550.491,
+"std": null,
+"hi": 2550.491,
+"lo": 2550.491,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4784.764,
+"std": 44.786,
+"hi": 4879.524,
+"lo": 4729.1076,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 5446.133,
+"std": 175.569,
+"hi": 5656.869,
+"lo": 5079.6766,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 6113.787,
+"std": 261.814,
+"hi": 6529.9623,
+"lo": 5648.7318,
+"n": 9
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+13.8,
+12.3
+],
+"cons_SALES_growth_FY1": 87.6,
+"eps_ltg": 89.8438723244,
+"missing": [],
+"fmp_backup": []
+}

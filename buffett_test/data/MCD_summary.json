@@ -1,0 +1,176 @@
+{
+"ticker": "MCD-US",
+"name": "McDonald's Corporation",
+"last_fy": 2025,
+"rbics": "Hospitality Services / Hospitality Services / Restaurants and Bars",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 9.4,
+"eps_cagr_5y": 15.1,
+"gaap_eps_cagr_10y": 9.6,
+"rev_cagr_10y": 0.6,
+"rev_cagr_5y": 7.0,
+"shares_cagr_10y": -2.7,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2020,
+-22.8
+],
+"eps_series": {
+"2015": 4.98,
+"2016": 5.75,
+"2017": 6.66,
+"2018": 7.9,
+"2019": 7.84,
+"2020": 6.05,
+"2021": 9.28,
+"2022": 10.1,
+"2023": 11.94,
+"2024": 11.72,
+"2025": 12.2
+},
+"gaap_eps_series": {
+"2015": 4.8,
+"2016": 5.44,
+"2017": 6.37,
+"2018": 7.54,
+"2019": 7.88,
+"2020": 6.31,
+"2021": 10.04,
+"2022": 8.33,
+"2023": 11.56,
+"2024": 11.39,
+"2025": 11.95
+},
+"rev_series_m": {
+"2015": 25413,
+"2016": 24622,
+"2017": 22820,
+"2018": 21025,
+"2019": 21076,
+"2020": 19208,
+"2021": 23223,
+"2022": 23183,
+"2023": 25494,
+"2024": 25920,
+"2025": 26885
+},
+"ebit_margin_series": {
+"2015": 28.9,
+"2016": 31.8,
+"2017": 36.8,
+"2018": 40.8,
+"2019": 41.8,
+"2020": 37.3,
+"2021": 42.1,
+"2022": 44.7,
+"2023": 46.0,
+"2024": 45.8,
+"2025": 46.1
+},
+"ebit_margin_latest": 46.1,
+"ebit_margin_10y_avg": 40.2,
+"ebit_margin_10y_max": 46.1,
+"ebit_margin_10y_min": 28.9,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.86,
+"fcf_conversion_10y": 0.86,
+"acq_to_fcf_10y": 0.06,
+"buyback_to_fcf_10y": 0.7,
+"div_to_fcf_10y": 0.7,
+"net_debt_m": 54040,
+"net_debt_ebitda": 3.71,
+"roic_latest": 17.2,
+"roic_10y_avg": 17.8,
+"roe_latest": 191.9,
+"roe_10y_avg": 118.7,
+"adj_vs_gaap_gap_5y_avg_pct": 4.4,
+"adj_vs_gaap_gap_latest_pct": 2.1,
+"ntm_pe": 17.84,
+"is_reit": "False",
+"price": "242.67",
+"fcf_yield": 4.6,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 12.2,
+"std": null,
+"hi": 12.2,
+"lo": 12.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 12.885,
+"std": 0.122,
+"hi": 13.23,
+"lo": 12.63,
+"n": 32
+},
+"FY2": {
+"fy": 2027,
+"mean": 13.783,
+"std": 0.345,
+"hi": 14.73,
+"lo": 12.81,
+"n": 32
+},
+"FY3": {
+"fy": 2028,
+"mean": 14.475,
+"std": 0.559,
+"hi": 15.3346394166,
+"lo": 12.68,
+"n": 17
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+7.0,
+5.0
+],
+"cons_EPS_growth_FY1": 5.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 26885.0,
+"std": null,
+"hi": 26885.0,
+"lo": 26885.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 28162.007,
+"std": 227.488,
+"hi": 28647.5,
+"lo": 27413.3583946932,
+"n": 31
+},
+"FY2": {
+"fy": 2027,
+"mean": 28991.434,
+"std": 1094.655,
+"hi": 30610.3,
+"lo": 26046.227486955,
+"n": 31
+},
+"FY3": {
+"fy": 2028,
+"mean": 28429.003,
+"std": 1977.744,
+"hi": 31919.3,
+"lo": 24102.0,
+"n": 19
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.9,
+-1.9
+],
+"cons_SALES_growth_FY1": 4.7,
+"eps_ltg": 6.5950568841,
+"missing": [],
+"fmp_backup": []
+}

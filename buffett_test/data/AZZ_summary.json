@@ -1,0 +1,176 @@
+{
+"ticker": "AZZ-US",
+"name": "AZZ Inc.",
+"last_fy": 2025,
+"rbics": "Mining and Mineral Products / Metal Products / Primary Metals Products",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 7.2,
+"eps_cagr_5y": 24.0,
+"gaap_eps_cagr_10y": 13.5,
+"rev_cagr_10y": 6.2,
+"rev_cagr_5y": 14.5,
+"shares_cagr_10y": 1.5,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2017,
+-48.8
+],
+"eps_series": {
+"2015": 3.08,
+"2016": 2.64,
+"2017": 1.35,
+"2018": 1.96,
+"2019": 2.71,
+"2020": 2.11,
+"2021": 3.34,
+"2022": 3.48,
+"2023": 4.53,
+"2024": 5.2,
+"2025": 6.19
+},
+"gaap_eps_series": {
+"2015": 2.96,
+"2016": 2.35,
+"2017": 1.73,
+"2018": 1.96,
+"2019": 1.84,
+"2020": 1.52,
+"2021": 3.35,
+"2022": 2.84,
+"2023": 3.46,
+"2024": 1.79,
+"2025": 10.5
+},
+"rev_series_m": {
+"2015": 903,
+"2016": 864,
+"2017": 810,
+"2018": 927,
+"2019": 1062,
+"2020": 839,
+"2021": 903,
+"2022": 1324,
+"2023": 1538,
+"2024": 1578,
+"2025": 1650
+},
+"ebit_margin_series": {
+"2015": 13.6,
+"2016": 12.4,
+"2017": 6.0,
+"2018": 8.4,
+"2019": 10.1,
+"2020": 9.7,
+"2021": 12.4,
+"2022": 14.1,
+"2023": 15.4,
+"2024": 15.2,
+"2025": 16.3
+},
+"ebit_margin_latest": 16.3,
+"ebit_margin_10y_avg": 12.1,
+"ebit_margin_10y_max": 16.3,
+"ebit_margin_10y_min": 6.0,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.14,
+"fcf_conversion_10y": 1.24,
+"acq_to_fcf_10y": 1.29,
+"buyback_to_fcf_10y": 0.36,
+"div_to_fcf_10y": 0.17,
+"net_debt_m": 538,
+"net_debt_ebitda": 1.5,
+"roic_latest": 16.8,
+"roic_10y_avg": 7.3,
+"roe_latest": 26.6,
+"roe_10y_avg": 11.6,
+"adj_vs_gaap_gap_5y_avg_pct": 40.6,
+"adj_vs_gaap_gap_latest_pct": -41.1,
+"ntm_pe": 17.5,
+"is_reit": "False",
+"price": "133.99",
+"fcf_yield": 5.5,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 6.19,
+"std": null,
+"hi": 6.19,
+"lo": 6.19,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 7.205,
+"std": 0.073,
+"hi": 7.3,
+"lo": 7.02,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 7.912,
+"std": 0.305,
+"hi": 8.27,
+"lo": 7.2,
+"n": 10
+},
+"FY3": {
+"fy": 2028,
+"mean": 8.488,
+"std": 0.491,
+"hi": 9.1,
+"lo": 8.0,
+"n": 4
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+9.8,
+7.3
+],
+"cons_EPS_growth_FY1": 16.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1650.08,
+"std": null,
+"hi": 1650.08,
+"lo": 1650.08,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1848.595,
+"std": 9.314,
+"hi": 1862.417,
+"lo": 1834.829,
+"n": 10
+},
+"FY2": {
+"fy": 2027,
+"mean": 1933.163,
+"std": 23.471,
+"hi": 1963.665,
+"lo": 1900.296,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 2002.533,
+"std": 55.145,
+"hi": 2038.0,
+"lo": 1939.0,
+"n": 3
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.6,
+3.6
+],
+"cons_SALES_growth_FY1": 12.0,
+"eps_ltg": 10.5,
+"missing": [],
+"fmp_backup": []
+}

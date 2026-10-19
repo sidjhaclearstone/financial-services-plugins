@@ -1,0 +1,176 @@
+{
+"ticker": "CLF-US",
+"name": "Cleveland-Cliffs Inc",
+"last_fy": 2025,
+"rbics": "Mining and Mineral Products / Metal Products / Primary Metals Products",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 24.8,
+"rev_cagr_5y": 28.9,
+"shares_cagr_10y": 12.7,
+"years_eps_growth_ge7": "2/8",
+"worst_eps_year": [
+2024,
+-168.2
+],
+"eps_series": {
+"2015": -0.81,
+"2016": 0.97,
+"2017": 1.04,
+"2018": 3.42,
+"2019": 1.03,
+"2020": -0.32,
+"2021": 5.35,
+"2022": 2.55,
+"2023": 1.07,
+"2024": -0.73,
+"2025": -2.48
+},
+"gaap_eps_series": {
+"2015": -5.14,
+"2016": 0.86,
+"2017": 1.25,
+"2018": 3.71,
+"2019": 1.03,
+"2020": -0.32,
+"2021": 5.35,
+"2022": 2.55,
+"2023": 0.78,
+"2024": -1.57,
+"2025": -2.91
+},
+"rev_series_m": {
+"2015": 2027,
+"2016": 2018,
+"2017": 2226,
+"2018": 1910,
+"2019": 1982,
+"2020": 5232,
+"2021": 20444,
+"2022": 22989,
+"2023": 21996,
+"2024": 19185,
+"2025": 18610
+},
+"ebit_margin_series": {
+"2015": 7.1,
+"2016": 8.2,
+"2017": 13.1,
+"2018": 14.2,
+"2019": 21.4,
+"2020": 3.0,
+"2021": 20.4,
+"2022": 7.5,
+"2023": 4.1,
+"2024": -1.6,
+"2025": -7.3
+},
+"ebit_margin_latest": -7.3,
+"ebit_margin_10y_avg": 8.2,
+"ebit_margin_10y_max": 21.4,
+"ebit_margin_10y_min": -7.3,
+"margin_pctile_in_history": 9,
+"latest_eps_vs_10y_max": -0.46,
+"fcf_conversion_5y": 1.42,
+"fcf_conversion_10y": 0.76,
+"acq_to_fcf_10y": 1.61,
+"buyback_to_fcf_10y": 0.85,
+"div_to_fcf_10y": 0.1,
+"net_debt_m": 7880,
+"net_debt_ebitda": -175.11,
+"roic_latest": -10.4,
+"roic_10y_avg": 14.0,
+"roe_latest": -23.1,
+"roe_10y_avg": 18.8,
+"adj_vs_gaap_gap_5y_avg_pct": 12.3,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 18.63,
+"is_reit": "False",
+"price": "14.1",
+"fcf_yield": 9.1,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": -2.48,
+"std": null,
+"hi": -2.48,
+"lo": -2.48,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": -0.098,
+"std": 0.088,
+"hi": -0.018,
+"lo": -0.3,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.971,
+"std": 0.229,
+"hi": 1.27,
+"lo": 0.5,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.555,
+"std": 0.181,
+"hi": 0.82,
+"lo": 0.37,
+"n": 5
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-1087.9,
+-42.8
+],
+"cons_EPS_growth_FY1": -96.0,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 18610.0,
+"std": null,
+"hi": 18610.0,
+"lo": 18610.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 21552.178,
+"std": 195.298,
+"hi": 21831.8171499764,
+"lo": 21267.9086,
+"n": 12
+},
+"FY2": {
+"fy": 2027,
+"mean": 22680.97,
+"std": 733.052,
+"hi": 23976.694017,
+"lo": 21313.7375,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 22372.598,
+"std": 591.264,
+"hi": 23284.0,
+"lo": 21453.0,
+"n": 9
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.2,
+-1.4
+],
+"cons_SALES_growth_FY1": 15.8,
+"eps_ltg": 33.7886480722,
+"missing": [],
+"fmp_backup": []
+}

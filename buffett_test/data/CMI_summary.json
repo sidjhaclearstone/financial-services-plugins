@@ -1,0 +1,176 @@
+{
+"ticker": "CMI-US",
+"name": "Cummins Inc.",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Transportation Equipment Manufacturing / Commercial Transportation Equipment Manufacturing",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 10.0,
+"eps_cagr_5y": 14.3,
+"gaap_eps_cagr_10y": 10.1,
+"rev_cagr_10y": 5.8,
+"rev_cagr_5y": 11.2,
+"shares_cagr_10y": -2.5,
+"years_eps_growth_ge7": "7/10",
+"worst_eps_year": [
+2020,
+-19.1
+],
+"eps_series": {
+"2015": 9.14,
+"2016": 8.23,
+"2017": 10.62,
+"2018": 13.23,
+"2019": 15.05,
+"2020": 12.18,
+"2021": 14.67,
+"2022": 15.67,
+"2023": 19.69,
+"2024": 21.49,
+"2025": 23.8
+},
+"gaap_eps_series": {
+"2015": 7.84,
+"2016": 8.23,
+"2017": 5.97,
+"2018": 13.15,
+"2019": 14.48,
+"2020": 12.01,
+"2021": 14.61,
+"2022": 15.12,
+"2023": 5.15,
+"2024": 28.37,
+"2025": 20.5
+},
+"rev_series_m": {
+"2015": 19099,
+"2016": 17536,
+"2017": 20428,
+"2018": 23771,
+"2019": 23571,
+"2020": 19811,
+"2021": 24021,
+"2022": 28074,
+"2023": 34048,
+"2024": 34102,
+"2025": 33670
+},
+"ebit_margin_series": {
+"2015": 10.9,
+"2016": 10.2,
+"2017": 9.5,
+"2018": 10.0,
+"2019": 10.6,
+"2020": 9.3,
+"2021": 9.2,
+"2022": 9.6,
+"2023": 9.6,
+"2024": 10.5,
+"2025": 11.6
+},
+"ebit_margin_latest": 11.6,
+"ebit_margin_10y_avg": 10.1,
+"ebit_margin_10y_max": 11.6,
+"ebit_margin_10y_min": 9.2,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.67,
+"fcf_conversion_10y": 0.84,
+"acq_to_fcf_10y": 0.31,
+"buyback_to_fcf_10y": 0.35,
+"div_to_fcf_10y": 0.48,
+"net_debt_m": 4505,
+"net_debt_ebitda": 0.9,
+"roic_latest": 16.2,
+"roic_10y_avg": 17.5,
+"roe_latest": 25.1,
+"roe_10y_avg": 24.1,
+"adj_vs_gaap_gap_5y_avg_pct": 55.7,
+"adj_vs_gaap_gap_latest_pct": 16.1,
+"ntm_pe": 15.56,
+"is_reit": "False",
+"price": "522.13",
+"fcf_yield": 5.2,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 23.802,
+"std": null,
+"hi": 23.802091,
+"lo": 23.802091,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 29.436,
+"std": 0.566,
+"hi": 30.41,
+"lo": 27.78,
+"n": 21
+},
+"FY2": {
+"fy": 2027,
+"mean": 34.578,
+"std": 1.215,
+"hi": 37.25,
+"lo": 32.58,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 40.342,
+"std": 1.971,
+"hi": 44.99,
+"lo": 36.5,
+"n": 15
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+17.5,
+16.7
+],
+"cons_EPS_growth_FY1": 23.7,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 33670.0,
+"std": null,
+"hi": 33670.0,
+"lo": 33670.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 37633.696,
+"std": 579.98,
+"hi": 38729.5460840015,
+"lo": 36030.0,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 41251.386,
+"std": 1112.516,
+"hi": 43155.0,
+"lo": 38910.0,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 44778.075,
+"std": 1995.21,
+"hi": 48309.0830394633,
+"lo": 42061.0,
+"n": 14
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+9.6,
+8.5
+],
+"cons_SALES_growth_FY1": 11.8,
+"eps_ltg": 14.4638080677,
+"missing": [],
+"fmp_backup": []
+}

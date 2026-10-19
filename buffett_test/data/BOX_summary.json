@@ -1,0 +1,176 @@
+{
+"ticker": "BOX-US",
+"name": "Box, Inc.",
+"last_fy": 2025,
+"rbics": "Software and Consulting / Software / Enterprise Management Software",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 15.5,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 14.5,
+"rev_cagr_5y": 8.8,
+"shares_cagr_10y": 2.1,
+"years_eps_growth_ge7": "5/6",
+"worst_eps_year": [
+2025,
+-15.8
+],
+"eps_series": {
+"2015": -1.12,
+"2016": -0.56,
+"2017": -0.43,
+"2018": -0.12,
+"2019": 0.03,
+"2020": 0.7,
+"2021": 0.85,
+"2022": 1.2,
+"2023": 1.46,
+"2024": 1.71,
+"2025": 1.44
+},
+"gaap_eps_series": {
+"2015": -1.67,
+"2016": -1.19,
+"2017": -1.16,
+"2018": -0.95,
+"2019": -0.98,
+"2020": -0.28,
+"2021": -0.35,
+"2022": 0.06,
+"2023": 0.67,
+"2024": 1.36,
+"2025": 0.58
+},
+"rev_series_m": {
+"2015": 303,
+"2016": 399,
+"2017": 506,
+"2018": 608,
+"2019": 696,
+"2020": 771,
+"2021": 874,
+"2022": 991,
+"2023": 1038,
+"2024": 1090,
+"2025": 1177
+},
+"ebit_margin_series": {
+"2015": -66.4,
+"2016": -38.2,
+"2017": -30.8,
+"2018": -22.1,
+"2019": -20.0,
+"2020": -4.9,
+"2021": -2.9,
+"2022": 3.7,
+"2023": 4.9,
+"2024": 7.3,
+"2025": 7.1
+},
+"ebit_margin_latest": 7.1,
+"ebit_margin_10y_avg": -14.7,
+"ebit_margin_10y_max": 7.3,
+"ebit_margin_10y_min": -66.4,
+"margin_pctile_in_history": 91,
+"latest_eps_vs_10y_max": 0.84,
+"fcf_conversion_5y": 3.0,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 0.04,
+"buyback_to_fcf_10y": 0.89,
+"div_to_fcf_10y": 0.04,
+"net_debt_m": 48,
+"net_debt_ebitda": 0.39,
+"roic_latest": 16.0,
+"roic_10y_avg": -36.2,
+"roe_latest": 58.5,
+"roe_10y_avg": -40.1,
+"adj_vs_gaap_gap_5y_avg_pct": 574.2,
+"adj_vs_gaap_gap_latest_pct": 146.7,
+"ntm_pe": 24.05,
+"is_reit": "False",
+"price": "40.46",
+"fcf_yield": 7.6,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.44,
+"std": null,
+"hi": 1.44,
+"lo": 1.44,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.54,
+"std": 0.009,
+"hi": 1.55,
+"lo": 1.52,
+"n": 9
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.739,
+"std": 0.07,
+"hi": 1.8703,
+"lo": 1.67,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.068,
+"std": 0.193,
+"hi": 2.232989,
+"lo": 1.8,
+"n": 4
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+12.9,
+18.9
+],
+"cons_EPS_growth_FY1": 6.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1177.253,
+"std": null,
+"hi": 1177.253,
+"lo": 1177.253,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1290.391,
+"std": 1.065,
+"hi": 1293.1,
+"lo": 1289.301,
+"n": 9
+},
+"FY2": {
+"fy": 2027,
+"mean": 1403.317,
+"std": 12.399,
+"hi": 1420.565952551,
+"lo": 1378.297,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 1525.541,
+"std": 10.875,
+"hi": 1541.0812707964,
+"lo": 1517.128371,
+"n": 4
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+8.8,
+8.7
+],
+"cons_SALES_growth_FY1": 9.6,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

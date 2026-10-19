@@ -1,0 +1,176 @@
+{
+"ticker": "LHX-US",
+"name": "L3Harris Technologies Inc",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Aerospace and Defense Manufacturing / Defense Manufacturing",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 7.6,
+"eps_cagr_5y": -1.5,
+"gaap_eps_cagr_10y": 10.6,
+"rev_cagr_10y": 15.7,
+"rev_cagr_5y": 3.7,
+"shares_cagr_10y": 5.8,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2025,
+-18.1
+],
+"eps_series": {
+"2015": 5.14,
+"2016": 5.7,
+"2017": 5.53,
+"2018": 6.5,
+"2019": 8.29,
+"2020": 11.6,
+"2021": 12.95,
+"2022": 12.9,
+"2023": 12.36,
+"2024": 13.1,
+"2025": 10.73
+},
+"gaap_eps_series": {
+"2015": 3.12,
+"2016": 2.75,
+"2017": 4.52,
+"2018": 5.91,
+"2019": 3.67,
+"2020": 5.18,
+"2021": 9.08,
+"2022": 5.49,
+"2023": 6.44,
+"2024": 7.88,
+"2025": 8.52
+},
+"rev_series_m": {
+"2015": 5083,
+"2016": 7467,
+"2017": 5900,
+"2018": 6182,
+"2019": 18526,
+"2020": 18194,
+"2021": 17814,
+"2022": 17062,
+"2023": 19419,
+"2024": 21325,
+"2025": 21865
+},
+"ebit_margin_series": {
+"2015": 17.7,
+"2016": 17.9,
+"2017": 19.2,
+"2018": 19.0,
+"2019": 12.2,
+"2020": 11.9,
+"2021": 12.5,
+"2022": 12.6,
+"2023": 10.4,
+"2024": 9.7,
+"2025": 10.7
+},
+"ebit_margin_latest": 10.7,
+"ebit_margin_10y_avg": 14.0,
+"ebit_margin_10y_max": 19.2,
+"ebit_margin_10y_min": 9.7,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 0.82,
+"fcf_conversion_5y": 1.48,
+"fcf_conversion_10y": 1.35,
+"acq_to_fcf_10y": 0.5,
+"buyback_to_fcf_10y": 0.75,
+"div_to_fcf_10y": 0.39,
+"net_debt_m": 10179,
+"net_debt_ebitda": 2.86,
+"roic_latest": 5.2,
+"roic_10y_avg": 6.3,
+"roe_latest": 8.2,
+"roe_10y_avg": 11.0,
+"adj_vs_gaap_gap_5y_avg_pct": 72.4,
+"adj_vs_gaap_gap_latest_pct": 25.9,
+"ntm_pe": 18.42,
+"is_reit": "False",
+"price": "243.84",
+"fcf_yield": 7.0,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 10.73,
+"std": null,
+"hi": 10.73,
+"lo": 10.73,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 11.943,
+"std": 0.167,
+"hi": 12.3100917543,
+"lo": 11.48,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 13.562,
+"std": 0.304,
+"hi": 14.08,
+"lo": 13.06,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 15.569,
+"std": 0.397,
+"hi": 16.46,
+"lo": 14.82,
+"n": 16
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+13.6,
+14.8
+],
+"cons_EPS_growth_FY1": 11.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 21865.0,
+"std": null,
+"hi": 21865.0,
+"lo": 21865.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 23544.211,
+"std": 101.186,
+"hi": 23793.0,
+"lo": 23400.0,
+"n": 19
+},
+"FY2": {
+"fy": 2027,
+"mean": 25298.062,
+"std": 525.473,
+"hi": 27254.0,
+"lo": 24886.0,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 27173.355,
+"std": 334.804,
+"hi": 27973.0,
+"lo": 26667.0,
+"n": 16
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+7.4,
+7.4
+],
+"cons_SALES_growth_FY1": 7.7,
+"eps_ltg": 14.510252627333333,
+"missing": [],
+"fmp_backup": []
+}
