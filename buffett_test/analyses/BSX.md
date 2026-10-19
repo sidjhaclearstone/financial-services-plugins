@@ -93,4 +93,7 @@ The key question is whether the new LAAC clinical evidence permanently shrinks W
 **Flag: ADJ_GAAP_GAP.** Adjusted EPS exceeds GAAP by a 5y average of 134% (latest 58%; FY2025 adj $3.06 vs GAAP $1.94, FactSet). The gap mainly reflects amortisation of acquired intangibles from serial M&A, plus restructuring, litigation and deal charges (the split is an estimate). FCF conversion vs GAAP NI is 0.98x (10y) and 1.28x (5y). Against adjusted NI, FY2025 FCF $3.66bn / ($3.06 × 1,495m) ≈ 80% (FactSet-derived), in line with management's 70–80% target (investor day, StreetAccount). Acquisitions are a recurring use of cash, so the adjusted EPS overstates owner earnings.
 
 ## Verdict line
-`RESULT | P(Test2)=65% (FAIL) | P(Test3)=3% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+`RESULT | P(Test2)=68% (FAIL) | P(Test3)=3% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+
+## Calibration note
+Stage 4 cross-company calibration (19-Oct-2026): P2 65→68%: Watchman and PFA share-loss threats are one correlated franchise risk, now treated as a single ~20% failure contribution as in ZTS (survival 0.80×0.925×0.955×0.96≈0.68) instead of 29% less a 3-pt overlap credit; still FAIL. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.

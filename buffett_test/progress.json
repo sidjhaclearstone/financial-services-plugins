@@ -1,5 +1,5 @@
 {
- "stage": "4-calibration",
+ "stage": "5-report",
  "status": "in_progress",
  "universe_count": 826,
  "batches": {
@@ -48,5 +48,6 @@
  "batch_plan": "data/batches.json (01..39), batch 00 = pilot",
  "note": "All 39 batches launched; next: triage consistency review, market-cap backfill, Stage 4",
  "stage3_first_pass": "KEEP 59, TOO HARD 153, NO 568",
- "stage4": "42 analyses done (37 KEEP + 5 borderline)"
+ "stage4": "42 analyses done (37 KEEP + 5 borderline)",
+ "calibration": "done: 9 changed, 0 pass all three; near-miss ADBE, CPAY, TRU"
 }

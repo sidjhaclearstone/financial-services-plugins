@@ -79,4 +79,7 @@ The key question is how much the installed-base aftermarket really insulates EPS
 **Flag (moderate).** The adj vs GAAP gap is 50% 5y avg but 13% latest (FactSet). It reflects LBO-era acquired-intangible amortisation, IPO-related SBC and 2021–22 refinancing costs, and it is shrinking. FCF conversion is fine at 1.48x 10y / 1.11x 5y vs GAAP (FactSet), and FY2025 FCF of $226m is ~132% of adjusted NI (0.77 × 222.2m ≈ $171m, computed). Earnings quality is acceptable. The history is too short for high confidence.
 
 ## Verdict line
-`RESULT | P(Test2)=72% (FAIL) | P(Test3)=10% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: L`
+`RESULT | P(Test2)=75% (FAIL) | P(Test3)=10% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: L`
+
+## Calibration note
+Stage 4 cross-company calibration (19-Oct-2026): P2 72→75%: table arithmetic (25% − 3% overlap = 22% failure) implies 78%, not 72%; set at 75%, in line with POOL, because adj EPS history is short and volatile (2023 −53%) and confidence is Low; FAIL. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.

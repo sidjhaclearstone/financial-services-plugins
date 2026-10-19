@@ -83,4 +83,7 @@ Whether AI is a feature Intuit sells (agents embedded in QuickBooks/TurboTax, ra
 **Flag (historic): ADJ_GAAP_GAP** — 5y average adjusted vs GAAP gap 49.2% (FactSet), driven by SBC (~10%+ of revenue, estimate) and amortisation of Credit Karma/Mailchimp intangibles; latest gap 2.2% now that SBC is included in non-GAAP. FCF conversion 1.65x (10y) / 1.75x (5y) (FactSet) is flattered by SBC being non-cash and by deferred revenue; on an SBC-adjusted basis conversion is ~1.0–1.2x (estimate). No working-capital red flag.
 
 ## Verdict line
-`RESULT | P(Test2)=80% (FAIL) | P(Test3)=30% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+`RESULT | P(Test2)=83% (FAIL) | P(Test3)=30% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+
+## Calibration note
+Stage 4 cross-company calibration (19-Oct-2026): P2 80→83%: removed the 3-pt 'consensus basis error' counted as a failure even though the analysis says it lowers bar risk; AI threat weighting now comparable to ADBE (85%); still FAIL, not a near-miss. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.

@@ -89,4 +89,7 @@ The key question is whether North American volumes and pricing re-accelerate in 
 The ADJ_GAAP_GAP flag (5y average 22.4%) comes from a single year: FY2022 GAAP EPS $1.51 vs adjusted $3.14 (FactSet), consistent with a non-cash pension settlement charge (cause is an estimate). The latest gap is 0% (FY2025 GAAP = adj $3.85). FCF conversion is 1.05x over 10y and 1.06x over 5y (FactSet), which is strong. **No ongoing quality concern.**
 
 ## Verdict line
-`RESULT | P(Test2)=68% (FAIL) | P(Test3)=1% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+`RESULT | P(Test2)=70% (FAIL) | P(Test3)=1% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+
+## Calibration note
+Stage 4 cross-company calibration (19-Oct-2026): P2 68→70%: the survival product is 0.70 and the net-cash/buyback offset should lift, not cut, it; driver cushion of only 0.6 pt keeps it FAIL. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.

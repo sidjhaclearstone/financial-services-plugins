@@ -80,4 +80,7 @@ Durability of the post-2021 margin step-up: is 20%+ EBIT margin the new through-
 Adjusted vs GAAP gap 14.9% (5y) / 13.1% (FY2025) (FactSet) — just under the 15% flag; mainly amortisation of acquired intangibles (Henry, MTL) and restructuring. FCF conversion 1.18x (10y) / 1.16x (5y) (FactSet) — good. No earnings-quality flag; watch leverage drift (gross debt/EBITDA 2.36x FY2025, FactSet) from buybacks exceeding FCF.
 
 ## Verdict line
-`RESULT | P(Test2)=70% (FAIL) | P(Test3)=12% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+`RESULT | P(Test2)=74% (FAIL) | P(Test3)=12% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+
+## Calibration note
+Stage 4 cross-company calibration (19-Oct-2026): P2 70→74%: probability of an endpoint construction recession aligned to 15% (AOS/ATMU/POOL/DORM) from 20%; the 5-pt margin/destock add-on is kept; FY3 consensus is already at the bar; still FAIL. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.

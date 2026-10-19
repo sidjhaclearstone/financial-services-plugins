@@ -80,4 +80,7 @@ Through-cycle EBIT margin. If 2027 comps recover with margins ≥7.5% (loyalty, 
 Clean: adjusted vs GAAP gap 2.6% (5y) / 0.1% (FY2025) (FactSet). FCF conversion 0.97x (10y) / 0.98x (5y) (FactSet) — slightly under 1 because growth capex ($248m FY2025) is funded internally; not a red flag. Lease-adjusted leverage modest.
 
 ## Verdict line
-`RESULT | P(Test2)=65% (FAIL) | P(Test3)=2% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+`RESULT | P(Test2)=72% (FAIL) | P(Test3)=2% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+
+## Calibration note
+Stage 4 cross-company calibration (19-Oct-2026): P2 65→72%: arithmetic fix: the analysis's own 31% weighted failure plus 3-pt overlap credit gives 72%, not 65%; margin-reversion risk from a 10-yr-high margin keeps it FAIL. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.

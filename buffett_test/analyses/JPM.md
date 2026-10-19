@@ -91,4 +91,7 @@ The key question is whether NII ex-markets really steps up to ~$107bn in 2027 wh
 No flag. Adjusted EPS ≈ GAAP (5y average gap −1.5%, FactSet); FY2024 GAAP $19.75 vs adj $18.22 reflected the earlier Visa gain. **FCF conversion is not meaningful** for a bank. Watch the FY2026 one-off gain embedded in consensus EPS.
 
 ## Verdict line
-`RESULT | P(Test2)=62% (FAIL) | P(Test3)=3% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+`RESULT | P(Test2)=65% (FAIL) | P(Test3)=3% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+
+## Calibration note
+Stage 4 cross-company calibration (19-Oct-2026): P2 62→65%: endpoint-recession contribution aligned with other banks (≈15% × 0.7 ≈ 10.5% vs 15%); the FY1 one-off gain still raises the effective requirement to ~6.8%/yr, so it stays the lowest large bank; FAIL. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.

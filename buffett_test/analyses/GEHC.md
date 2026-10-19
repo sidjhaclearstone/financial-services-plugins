@@ -77,4 +77,7 @@ The key question is whether GEHC can turn ~4–5% organic growth into ~10% EPS g
 **Borderline flag.** The adj vs GAAP gap is 11% 5y avg and 1% latest (FactSet), so it is fine. FCF conversion is 0.82x 10y and 0.81x 5y vs GAAP NI (FactSet), just above the 80% threshold. FY2025 pre-dividend FCF of $1.51bn is ~72% of net income of $2.08bn (FactSet, computed). The drivers are rising capex ($482m FY2025, FactSet), separation costs and working capital. Watch for a persistent sub-80% reading.
 
 ## Verdict line
-`RESULT | P(Test2)=85% (FAIL) | P(Test3)=18% (FAIL) | Tests passed: 1/3 | Near-miss: Y (within 5 pts of a threshold) | Confidence: M`
+`RESULT | P(Test2)=80% (FAIL) | P(Test3)=18% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+
+## Calibration note
+Stage 4 cross-company calibration (19-Oct-2026): P2 85→80%: margin-plan stall (growth ~4% < 5.4% needed) given a 0.5 failure rate as in PLNT/ZTS instead of 0.25, with 3/6-year history and hospital-capex cyclicality; drops out of near-miss. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.

@@ -66,4 +66,7 @@ The 2027–31 policy-rate path. If rates stay ≥3.5% and expansion markets keep
 Adjusted ≈ GAAP (gap 0.2%, FactSet). FCF conversion not meaningful (bank; FY2025 reported FCF −$131m reflects operating-cash-flow timing). Net charge-offs guided 15–20bp of loans (Q2-26 guidance) — conservative credit.
 
 ## Verdict line
-`RESULT | P(Test2)=72% (FAIL) | P(Test3)=4% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+`RESULT | P(Test2)=75% (FAIL) | P(Test3)=4% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+
+## Calibration note
+Stage 4 cross-company calibration (19-Oct-2026): P2 72→75%: rate-cut failure rate cut from 0.7 to 0.5 to align with CBSH/EWBC (0.25–0.3), keeping a premium for CFR's higher asset sensitivity (2020 −25%); still FAIL. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.
