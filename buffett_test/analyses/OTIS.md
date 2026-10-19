@@ -85,4 +85,7 @@ The key uncertainty is whether 2027 delivers the +12% rebound consensus expects 
 The adj-vs-GAAP gap is 5.1% 5y avg but **15.6% latest** (FY2025 GAAP $3.50 vs adj $4.05, FactSet). This is a mild flag: adjusted EPS excludes restructuring (UpLift) and other charges, and the breakdown is not in our data. FCF conversion is 1.20x 10y / 1.07x 5y vs GAAP NI (FactSet). Against adjusted NI (~$1.60bn, computed) FY2025 FCF of $1.44bn is ~90%, which is acceptable.
 
 ## Verdict line
-`RESULT | P(Test2)=84% (FAIL) | P(Test3)=1% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+`RESULT | P(Test2)=81% (FAIL) | P(Test3)=1% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+
+## Calibration note
+Stage 4 v2 cross-company calibration (19-Oct-2026): P2 84→81%. FY1 2026 is flat (−0.2%, FactSet consensus), the year missed its January guide, and FY2/FY3 consensus (+11–12%) sits above this analysis's own 8.5% driver stack. The 'consensus rebound fails' stall is therefore set at 20% × 0.5 = 10 pts (as GEHC's margin-plan stall, v1 calibrated 80%) instead of 15% × 0.5; failure 16% → 19%. A 3/5-year record and 2.9x net debt/EBITDA also keep it below the ADBE/CPAY/TRU 85% tier. Still FAIL, not a near-miss. Test 3 unchanged at 1%. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.

@@ -89,4 +89,7 @@ The key uncertainty is how much R&I organic growth survives a full softening cyc
 The adj-vs-GAAP gap is 8.7% 5y avg (FactSet) and **15.8% latest**. FY2025 is just over the 15% line because of amortisation of acquired intangibles (McGriff) and integration and restructuring charges. This is a mild flag. FCF conversion is 1.09x 10y / 1.04x 5y (FactSet), so cash backs the earnings. Fiduciary interest income is a rate-sensitive component of earnings.
 
 ## Verdict line
-`RESULT | P(Test2)=87% (FAIL) | P(Test3)=25% (FAIL) | Tests passed: 1/3 | Near-miss: Y (within 5 pts of a threshold) | Confidence: M`
+`RESULT | P(Test2)=85% (FAIL) | P(Test3)=25% (FAIL) | Tests passed: 1/3 | Near-miss: Y (within 5 pts of a threshold) | Confidence: M`
+
+## Calibration note
+Stage 4 v2 cross-company calibration (19-Oct-2026): P2 87→85%. Section 3 flags the 25.3% EBIT margin at its 10-year high (100th percentile, FactSet) and FY2/FY3 consensus above the 8.0% driver stack, but the Test 2 table carries no margin-reversion term (v1 peers LII and ATMU do). Adding ~10% × 0.3 less overlap with the soft-market row raises failure by ~2 pts to ~15%, level with TRU (85%: cyclical exposure plus ~2.4–2.9x leverage). Still FAIL; still a near-miss (P2 ≥85%). Test 3 unchanged at 25%. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.

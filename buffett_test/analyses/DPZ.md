@@ -92,4 +92,7 @@ The key question is whether franchisee profitability recovers enough to restore 
 **No flag.** The adj vs GAAP gap is 0.1% 5y avg (FactSet). FCF conversion is 0.97x 10y / 0.98x 5y (FactSet). Equity is negative because buybacks were funded with securitised debt. That makes ROE meaningless and puts EPS growth partly on leverage: the share count fell 4.8%/yr over 10 years. Supply-chain revenue (food pass-through) inflates revenue and depresses EBIT margin optically.
 
 ## Verdict line
-`RESULT | P(Test2)=80% (FAIL) | P(Test3)=10% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+`RESULT | P(Test2)=77% (FAIL) | P(Test3)=10% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+
+## Calibration note
+Stage 4 v2 cross-company calibration (19-Oct-2026): P2 80→77%. The aggregator/franchisee stall (growth ~3–4%) straddles the ~3.7%/yr still needed after FY3 consensus, so it is weighted 0.5 as for PLNT and TSCO (25% × 0.5 = 12.5 pts, not 9). Failure becomes 12.5 + 3 + 3 + 2 + 1.5 + 1.5 unknowns ≈ 23.5% → 77%. That sits above PLNT (75%; DPZ has the better 8/10 record including 2020) and below CPAY/TRU (85%); 4.4x securitised leverage argues against more. Still FAIL. Test 3 unchanged at 10%. Sections 4–5 above are left as the worker wrote them; the verdict line shows the calibrated figure.
