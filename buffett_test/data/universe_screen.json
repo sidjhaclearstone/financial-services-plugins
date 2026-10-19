@@ -1,0 +1,4137 @@
+{
+ "source": "FactSet CompanyScreener, as of 2026-10-19",
+ "criteria": "FREF_ENTITY_COUNTRY_ISO2=US; ISON_SECONDARY=0; FF_MKT_VAL>1000 (USD m); 0<FE_VALUATION_PE_MEAN(FY2)<15",
+ "count": 826,
+ "universe": [
+  {
+   "ticker": "BANF-US",
+   "name": "BancFirst Corp. (Oklahoma)",
+   "fsym_id": "RCGBPW-R"
+  },
+  {
+   "ticker": "MZTI-US",
+   "name": "The Marzetti Co.",
+   "fsym_id": "QDX24Z-R"
+  },
+  {
+   "ticker": "QDEL-US",
+   "name": "QuidelOrtho Corp.",
+   "fsym_id": "JKD144-R"
+  },
+  {
+   "ticker": "AES-US",
+   "name": "The AES Corp.",
+   "fsym_id": "LY653H-R"
+  },
+  {
+   "ticker": "NBN-US",
+   "name": "Northeast Bank (Maine)",
+   "fsym_id": "RJ3T7G-R"
+  },
+  {
+   "ticker": "FULT-US",
+   "name": "Fulton Financial Corp.",
+   "fsym_id": "Q67PK9-R"
+  },
+  {
+   "ticker": "UHS-US",
+   "name": "Universal Health Services, Inc.",
+   "fsym_id": "XMYTFJ-R"
+  },
+  {
+   "ticker": "MAT-US",
+   "name": "Mattel, Inc.",
+   "fsym_id": "M4VLV7-R"
+  },
+  {
+   "ticker": "OBDC-US",
+   "name": "Blue Owl Capital Corp.",
+   "fsym_id": "R22FJJ-R"
+  },
+  {
+   "ticker": "AMG-US",
+   "name": "Affiliated Managers Group, Inc.",
+   "fsym_id": "JT71M6-R"
+  },
+  {
+   "ticker": "SAH-US",
+   "name": "Sonic Automotive, Inc.",
+   "fsym_id": "Q1KLV4-R"
+  },
+  {
+   "ticker": "BSX-US",
+   "name": "Boston Scientific Corp.",
+   "fsym_id": "VR16P9-R"
+  },
+  {
+   "ticker": "MLKN-US",
+   "name": "MillerKnoll, Inc.",
+   "fsym_id": "QVJQ7M-R"
+  },
+  {
+   "ticker": "OSBC-US",
+   "name": "Old Second Bancorp, Inc.",
+   "fsym_id": "T66XM6-R"
+  },
+  {
+   "ticker": "KEY-US",
+   "name": "KeyCorp",
+   "fsym_id": "MG2TQV-R"
+  },
+  {
+   "ticker": "HSIC-US",
+   "name": "Henry Schein, Inc.",
+   "fsym_id": "RQXL78-R"
+  },
+  {
+   "ticker": "GEN-US",
+   "name": "Gen Digital, Inc.",
+   "fsym_id": "KDHCQP-R"
+  },
+  {
+   "ticker": "PRU-US",
+   "name": "Prudential Financial, Inc.",
+   "fsym_id": "SHNVG7-R"
+  },
+  {
+   "ticker": "UGI-US",
+   "name": "UGI Corp.",
+   "fsym_id": "RS288R-R"
+  },
+  {
+   "ticker": "QCRH-US",
+   "name": "QCR Holdings, Inc.",
+   "fsym_id": "S8VPR2-R"
+  },
+  {
+   "ticker": "MTX-US",
+   "name": "Minerals Technologies, Inc.",
+   "fsym_id": "GM7SLL-R"
+  },
+  {
+   "ticker": "TMP-US",
+   "name": "Tompkins Financial Corp.",
+   "fsym_id": "KNGXW0-R"
+  },
+  {
+   "ticker": "CRUS-US",
+   "name": "Cirrus Logic, Inc.",
+   "fsym_id": "PJP5P0-R"
+  },
+  {
+   "ticker": "HRB-US",
+   "name": "H&R Block, Inc.",
+   "fsym_id": "LQ7KY5-R"
+  },
+  {
+   "ticker": "CBT-US",
+   "name": "Cabot Corp.",
+   "fsym_id": "WDHHDK-R"
+  },
+  {
+   "ticker": "PHM-US",
+   "name": "PulteGroup, Inc.",
+   "fsym_id": "F1DFCD-R"
+  },
+  {
+   "ticker": "EEFT-US",
+   "name": "Euronet Worldwide, Inc.",
+   "fsym_id": "BL5CGQ-R"
+  },
+  {
+   "ticker": "SIGI-US",
+   "name": "Selective Insurance Group, Inc.",
+   "fsym_id": "JFW6L0-R"
+  },
+  {
+   "ticker": "HE-US",
+   "name": "Hawaiian Electric Industries, Inc.",
+   "fsym_id": "FRZ5Z3-R"
+  },
+  {
+   "ticker": "WABC-US",
+   "name": "Westamerica Bancorporation",
+   "fsym_id": "Q68CVY-R"
+  },
+  {
+   "ticker": "IP-US",
+   "name": "International Paper Co.",
+   "fsym_id": "GZF20K-R"
+  },
+  {
+   "ticker": "EAT-US",
+   "name": "Brinker International, Inc.",
+   "fsym_id": "VPSN43-R"
+  },
+  {
+   "ticker": "TNC-US",
+   "name": "Tennant Co.",
+   "fsym_id": "MYTYPY-R"
+  },
+  {
+   "ticker": "GAP-US",
+   "name": "Gap, Inc.",
+   "fsym_id": "R5RD6T-R"
+  },
+  {
+   "ticker": "SF-US",
+   "name": "Stifel Financial Corp.",
+   "fsym_id": "W7XS3K-R"
+  },
+  {
+   "ticker": "JPM-US",
+   "name": "JPMorgan Chase & Co.",
+   "fsym_id": "NNKD2Y-R"
+  },
+  {
+   "ticker": "NSIT-US",
+   "name": "Insight Enterprises, Inc.",
+   "fsym_id": "LSJWZ3-R"
+  },
+  {
+   "ticker": "WTFC-US",
+   "name": "Wintrust Financial Corp.",
+   "fsym_id": "PC58QM-R"
+  },
+  {
+   "ticker": "FCNCA-US",
+   "name": "First Citizens BancShares, Inc. (North Carolina)",
+   "fsym_id": "LRHWY2-R"
+  },
+  {
+   "ticker": "UPBD-US",
+   "name": "Upbound Group, Inc.",
+   "fsym_id": "WFMRNN-R"
+  },
+  {
+   "ticker": "MKC-US",
+   "name": "McCormick & Co., Inc.",
+   "fsym_id": "NW8BQ3-R"
+  },
+  {
+   "ticker": "AVNT-US",
+   "name": "Avient Corp.",
+   "fsym_id": "T3YJC4-R"
+  },
+  {
+   "ticker": "TEX-US",
+   "name": "Terex Corp.",
+   "fsym_id": "V9DZD1-R"
+  },
+  {
+   "ticker": "SCSC-US",
+   "name": "ScanSource, Inc.",
+   "fsym_id": "F4PH05-R"
+  },
+  {
+   "ticker": "PATK-US",
+   "name": "Patrick Industries, Inc.",
+   "fsym_id": "NFM6Q0-R"
+  },
+  {
+   "ticker": "AVA-US",
+   "name": "Avista Corp.",
+   "fsym_id": "Q7CHYZ-R"
+  },
+  {
+   "ticker": "VYX-US",
+   "name": "NCR Voyix Corp.",
+   "fsym_id": "FMFR39-R"
+  },
+  {
+   "ticker": "PZZA-US",
+   "name": "Papa John's International, Inc.",
+   "fsym_id": "TVTKNK-R"
+  },
+  {
+   "ticker": "WGO-US",
+   "name": "Winnebago Industries, Inc.",
+   "fsym_id": "D9JX1G-R"
+  },
+  {
+   "ticker": "BAX-US",
+   "name": "Baxter International, Inc.",
+   "fsym_id": "TVTFDF-R"
+  },
+  {
+   "ticker": "HAL-US",
+   "name": "Halliburton Co.",
+   "fsym_id": "GN6KCJ-R"
+  },
+  {
+   "ticker": "CLX-US",
+   "name": "The Clorox Co.",
+   "fsym_id": "CJVKH9-R"
+  },
+  {
+   "ticker": "PCG-US",
+   "name": "PG&E Corp.",
+   "fsym_id": "C5CPSB-R"
+  },
+  {
+   "ticker": "FLR-US",
+   "name": "Fluor Corp.",
+   "fsym_id": "Q774MW-R"
+  },
+  {
+   "ticker": "FITB-US",
+   "name": "Fifth Third Bancorp",
+   "fsym_id": "LRK013-R"
+  },
+  {
+   "ticker": "KMPR-US",
+   "name": "Kemper Corp.",
+   "fsym_id": "L7NHQX-R"
+  },
+  {
+   "ticker": "LNC-US",
+   "name": "Lincoln National Corp.",
+   "fsym_id": "LBWNRX-R"
+  },
+  {
+   "ticker": "BAC-US",
+   "name": "Bank of America Corp.",
+   "fsym_id": "DTKZ1Y-R"
+  },
+  {
+   "ticker": "MMS-US",
+   "name": "MAXIMUS, Inc.",
+   "fsym_id": "DBNVQ8-R"
+  },
+  {
+   "ticker": "SMG-US",
+   "name": "Scotts Miracle-Gro Co.",
+   "fsym_id": "KB3SCM-R"
+  },
+  {
+   "ticker": "AEO-US",
+   "name": "American Eagle Outfitters, Inc.",
+   "fsym_id": "D1LJ47-R"
+  },
+  {
+   "ticker": "DKS-US",
+   "name": "Dick's Sporting Goods, Inc.",
+   "fsym_id": "K8ZVRV-R"
+  },
+  {
+   "ticker": "AVT-US",
+   "name": "Avnet, Inc.",
+   "fsym_id": "F2D739-R"
+  },
+  {
+   "ticker": "DVN-US",
+   "name": "Devon Energy Corp.",
+   "fsym_id": "G8WDMZ-R"
+  },
+  {
+   "ticker": "AIG-US",
+   "name": "American International Group, Inc.",
+   "fsym_id": "VS59M7-R"
+  },
+  {
+   "ticker": "MHO-US",
+   "name": "M/I Homes, Inc.",
+   "fsym_id": "DQ6GRW-R"
+  },
+  {
+   "ticker": "AOS-US",
+   "name": "A. O. Smith Corp.",
+   "fsym_id": "VFY8ZQ-R"
+  },
+  {
+   "ticker": "MAN-US",
+   "name": "ManpowerGroup, Inc.",
+   "fsym_id": "BCDK9T-R"
+  },
+  {
+   "ticker": "TPR-US",
+   "name": "Tapestry, Inc.",
+   "fsym_id": "LN3P8B-R"
+  },
+  {
+   "ticker": "CHDN-US",
+   "name": "Churchill Downs, Inc.",
+   "fsym_id": "T0JK7P-R"
+  },
+  {
+   "ticker": "MLI-US",
+   "name": "Mueller Industries, Inc.",
+   "fsym_id": "LQ71YP-R"
+  },
+  {
+   "ticker": "NEM-US",
+   "name": "Newmont Corp.",
+   "fsym_id": "CGGG4R-R"
+  },
+  {
+   "ticker": "TRN-US",
+   "name": "Trinity Industries, Inc.",
+   "fsym_id": "QWNLSC-R"
+  },
+  {
+   "ticker": "AGCO-US",
+   "name": "AGCO Corp.",
+   "fsym_id": "SHMHWZ-R"
+  },
+  {
+   "ticker": "MS-US",
+   "name": "Morgan Stanley",
+   "fsym_id": "CY644B-R"
+  },
+  {
+   "ticker": "TGLS-US",
+   "name": "Tecnoglass Holdings, Inc.",
+   "fsym_id": "RFMFNV-R"
+  },
+  {
+   "ticker": "GABC-US",
+   "name": "German American Bancorp, Inc.",
+   "fsym_id": "RPTNJF-R"
+  },
+  {
+   "ticker": "FNMA-US",
+   "name": "Federal National Mortgage Association",
+   "fsym_id": "S25R0V-R"
+  },
+  {
+   "ticker": "ALL-US",
+   "name": "The Allstate Corp.",
+   "fsym_id": "BYJYYM-R"
+  },
+  {
+   "ticker": "CACC-US",
+   "name": "Credit Acceptance Corp.",
+   "fsym_id": "H0PMGP-R"
+  },
+  {
+   "ticker": "FISV-US",
+   "name": "Fiserv, Inc.",
+   "fsym_id": "QLQKDC-R"
+  },
+  {
+   "ticker": "CTBI-US",
+   "name": "Community Trust Bancorp, Inc. (Kentucky)",
+   "fsym_id": "KQLVLW-R"
+  },
+  {
+   "ticker": "FUL-US",
+   "name": "H.B. Fuller Co.",
+   "fsym_id": "W0Z2R4-R"
+  },
+  {
+   "ticker": "FHI-US",
+   "name": "Federated Hermes, Inc.",
+   "fsym_id": "GQGP3B-R"
+  },
+  {
+   "ticker": "STLD-US",
+   "name": "Steel Dynamics, Inc.",
+   "fsym_id": "MTBCGY-R"
+  },
+  {
+   "ticker": "BMY-US",
+   "name": "Bristol Myers Squibb Co.",
+   "fsym_id": "L8SKLT-R"
+  },
+  {
+   "ticker": "WFC-US",
+   "name": "Wells Fargo & Co.",
+   "fsym_id": "VWF970-R"
+  },
+  {
+   "ticker": "KSS-US",
+   "name": "Kohl's Corp.",
+   "fsym_id": "GJZ5YB-R"
+  },
+  {
+   "ticker": "FMC-US",
+   "name": "FMC Corp.",
+   "fsym_id": "BCD4JF-R"
+  },
+  {
+   "ticker": "SRCE-US",
+   "name": "1st Source Corp.",
+   "fsym_id": "RPMZQ3-R"
+  },
+  {
+   "ticker": "SWK-US",
+   "name": "Stanley Black & Decker, Inc.",
+   "fsym_id": "LKPWM4-R"
+  },
+  {
+   "ticker": "COF-US",
+   "name": "Capital One Financial Corp.",
+   "fsym_id": "LD0WYZ-R"
+  },
+  {
+   "ticker": "REGN-US",
+   "name": "Regeneron Pharmaceuticals, Inc.",
+   "fsym_id": "S8ZQDV-R"
+  },
+  {
+   "ticker": "ARCB-US",
+   "name": "ArcBest Corp.",
+   "fsym_id": "FT3PPF-R"
+  },
+  {
+   "ticker": "PGR-US",
+   "name": "The Progressive Corp.",
+   "fsym_id": "HVV49B-R"
+  },
+  {
+   "ticker": "ALGN-US",
+   "name": "Align Technology, Inc.",
+   "fsym_id": "DDZB0B-R"
+  },
+  {
+   "ticker": "BXMT-US",
+   "name": "Blackstone Mortgage Trust, Inc.",
+   "fsym_id": "G7QVVM-R"
+  },
+  {
+   "ticker": "R-US",
+   "name": "Ryder System, Inc.",
+   "fsym_id": "JJ81D9-R"
+  },
+  {
+   "ticker": "SKYW-US",
+   "name": "SkyWest, Inc.",
+   "fsym_id": "QQ164P-R"
+  },
+  {
+   "ticker": "GBCI-US",
+   "name": "Glacier Bancorp, Inc.",
+   "fsym_id": "T0J5JB-R"
+  },
+  {
+   "ticker": "BEN-US",
+   "name": "Franklin Templeton, Inc.",
+   "fsym_id": "HMVVTC-R"
+  },
+  {
+   "ticker": "RRX-US",
+   "name": "Regal Rexnord Corp.",
+   "fsym_id": "HTP7VN-R"
+  },
+  {
+   "ticker": "KFY-US",
+   "name": "Korn Ferry",
+   "fsym_id": "D68LVD-R"
+  },
+  {
+   "ticker": "FDX-US",
+   "name": "FedEx Corp.",
+   "fsym_id": "MH7TCM-R"
+  },
+  {
+   "ticker": "FMCC-US",
+   "name": "Freddie Mac",
+   "fsym_id": "MFYB4M-R"
+  },
+  {
+   "ticker": "ES-US",
+   "name": "Eversource Energy",
+   "fsym_id": "MVKZ35-R"
+  },
+  {
+   "ticker": "MSTR-US",
+   "name": "Strategy, Inc.",
+   "fsym_id": "L8SD8N-R"
+  },
+  {
+   "ticker": "CXW-US",
+   "name": "CoreCivic, Inc.",
+   "fsym_id": "BDJDSJ-R"
+  },
+  {
+   "ticker": "AMKR-US",
+   "name": "Amkor Technology, Inc.",
+   "fsym_id": "SQG2DJ-R"
+  },
+  {
+   "ticker": "CATY-US",
+   "name": "Cathay General Bancorp",
+   "fsym_id": "SX4VKF-R"
+  },
+  {
+   "ticker": "BKE-US",
+   "name": "The Buckle, Inc.",
+   "fsym_id": "G12D1V-R"
+  },
+  {
+   "ticker": "MHK-US",
+   "name": "Mohawk Industries, Inc.",
+   "fsym_id": "RGZN5G-R"
+  },
+  {
+   "ticker": "LZB-US",
+   "name": "La-Z-Boy, Inc.",
+   "fsym_id": "PSM3QT-R"
+  },
+  {
+   "ticker": "STBA-US",
+   "name": "S&T Bancorp, Inc.",
+   "fsym_id": "Q3W004-R"
+  },
+  {
+   "ticker": "SPH-US",
+   "name": "Suburban Propane Partners LP",
+   "fsym_id": "FCMSN7-R"
+  },
+  {
+   "ticker": "FCN-US",
+   "name": "FTI Consulting, Inc.",
+   "fsym_id": "M8F8Y3-R"
+  },
+  {
+   "ticker": "VZ-US",
+   "name": "Verizon Communications, Inc.",
+   "fsym_id": "FT8FQW-R"
+  },
+  {
+   "ticker": "PRK-US",
+   "name": "Park National Corp.",
+   "fsym_id": "X1SL6Y-R"
+  },
+  {
+   "ticker": "CVSA-US",
+   "name": "Covista, Inc.",
+   "fsym_id": "W14WTL-R"
+  },
+  {
+   "ticker": "BMRN-US",
+   "name": "BioMarin Pharmaceutical, Inc.",
+   "fsym_id": "QG5V09-R"
+  },
+  {
+   "ticker": "CVX-US",
+   "name": "Chevron Corp.",
+   "fsym_id": "WPFS7S-R"
+  },
+  {
+   "ticker": "KBH-US",
+   "name": "KB Home",
+   "fsym_id": "J75D6Z-R"
+  },
+  {
+   "ticker": "FNB-US",
+   "name": "F.N.B. Corp. (Pennsylvania)",
+   "fsym_id": "JWGNCJ-R"
+  },
+  {
+   "ticker": "SIRI-US",
+   "name": "SiriusXM Holdings, Inc.",
+   "fsym_id": "H8PG48-R"
+  },
+  {
+   "ticker": "ROCK-US",
+   "name": "Gibraltar Industries, Inc.",
+   "fsym_id": "Q67WYH-R"
+  },
+  {
+   "ticker": "MIDD-US",
+   "name": "The Middleby Corp.",
+   "fsym_id": "HD2KLX-R"
+  },
+  {
+   "ticker": "USB-US",
+   "name": "U.S. Bancorp",
+   "fsym_id": "WYJT0C-R"
+  },
+  {
+   "ticker": "PENN-US",
+   "name": "PENN Entertainment, Inc.",
+   "fsym_id": "LX2WRB-R"
+  },
+  {
+   "ticker": "AB-US",
+   "name": "AllianceBernstein Holding LP",
+   "fsym_id": "NFS30L-R"
+  },
+  {
+   "ticker": "NBIX-US",
+   "name": "Neurocrine Biosciences, Inc.",
+   "fsym_id": "HTKQ3B-R"
+  },
+  {
+   "ticker": "TXT-US",
+   "name": "Textron, Inc.",
+   "fsym_id": "GN6RRQ-R"
+  },
+  {
+   "ticker": "PEBO-US",
+   "name": "Peoples Bancorp, Inc. (Ohio)",
+   "fsym_id": "L0V3KJ-R"
+  },
+  {
+   "ticker": "TFX-US",
+   "name": "Teleflex, Inc.",
+   "fsym_id": "M0C1P8-R"
+  },
+  {
+   "ticker": "GPI-US",
+   "name": "Group 1 Automotive, Inc.",
+   "fsym_id": "PRN7RS-R"
+  },
+  {
+   "ticker": "LKFN-US",
+   "name": "Lakeland Financial Corp. (Indiana)",
+   "fsym_id": "MKHBZW-R"
+  },
+  {
+   "ticker": "TILE-US",
+   "name": "Interface, Inc.",
+   "fsym_id": "WNFB88-R"
+  },
+  {
+   "ticker": "VLY-US",
+   "name": "Valley National Bancorp",
+   "fsym_id": "T0PLWF-R"
+  },
+  {
+   "ticker": "HOG-US",
+   "name": "Harley-Davidson, Inc.",
+   "fsym_id": "P5BP94-R"
+  },
+  {
+   "ticker": "SJM-US",
+   "name": "The J. M. Smucker Co.",
+   "fsym_id": "FPTJVK-R"
+  },
+  {
+   "ticker": "SLGN-US",
+   "name": "Silgan Holdings, Inc.",
+   "fsym_id": "MNWT3V-R"
+  },
+  {
+   "ticker": "CMC-US",
+   "name": "Commercial Metals Co.",
+   "fsym_id": "V2LL6N-R"
+  },
+  {
+   "ticker": "WLFC-US",
+   "name": "Willis Lease Finance Corp.",
+   "fsym_id": "XGDBGN-R"
+  },
+  {
+   "ticker": "CDE-US",
+   "name": "Coeur Mining, Inc.",
+   "fsym_id": "L0NQ8G-R"
+  },
+  {
+   "ticker": "BIIB-US",
+   "name": "Biogen, Inc.",
+   "fsym_id": "HF5SX1-R"
+  },
+  {
+   "ticker": "ARLP-US",
+   "name": "Alliance Resource Partners LP",
+   "fsym_id": "TSHPL3-R"
+  },
+  {
+   "ticker": "WKC-US",
+   "name": "World Kinect Corp.",
+   "fsym_id": "KV4BDM-R"
+  },
+  {
+   "ticker": "KLIC-US",
+   "name": "Kulicke & Soffa Industries, Inc.",
+   "fsym_id": "B97V26-R"
+  },
+  {
+   "ticker": "ASB-US",
+   "name": "Associated Banc-Corp",
+   "fsym_id": "WGMKDK-R"
+  },
+  {
+   "ticker": "KMT-US",
+   "name": "Kennametal, Inc.",
+   "fsym_id": "JJ8SV0-R"
+  },
+  {
+   "ticker": "AIR-US",
+   "name": "AAR Corp.",
+   "fsym_id": "QG1FM5-R"
+  },
+  {
+   "ticker": "EXTR-US",
+   "name": "Extreme Networks, Inc.",
+   "fsym_id": "T0JCXJ-R"
+  },
+  {
+   "ticker": "BCRX-US",
+   "name": "BioCryst Pharmaceuticals, Inc.",
+   "fsym_id": "TG9B66-R"
+  },
+  {
+   "ticker": "DOX-US",
+   "name": "Amdocs Ltd.",
+   "fsym_id": "PTS6KP-R"
+  },
+  {
+   "ticker": "TSN-US",
+   "name": "Tyson Foods, Inc.",
+   "fsym_id": "BM9QXX-R"
+  },
+  {
+   "ticker": "WWW-US",
+   "name": "Wolverine World Wide, Inc.",
+   "fsym_id": "CZ9R4T-R"
+  },
+  {
+   "ticker": "NLY-US",
+   "name": "Annaly Capital Management, Inc.",
+   "fsym_id": "TSCJN6-R"
+  },
+  {
+   "ticker": "MUR-US",
+   "name": "Murphy Oil Corp.",
+   "fsym_id": "XQCN4R-R"
+  },
+  {
+   "ticker": "RJF-US",
+   "name": "Raymond James Financial, Inc.",
+   "fsym_id": "F1DNTM-R"
+  },
+  {
+   "ticker": "TRMB-US",
+   "name": "Trimble, Inc.",
+   "fsym_id": "TBS2VP-R"
+  },
+  {
+   "ticker": "LEN-US",
+   "name": "Lennar Corp.",
+   "fsym_id": "FH1NKL-R"
+  },
+  {
+   "ticker": "CHCO-US",
+   "name": "City Holding Co.",
+   "fsym_id": "V06P89-R"
+  },
+  {
+   "ticker": "TDW-US",
+   "name": "Tidewater, Inc.",
+   "fsym_id": "R4M3YQ-R"
+  },
+  {
+   "ticker": "CASH-US",
+   "name": "Pathward Financial, Inc.",
+   "fsym_id": "CN4BLT-R"
+  },
+  {
+   "ticker": "MD-US",
+   "name": "Pediatrix Medical Group, Inc.",
+   "fsym_id": "VXLQQ6-R"
+  },
+  {
+   "ticker": "SSB-US",
+   "name": "SouthState Bank Corp.",
+   "fsym_id": "CRPCG2-R"
+  },
+  {
+   "ticker": "ALB-US",
+   "name": "Albemarle Corp.",
+   "fsym_id": "DMRWLY-R"
+  },
+  {
+   "ticker": "GBX-US",
+   "name": "Greenbrier Cos., Inc.",
+   "fsym_id": "HR9BX9-R"
+  },
+  {
+   "ticker": "MTH-US",
+   "name": "Meritage Homes Corp.",
+   "fsym_id": "LRHPJW-R"
+  },
+  {
+   "ticker": "PRGS-US",
+   "name": "Progress Software Corp.",
+   "fsym_id": "T7CC6G-R"
+  },
+  {
+   "ticker": "AKAM-US",
+   "name": "Akamai Technologies, Inc.",
+   "fsym_id": "PX1NYT-R"
+  },
+  {
+   "ticker": "TFC-US",
+   "name": "Truist Financial Corp.",
+   "fsym_id": "GX5LJC-R"
+  },
+  {
+   "ticker": "CVBF-US",
+   "name": "CVB Financial Corp.",
+   "fsym_id": "M8FZ7R-R"
+  },
+  {
+   "ticker": "DMC-US",
+   "name": "Del Monte Corp.",
+   "fsym_id": "QBSDYC-R"
+  },
+  {
+   "ticker": "NOV-US",
+   "name": "NOV, Inc.",
+   "fsym_id": "VBL38Y-R"
+  },
+  {
+   "ticker": "UNM-US",
+   "name": "Unum Group",
+   "fsym_id": "PKZ95N-R"
+  },
+  {
+   "ticker": "NTCT-US",
+   "name": "NetScout Systems, Inc.",
+   "fsym_id": "BJ2KWX-R"
+  },
+  {
+   "ticker": "SCHW-US",
+   "name": "The Charles Schwab Corp.",
+   "fsym_id": "KM5Q58-R"
+  },
+  {
+   "ticker": "JEF-US",
+   "name": "Jefferies Financial Group, Inc.",
+   "fsym_id": "NQTR8Z-R"
+  },
+  {
+   "ticker": "FLG-US",
+   "name": "Flagstar Bank NA",
+   "fsym_id": "TTNZT5-R"
+  },
+  {
+   "ticker": "INDB-US",
+   "name": "Independent Bank Corp. (Massachusetts)",
+   "fsym_id": "Q8DBNV-R"
+  },
+  {
+   "ticker": "TCBK-US",
+   "name": "TriCo Bancshares",
+   "fsym_id": "MVM145-R"
+  },
+  {
+   "ticker": "OCFC-US",
+   "name": "OceanFirst Financial Corp.",
+   "fsym_id": "P8RJ4G-R"
+  },
+  {
+   "ticker": "UVV-US",
+   "name": "Universal Corp.",
+   "fsym_id": "FPNZ48-R"
+  },
+  {
+   "ticker": "SSRM-US",
+   "name": "SSR Mining, Inc.",
+   "fsym_id": "SYDMHT-R"
+  },
+  {
+   "ticker": "FCF-US",
+   "name": "First Commonwealth Financial Corp. (Pennsylvania)",
+   "fsym_id": "JWMV8D-R"
+  },
+  {
+   "ticker": "SBCF-US",
+   "name": "Seacoast Banking Corp. of Florida",
+   "fsym_id": "WZNMF1-R"
+  },
+  {
+   "ticker": "OVV-US",
+   "name": "Ovintiv, Inc.",
+   "fsym_id": "W0ZT3T-R"
+  },
+  {
+   "ticker": "HIG-US",
+   "name": "The Hartford Insurance Group, Inc.",
+   "fsym_id": "P31DB7-R"
+  },
+  {
+   "ticker": "SM-US",
+   "name": "SM Energy Co.",
+   "fsym_id": "JQXJ62-R"
+  },
+  {
+   "ticker": "DECK-US",
+   "name": "Deckers Outdoor Corp.",
+   "fsym_id": "VWFJP7-R"
+  },
+  {
+   "ticker": "CNMD-US",
+   "name": "CONMED Corp.",
+   "fsym_id": "V613CM-R"
+  },
+  {
+   "ticker": "THO-US",
+   "name": "Thor Industries, Inc.",
+   "fsym_id": "VJ3F0Q-R"
+  },
+  {
+   "ticker": "GS-US",
+   "name": "The Goldman Sachs Group, Inc.",
+   "fsym_id": "JLJ0VZ-R"
+  },
+  {
+   "ticker": "FBNC-US",
+   "name": "First Bancorp (North Carolina)",
+   "fsym_id": "FML2CC-R"
+  },
+  {
+   "ticker": "BDC-US",
+   "name": "Belden, Inc.",
+   "fsym_id": "MJBZJP-R"
+  },
+  {
+   "ticker": "ABM-US",
+   "name": "ABM Industries, Inc.",
+   "fsym_id": "QLL1T4-R"
+  },
+  {
+   "ticker": "UBSI-US",
+   "name": "United Bankshares, Inc. (West Virginia)",
+   "fsym_id": "HSFSHK-R"
+  },
+  {
+   "ticker": "WSFS-US",
+   "name": "WSFS Financial Corp.",
+   "fsym_id": "KRVRTD-R"
+  },
+  {
+   "ticker": "POOL-US",
+   "name": "Pool Corp.",
+   "fsym_id": "B6V0BZ-R"
+  },
+  {
+   "ticker": "MKSI-US",
+   "name": "MKS, Inc.",
+   "fsym_id": "RXHCSF-R"
+  },
+  {
+   "ticker": "ITRI-US",
+   "name": "Itron, Inc.",
+   "fsym_id": "RQZ0ZM-R"
+  },
+  {
+   "ticker": "AFG-US",
+   "name": "American Financial Group, Inc.",
+   "fsym_id": "QCSD0F-R"
+  },
+  {
+   "ticker": "DAR-US",
+   "name": "Darling Ingredients, Inc.",
+   "fsym_id": "RZRX9M-R"
+  },
+  {
+   "ticker": "URBN-US",
+   "name": "Urban Outfitters, Inc.",
+   "fsym_id": "XKTZWR-R"
+  },
+  {
+   "ticker": "VECO-US",
+   "name": "Veeco Instruments, Inc.",
+   "fsym_id": "M88DMJ-R"
+  },
+  {
+   "ticker": "ONB-US",
+   "name": "Old National Bancorp",
+   "fsym_id": "D2RQ56-R"
+  },
+  {
+   "ticker": "HNI-US",
+   "name": "HNI Corp.",
+   "fsym_id": "DKMWR0-R"
+  },
+  {
+   "ticker": "DORM-US",
+   "name": "Dorman Products, Inc.",
+   "fsym_id": "TJKK43-R"
+  },
+  {
+   "ticker": "XOM-US",
+   "name": "ExxonMobil Holdings Corp.",
+   "fsym_id": "QG1HR7-R"
+  },
+  {
+   "ticker": "CNOB-US",
+   "name": "ConnectOne Bancorp, Inc.",
+   "fsym_id": "F72BWH-R"
+  },
+  {
+   "ticker": "BRO-US",
+   "name": "Brown & Brown, Inc.",
+   "fsym_id": "J06Y9S-R"
+  },
+  {
+   "ticker": "THRM-US",
+   "name": "Gentherm, Inc.",
+   "fsym_id": "WM9WKY-R"
+  },
+  {
+   "ticker": "CPB-US",
+   "name": "The Campbell's Co.",
+   "fsym_id": "KZKK3D-R"
+  },
+  {
+   "ticker": "CBU-US",
+   "name": "Community Financial System, Inc.",
+   "fsym_id": "J2J1YJ-R"
+  },
+  {
+   "ticker": "HBAN-US",
+   "name": "Huntington Bancshares, Inc.",
+   "fsym_id": "G7VZQH-R"
+  },
+  {
+   "ticker": "HASI-US",
+   "name": "HA Sustainable Infrastructure Capital, Inc.",
+   "fsym_id": "DSXPK2-R"
+  },
+  {
+   "ticker": "PEGA-US",
+   "name": "Pegasystems, Inc.",
+   "fsym_id": "M64WP1-R"
+  },
+  {
+   "ticker": "WERN-US",
+   "name": "Werner Enterprises, Inc.",
+   "fsym_id": "Q1QBWL-R"
+  },
+  {
+   "ticker": "CNC-US",
+   "name": "Centene Corp.",
+   "fsym_id": "LTSNXH-R"
+  },
+  {
+   "ticker": "NFG-US",
+   "name": "National Fuel Gas Co.",
+   "fsym_id": "DJD3SM-R"
+  },
+  {
+   "ticker": "CENX-US",
+   "name": "Century Aluminum Co.",
+   "fsym_id": "WPL8V0-R"
+  },
+  {
+   "ticker": "CTSH-US",
+   "name": "Cognizant Technology Solutions Corp.",
+   "fsym_id": "NT38T5-R"
+  },
+  {
+   "ticker": "BOH-US",
+   "name": "Bank of Hawaii Corp.",
+   "fsym_id": "FNKLL0-R"
+  },
+  {
+   "ticker": "PRKS-US",
+   "name": "United Parks & Resorts, Inc.",
+   "fsym_id": "MDFK2W-R"
+  },
+  {
+   "ticker": "NBTB-US",
+   "name": "NBT Bancorp, Inc.",
+   "fsym_id": "S7PDJ0-R"
+  },
+  {
+   "ticker": "NVDA-US",
+   "name": "NVIDIA Corp.",
+   "fsym_id": "K7TPSX-R"
+  },
+  {
+   "ticker": "CNX-US",
+   "name": "CNX Resources Corp.",
+   "fsym_id": "JJ7V03-R"
+  },
+  {
+   "ticker": "STGW-US",
+   "name": "Stagwell, Inc.",
+   "fsym_id": "CQCLPT-R"
+  },
+  {
+   "ticker": "APO-US",
+   "name": "Apollo Global Management, Inc.",
+   "fsym_id": "VSC82Y-R"
+  },
+  {
+   "ticker": "GIS-US",
+   "name": "General Mills, Inc.",
+   "fsym_id": "R5XGXL-R"
+  },
+  {
+   "ticker": "SANM-US",
+   "name": "Sanmina Corp.",
+   "fsym_id": "P32F96-R"
+  },
+  {
+   "ticker": "AGM-US",
+   "name": "Federal Agricultural Mortgage Corp.",
+   "fsym_id": "XC02QW-R"
+  },
+  {
+   "ticker": "TOL-US",
+   "name": "Toll Brothers, Inc.",
+   "fsym_id": "F86GWG-R"
+  },
+  {
+   "ticker": "ADBE-US",
+   "name": "Adobe, Inc.",
+   "fsym_id": "DJC2TN-R"
+  },
+  {
+   "ticker": "MTB-US",
+   "name": "M&T Bank Corp.",
+   "fsym_id": "X8LB4Q-R"
+  },
+  {
+   "ticker": "VFC-US",
+   "name": "VF Corp.",
+   "fsym_id": "NV79M1-R"
+  },
+  {
+   "ticker": "BOKF-US",
+   "name": "BOK Financial Corp.",
+   "fsym_id": "S8YXX3-R"
+  },
+  {
+   "ticker": "VLO-US",
+   "name": "Valero Energy Corp.",
+   "fsym_id": "H2VPCM-R"
+  },
+  {
+   "ticker": "CSWC-US",
+   "name": "Capital Southwest Corp",
+   "fsym_id": "RK41TS-R"
+  },
+  {
+   "ticker": "NWL-US",
+   "name": "Newell Brands, Inc.",
+   "fsym_id": "GFJGD5-R"
+  },
+  {
+   "ticker": "GIII-US",
+   "name": "G-III Apparel Group Ltd.",
+   "fsym_id": "DWVB7Z-R"
+  },
+  {
+   "ticker": "PNC-US",
+   "name": "The PNC Financial Services Group, Inc.",
+   "fsym_id": "PY50G1-R"
+  },
+  {
+   "ticker": "TROW-US",
+   "name": "T. Rowe Price Group, Inc.",
+   "fsym_id": "VNRDMV-R"
+  },
+  {
+   "ticker": "UMBF-US",
+   "name": "UMB Financial Corp.",
+   "fsym_id": "JJ8Z55-R"
+  },
+  {
+   "ticker": "RBCAA-US",
+   "name": "Republic Bancorp, Inc. (Kentucky)",
+   "fsym_id": "BDHQGW-R"
+  },
+  {
+   "ticker": "OXY-US",
+   "name": "Occidental Petroleum Corp.",
+   "fsym_id": "R998SY-R"
+  },
+  {
+   "ticker": "CNA-US",
+   "name": "CNA Financial Corp.",
+   "fsym_id": "TXXC7C-R"
+  },
+  {
+   "ticker": "UCB-US",
+   "name": "United Community Banks, Inc.",
+   "fsym_id": "MVM6GB-R"
+  },
+  {
+   "ticker": "MU-US",
+   "name": "Micron Technology, Inc.",
+   "fsym_id": "CHR1NX-R"
+  },
+  {
+   "ticker": "FLEX-US",
+   "name": "Flex Ltd.",
+   "fsym_id": "VVFLP6-R"
+  },
+  {
+   "ticker": "CENT-US",
+   "name": "Central Garden & Pet Co.",
+   "fsym_id": "CN8KNS-R"
+  },
+  {
+   "ticker": "RAMP-US",
+   "name": "LiveRamp Holdings, Inc.",
+   "fsym_id": "GTX8DC-R"
+  },
+  {
+   "ticker": "ABG-US",
+   "name": "Asbury Automotive Group, Inc.",
+   "fsym_id": "TR8N0D-R"
+  },
+  {
+   "ticker": "CBSH-US",
+   "name": "Commerce Bancshares, Inc. (Missouri)",
+   "fsym_id": "WPLD13-R"
+  },
+  {
+   "ticker": "BANC-US",
+   "name": "Banc of California, Inc.",
+   "fsym_id": "DXVMZC-R"
+  },
+  {
+   "ticker": "FFBC-US",
+   "name": "First Financial Bancorp (Ohio)",
+   "fsym_id": "TF61V1-R"
+  },
+  {
+   "ticker": "CHH-US",
+   "name": "Choice Hotels International, Inc.",
+   "fsym_id": "MH3J5L-R"
+  },
+  {
+   "ticker": "DXC-US",
+   "name": "DXC Technology Co.",
+   "fsym_id": "B4PGFJ-R"
+  },
+  {
+   "ticker": "CAG-US",
+   "name": "Conagra Brands, Inc.",
+   "fsym_id": "DJC60R-R"
+  },
+  {
+   "ticker": "HOPE-US",
+   "name": "Hope Bancorp, Inc.",
+   "fsym_id": "V5VVBP-R"
+  },
+  {
+   "ticker": "GL-US",
+   "name": "Globe Life, Inc.",
+   "fsym_id": "QJBZ19-R"
+  },
+  {
+   "ticker": "AIZ-US",
+   "name": "Assurant, Inc.",
+   "fsym_id": "PTRY1F-R"
+  },
+  {
+   "ticker": "HMN-US",
+   "name": "Horace Mann Educators Corp.",
+   "fsym_id": "S208LQ-R"
+  },
+  {
+   "ticker": "LUV-US",
+   "name": "Southwest Airlines Co.",
+   "fsym_id": "BFSY5M-R"
+  },
+  {
+   "ticker": "ANDE-US",
+   "name": "The Andersons, Inc.",
+   "fsym_id": "QH5KM4-R"
+  },
+  {
+   "ticker": "INCY-US",
+   "name": "Incyte Corp.",
+   "fsym_id": "LD13C5-R"
+  },
+  {
+   "ticker": "AN-US",
+   "name": "AutoNation, Inc.",
+   "fsym_id": "PJTSGB-R"
+  },
+  {
+   "ticker": "BANR-US",
+   "name": "Banner Corp.",
+   "fsym_id": "P1X303-R"
+  },
+  {
+   "ticker": "SYBT-US",
+   "name": "Stock Yards Bancorp, Inc.",
+   "fsym_id": "MJ6XSW-R"
+  },
+  {
+   "ticker": "STZ-US",
+   "name": "Constellation Brands, Inc.",
+   "fsym_id": "RK3HS8-R"
+  },
+  {
+   "ticker": "FLO-US",
+   "name": "Flowers Foods, Inc.",
+   "fsym_id": "KSVLMB-R"
+  },
+  {
+   "ticker": "AAP-US",
+   "name": "Advance Auto Parts, Inc.",
+   "fsym_id": "HP58X9-R"
+  },
+  {
+   "ticker": "ALK-US",
+   "name": "Alaska Air Group, Inc.",
+   "fsym_id": "KDJSF0-R"
+  },
+  {
+   "ticker": "ORI-US",
+   "name": "Old Republic International Corp.",
+   "fsym_id": "QJHLWN-R"
+  },
+  {
+   "ticker": "GPN-US",
+   "name": "Global Payments, Inc.",
+   "fsym_id": "KK1YRK-R"
+  },
+  {
+   "ticker": "RRC-US",
+   "name": "Range Resources Corp.",
+   "fsym_id": "T0JL9Q-R"
+  },
+  {
+   "ticker": "EIX-US",
+   "name": "Edison International",
+   "fsym_id": "NZMV05-R"
+  },
+  {
+   "ticker": "INGR-US",
+   "name": "Ingredion, Inc.",
+   "fsym_id": "BRWC0T-R"
+  },
+  {
+   "ticker": "ECPG-US",
+   "name": "Encore Capital Group, Inc.",
+   "fsym_id": "F81X55-R"
+  },
+  {
+   "ticker": "ARW-US",
+   "name": "Arrow Electronics, Inc.",
+   "fsym_id": "TWSFML-R"
+  },
+  {
+   "ticker": "EWBC-US",
+   "name": "East West Bancorp, Inc.",
+   "fsym_id": "WQP8NX-R"
+  },
+  {
+   "ticker": "DIS-US",
+   "name": "The Walt Disney Co.",
+   "fsym_id": "MPXJMM-R"
+  },
+  {
+   "ticker": "DX-US",
+   "name": "Dynex Capital, Inc.",
+   "fsym_id": "NV3W1T-R"
+  },
+  {
+   "ticker": "EPD-US",
+   "name": "Enterprise Products Partners LP",
+   "fsym_id": "FRYXFV-R"
+  },
+  {
+   "ticker": "BCO-US",
+   "name": "The Brink's Co.",
+   "fsym_id": "MS9DHY-R"
+  },
+  {
+   "ticker": "RCL-US",
+   "name": "Royal Caribbean Group",
+   "fsym_id": "XLT03X-R"
+  },
+  {
+   "ticker": "UPS-US",
+   "name": "United Parcel Service, Inc.",
+   "fsym_id": "KPFMHW-R"
+  },
+  {
+   "ticker": "KR-US",
+   "name": "The Kroger Co.",
+   "fsym_id": "R2J99W-R"
+  },
+  {
+   "ticker": "DLX-US",
+   "name": "Deluxe Corp.",
+   "fsym_id": "LRHQLX-R"
+  },
+  {
+   "ticker": "DHI-US",
+   "name": "D.R. Horton, Inc.",
+   "fsym_id": "BYNP13-R"
+  },
+  {
+   "ticker": "JLL-US",
+   "name": "Jones Lang LaSalle, Inc.",
+   "fsym_id": "QDYDQ7-R"
+  },
+  {
+   "ticker": "STC-US",
+   "name": "Stewart Information Services Corp.",
+   "fsym_id": "GFJD83-R"
+  },
+  {
+   "ticker": "ANF-US",
+   "name": "Abercrombie & Fitch Co.",
+   "fsym_id": "RBB7RY-R"
+  },
+  {
+   "ticker": "COLM-US",
+   "name": "Columbia Sportswear Co.",
+   "fsym_id": "TP07RB-R"
+  },
+  {
+   "ticker": "WHR-US",
+   "name": "Whirlpool Corp.",
+   "fsym_id": "DH79H0-R"
+  },
+  {
+   "ticker": "WDC-US",
+   "name": "Western Digital Corp.",
+   "fsym_id": "W00MKH-R"
+  },
+  {
+   "ticker": "AUB-US",
+   "name": "Atlantic Union Bankshares Corp.",
+   "fsym_id": "W6SBJ9-R"
+  },
+  {
+   "ticker": "COLB-US",
+   "name": "Columbia Banking System, Inc.",
+   "fsym_id": "FMDXJJ-R"
+  },
+  {
+   "ticker": "BDX-US",
+   "name": "Becton, Dickinson & Co.",
+   "fsym_id": "WFLMHL-R"
+  },
+  {
+   "ticker": "OMC-US",
+   "name": "Omnicom Group, Inc.",
+   "fsym_id": "D8D820-R"
+  },
+  {
+   "ticker": "PFG-US",
+   "name": "Principal Financial Group, Inc.",
+   "fsym_id": "DXZQS6-R"
+  },
+  {
+   "ticker": "WAFD-US",
+   "name": "WaFd, Inc.",
+   "fsym_id": "M3W1KK-R"
+  },
+  {
+   "ticker": "BFH-US",
+   "name": "Bread Financial Holdings, Inc.",
+   "fsym_id": "NDN5DT-R"
+  },
+  {
+   "ticker": "THC-US",
+   "name": "Tenet Healthcare Corp.",
+   "fsym_id": "P9ZMV7-R"
+  },
+  {
+   "ticker": "SFNC-US",
+   "name": "Simmons First National Corp.",
+   "fsym_id": "FZY2QQ-R"
+  },
+  {
+   "ticker": "SLM-US",
+   "name": "SLM Corp.",
+   "fsym_id": "T7CGDK-R"
+  },
+  {
+   "ticker": "SEIC-US",
+   "name": "SEI Investments Co.",
+   "fsym_id": "NGVZND-R"
+  },
+  {
+   "ticker": "LAD-US",
+   "name": "Lithia Motors, Inc.",
+   "fsym_id": "PSRH1X-R"
+  },
+  {
+   "ticker": "BG-US",
+   "name": "Bunge Global SA",
+   "fsym_id": "G49K2V-R"
+  },
+  {
+   "ticker": "CXT-US",
+   "name": "Crane NXT Co.",
+   "fsym_id": "D8DLQB-R"
+  },
+  {
+   "ticker": "BALL-US",
+   "name": "Ball Corp.",
+   "fsym_id": "VFT0VQ-R"
+  },
+  {
+   "ticker": "ALG-US",
+   "name": "Alamo Group, Inc.",
+   "fsym_id": "KRPZPX-R"
+  },
+  {
+   "ticker": "HRL-US",
+   "name": "Hormel Foods Corp.",
+   "fsym_id": "CYBC69-R"
+  },
+  {
+   "ticker": "BYD-US",
+   "name": "Boyd Gaming Corp.",
+   "fsym_id": "J75B2X-R"
+  },
+  {
+   "ticker": "BBY-US",
+   "name": "Best Buy Co., Inc.",
+   "fsym_id": "WPKF66-R"
+  },
+  {
+   "ticker": "F-US",
+   "name": "Ford Motor Co.",
+   "fsym_id": "XLV24X-R"
+  },
+  {
+   "ticker": "IBOC-US",
+   "name": "International Bancshares Corp.",
+   "fsym_id": "JFV8T4-R"
+  },
+  {
+   "ticker": "GNTX-US",
+   "name": "Gentex Corp.",
+   "fsym_id": "L1TD9Y-R"
+  },
+  {
+   "ticker": "APA-US",
+   "name": "APA Corp.",
+   "fsym_id": "DMX4QY-R"
+  },
+  {
+   "ticker": "BRC-US",
+   "name": "Brady Corp.",
+   "fsym_id": "H8HR7X-R"
+  },
+  {
+   "ticker": "EMN-US",
+   "name": "Eastman Chemical Co.",
+   "fsym_id": "GQGQ5C-R"
+  },
+  {
+   "ticker": "KMB-US",
+   "name": "Kimberly-Clark Corp.",
+   "fsym_id": "BQWWY7-R"
+  },
+  {
+   "ticker": "PFE-US",
+   "name": "Pfizer Inc.",
+   "fsym_id": "VK7M4R-R"
+  },
+  {
+   "ticker": "ORCL-US",
+   "name": "Oracle Corp.",
+   "fsym_id": "HQ4DBK-R"
+  },
+  {
+   "ticker": "GVA-US",
+   "name": "Granite Construction, Inc.",
+   "fsym_id": "DMRTGW-R"
+  },
+  {
+   "ticker": "MCY-US",
+   "name": "Mercury General Corp.",
+   "fsym_id": "H30FF2-R"
+  },
+  {
+   "ticker": "ZION-US",
+   "name": "Zions Bancorporation NA",
+   "fsym_id": "CRP3ZV-R"
+  },
+  {
+   "ticker": "NUE-US",
+   "name": "Nucor Corp.",
+   "fsym_id": "HKLJPC-R"
+  },
+  {
+   "ticker": "PAA-US",
+   "name": "Plains All American Pipeline LP",
+   "fsym_id": "CRNBH3-R"
+  },
+  {
+   "ticker": "WLY-US",
+   "name": "John Wiley & Sons, Inc.",
+   "fsym_id": "GYG61J-R"
+  },
+  {
+   "ticker": "STT-US",
+   "name": "State Street Corp.",
+   "fsym_id": "JQZ00G-R"
+  },
+  {
+   "ticker": "EFSC-US",
+   "name": "Enterprise Financial Services Corp.",
+   "fsym_id": "N6YZCG-R"
+  },
+  {
+   "ticker": "CI-US",
+   "name": "The Cigna Group",
+   "fsym_id": "LTN366-R"
+  },
+  {
+   "ticker": "NTRS-US",
+   "name": "Northern Trust Corp.",
+   "fsym_id": "X1RJ5Y-R"
+  },
+  {
+   "ticker": "PBI-US",
+   "name": "Pitney Bowes, Inc.",
+   "fsym_id": "DNY1KW-R"
+  },
+  {
+   "ticker": "NXST-US",
+   "name": "Nexstar Media Group, Inc.",
+   "fsym_id": "HSKDCY-R"
+  },
+  {
+   "ticker": "HLIT-US",
+   "name": "Harmonic, Inc.",
+   "fsym_id": "VJ6N5R-R"
+  },
+  {
+   "ticker": "HWC-US",
+   "name": "Hancock Whitney Corp.",
+   "fsym_id": "PGK4R1-R"
+  },
+  {
+   "ticker": "STRA-US",
+   "name": "Strategic Education, Inc.",
+   "fsym_id": "GGKMRC-R"
+  },
+  {
+   "ticker": "INTU-US",
+   "name": "Intuit, Inc.",
+   "fsym_id": "L6CPTK-R"
+  },
+  {
+   "ticker": "PRMB-US",
+   "name": "Primo Brands Corp.",
+   "fsym_id": "D0GD48-R"
+  },
+  {
+   "ticker": "AA-US",
+   "name": "Alcoa Corp.",
+   "fsym_id": "B8374S-R"
+  },
+  {
+   "ticker": "OSK-US",
+   "name": "Oshkosh Corp.",
+   "fsym_id": "GZFZSF-R"
+  },
+  {
+   "ticker": "XRAY-US",
+   "name": "Dentsply Sirona, Inc.",
+   "fsym_id": "N4P9L4-R"
+  },
+  {
+   "ticker": "MET-US",
+   "name": "MetLife, Inc.",
+   "fsym_id": "NPJW7K-R"
+  },
+  {
+   "ticker": "EXEL-US",
+   "name": "Exelixis, Inc.",
+   "fsym_id": "SJRWC5-R"
+  },
+  {
+   "ticker": "LII-US",
+   "name": "Lennox International, Inc.",
+   "fsym_id": "BYKL46-R"
+  },
+  {
+   "ticker": "RDN-US",
+   "name": "Radian Group Inc.",
+   "fsym_id": "G6KS0R-R"
+  },
+  {
+   "ticker": "PAR-US",
+   "name": "PAR Technology Corp.",
+   "fsym_id": "RZQJPB-R"
+  },
+  {
+   "ticker": "SON-US",
+   "name": "Sonoco Products Co.",
+   "fsym_id": "F1DMRL-R"
+  },
+  {
+   "ticker": "BBWI-US",
+   "name": "Bath & Body Works, Inc.",
+   "fsym_id": "FBCHQC-R"
+  },
+  {
+   "ticker": "GATX-US",
+   "name": "GATX Corp.",
+   "fsym_id": "PM2MNW-R"
+  },
+  {
+   "ticker": "UNFI-US",
+   "name": "United Natural Foods, Inc.",
+   "fsym_id": "PSRYZC-R"
+  },
+  {
+   "ticker": "CVS-US",
+   "name": "CVS Health Corp.",
+   "fsym_id": "JTC04X-R"
+  },
+  {
+   "ticker": "ZD-US",
+   "name": "Ziff Davis, Inc.",
+   "fsym_id": "QF1XDJ-R"
+  },
+  {
+   "ticker": "TTMI-US",
+   "name": "TTM Technologies, Inc.",
+   "fsym_id": "K009HF-R"
+  },
+  {
+   "ticker": "ADM-US",
+   "name": "Archer-Daniels-Midland Co.",
+   "fsym_id": "MQ119X-R"
+  },
+  {
+   "ticker": "BKNG-US",
+   "name": "Booking Holdings, Inc.",
+   "fsym_id": "LC0H1H-R"
+  },
+  {
+   "ticker": "PLAB-US",
+   "name": "Photronics, Inc.",
+   "fsym_id": "PM3G7N-R"
+  },
+  {
+   "ticker": "UCTT-US",
+   "name": "Ultra Clean Holdings, Inc.",
+   "fsym_id": "LTTPWG-R"
+  },
+  {
+   "ticker": "EOG-US",
+   "name": "EOG Resources, Inc.",
+   "fsym_id": "QHBXV5-R"
+  },
+  {
+   "ticker": "BC-US",
+   "name": "Brunswick Corp.",
+   "fsym_id": "TWTFJJ-R"
+  },
+  {
+   "ticker": "DY-US",
+   "name": "Dycom Industries, Inc.",
+   "fsym_id": "WC77JQ-R"
+  },
+  {
+   "ticker": "FRME-US",
+   "name": "First Merchants Corp. (Indiana)",
+   "fsym_id": "QR495P-R"
+  },
+  {
+   "ticker": "UFPI-US",
+   "name": "UFP Industries, Inc.",
+   "fsym_id": "NT2TYR-R"
+  },
+  {
+   "ticker": "BBT-US",
+   "name": "Beacon Financial Corp.",
+   "fsym_id": "LMYZ8X-R"
+  },
+  {
+   "ticker": "CSL-US",
+   "name": "Carlisle Cos., Inc.",
+   "fsym_id": "TMVLRW-R"
+  },
+  {
+   "ticker": "PPG-US",
+   "name": "PPG Industries, Inc.",
+   "fsym_id": "HSFL3C-R"
+  },
+  {
+   "ticker": "TRMK-US",
+   "name": "Trustmark Corp.",
+   "fsym_id": "XF4KJ8-R"
+  },
+  {
+   "ticker": "ZBH-US",
+   "name": "Zimmer Biomet Holdings, Inc.",
+   "fsym_id": "LJQYJ1-R"
+  },
+  {
+   "ticker": "BWA-US",
+   "name": "BorgWarner, Inc.",
+   "fsym_id": "HF1P15-R"
+  },
+  {
+   "ticker": "MTG-US",
+   "name": "MGIC Investment Corp.",
+   "fsym_id": "FWHKKR-R"
+  },
+  {
+   "ticker": "PB-US",
+   "name": "Prosperity Bancshares, Inc.",
+   "fsym_id": "W6TWGR-R"
+  },
+  {
+   "ticker": "FHN-US",
+   "name": "First Horizon Corp. (Tennessee)",
+   "fsym_id": "RDQZ92-R"
+  },
+  {
+   "ticker": "C-US",
+   "name": "Citigroup, Inc.",
+   "fsym_id": "RK3DL5-R"
+  },
+  {
+   "ticker": "BUSE-US",
+   "name": "First Busey Corp.",
+   "fsym_id": "HBS07V-R"
+  },
+  {
+   "ticker": "OZK-US",
+   "name": "Bank OZK",
+   "fsym_id": "VTBDG3-R"
+  },
+  {
+   "ticker": "CBZ-US",
+   "name": "CBIZ, Inc.",
+   "fsym_id": "N7YW9G-R"
+  },
+  {
+   "ticker": "FFIN-US",
+   "name": "First Financial Bankshares, Inc.",
+   "fsym_id": "WQQK33-R"
+  },
+  {
+   "ticker": "DIOD-US",
+   "name": "Diodes, Inc.",
+   "fsym_id": "V4QL2L-R"
+  },
+  {
+   "ticker": "WSBC-US",
+   "name": "WesBanco, Inc.",
+   "fsym_id": "FQV0X3-R"
+  },
+  {
+   "ticker": "COP-US",
+   "name": "ConocoPhillips",
+   "fsym_id": "TWXW2R-R"
+  },
+  {
+   "ticker": "CFR-US",
+   "name": "Cullen/Frost Bankers, Inc.",
+   "fsym_id": "WPL09R-R"
+  },
+  {
+   "ticker": "DVA-US",
+   "name": "DaVita, Inc.",
+   "fsym_id": "FQYW7Q-R"
+  },
+  {
+   "ticker": "SR-US",
+   "name": "Spire Inc.",
+   "fsym_id": "TY311P-R"
+  },
+  {
+   "ticker": "EXC-US",
+   "name": "Exelon Corp.",
+   "fsym_id": "NPK3PS-R"
+  },
+  {
+   "ticker": "TDC-US",
+   "name": "Teradata Corp.",
+   "fsym_id": "DF2WYT-R"
+  },
+  {
+   "ticker": "CVI-US",
+   "name": "CVR Energy, Inc.",
+   "fsym_id": "HSFQHM-R"
+  },
+  {
+   "ticker": "CIM-US",
+   "name": "Chimera Investment Corp.",
+   "fsym_id": "DJJ9XP-R"
+  },
+  {
+   "ticker": "WD-US",
+   "name": "Walker & Dunlop, Inc.",
+   "fsym_id": "QSLJL8-R"
+  },
+  {
+   "ticker": "BAH-US",
+   "name": "Booz Allen Hamilton Holding Corp.",
+   "fsym_id": "MY3SK8-R"
+  },
+  {
+   "ticker": "FBIN-US",
+   "name": "Fortune Brands Innovations, Inc.",
+   "fsym_id": "BWZ93Y-R"
+  },
+  {
+   "ticker": "MWA-US",
+   "name": "Mueller Water Products, Inc.",
+   "fsym_id": "MWNNBS-R"
+  },
+  {
+   "ticker": "PMT-US",
+   "name": "PennyMac Mortgage Investment Trust",
+   "fsym_id": "BRYLF1-R"
+  },
+  {
+   "ticker": "GPK-US",
+   "name": "Graphic Packaging Holding Co.",
+   "fsym_id": "Q2W7B8-R"
+  },
+  {
+   "ticker": "RPRX-US",
+   "name": "Royalty Pharma Plc",
+   "fsym_id": "MN5CL1-R"
+  },
+  {
+   "ticker": "ENS-US",
+   "name": "EnerSys",
+   "fsym_id": "PX77L1-R"
+  },
+  {
+   "ticker": "CLF-US",
+   "name": "Cleveland-Cliffs, Inc.",
+   "fsym_id": "WDGX90-R"
+  },
+  {
+   "ticker": "ACM-US",
+   "name": "AECOM",
+   "fsym_id": "VZZ3P2-R"
+  },
+  {
+   "ticker": "CQP-US",
+   "name": "Cheniere Energy Partners LP",
+   "fsym_id": "L6LZQD-R"
+  },
+  {
+   "ticker": "EVR-US",
+   "name": "Evercore, Inc.",
+   "fsym_id": "P34VYH-R"
+  },
+  {
+   "ticker": "VISN-US",
+   "name": "Vistance Networks, Inc.",
+   "fsym_id": "WX2GPZ-R"
+  },
+  {
+   "ticker": "PRG-US",
+   "name": "PROG Holdings, Inc.",
+   "fsym_id": "SM0Z0Y-R"
+  },
+  {
+   "ticker": "WES-US",
+   "name": "Western Midstream Partners LP",
+   "fsym_id": "V0LYTZ-R"
+  },
+  {
+   "ticker": "SFM-US",
+   "name": "Sprouts Farmers Market, Inc.",
+   "fsym_id": "CSDT95-R"
+  },
+  {
+   "ticker": "OPCH-US",
+   "name": "Option Care Health, Inc.",
+   "fsym_id": "W6TQ4L-R"
+  },
+  {
+   "ticker": "MO-US",
+   "name": "Altria Group, Inc.",
+   "fsym_id": "PN6Y00-R"
+  },
+  {
+   "ticker": "MSDL-US",
+   "name": "Morgan Stanley Direct Lending Fund",
+   "fsym_id": "BX0SCR-R"
+  },
+  {
+   "ticker": "SSNC-US",
+   "name": "SS&C Technologies Holdings, Inc.",
+   "fsym_id": "G92RX2-R"
+  },
+  {
+   "ticker": "DK-US",
+   "name": "Delek US Holdings, Inc.",
+   "fsym_id": "VDX7WN-R"
+  },
+  {
+   "ticker": "MATX-US",
+   "name": "Matson, Inc.",
+   "fsym_id": "QVP8YX-R"
+  },
+  {
+   "ticker": "GNRC-US",
+   "name": "Generac Holdings, Inc.",
+   "fsym_id": "XC2LNC-R"
+  },
+  {
+   "ticker": "FAF-US",
+   "name": "First American Financial Corp.",
+   "fsym_id": "M9JF58-R"
+  },
+  {
+   "ticker": "G-US",
+   "name": "Genpact Ltd.",
+   "fsym_id": "T8GMPR-R"
+  },
+  {
+   "ticker": "CROX-US",
+   "name": "Crocs, Inc.",
+   "fsym_id": "H9W1YM-R"
+  },
+  {
+   "ticker": "AAL-US",
+   "name": "American Airlines Group, Inc.",
+   "fsym_id": "CSFJSZ-R"
+  },
+  {
+   "ticker": "LAZ-US",
+   "name": "Lazard, Inc.",
+   "fsym_id": "CRL9M6-R"
+  },
+  {
+   "ticker": "MORN-US",
+   "name": "Morningstar, Inc.",
+   "fsym_id": "JFXM8B-R"
+  },
+  {
+   "ticker": "GM-US",
+   "name": "General Motors Co.",
+   "fsym_id": "T0SQZH-R"
+  },
+  {
+   "ticker": "EXP-US",
+   "name": "Eagle Materials, Inc.",
+   "fsym_id": "FZX1RR-R"
+  },
+  {
+   "ticker": "KMX-US",
+   "name": "CarMax, Inc.",
+   "fsym_id": "QCYLZB-R"
+  },
+  {
+   "ticker": "KDP-US",
+   "name": "Keurig Dr Pepper, Inc.",
+   "fsym_id": "BT4P4V-R"
+  },
+  {
+   "ticker": "LPLA-US",
+   "name": "LPL Financial Holdings, Inc.",
+   "fsym_id": "BXWZVW-R"
+  },
+  {
+   "ticker": "MTDR-US",
+   "name": "Matador Resources Co.",
+   "fsym_id": "QDNCGR-R"
+  },
+  {
+   "ticker": "LDOS-US",
+   "name": "Leidos Holdings, Inc.",
+   "fsym_id": "L7LP86-R"
+  },
+  {
+   "ticker": "PHIN-US",
+   "name": "PHINIA, Inc.",
+   "fsym_id": "C94QCK-R"
+  },
+  {
+   "ticker": "LEA-US",
+   "name": "Lear Corp.",
+   "fsym_id": "Q2XGTK-R"
+  },
+  {
+   "ticker": "VRTS-US",
+   "name": "Virtus Investment Partners, Inc.",
+   "fsym_id": "JMPXBQ-R"
+  },
+  {
+   "ticker": "BNY-US",
+   "name": "The Bank of New York Mellon Corp.",
+   "fsym_id": "DF9PT2-R"
+  },
+  {
+   "ticker": "IT-US",
+   "name": "Gartner, Inc.",
+   "fsym_id": "T67DJN-R"
+  },
+  {
+   "ticker": "OC-US",
+   "name": "Owens Corning",
+   "fsym_id": "L1XNK0-R"
+  },
+  {
+   "ticker": "PGEN-US",
+   "name": "Precigen, Inc.",
+   "fsym_id": "Q84LYM-R"
+  },
+  {
+   "ticker": "AMRC-US",
+   "name": "Ameresco, Inc.",
+   "fsym_id": "JH31WN-R"
+  },
+  {
+   "ticker": "ADNT-US",
+   "name": "Adient plc",
+   "fsym_id": "WW7DBW-R"
+  },
+  {
+   "ticker": "ORC-US",
+   "name": "Orchid Island Capital, Inc.",
+   "fsym_id": "XHSVLM-R"
+  },
+  {
+   "ticker": "CPAY-US",
+   "name": "Corpay, Inc.",
+   "fsym_id": "WGXV7D-R"
+  },
+  {
+   "ticker": "NRG-US",
+   "name": "NRG Energy, Inc.",
+   "fsym_id": "RVC5J9-R"
+  },
+  {
+   "ticker": "VRRM-US",
+   "name": "Verra Mobility Corp.",
+   "fsym_id": "HC0280-R"
+  },
+  {
+   "ticker": "VIRT-US",
+   "name": "Virtu Financial, Inc.",
+   "fsym_id": "N2VGP9-R"
+  },
+  {
+   "ticker": "FHB-US",
+   "name": "First Hawaiian, Inc.",
+   "fsym_id": "JWFM05-R"
+  },
+  {
+   "ticker": "PNFP-US",
+   "name": "Pinnacle Financial Partners, Inc.",
+   "fsym_id": "WW3NPV-R"
+  },
+  {
+   "ticker": "CDW-US",
+   "name": "CDW Corp.",
+   "fsym_id": "RTXD8D-R"
+  },
+  {
+   "ticker": "PFBC-US",
+   "name": "Preferred Bank (California)",
+   "fsym_id": "DCV2T8-R"
+  },
+  {
+   "ticker": "ANIP-US",
+   "name": "ANI Pharmaceuticals, Inc.",
+   "fsym_id": "JCQB07-R"
+  },
+  {
+   "ticker": "MC-US",
+   "name": "Moelis & Co.",
+   "fsym_id": "H1YRLX-R"
+  },
+  {
+   "ticker": "BKU-US",
+   "name": "BankUnited, Inc.",
+   "fsym_id": "S6ZVJX-R"
+  },
+  {
+   "ticker": "RUSHA-US",
+   "name": "Rush Enterprises, Inc.",
+   "fsym_id": "DWV3VS-R"
+  },
+  {
+   "ticker": "SLVM-US",
+   "name": "Sylvamo Corp.",
+   "fsym_id": "B21JK0-R"
+  },
+  {
+   "ticker": "DPZ-US",
+   "name": "Domino's Pizza, Inc.",
+   "fsym_id": "F05QG0-R"
+  },
+  {
+   "ticker": "ENOV-US",
+   "name": "Enovis Corp.",
+   "fsym_id": "N13W2M-R"
+  },
+  {
+   "ticker": "JXN-US",
+   "name": "Jackson Financial, Inc.",
+   "fsym_id": "RYCCN4-R"
+  },
+  {
+   "ticker": "SBH-US",
+   "name": "Sally Beauty Holdings, Inc.",
+   "fsym_id": "QVNMQ9-R"
+  },
+  {
+   "ticker": "SENEA-US",
+   "name": "Seneca Foods Corp.",
+   "fsym_id": "SC3VJX-R"
+  },
+  {
+   "ticker": "BOOT-US",
+   "name": "Boot Barn Holdings, Inc.",
+   "fsym_id": "LNDJN4-R"
+  },
+  {
+   "ticker": "TOWN-US",
+   "name": "TowneBank",
+   "fsym_id": "MYZF74-R"
+  },
+  {
+   "ticker": "STWD-US",
+   "name": "Starwood Property Trust, Inc.",
+   "fsym_id": "PRKZKS-R"
+  },
+  {
+   "ticker": "KKR-US",
+   "name": "KKR & Co., Inc.",
+   "fsym_id": "T8Q3VN-R"
+  },
+  {
+   "ticker": "DINO-US",
+   "name": "HF Sinclair Corp.",
+   "fsym_id": "KSWML9-R"
+  },
+  {
+   "ticker": "ARCC-US",
+   "name": "Ares Capital Corp.",
+   "fsym_id": "W95DST-R"
+  },
+  {
+   "ticker": "NOG-US",
+   "name": "Northern Oil & Gas, Inc.",
+   "fsym_id": "SRT1FX-R"
+  },
+  {
+   "ticker": "PSEC-US",
+   "name": "Prospect Capital Corp.",
+   "fsym_id": "P0V324-R"
+  },
+  {
+   "ticker": "RNST-US",
+   "name": "Renasant Corp.",
+   "fsym_id": "KDD7RR-R"
+  },
+  {
+   "ticker": "ABR-US",
+   "name": "Arbor Realty Trust, Inc.",
+   "fsym_id": "V85FWW-R"
+  },
+  {
+   "ticker": "ST-US",
+   "name": "Sensata Technologies Holding Plc",
+   "fsym_id": "QTH475-R"
+  },
+  {
+   "ticker": "MFIC-US",
+   "name": "MidCap Financial Investment Corp",
+   "fsym_id": "QR5GDS-R"
+  },
+  {
+   "ticker": "RNG-US",
+   "name": "RingCentral, Inc.",
+   "fsym_id": "N22FC8-R"
+  },
+  {
+   "ticker": "AGNC-US",
+   "name": "AGNC Investment Corp.",
+   "fsym_id": "VS5NDP-R"
+  },
+  {
+   "ticker": "RGA-US",
+   "name": "Reinsurance Group of America, Inc.",
+   "fsym_id": "N7YFL5-R"
+  },
+  {
+   "ticker": "HCA-US",
+   "name": "HCA Healthcare, Inc.",
+   "fsym_id": "NKGZ7J-R"
+  },
+  {
+   "ticker": "PCRX-US",
+   "name": "Pacira Biosciences, Inc.",
+   "fsym_id": "HW4VZL-R"
+  },
+  {
+   "ticker": "TBBK-US",
+   "name": "The Bancorp, Inc. (Delaware)",
+   "fsym_id": "T9QDJ0-R"
+  },
+  {
+   "ticker": "STX-US",
+   "name": "Seagate Technology Holdings Plc",
+   "fsym_id": "KXDMGL-R"
+  },
+  {
+   "ticker": "LZ-US",
+   "name": "LegalZoom.com, Inc.",
+   "fsym_id": "S33GTT-R"
+  },
+  {
+   "ticker": "GSBD-US",
+   "name": "Goldman Sachs BDC, Inc.",
+   "fsym_id": "P01GQN-R"
+  },
+  {
+   "ticker": "CE-US",
+   "name": "Celanese Corp.",
+   "fsym_id": "QP3LLV-R"
+  },
+  {
+   "ticker": "CMCSA-US",
+   "name": "Comcast Corp.",
+   "fsym_id": "JMNLQC-R"
+  },
+  {
+   "ticker": "CCS-US",
+   "name": "Century Communities, Inc.",
+   "fsym_id": "NCBY9P-R"
+  },
+  {
+   "ticker": "GDDY-US",
+   "name": "GoDaddy, Inc.",
+   "fsym_id": "W2TCHD-R"
+  },
+  {
+   "ticker": "LADR-US",
+   "name": "Ladder Capital Corp.",
+   "fsym_id": "HKRHNJ-R"
+  },
+  {
+   "ticker": "ALLY-US",
+   "name": "Ally Financial, Inc.",
+   "fsym_id": "TDZFBZ-R"
+  },
+  {
+   "ticker": "HLF-US",
+   "name": "Herbalife Ltd.",
+   "fsym_id": "BMF3C2-R"
+  },
+  {
+   "ticker": "CRM-US",
+   "name": "Salesforce, Inc.",
+   "fsym_id": "GZMRSV-R"
+  },
+  {
+   "ticker": "YETI-US",
+   "name": "YETI Holdings, Inc.",
+   "fsym_id": "WVL7XZ-R"
+  },
+  {
+   "ticker": "CBRE-US",
+   "name": "CBRE Group, Inc.",
+   "fsym_id": "S26JJL-R"
+  },
+  {
+   "ticker": "NAVI-US",
+   "name": "Navient Corp.",
+   "fsym_id": "J2LVSN-R"
+  },
+  {
+   "ticker": "CCK-US",
+   "name": "Crown Holdings, Inc.",
+   "fsym_id": "FGW76H-R"
+  },
+  {
+   "ticker": "CUBI-US",
+   "name": "Customers Bancorp, Inc.",
+   "fsym_id": "K4HQD8-R"
+  },
+  {
+   "ticker": "ELV-US",
+   "name": "Elevance Health, Inc.",
+   "fsym_id": "VT66G5-R"
+  },
+  {
+   "ticker": "AUGO-US",
+   "name": "Aura Minerals, Inc.",
+   "fsym_id": "QSJCB3-R"
+  },
+  {
+   "ticker": "GMED-US",
+   "name": "Globus Medical, Inc.",
+   "fsym_id": "MZYB86-R"
+  },
+  {
+   "ticker": "HGV-US",
+   "name": "Hilton Grand Vacations, Inc.",
+   "fsym_id": "N1475C-R"
+  },
+  {
+   "ticker": "PBF-US",
+   "name": "PBF Energy, Inc.",
+   "fsym_id": "L5H9R0-R"
+  },
+  {
+   "ticker": "SPB-US",
+   "name": "Spectrum Brands Holdings, Inc.",
+   "fsym_id": "XQC8FD-R"
+  },
+  {
+   "ticker": "FLOC-US",
+   "name": "Flowco Holdings, Inc.",
+   "fsym_id": "PSR329-R"
+  },
+  {
+   "ticker": "COTY-US",
+   "name": "Coty, Inc.",
+   "fsym_id": "XNRMXZ-R"
+  },
+  {
+   "ticker": "ADT-US",
+   "name": "ADT, Inc.",
+   "fsym_id": "L6NQKK-R"
+  },
+  {
+   "ticker": "ALSN-US",
+   "name": "Allison Transmission Holdings, Inc.",
+   "fsym_id": "D4VZNG-R"
+  },
+  {
+   "ticker": "BL-US",
+   "name": "BlackLine, Inc.",
+   "fsym_id": "GTX8YX-R"
+  },
+  {
+   "ticker": "BFC-US",
+   "name": "Bank First Corp.",
+   "fsym_id": "DTL9Q8-R"
+  },
+  {
+   "ticker": "APAM-US",
+   "name": "Artisan Partners Asset Management, Inc.",
+   "fsym_id": "L2LQRT-R"
+  },
+  {
+   "ticker": "TRV-US",
+   "name": "The Travelers Cos., Inc.",
+   "fsym_id": "FS319Q-R"
+  },
+  {
+   "ticker": "NEXT-US",
+   "name": "NextDecade Corp.",
+   "fsym_id": "S9F3FX-R"
+  },
+  {
+   "ticker": "GBDC-US",
+   "name": "Golub Capital BDC, Inc.",
+   "fsym_id": "Q1SQJY-R"
+  },
+  {
+   "ticker": "PPC-US",
+   "name": "Pilgrim's Pride Corp.",
+   "fsym_id": "MWRCJB-R"
+  },
+  {
+   "ticker": "PVH-US",
+   "name": "PVH Corp.",
+   "fsym_id": "XKPH9J-R"
+  },
+  {
+   "ticker": "EBC-US",
+   "name": "Eastern Bankshares, Inc.",
+   "fsym_id": "V9V5TP-R"
+  },
+  {
+   "ticker": "FIVN-US",
+   "name": "Five9, Inc.",
+   "fsym_id": "JCT2SB-R"
+  },
+  {
+   "ticker": "LPG-US",
+   "name": "Dorian LPG Ltd.",
+   "fsym_id": "XQBPZH-R"
+  },
+  {
+   "ticker": "MRP-US",
+   "name": "Millrose Properties, Inc.",
+   "fsym_id": "LKPCCD-R"
+  },
+  {
+   "ticker": "FTAI-US",
+   "name": "FTAI Aviation Ltd.",
+   "fsym_id": "XFW8B2-R"
+  },
+  {
+   "ticker": "BLDR-US",
+   "name": "Builders FirstSource, Inc.",
+   "fsym_id": "XLW9J2-R"
+  },
+  {
+   "ticker": "AX-US",
+   "name": "Axos Financial, Inc.",
+   "fsym_id": "L0WG3S-R"
+  },
+  {
+   "ticker": "PSIX-US",
+   "name": "Power Solutions International, Inc.",
+   "fsym_id": "FDVB7G-R"
+  },
+  {
+   "ticker": "CHTR-US",
+   "name": "Charter Communications, Inc.",
+   "fsym_id": "F1B8CH-R"
+  },
+  {
+   "ticker": "ACI-US",
+   "name": "Albertsons Cos., Inc.",
+   "fsym_id": "GF26VF-R"
+  },
+  {
+   "ticker": "RF-US",
+   "name": "Regions Financial Corp.",
+   "fsym_id": "FDS65G-R"
+  },
+  {
+   "ticker": "TNL-US",
+   "name": "Travel + Leisure Co.",
+   "fsym_id": "RBDXWG-R"
+  },
+  {
+   "ticker": "AMP-US",
+   "name": "Ameriprise Financial, Inc.",
+   "fsym_id": "SKZRLQ-R"
+  },
+  {
+   "ticker": "FIS-US",
+   "name": "Fidelity National Information Services, Inc.",
+   "fsym_id": "RGTY61-R"
+  },
+  {
+   "ticker": "FBK-US",
+   "name": "FB Financial Corp.",
+   "fsym_id": "N22ND2-R"
+  },
+  {
+   "ticker": "OCSL-US",
+   "name": "Oaktree Specialty Lending Corp.",
+   "fsym_id": "QDXTQT-R"
+  },
+  {
+   "ticker": "GLP-US",
+   "name": "Global Partners LP",
+   "fsym_id": "FT5NF8-R"
+  },
+  {
+   "ticker": "GME-US",
+   "name": "GameStop Corp.",
+   "fsym_id": "Q53D75-R"
+  },
+  {
+   "ticker": "UAL-US",
+   "name": "United Airlines Holdings, Inc.",
+   "fsym_id": "QKJS7V-R"
+  },
+  {
+   "ticker": "NCLH-US",
+   "name": "Norwegian Cruise Line Holdings Ltd.",
+   "fsym_id": "W0731Q-R"
+  },
+  {
+   "ticker": "IVZ-US",
+   "name": "Invesco Ltd.",
+   "fsym_id": "GS3RJ8-R"
+  },
+  {
+   "ticker": "T-US",
+   "name": "AT&T, Inc.",
+   "fsym_id": "VLHKF9-R"
+  },
+  {
+   "ticker": "BFAM-US",
+   "name": "Bright Horizons Family Solutions, Inc.",
+   "fsym_id": "FRC92J-R"
+  },
+  {
+   "ticker": "PWP-US",
+   "name": "Perella Weinberg Partners",
+   "fsym_id": "XL7ZY6-R"
+  },
+  {
+   "ticker": "ABCB-US",
+   "name": "Ameris Bancorp",
+   "fsym_id": "RXLXJR-R"
+  },
+  {
+   "ticker": "TMUS-US",
+   "name": "T-Mobile US, Inc.",
+   "fsym_id": "W5QQ9P-R"
+  },
+  {
+   "ticker": "INVA-US",
+   "name": "Innoviva, Inc.",
+   "fsym_id": "RS5F9Q-R"
+  },
+  {
+   "ticker": "ET-US",
+   "name": "Energy Transfer LP",
+   "fsym_id": "D9RT6Y-R"
+  },
+  {
+   "ticker": "HALO-US",
+   "name": "Halozyme Therapeutics, Inc.",
+   "fsym_id": "R2H0WP-R"
+  },
+  {
+   "ticker": "NNI-US",
+   "name": "Nelnet, Inc.",
+   "fsym_id": "G21ZDK-R"
+  },
+  {
+   "ticker": "LKQ-US",
+   "name": "LKQ Corp.",
+   "fsym_id": "JZWRR3-R"
+  },
+  {
+   "ticker": "GNW-US",
+   "name": "Genworth Financial, Inc.",
+   "fsym_id": "N93NK1-R"
+  },
+  {
+   "ticker": "ARR-US",
+   "name": "ARMOUR Residential REIT, Inc.",
+   "fsym_id": "X1Y52C-R"
+  },
+  {
+   "ticker": "PRGO-US",
+   "name": "Perrigo Co. Plc",
+   "fsym_id": "H53QZC-R"
+  },
+  {
+   "ticker": "PIPR-US",
+   "name": "Piper Sandler Cos.",
+   "fsym_id": "D9PWK4-R"
+  },
+  {
+   "ticker": "SUN-US",
+   "name": "Sunoco LP",
+   "fsym_id": "PKSJ68-R"
+  },
+  {
+   "ticker": "POR-US",
+   "name": "Portland General Electric Co.",
+   "fsym_id": "M4YLK1-R"
+  },
+  {
+   "ticker": "LVS-US",
+   "name": "Las Vegas Sands Corp.",
+   "fsym_id": "VBN9H0-R"
+  },
+  {
+   "ticker": "HTGC-US",
+   "name": "Hercules Capital, Inc.",
+   "fsym_id": "X43PRM-R"
+  },
+  {
+   "ticker": "HAPN-US",
+   "name": "Happen, Inc.",
+   "fsym_id": "S2CJKS-R"
+  },
+  {
+   "ticker": "DLB-US",
+   "name": "Dolby Laboratories, Inc.",
+   "fsym_id": "V2KMCR-R"
+  },
+  {
+   "ticker": "PBH-US",
+   "name": "Prestige Consumer Healthcare, Inc.",
+   "fsym_id": "PRQPF2-R"
+  },
+  {
+   "ticker": "URGN-US",
+   "name": "UroGen Pharma Ltd.",
+   "fsym_id": "S5DRFC-R"
+  },
+  {
+   "ticker": "TAP-US",
+   "name": "Molson Coors Beverage Co.",
+   "fsym_id": "NCL5GV-R"
+  },
+  {
+   "ticker": "WAL-US",
+   "name": "Western Alliance Bancorp.",
+   "fsym_id": "NNMSP6-R"
+  },
+  {
+   "ticker": "THG-US",
+   "name": "The Hanover Insurance Group, Inc.",
+   "fsym_id": "QCXGT8-R"
+  },
+  {
+   "ticker": "RPD-US",
+   "name": "Rapid7, Inc.",
+   "fsym_id": "Q6S9RD-R"
+  },
+  {
+   "ticker": "VC-US",
+   "name": "Visteon Corp.",
+   "fsym_id": "BYSX76-R"
+  },
+  {
+   "ticker": "EPAM-US",
+   "name": "EPAM Systems, Inc.",
+   "fsym_id": "PTMMVD-R"
+  },
+  {
+   "ticker": "PFS-US",
+   "name": "Provident Financial Services, Inc.",
+   "fsym_id": "TTHNN5-R"
+  },
+  {
+   "ticker": "TCBI-US",
+   "name": "Texas Capital Bancshares, Inc.",
+   "fsym_id": "TJFMNF-R"
+  },
+  {
+   "ticker": "CRI-US",
+   "name": "Carter's, Inc.",
+   "fsym_id": "DYZT1C-R"
+  },
+  {
+   "ticker": "HPE-US",
+   "name": "Hewlett Packard Enterprise Co.",
+   "fsym_id": "F9VYPD-R"
+  },
+  {
+   "ticker": "SNX-US",
+   "name": "TD SYNNEX Corp.",
+   "fsym_id": "JJ8MHV-R"
+  },
+  {
+   "ticker": "ARRY-US",
+   "name": "Array Technologies, Inc.",
+   "fsym_id": "M4FSNG-R"
+  },
+  {
+   "ticker": "WEN-US",
+   "name": "The Wendy's Co.",
+   "fsym_id": "VXQ46D-R"
+  },
+  {
+   "ticker": "WEX-US",
+   "name": "WEX, Inc.",
+   "fsym_id": "W7WYJS-R"
+  },
+  {
+   "ticker": "HTH-US",
+   "name": "Hilltop Holdings, Inc.",
+   "fsym_id": "BYPLSZ-R"
+  },
+  {
+   "ticker": "CF-US",
+   "name": "CF Industries Holdings, Inc.",
+   "fsym_id": "D1P43P-R"
+  },
+  {
+   "ticker": "HOMB-US",
+   "name": "Home Bancshares, Inc. (Arkansas)",
+   "fsym_id": "CW0Z19-R"
+  },
+  {
+   "ticker": "CNO-US",
+   "name": "CNO Financial Group, Inc.",
+   "fsym_id": "NXCXNK-R"
+  },
+  {
+   "ticker": "LCII-US",
+   "name": "LCI Industries",
+   "fsym_id": "RVBG4M-R"
+  },
+  {
+   "ticker": "ICFI-US",
+   "name": "ICF International, Inc.",
+   "fsym_id": "NMDHN8-R"
+  },
+  {
+   "ticker": "ALGT-US",
+   "name": "Allegiant Travel Co.",
+   "fsym_id": "V77ZM5-R"
+  },
+  {
+   "ticker": "KALU-US",
+   "name": "Kaiser Aluminum Corp.",
+   "fsym_id": "R887PW-R"
+  },
+  {
+   "ticker": "WU-US",
+   "name": "The Western Union Co.",
+   "fsym_id": "J9F59G-R"
+  },
+  {
+   "ticker": "BLKB-US",
+   "name": "Blackbaud, Inc.",
+   "fsym_id": "SZLVHR-R"
+  },
+  {
+   "ticker": "WLDN-US",
+   "name": "Willdan Group, Inc.",
+   "fsym_id": "QLVDQZ-R"
+  },
+  {
+   "ticker": "BLBD-US",
+   "name": "Blue Bird Corp.",
+   "fsym_id": "VDXHWD-R"
+  },
+  {
+   "ticker": "PFSI-US",
+   "name": "PennyMac Financial Services, Inc.",
+   "fsym_id": "D5T7M2-R"
+  },
+  {
+   "ticker": "KBR-US",
+   "name": "KBR, Inc.",
+   "fsym_id": "W6XKL8-R"
+  },
+  {
+   "ticker": "FSLR-US",
+   "name": "First Solar, Inc.",
+   "fsym_id": "D0QHLW-R"
+  },
+  {
+   "ticker": "AXTA-US",
+   "name": "Axalta Coating Systems Ltd.",
+   "fsym_id": "QF7NWF-R"
+  },
+  {
+   "ticker": "PRIM-US",
+   "name": "Primoris Services Corp.",
+   "fsym_id": "GZPJ4H-R"
+  },
+  {
+   "ticker": "AMR-US",
+   "name": "Alpha Metallurgical Resources, Inc.",
+   "fsym_id": "K5HCGN-R"
+  },
+  {
+   "ticker": "OBK-US",
+   "name": "Origin Bancorp, Inc.",
+   "fsym_id": "DHHJVD-R"
+  },
+  {
+   "ticker": "ECVT-US",
+   "name": "Ecovyst, Inc.",
+   "fsym_id": "MS8KKT-R"
+  },
+  {
+   "ticker": "PAHC-US",
+   "name": "Phibro Animal Health Corp.",
+   "fsym_id": "VPWBS4-R"
+  },
+  {
+   "ticker": "SNEX-US",
+   "name": "StoneX Group, Inc.",
+   "fsym_id": "FWHLMS-R"
+  },
+  {
+   "ticker": "ADMA-US",
+   "name": "ADMA Biologics, Inc.",
+   "fsym_id": "C3W79W-R"
+  },
+  {
+   "ticker": "SMCI-US",
+   "name": "Super Micro Computer, Inc.",
+   "fsym_id": "PTW56G-R"
+  },
+  {
+   "ticker": "FIBK-US",
+   "name": "First Interstate BancSystem, Inc.",
+   "fsym_id": "PPFFNB-R"
+  },
+  {
+   "ticker": "VOYA-US",
+   "name": "Voya Financial, Inc.",
+   "fsym_id": "WG7T4P-R"
+  },
+  {
+   "ticker": "TNET-US",
+   "name": "TriNet Group, Inc.",
+   "fsym_id": "XQ90MS-R"
+  },
+  {
+   "ticker": "DAL-US",
+   "name": "Delta Air Lines, Inc.",
+   "fsym_id": "DGBZCC-R"
+  },
+  {
+   "ticker": "CNK-US",
+   "name": "Cinemark Holdings, Inc.",
+   "fsym_id": "DF2CV6-R"
+  },
+  {
+   "ticker": "BX-US",
+   "name": "Blackstone, Inc.",
+   "fsym_id": "VLH7Z4-R"
+  },
+  {
+   "ticker": "ZTS-US",
+   "name": "Zoetis, Inc.",
+   "fsym_id": "TW6KKV-R"
+  },
+  {
+   "ticker": "M-US",
+   "name": "Macy's, Inc.",
+   "fsym_id": "BV3N5V-R"
+  },
+  {
+   "ticker": "GRBK-US",
+   "name": "Green Brick Partners, Inc.",
+   "fsym_id": "C7LRM8-R"
+  },
+  {
+   "ticker": "RITM-US",
+   "name": "Rithm Capital Corp.",
+   "fsym_id": "VRK9JK-R"
+  },
+  {
+   "ticker": "NIC-US",
+   "name": "Nicolet Bankshares, Inc.",
+   "fsym_id": "PLFHF4-R"
+  },
+  {
+   "ticker": "AR-US",
+   "name": "Antero Resources Corp.",
+   "fsym_id": "T9LK6F-R"
+  },
+  {
+   "ticker": "MAIN-US",
+   "name": "Main Street Capital Corp",
+   "fsym_id": "GQN0DG-R"
+  },
+  {
+   "ticker": "LRN-US",
+   "name": "Stride, Inc.",
+   "fsym_id": "WNG0Q1-R"
+  },
+  {
+   "ticker": "PR-US",
+   "name": "Permian Resources Corp.",
+   "fsym_id": "TXMP9V-R"
+  },
+  {
+   "ticker": "DAN-US",
+   "name": "Dana, Inc.",
+   "fsym_id": "NDMX0P-R"
+  },
+  {
+   "ticker": "BGC-US",
+   "name": "BGC Group, Inc.",
+   "fsym_id": "V5WLSD-R"
+  },
+  {
+   "ticker": "HPQ-US",
+   "name": "HP, Inc.",
+   "fsym_id": "MS57L1-R"
+  },
+  {
+   "ticker": "GOLD-US",
+   "name": "Gold.com, Inc.",
+   "fsym_id": "BDL0BJ-R"
+  },
+  {
+   "ticker": "TSLX-US",
+   "name": "Sixth Street Specialty Lending, Inc.",
+   "fsym_id": "TJN9X6-R"
+  },
+  {
+   "ticker": "EFC-US",
+   "name": "Ellington Financial, Inc.",
+   "fsym_id": "QD02XV-R"
+  },
+  {
+   "ticker": "FSUN-US",
+   "name": "FirstSun Capital Bancorp",
+   "fsym_id": "S19W1X-R"
+  },
+  {
+   "ticker": "FOR-US",
+   "name": "Forestar Group, Inc.",
+   "fsym_id": "T1TZGR-R"
+  },
+  {
+   "ticker": "ANAB-US",
+   "name": "AnaptysBio, Inc.",
+   "fsym_id": "NDJP92-R"
+  },
+  {
+   "ticker": "GTES-US",
+   "name": "Gates Industrial Corp. Ltd.",
+   "fsym_id": "M2WGSD-R"
+  },
+  {
+   "ticker": "LOPE-US",
+   "name": "Grand Canyon Education, Inc.",
+   "fsym_id": "DCZY5Y-R"
+  },
+  {
+   "ticker": "HCI-US",
+   "name": "HCI Group, Inc.",
+   "fsym_id": "DLN18C-R"
+  },
+  {
+   "ticker": "EYE-US",
+   "name": "National Vision Holdings, Inc.",
+   "fsym_id": "PC6T9Q-R"
+  },
+  {
+   "ticker": "1316-HK",
+   "name": "Nexteer Automotive Group Ltd.",
+   "fsym_id": "CH9L09-R"
+  },
+  {
+   "ticker": "NWBI-US",
+   "name": "Northwest Bancshares, Inc. (Pennsylvania)",
+   "fsym_id": "QR4GHV-R"
+  },
+  {
+   "ticker": "JBTM-US",
+   "name": "JBT Marel Corp.",
+   "fsym_id": "MT9ZWQ-R"
+  },
+  {
+   "ticker": "AAOI-US",
+   "name": "Applied Optoelectronics, Inc.",
+   "fsym_id": "L9KY3Q-R"
+  },
+  {
+   "ticker": "SAIC-US",
+   "name": "Science Applications International Corp.",
+   "fsym_id": "VJ0NT5-R"
+  },
+  {
+   "ticker": "PRI-US",
+   "name": "Primerica, Inc.",
+   "fsym_id": "WFKC6J-R"
+  },
+  {
+   "ticker": "OMF-US",
+   "name": "OneMain Holdings, Inc.",
+   "fsym_id": "VHXWMP-R"
+  },
+  {
+   "ticker": "GLPI-US",
+   "name": "Gaming & Leisure Properties, Inc.",
+   "fsym_id": "PWVY5L-R"
+  },
+  {
+   "ticker": "FOUR-US",
+   "name": "Shift4 Payments, Inc.",
+   "fsym_id": "FQ1Y6R-R"
+  },
+  {
+   "ticker": "NMIH-US",
+   "name": "NMI Holdings, Inc.",
+   "fsym_id": "W7HXRN-R"
+  },
+  {
+   "ticker": "VVX-US",
+   "name": "V2X, Inc.",
+   "fsym_id": "G39D97-R"
+  },
+  {
+   "ticker": "FSK-US",
+   "name": "FS KKR Capital Corp.",
+   "fsym_id": "N4SK8P-R"
+  },
+  {
+   "ticker": "1910-HK",
+   "name": "Samsonite Group SA",
+   "fsym_id": "RWTL81-R"
+  },
+  {
+   "ticker": "LOB-US",
+   "name": "Live Oak Bancshares, Inc.",
+   "fsym_id": "GPBJPZ-R"
+  },
+  {
+   "ticker": "ASIC-US",
+   "name": "Ategrity Specialty Insurance Company Holdings",
+   "fsym_id": "LRKYQW-R"
+  },
+  {
+   "ticker": "ALM-US",
+   "name": "Almonty Industries, Inc.",
+   "fsym_id": "NP6B8T-R"
+  },
+  {
+   "ticker": "FNF-US",
+   "name": "Fidelity National Financial, Inc.",
+   "fsym_id": "FZVN2F-R"
+  },
+  {
+   "ticker": "SFBS-US",
+   "name": "ServisFirst Bancshares, Inc.",
+   "fsym_id": "F5YSLP-R"
+  },
+  {
+   "ticker": "ARDX-US",
+   "name": "Ardelyx, Inc.",
+   "fsym_id": "T1P7YT-R"
+  },
+  {
+   "ticker": "AMPH-US",
+   "name": "Amphastar Pharmaceuticals, Inc.",
+   "fsym_id": "RCM8R4-R"
+  },
+  {
+   "ticker": "HII-US",
+   "name": "Huntington Ingalls Industries, Inc.",
+   "fsym_id": "HJXXH4-R"
+  },
+  {
+   "ticker": "AROC-US",
+   "name": "Archrock, Inc.",
+   "fsym_id": "WZVR2S-R"
+  },
+  {
+   "ticker": "SYF-US",
+   "name": "Synchrony Financial",
+   "fsym_id": "VQYTRP-R"
+  },
+  {
+   "ticker": "MPLX-US",
+   "name": "MPLX LP",
+   "fsym_id": "XFBRC3-R"
+  },
+  {
+   "ticker": "VAC-US",
+   "name": "Marriott Vacations Worldwide Corp.",
+   "fsym_id": "B0TXKG-R"
+  },
+  {
+   "ticker": "DOCU-US",
+   "name": "DocuSign, Inc.",
+   "fsym_id": "T38TD7-R"
+  },
+  {
+   "ticker": "NGL-US",
+   "name": "NGL Energy Partners LP",
+   "fsym_id": "F78DK9-R"
+  },
+  {
+   "ticker": "MCHB-US",
+   "name": "Mechanics Bancorp",
+   "fsym_id": "GPWHKD-R"
+  },
+  {
+   "ticker": "MOS-US",
+   "name": "The Mosaic Co.",
+   "fsym_id": "VWGLQ7-R"
+  },
+  {
+   "ticker": "NUTX-US",
+   "name": "Nutex Health, Inc.",
+   "fsym_id": "BWLVFB-R"
+  },
+  {
+   "ticker": "MPC-US",
+   "name": "Marathon Petroleum Corp.",
+   "fsym_id": "JRFYNM-R"
+  },
+  {
+   "ticker": "WSC-US",
+   "name": "WillScot Holdings Corp.",
+   "fsym_id": "WLP8T5-R"
+  },
+  {
+   "ticker": "EXPE-US",
+   "name": "Expedia Group, Inc.",
+   "fsym_id": "FCK6QT-R"
+  },
+  {
+   "ticker": "TRIP-US",
+   "name": "TripAdvisor, Inc.",
+   "fsym_id": "TB9J64-R"
+  },
+  {
+   "ticker": "BSM-US",
+   "name": "Black Stone Minerals LP",
+   "fsym_id": "P60NTB-R"
+  },
+  {
+   "ticker": "YELP-US",
+   "name": "Yelp, Inc.",
+   "fsym_id": "DT59Y2-R"
+  },
+  {
+   "ticker": "POST-US",
+   "name": "Post Holdings, Inc.",
+   "fsym_id": "F27PG1-R"
+  },
+  {
+   "ticker": "FANG-US",
+   "name": "Diamondback Energy, Inc.",
+   "fsym_id": "H69CWS-R"
+  },
+  {
+   "ticker": "SUPN-US",
+   "name": "Supernus Pharmaceuticals, Inc.",
+   "fsym_id": "FMB9K2-R"
+  },
+  {
+   "ticker": "DKL-US",
+   "name": "Delek Logistics Partners LP",
+   "fsym_id": "N7Y770-R"
+  },
+  {
+   "ticker": "CFG-US",
+   "name": "Citizens Financial Group, Inc. (Rhode Island)",
+   "fsym_id": "WDG05S-R"
+  },
+  {
+   "ticker": "PSX-US",
+   "name": "Phillips 66",
+   "fsym_id": "TTDQ0D-R"
+  },
+  {
+   "ticker": "CC-US",
+   "name": "The Chemours Co.",
+   "fsym_id": "BQDDX6-R"
+  },
+  {
+   "ticker": "HUBS-US",
+   "name": "HubSpot, Inc.",
+   "fsym_id": "M1QSPW-R"
+  },
+  {
+   "ticker": "ENVA-US",
+   "name": "Enova International, Inc.",
+   "fsym_id": "SB7XP4-R"
+  },
+  {
+   "ticker": "BY-US",
+   "name": "Byline Bancorp, Inc.",
+   "fsym_id": "TZ6LMS-R"
+  },
+  {
+   "ticker": "PARR-US",
+   "name": "Par Pacific Holdings, Inc.",
+   "fsym_id": "TT9VPV-R"
+  },
+  {
+   "ticker": "NBHC-US",
+   "name": "National Bank Holdings Corp.",
+   "fsym_id": "NDG617-R"
+  },
+  {
+   "ticker": "RH-US",
+   "name": "RH",
+   "fsym_id": "B4Q2S8-R"
+  },
+  {
+   "ticker": "WDAY-US",
+   "name": "Workday, Inc.",
+   "fsym_id": "KJZ16V-R"
+  },
+  {
+   "ticker": "BILL-US",
+   "name": "Bill Holdings, Inc.",
+   "fsym_id": "J9DNL7-R"
+  },
+  {
+   "ticker": "COLL-US",
+   "name": "Collegium Pharmaceutical, Inc.",
+   "fsym_id": "F443CC-R"
+  },
+  {
+   "ticker": "AAMI-US",
+   "name": "Acadian Asset Management, Inc.",
+   "fsym_id": "FS79Z7-R"
+  },
+  {
+   "ticker": "OGN-US",
+   "name": "Organon & Co.",
+   "fsym_id": "B8ZY81-R"
+  },
+  {
+   "ticker": "ENR-US",
+   "name": "Energizer Holdings, Inc.",
+   "fsym_id": "G9J2NY-R"
+  },
+  {
+   "ticker": "PYPL-US",
+   "name": "PayPal Holdings, Inc.",
+   "fsym_id": "RQ9F5S-R"
+  },
+  {
+   "ticker": "TRU-US",
+   "name": "TransUnion",
+   "fsym_id": "G3ZPT3-R"
+  },
+  {
+   "ticker": "KHC-US",
+   "name": "The Kraft Heinz Co.",
+   "fsym_id": "Q4YP8S-R"
+  },
+  {
+   "ticker": "RUN-US",
+   "name": "Sunrun, Inc.",
+   "fsym_id": "SR4N5D-R"
+  },
+  {
+   "ticker": "PLNT-US",
+   "name": "Planet Fitness, Inc.",
+   "fsym_id": "MGN5FR-R"
+  },
+  {
+   "ticker": "Z-US",
+   "name": "Zillow Group, Inc.",
+   "fsym_id": "W0DHV8-R"
+  },
+  {
+   "ticker": "PFGC-US",
+   "name": "Performance Food Group Co.",
+   "fsym_id": "VRNRL8-R"
+  },
+  {
+   "ticker": "NGVT-US",
+   "name": "Ingevity Corp.",
+   "fsym_id": "L8HN72-R"
+  },
+  {
+   "ticker": "XYZ-US",
+   "name": "Block, Inc.",
+   "fsym_id": "QV31TF-R"
+  },
+  {
+   "ticker": "GCT-US",
+   "name": "GigaCloud Technology, Inc.",
+   "fsym_id": "Q5FDLV-R"
+  },
+  {
+   "ticker": "UPWK-US",
+   "name": "Upwork, Inc.",
+   "fsym_id": "GPXWM3-R"
+  },
+  {
+   "ticker": "DFIN-US",
+   "name": "Donnelley Financial Solutions, Inc.",
+   "fsym_id": "BB6RRX-R"
+  },
+  {
+   "ticker": "RWC-AU",
+   "name": "Reliance Worldwide Corp. Ltd.",
+   "fsym_id": "FV3M92-R"
+  },
+  {
+   "ticker": "HRI-US",
+   "name": "Herc Holdings, Inc.",
+   "fsym_id": "LS8V75-R"
+  },
+  {
+   "ticker": "KTB-US",
+   "name": "Kontoor Brands, Inc.",
+   "fsym_id": "FXF9Y8-R"
+  },
+  {
+   "ticker": "CRH-US",
+   "name": "CRH Plc",
+   "fsym_id": "CPD5P8-R"
+  },
+  {
+   "ticker": "INSW-US",
+   "name": "International Seaways, Inc.",
+   "fsym_id": "SJS27W-R"
+  },
+  {
+   "ticker": "IIPR-US",
+   "name": "Innovative Industrial Properties, Inc.",
+   "fsym_id": "V3LVCJ-R"
+  },
+  {
+   "ticker": "HLNE-US",
+   "name": "Hamilton Lane, Inc.",
+   "fsym_id": "JVFR13-R"
+  },
+  {
+   "ticker": "TALO-US",
+   "name": "Talos Energy, Inc.",
+   "fsym_id": "JH4NV1-R"
+  },
+  {
+   "ticker": "SMPL-US",
+   "name": "The Simply Good Foods Co.",
+   "fsym_id": "B0ZCK4-R"
+  },
+  {
+   "ticker": "BTU-US",
+   "name": "Peabody Energy Corp.",
+   "fsym_id": "MSD481-R"
+  },
+  {
+   "ticker": "HESM-US",
+   "name": "Hess Midstream LP",
+   "fsym_id": "KM84B2-R"
+  },
+  {
+   "ticker": "HCC-US",
+   "name": "Warrior Met Coal, Inc.",
+   "fsym_id": "JCNM95-R"
+  },
+  {
+   "ticker": "INDV-US",
+   "name": "Indivior Pharmaceuticals, Inc.",
+   "fsym_id": "NS30TG-R"
+  },
+  {
+   "ticker": "FLUT-US",
+   "name": "Flutter Entertainment Plc",
+   "fsym_id": "QWW11D-R"
+  },
+  {
+   "ticker": "NESR-US",
+   "name": "National Energy Services Reunited Corp.",
+   "fsym_id": "V2GCVC-R"
+  },
+  {
+   "ticker": "MGY-US",
+   "name": "Magnolia Oil & Gas Corp.",
+   "fsym_id": "KGN4R0-R"
+  },
+  {
+   "ticker": "BHF-US",
+   "name": "Brighthouse Financial, Inc.",
+   "fsym_id": "NMGMBX-R"
+  },
+  {
+   "ticker": "DBX-US",
+   "name": "Dropbox, Inc.",
+   "fsym_id": "WLBH3Y-R"
+  },
+  {
+   "ticker": "CARG-US",
+   "name": "Cargurus, Inc.",
+   "fsym_id": "F60CN6-R"
+  },
+  {
+   "ticker": "VICI-US",
+   "name": "VICI Properties, Inc.",
+   "fsym_id": "XQF8XY-R"
+  },
+  {
+   "ticker": "MBIN-US",
+   "name": "Merchants Bancorp (Indiana)",
+   "fsym_id": "KYMG8R-R"
+  },
+  {
+   "ticker": "CNR-US",
+   "name": "Core Natural Resources, Inc.",
+   "fsym_id": "XQFML8-R"
+  },
+  {
+   "ticker": "NMRK-US",
+   "name": "Newmark Group, Inc.",
+   "fsym_id": "KNKY8H-R"
+  },
+  {
+   "ticker": "GTM-US",
+   "name": "ZoomInfo Technologies, Inc.",
+   "fsym_id": "VGB3T2-R"
+  },
+  {
+   "ticker": "EFOR-US",
+   "name": "Everforth, Inc.",
+   "fsym_id": "VFZ8WN-R"
+  },
+  {
+   "ticker": "VCTR-US",
+   "name": "Victory Capital Holdings, Inc.",
+   "fsym_id": "KMM139-R"
+  },
+  {
+   "ticker": "EQH-US",
+   "name": "Equitable Holdings, Inc.",
+   "fsym_id": "VKHGSS-R"
+  },
+  {
+   "ticker": "WH-US",
+   "name": "Wyndham Hotels & Resorts, Inc.",
+   "fsym_id": "LYB9P1-R"
+  },
+  {
+   "ticker": "CCB-US",
+   "name": "Coastal Financial Corp. (Washington)",
+   "fsym_id": "Q8X066-R"
+  },
+  {
+   "ticker": "ARLO-US",
+   "name": "Arlo Technologies, Inc.",
+   "fsym_id": "GJ5PX0-R"
+  },
+  {
+   "ticker": "GTX-US",
+   "name": "Garrett Motion, Inc.",
+   "fsym_id": "LDMCQV-R"
+  },
+  {
+   "ticker": "DEC-US",
+   "name": "Diversified Energy Co.",
+   "fsym_id": "L4PVGF-R"
+  },
+  {
+   "ticker": "REZI-US",
+   "name": "Resideo Technologies, Inc.",
+   "fsym_id": "TL92RW-R"
+  },
+  {
+   "ticker": "AVAH-US",
+   "name": "Aveanna Healthcare Holdings, Inc.",
+   "fsym_id": "SSL1GP-R"
+  },
+  {
+   "ticker": "WS-US",
+   "name": "Worthington Steel, Inc.",
+   "fsym_id": "MX7ZL8-R"
+  },
+  {
+   "ticker": "ARDT-US",
+   "name": "Ardent Health, Inc.",
+   "fsym_id": "PZ7R1Z-R"
+  },
+  {
+   "ticker": "DELL-US",
+   "name": "Dell Technologies, Inc.",
+   "fsym_id": "MT8FDR-R"
+  },
+  {
+   "ticker": "HROW-US",
+   "name": "Harrow, Inc.",
+   "fsym_id": "TKP42K-R"
+  },
+  {
+   "ticker": "LEVI-US",
+   "name": "Levi Strauss & Co.",
+   "fsym_id": "QH2H8S-R"
+  },
+  {
+   "ticker": "FOXA-US",
+   "name": "Fox Corp.",
+   "fsym_id": "LPRN3T-R"
+  },
+  {
+   "ticker": "DRVN-US",
+   "name": "Driven Brands Holdings, Inc.",
+   "fsym_id": "B9TPHB-R"
+  },
+  {
+   "ticker": "PLMR-US",
+   "name": "Palomar Holdings, Inc.",
+   "fsym_id": "WJS1RH-R"
+  },
+  {
+   "ticker": "PINS-US",
+   "name": "Pinterest, Inc.",
+   "fsym_id": "H8DT5P-R"
+  },
+  {
+   "ticker": "ZM-US",
+   "name": "Zoom Communications, Inc.",
+   "fsym_id": "HVKZ86-R"
+  },
+  {
+   "ticker": "ULCC-US",
+   "name": "Frontier Group Holdings, Inc.",
+   "fsym_id": "VC9B6B-R"
+  },
+  {
+   "ticker": "PSN-US",
+   "name": "Parsons Corp.",
+   "fsym_id": "TBNT44-R"
+  },
+  {
+   "ticker": "VTRS-US",
+   "name": "Viatris, Inc.",
+   "fsym_id": "LZBPWV-R"
+  },
+  {
+   "ticker": "TLN-US",
+   "name": "Talen Energy Corp.",
+   "fsym_id": "VP0MQZ-R"
+  },
+  {
+   "ticker": "NVST-US",
+   "name": "Envista Holdings Corp.",
+   "fsym_id": "SY6X83-R"
+  },
+  {
+   "ticker": "BRBR-US",
+   "name": "BellRing Brands, Inc.",
+   "fsym_id": "Q2PNZ9-R"
+  },
+  {
+   "ticker": "BWIN-US",
+   "name": "The Baldwin Insurance Group, Inc.",
+   "fsym_id": "V2MLCV-R"
+  },
+  {
+   "ticker": "PHAT-US",
+   "name": "Phathom Pharmaceuticals, Inc.",
+   "fsym_id": "RMK6DK-R"
+  },
+  {
+   "ticker": "SKYD-US",
+   "name": "Skydance Corp.",
+   "fsym_id": "K6RW63-R"
+  },
+  {
+   "ticker": "PATH-US",
+   "name": "UiPath, Inc.",
+   "fsym_id": "L4YKXD-R"
+  },
+  {
+   "ticker": "WFRD-US",
+   "name": "Weatherford International plc",
+   "fsym_id": "K7TZB5-R"
+  },
+  {
+   "ticker": "OI-US",
+   "name": "O-I Glass, Inc.",
+   "fsym_id": "K5JXTH-R"
+  },
+  {
+   "ticker": "PRDO-US",
+   "name": "Perdoceo Education Corp.",
+   "fsym_id": "BV95R1-R"
+  },
+  {
+   "ticker": "CG-US",
+   "name": "The Carlyle Group Inc.",
+   "fsym_id": "K36637-R"
+  },
+  {
+   "ticker": "REYN-US",
+   "name": "Reynolds Consumer Products, Inc.",
+   "fsym_id": "K6TS68-R"
+  },
+  {
+   "ticker": "GQG-AU",
+   "name": "GQG Partners, Inc.",
+   "fsym_id": "BSTL4M-R"
+  },
+  {
+   "ticker": "UPST-US",
+   "name": "Upstart Holdings, Inc.",
+   "fsym_id": "SMV24R-R"
+  },
+  {
+   "ticker": "UWMC-US",
+   "name": "UWM Holdings Corp.",
+   "fsym_id": "SHQ24R-R"
+  },
+  {
+   "ticker": "ALKT-US",
+   "name": "Alkami Technology, Inc.",
+   "fsym_id": "Q3JWZX-R"
+  },
+  {
+   "ticker": "VERX-US",
+   "name": "Vertex, Inc.",
+   "fsym_id": "L3F09W-R"
+  },
+  {
+   "ticker": "BXSL-US",
+   "name": "Blackstone Secured Lending Fund",
+   "fsym_id": "MBP29W-R"
+  },
+  {
+   "ticker": "VTOL-US",
+   "name": "Bristow Group, Inc.",
+   "fsym_id": "MTV2LV-R"
+  },
+  {
+   "ticker": "MTCH-US",
+   "name": "Match Group, Inc.",
+   "fsym_id": "HY8GBD-R"
+  },
+  {
+   "ticker": "WAY-US",
+   "name": "Waystar Holding Corp.",
+   "fsym_id": "NM5V79-R"
+  },
+  {
+   "ticker": "ALIT-US",
+   "name": "Alight, Inc.",
+   "fsym_id": "FQ0PZQ-R"
+  },
+  {
+   "ticker": "RKT-US",
+   "name": "Rocket Cos., Inc.",
+   "fsym_id": "WVFWFQ-R"
+  },
+  {
+   "ticker": "HRMY-US",
+   "name": "Harmony Biosciences Holdings, Inc.",
+   "fsym_id": "HB5D3R-R"
+  },
+  {
+   "ticker": "TBLA-US",
+   "name": "Taboola.com Ltd.",
+   "fsym_id": "RBWCP8-R"
+  },
+  {
+   "ticker": "CRC-US",
+   "name": "California Resources Corp.",
+   "fsym_id": "SR1VGD-R"
+  },
+  {
+   "ticker": "STEP-US",
+   "name": "StepStone Group, Inc.",
+   "fsym_id": "PGYFJY-R"
+  },
+  {
+   "ticker": "HAYW-US",
+   "name": "Hayward Holdings, Inc.",
+   "fsym_id": "JN55TC-R"
+  },
+  {
+   "ticker": "VNT-US",
+   "name": "Vontier Corp.",
+   "fsym_id": "PVG5TM-R"
+  },
+  {
+   "ticker": "ASO-US",
+   "name": "Academy Sports & Outdoors, Inc.",
+   "fsym_id": "JN801W-R"
+  },
+  {
+   "ticker": "CNXC-US",
+   "name": "Concentrix Corp.",
+   "fsym_id": "D2CG0Y-R"
+  },
+  {
+   "ticker": "ACT-US",
+   "name": "Enact Holdings, Inc.",
+   "fsym_id": "HYZH6Y-R"
+  },
+  {
+   "ticker": "CCC-US",
+   "name": "CCC Intelligent Solutions Holdings, Inc.",
+   "fsym_id": "LM69J2-R"
+  },
+  {
+   "ticker": "GPGI-US",
+   "name": "GPGI, Inc.",
+   "fsym_id": "WSH7NP-R"
+  },
+  {
+   "ticker": "CHRD-US",
+   "name": "Chord Energy Corp.",
+   "fsym_id": "W3X8XZ-R"
+  },
+  {
+   "ticker": "HLMN-US",
+   "name": "Hillman Solutions Corp.",
+   "fsym_id": "GBNDSV-R"
+  },
+  {
+   "ticker": "OWL-US",
+   "name": "Blue Owl Capital, Inc.",
+   "fsym_id": "X1G4KD-R"
+  },
+  {
+   "ticker": "DFH-US",
+   "name": "Dream Finders Homes, Inc.",
+   "fsym_id": "KLMZMY-R"
+  },
+  {
+   "ticker": "EVCM-US",
+   "name": "EverCommerce, Inc.",
+   "fsym_id": "MNKFLC-R"
+  },
+  {
+   "ticker": "SHLS-US",
+   "name": "Shoals Technologies Group, Inc.",
+   "fsym_id": "K3VJ7P-R"
+  },
+  {
+   "ticker": "TRIN-US",
+   "name": "Trinity Capital, Inc.",
+   "fsym_id": "NJG3QW-R"
+  },
+  {
+   "ticker": "DCOM-US",
+   "name": "Dime Commercial Bancshares, Inc.",
+   "fsym_id": "SGNMXY-R"
+  },
+  {
+   "ticker": "EXE-US",
+   "name": "Expand Energy Corp.",
+   "fsym_id": "TRVJHK-R"
+  },
+  {
+   "ticker": "CXM-US",
+   "name": "Sprinklr, Inc.",
+   "fsym_id": "JGT0S9-R"
+  },
+  {
+   "ticker": "OSCR-US",
+   "name": "Oscar Health, Inc.",
+   "fsym_id": "Q4MWYY-R"
+  },
+  {
+   "ticker": "COUR-US",
+   "name": "Coursera, Inc.",
+   "fsym_id": "STDTS0-R"
+  },
+  {
+   "ticker": "APP-US",
+   "name": "Applovin Corp.",
+   "fsym_id": "B38P5P-R"
+  },
+  {
+   "ticker": "SOC-US",
+   "name": "Sable Offshore Corp.",
+   "fsym_id": "H2QGKX-R"
+  },
+  {
+   "ticker": "PGY-US",
+   "name": "Pagaya Technologies Ltd.",
+   "fsym_id": "W7P4TN-R"
+  },
+  {
+   "ticker": "GXO-US",
+   "name": "GXO Logistics, Inc.",
+   "fsym_id": "JFPCPS-R"
+  },
+  {
+   "ticker": "GPOR-US",
+   "name": "Gulfport Energy Corp.",
+   "fsym_id": "HYZPM4-R"
+  },
+  {
+   "ticker": "NABL-US",
+   "name": "N-able, Inc.",
+   "fsym_id": "TMS7HX-R"
+  },
+  {
+   "ticker": "TASK-US",
+   "name": "TaskUs, Inc.",
+   "fsym_id": "LF3D2N-R"
+  },
+  {
+   "ticker": "CNM-US",
+   "name": "Core & Main, Inc.",
+   "fsym_id": "X67X90-R"
+  },
+  {
+   "ticker": "FA-US",
+   "name": "First Advantage Corp.",
+   "fsym_id": "QLDZCM-R"
+  },
+  {
+   "ticker": "NCNO-US",
+   "name": "nCino, Inc.",
+   "fsym_id": "CK49JW-R"
+  },
+  {
+   "ticker": "KD-US",
+   "name": "Kyndryl Holdings, Inc.",
+   "fsym_id": "H1JSRM-R"
+  },
+  {
+   "ticker": "GEHC-US",
+   "name": "GE Healthcare Technologies, Inc.",
+   "fsym_id": "VD2M8W-R"
+  },
+  {
+   "ticker": "CRGY-US",
+   "name": "Crescent Energy Co.",
+   "fsym_id": "RNQNZT-R"
+  },
+  {
+   "ticker": "RPC-US",
+   "name": "Ridgepost Capital, Inc.",
+   "fsym_id": "XD459G-R"
+  },
+  {
+   "ticker": "PRM-US",
+   "name": "Perimeter Solutions, Inc.",
+   "fsym_id": "BLB4WH-R"
+  },
+  {
+   "ticker": "TPG-US",
+   "name": "TPG, Inc.",
+   "fsym_id": "KQSWCT-R"
+  },
+  {
+   "ticker": "BBUC-US",
+   "name": "Brookfield Business Corp.",
+   "fsym_id": "FMF7K7-R"
+  },
+  {
+   "ticker": "ESAB-US",
+   "name": "ESAB Corp.",
+   "fsym_id": "N3FSJD-R"
+  },
+  {
+   "ticker": "CRBG-US",
+   "name": "Corebridge Financial, Inc.",
+   "fsym_id": "L6LK9D-R"
+  },
+  {
+   "ticker": "FG-US",
+   "name": "F&G Annuities & Life, Inc.",
+   "fsym_id": "GJ11N8-R"
+  },
+  {
+   "ticker": "ADEA-US",
+   "name": "Adeia, Inc.",
+   "fsym_id": "M79847-R"
+  },
+  {
+   "ticker": "SKWD-US",
+   "name": "Skyward Specialty Insurance Group, Inc.",
+   "fsym_id": "HTTF6Z-R"
+  },
+  {
+   "ticker": "BKV-US",
+   "name": "BKV Corp.",
+   "fsym_id": "HT859S-R"
+  },
+  {
+   "ticker": "NXT-US",
+   "name": "Nextpower, Inc.",
+   "fsym_id": "L1324D-R"
+  },
+  {
+   "ticker": "ATMU-US",
+   "name": "Atmus Filtration Technologies, Inc.",
+   "fsym_id": "KMJCXP-R"
+  },
+  {
+   "ticker": "LNW-AU",
+   "name": "Light & Wonder, Inc.",
+   "fsym_id": "P04H88-R"
+  },
+  {
+   "ticker": "DBD-US",
+   "name": "Diebold Nixdorf, Inc.",
+   "fsym_id": "SXV17L-R"
+  },
+  {
+   "ticker": "AU-US",
+   "name": "Anglogold Ashanti Plc",
+   "fsym_id": "WJCKPJ-R"
+  },
+  {
+   "ticker": "NATL-US",
+   "name": "NCR Atleos Corp.",
+   "fsym_id": "T70CJF-R"
+  },
+  {
+   "ticker": "MNR-US",
+   "name": "Mach Natural Resources LP",
+   "fsym_id": "SJ9QN5-R"
+  },
+  {
+   "ticker": "SLDE-US",
+   "name": "Slide Insurance Holdings, Inc.",
+   "fsym_id": "WRWNVW-R"
+  },
+  {
+   "ticker": "COO-US",
+   "name": "The Cooper Cos., Inc.",
+   "fsym_id": "T7H5H1-R"
+  },
+  {
+   "ticker": "SOLV-US",
+   "name": "Solventum Corp.",
+   "fsym_id": "JC73DC-R"
+  },
+  {
+   "ticker": "2507-HK",
+   "name": "Cirrus Aircraft Ltd.",
+   "fsym_id": "KC1C4Q-R"
+  },
+  {
+   "ticker": "SARO-US",
+   "name": "StandardAero, Inc.",
+   "fsym_id": "VM7GJ6-R"
+  },
+  {
+   "ticker": "AMTM-US",
+   "name": "Amentum Holdings, Inc.",
+   "fsym_id": "J6XB7T-R"
+  },
+  {
+   "ticker": "INGM-US",
+   "name": "Ingram Micro Holding Corp.",
+   "fsym_id": "GBZVWT-R"
+  },
+  {
+   "ticker": "VG-US",
+   "name": "Venture Global, Inc.",
+   "fsym_id": "P310BM-R"
+  },
+  {
+   "ticker": "SFD-US",
+   "name": "Smithfield Foods, Inc.",
+   "fsym_id": "F6YJBN-R"
+  },
+  {
+   "ticker": "SNDK-US",
+   "name": "Sandisk Corp.",
+   "fsym_id": "KK1T75-R"
+  },
+  {
+   "ticker": "XZO-US",
+   "name": "Exzeo Group, Inc.",
+   "fsym_id": "KDRFW0-R"
+  },
+  {
+   "ticker": "OTF-US",
+   "name": "Blue Owl Technology Finance Corp",
+   "fsym_id": "VJ4K1N-R"
+  },
+  {
+   "ticker": "JCAP-US",
+   "name": "Jefferson Capital, Inc.",
+   "fsym_id": "TKSW2Y-R"
+  },
+  {
+   "ticker": "AMRZ-US",
+   "name": "Amrize Ltd.",
+   "fsym_id": "VJB7Y0-R"
+  },
+  {
+   "ticker": "MH-US",
+   "name": "McGraw Hill, Inc.",
+   "fsym_id": "WYS6X2-R"
+  },
+  {
+   "ticker": "NIQ-US",
+   "name": "NIQ Global Intelligence Plc",
+   "fsym_id": "LN7D6P-R"
+  },
+  {
+   "ticker": "STUB-US",
+   "name": "Stubhub Holdings, Inc.",
+   "fsym_id": "NDY23X-R"
+  },
+  {
+   "ticker": "ALH-US",
+   "name": "Alliance Laundry Holdings, Inc. (United States)",
+   "fsym_id": "GZXMFX-R"
+  },
+  {
+   "ticker": "SUNC-US",
+   "name": "SunocoCorp LLC",
+   "fsym_id": "KZWVHT-R"
+  },
+  {
+   "ticker": "LMRI-US",
+   "name": "Lumexa Imaging Holdings, Inc.",
+   "fsym_id": "WYP207-R"
+  },
+  {
+   "ticker": "VSNT-US",
+   "name": "Versant Media Group, Inc.",
+   "fsym_id": "X8W1NS-R"
+  },
+  {
+   "ticker": "CCL-US",
+   "name": "Carnival Corp. Ltd.",
+   "fsym_id": "HNZVK6-R"
+  }
+ ]
+}
