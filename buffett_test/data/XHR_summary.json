@@ -1,0 +1,210 @@
+{
+"ticker": "XHR-US",
+"name": "Xenia Hotels & Resorts, Inc.",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment Trusts (REITs) / Equity REITs",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -2.0,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": -2.0,
+"rev_cagr_10y": 1.0,
+"rev_cagr_5y": 23.9,
+"shares_cagr_10y": -1.4,
+"years_eps_growth_ge7": "3/9",
+"worst_eps_year": [
+2020,
+-137.4
+],
+"eps_series": {
+"2015": 2.15,
+"2016": 2.2,
+"2017": 2.06,
+"2018": 2.22,
+"2019": 2.19,
+"2020": -0.82,
+"2021": 0.28,
+"2022": 1.54,
+"2023": 1.54,
+"2024": 1.59,
+"2025": 1.76
+},
+"gaap_eps_series": {
+"2015": 0.79,
+"2016": 0.79,
+"2017": 0.92,
+"2018": 1.75,
+"2019": 0.49,
+"2020": -1.44,
+"2021": -1.26,
+"2022": 0.49,
+"2023": 0.17,
+"2024": 0.15,
+"2025": 0.64
+},
+"rev_series_m": {
+"2015": 976,
+"2016": 950,
+"2017": 945,
+"2018": 1058,
+"2019": 1149,
+"2020": 370,
+"2021": 616,
+"2022": 998,
+"2023": 1025,
+"2024": 1039,
+"2025": 1078
+},
+"ebit_margin_series": {
+"2015": 10.6,
+"2016": 11.7,
+"2017": 10.9,
+"2018": 12.0,
+"2019": 9.6,
+"2020": -65.4,
+"2021": -5.2,
+"2022": 10.9,
+"2023": 9.5,
+"2024": 8.1,
+"2025": 9.9
+},
+"ebit_margin_latest": 9.9,
+"ebit_margin_10y_avg": 2.1,
+"ebit_margin_10y_max": 12.0,
+"ebit_margin_10y_min": -65.4,
+"margin_pctile_in_history": 55,
+"latest_eps_vs_10y_max": 0.79,
+"fcf_conversion_5y": 29.56,
+"fcf_conversion_10y": 2.7,
+"acq_to_fcf_10y": 0.02,
+"buyback_to_fcf_10y": 0.5,
+"div_to_fcf_10y": 0.92,
+"net_debt_m": 1208,
+"net_debt_ebitda": 5.08,
+"roic_latest": 2.5,
+"roic_10y_avg": 1.0,
+"roe_latest": 5.3,
+"roe_10y_avg": 1.8,
+"adj_vs_gaap_gap_5y_avg_pct": 526.4,
+"adj_vs_gaap_gap_latest_pct": 173.2,
+"ntm_pe": 9.79,
+"is_reit": "True",
+"price": "19.16",
+"fcf_yield": 7.1,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.64,
+"std": null,
+"hi": 0.64,
+"lo": 0.64,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": -0.02,
+"std": 0.127,
+"hi": 0.07,
+"lo": -0.11,
+"n": 2
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.635,
+"std": 0.134,
+"hi": 0.73,
+"lo": 0.54,
+"n": 2
+},
+"FY3": {
+"fy": 2028,
+"mean": null,
+"std": null,
+"hi": null,
+"lo": null,
+"n": null
+}
+},
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1078.5,
+"std": null,
+"hi": 1078.5,
+"lo": 1078.5,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1125.457,
+"std": 12.0,
+"hi": 1145.736,
+"lo": 1117.9305,
+"n": 5
+},
+"FY2": {
+"fy": 2027,
+"mean": 1156.654,
+"std": 20.383,
+"hi": 1180.2,
+"lo": 1138.972,
+"n": 5
+},
+"FY3": {
+"fy": 2028,
+"mean": 1174.383,
+"std": 6.072,
+"hi": 1179.0445,
+"lo": 1167.516936,
+"n": 3
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.8,
+1.5
+],
+"cons_SALES_growth_FY1": 4.4,
+"cons_FFO": {
+"FY0": {
+"fy": 2025,
+"mean": 1.76,
+"std": null,
+"hi": 1.76,
+"lo": 1.76,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.927,
+"std": 0.244,
+"hi": 2.09,
+"lo": 1.44,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.965,
+"std": 0.256,
+"hi": 2.12,
+"lo": 1.45,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.111,
+"std": 0.125,
+"hi": 2.2,
+"lo": 2.023,
+"n": 2
+}
+},
+"cons_FFO_growth_FY2_FY3": [
+2.0,
+7.5
+],
+"cons_FFO_growth_FY1": 9.5,
+"eps_ltg": 3.8,
+"missing": [],
+"fmp_backup": []
+}

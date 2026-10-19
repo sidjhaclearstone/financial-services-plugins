@@ -1,0 +1,176 @@
+{
+"ticker": "SCI-US",
+"name": "Service Corporation International",
+"last_fy": 2025,
+"rbics": "Household Services / Personal Professional Services / Personal Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 12.6,
+"eps_cagr_5y": 5.8,
+"gaap_eps_cagr_10y": 12.7,
+"rev_cagr_10y": 3.7,
+"rev_cagr_5y": 4.2,
+"shares_cagr_10y": -3.5,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2022,
+-16.8
+],
+"eps_series": {
+"2015": 1.18,
+"2016": 1.29,
+"2017": 1.55,
+"2018": 1.79,
+"2019": 1.9,
+"2020": 2.91,
+"2021": 4.57,
+"2022": 3.8,
+"2023": 3.47,
+"2024": 3.53,
+"2025": 3.85
+},
+"gaap_eps_series": {
+"2015": 1.15,
+"2016": 0.9,
+"2017": 2.84,
+"2018": 2.39,
+"2019": 1.99,
+"2020": 2.88,
+"2021": 4.72,
+"2022": 3.53,
+"2023": 3.53,
+"2024": 3.53,
+"2025": 3.8
+},
+"rev_series_m": {
+"2015": 2986,
+"2016": 3031,
+"2017": 3095,
+"2018": 3190,
+"2019": 3231,
+"2020": 3512,
+"2021": 4143,
+"2022": 4109,
+"2023": 4100,
+"2024": 4186,
+"2025": 4309
+},
+"ebit_margin_series": {
+"2015": 18.4,
+"2016": 18.5,
+"2017": 19.1,
+"2018": 19.3,
+"2019": 19.8,
+"2020": 23.8,
+"2021": 28.1,
+"2022": 22.3,
+"2023": 22.8,
+"2024": 22.7,
+"2025": 22.6
+},
+"ebit_margin_latest": 22.6,
+"ebit_margin_10y_avg": 21.6,
+"ebit_margin_10y_max": 28.1,
+"ebit_margin_10y_min": 18.4,
+"margin_pctile_in_history": 64,
+"latest_eps_vs_10y_max": 0.84,
+"fcf_conversion_5y": 0.88,
+"fcf_conversion_10y": 0.9,
+"acq_to_fcf_10y": 0.24,
+"buyback_to_fcf_10y": 0.85,
+"div_to_fcf_10y": 0.32,
+"net_debt_m": 4971,
+"net_debt_ebitda": 3.78,
+"roic_latest": 8.2,
+"roic_10y_avg": 9.1,
+"roe_latest": 32.7,
+"roe_10y_avg": 31.3,
+"adj_vs_gaap_gap_5y_avg_pct": 0.8,
+"adj_vs_gaap_gap_latest_pct": 1.2,
+"ntm_pe": 17.93,
+"is_reit": "False",
+"price": "80.78",
+"fcf_yield": 7.1,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.85,
+"std": null,
+"hi": 3.85,
+"lo": 3.85,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4.19,
+"std": 0.022,
+"hi": 4.2,
+"lo": 4.14597,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.584,
+"std": 0.062,
+"hi": 4.648124,
+"lo": 4.477072,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 5.04,
+"std": 0.098,
+"hi": 5.132864,
+"lo": 4.9378,
+"n": 3
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+9.4,
+9.9
+],
+"cons_EPS_growth_FY1": 8.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 4309.2,
+"std": null,
+"hi": 4309.2,
+"lo": 4309.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4466.135,
+"std": 30.309,
+"hi": 4510.4,
+"lo": 4430.494,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 4625.515,
+"std": 38.098,
+"hi": 4686.7,
+"lo": 4574.00331552,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 4821.317,
+"std": 49.311,
+"hi": 4860.9,
+"lo": 4766.0787607961,
+"n": 3
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.6,
+4.2
+],
+"cons_SALES_growth_FY1": 3.6,
+"eps_ltg": 10.7688052036,
+"missing": [],
+"fmp_backup": []
+}

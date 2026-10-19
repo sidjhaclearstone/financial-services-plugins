@@ -1,0 +1,215 @@
+{
+"ticker": "O-US",
+"name": "Realty Income Corporation",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment Trusts (REITs) / Equity REITs",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 4.7,
+"eps_cagr_5y": 5.8,
+"gaap_eps_cagr_10y": 0.6,
+"rev_cagr_10y": 18.9,
+"rev_cagr_5y": 28.6,
+"shares_cagr_10y": 14.5,
+"years_eps_growth_ge7": "2/10",
+"worst_eps_year": [
+2021,
+-6.7
+],
+"eps_series": {
+"2015": 2.68,
+"2016": 2.79,
+"2017": 2.73,
+"2018": 3.02,
+"2019": 3.19,
+"2020": 3.21,
+"2021": 2.99,
+"2022": 4.04,
+"2023": 4.07,
+"2024": 4.01,
+"2025": 4.25
+},
+"gaap_eps_series": {
+"2015": 1.09,
+"2016": 1.13,
+"2017": 1.1,
+"2018": 1.26,
+"2019": 1.38,
+"2020": 1.15,
+"2021": 0.87,
+"2022": 1.42,
+"2023": 1.26,
+"2024": 0.98,
+"2025": 1.16
+},
+"rev_series_m": {
+"2015": 1023,
+"2016": 1103,
+"2017": 1216,
+"2018": 1327,
+"2019": 1488,
+"2020": 1640,
+"2021": 2085,
+"2022": 3343,
+"2023": 4095,
+"2024": 5303,
+"2025": 5759
+},
+"ebit_margin_series": {
+"2015": 49.6,
+"2016": 28.9,
+"2017": 28.1,
+"2018": 28.0,
+"2019": 30.3,
+"2020": 40.1,
+"2021": 46.2,
+"2022": 32.6,
+"2023": 41.3,
+"2024": 44.4,
+"2025": 44.6
+},
+"ebit_margin_latest": 44.6,
+"ebit_margin_10y_avg": 37.7,
+"ebit_margin_10y_max": 49.6,
+"ebit_margin_10y_min": 28.0,
+"margin_pctile_in_history": 82,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 3.48,
+"fcf_conversion_10y": 3.3,
+"acq_to_fcf_10y": 0.01,
+"buyback_to_fcf_10y": 0.03,
+"div_to_fcf_10y": 0.78,
+"net_debt_m": 30405,
+"net_debt_ebitda": 5.97,
+"roic_latest": 1.6,
+"roic_10y_avg": 1.9,
+"roe_latest": 2.7,
+"roe_10y_avg": 3.4,
+"adj_vs_gaap_gap_5y_avg_pct": 245.6,
+"adj_vs_gaap_gap_latest_pct": 265.7,
+"ntm_pe": 12.36,
+"is_reit": "True",
+"price": "55.51",
+"fcf_yield": 8.3,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.17,
+"std": null,
+"hi": 1.17,
+"lo": 1.17,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.522,
+"std": 0.07,
+"hi": 1.64,
+"lo": 1.408717,
+"n": 9
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.675,
+"std": 0.272,
+"hi": 2.08,
+"lo": 1.222444,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.636,
+"std": 0.265,
+"hi": 2.05,
+"lo": 1.303724,
+"n": 7
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+10.1,
+-2.3
+],
+"cons_EPS_growth_FY1": 30.1,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 5437.332,
+"std": null,
+"hi": 5437.332,
+"lo": 5437.332,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5696.708,
+"std": 214.033,
+"hi": 5922.4,
+"lo": 5206.6,
+"n": 13
+},
+"FY2": {
+"fy": 2027,
+"mean": 5993.603,
+"std": 350.254,
+"hi": 6487.992,
+"lo": 5282.8,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 6487.582,
+"std": 762.192,
+"hi": 7781.0,
+"lo": 5358.6,
+"n": 8
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.2,
+8.2
+],
+"cons_SALES_growth_FY1": 4.8,
+"cons_FFO": {
+"FY0": {
+"fy": 2025,
+"mean": 4.25,
+"std": null,
+"hi": 4.25,
+"lo": 4.25,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4.346,
+"std": 0.034,
+"hi": 4.43,
+"lo": 4.29,
+"n": 21
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.528,
+"std": 0.067,
+"hi": 4.65,
+"lo": 4.42,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 4.643,
+"std": 0.077,
+"hi": 4.78,
+"lo": 4.52,
+"n": 15
+}
+},
+"cons_FFO_growth_FY2_FY3": [
+4.2,
+2.5
+],
+"cons_FFO_growth_FY1": 2.3,
+"eps_ltg": 3.94127176435,
+"missing": [],
+"fmp_backup": []
+}

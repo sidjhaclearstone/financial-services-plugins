@@ -1,0 +1,672 @@
+{
+"ticker": "SUNB-US",
+"fundamentals": {
+"FF_SALES": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 9667.0,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 10859.0,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 10791.0,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 11154.0,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_EBIT_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 2446.0,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 2511.0,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 2514.0,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 2352.0,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_EBIT_OPER_MGN": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 25.3025757732492,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 23.1236762132793,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 23.2971921045316,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 21.0866057019903,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 4173.0,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 4558.0,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 4765.0,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 4642.0,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_NET_INC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 1605.0,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 1572.0,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 1553.0,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 1325.0,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 3.8834,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 3.8035,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 3.7576,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 3.2296,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_EPS_DIL_BEF_UNUSUAL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 3.88337954276741,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 3.80353435590677,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 3.78296817141236,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 3.5332649952695,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_COM_SHS_OUT_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 413.299803,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 413.299803,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 413.299803,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 410.272086,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_ROIC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": null,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 9.72983009934082,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 8.76559236891122,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 7.55674689175317,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_ROE": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": null,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 24.0550879877582,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 20.9031563362272,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 17.4250394529195,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_FREE_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 2488.0,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 2569.0,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 2859.0,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 2968.0,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_OPER_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 3346.0,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 3664.0,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 3844.0,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 3784.0,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_CAPEX": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 510.0,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 688.0,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 456.0,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 358.0,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_NET_DEBT": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 8964.0,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 10706.0,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 10355.0,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 10589.0,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_DEBT_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 1.61778097292116,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 1.7917946467749,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 1.6109129066107,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 1.67040068935804,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_DIV_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 358.0,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 436.0,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 544.0,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 464.0,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_STK_PURCH_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 277.0,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 108.0,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 428.0,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 1432.0,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20260430,20260430,,RP,USD)"
+}
+},
+"FF_ACQ_BUS_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 1061.0,
+"end": "2023-04-30",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20230430,20230430,,RP,USD)"
+},
+"2023": {
+"v": 846.0,
+"end": "2024-04-30",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20240430,20240430,,RP,USD)"
+},
+"2024": {
+"v": 134.0,
+"end": "2025-04-30",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20250430,20250430,,RP,USD)"
+},
+"2025": {
+"v": 206.0,
+"end": "2026-04-30",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20260430,20260430,,RP,USD)"
+}
+}
+},
+"adj_eps_actual": {
+"2014": {
+"v": null,
+"end": "2015-04-30",
+"consensus_before": null,
+"date": null
+},
+"2015": {
+"v": null,
+"end": "2016-04-30",
+"consensus_before": null,
+"date": null
+},
+"2016": {
+"v": null,
+"end": "2017-04-30",
+"consensus_before": null,
+"date": null
+},
+"2017": {
+"v": null,
+"end": "2018-04-30",
+"consensus_before": null,
+"date": null
+},
+"2018": {
+"v": null,
+"end": "2019-04-30",
+"consensus_before": null,
+"date": null
+},
+"2019": {
+"v": null,
+"end": "2020-04-30",
+"consensus_before": null,
+"date": null
+},
+"2020": {
+"v": null,
+"end": "2021-04-30",
+"consensus_before": null,
+"date": null
+},
+"2021": {
+"v": null,
+"end": "2022-04-30",
+"consensus_before": null,
+"date": null
+},
+"2022": {
+"v": null,
+"end": "2023-04-30",
+"consensus_before": null,
+"date": null
+},
+"2023": {
+"v": null,
+"end": "2024-04-30",
+"consensus_before": null,
+"date": null
+},
+"2024": {
+"v": null,
+"end": "2025-04-30",
+"consensus_before": null,
+"date": null
+},
+"2025": {
+"v": 3.72,
+"end": "2026-04-30",
+"consensus_before": 3.7065917988615387,
+"date": "2026-06-23"
+}
+},
+"entity": {
+"name": "Sunbelt Rentals Holdings Inc",
+"description": "Sunbelt Rentals Holdings, Inc. is an equipment rental company, which engages in a broad range of tools, machinery, and engineered solutions for construction, industrial, specialty, and other end markets. It operates through the following segments: North America-General Tool, North America-Specialty, and United Kingdom. The company was founded on February 12, 2025 and is headquartered in Fort Mill, SC.",
+"rbics_econ": "Industrials",
+"rbics_sector": "Industrial Services",
+"rbics_subsector": "Diversified Industrials Distribution",
+"rbics_indgrp": "Equipment and Supplies Distributors",
+"country_of_risk": "US"
+},
+"sources": {
+"fundamentals": "FactSet Fundamentals ANN (USD), pulled 2026-10-19",
+"entity": "FactSet EntityReference, pulled 2026-10-19",
+"adj_eps": "FactSet EstimatesConsensus surprise (actual EPS, broker/adjusted basis, USD), pulled 2026-10-19"
+},
+"missing": [],
+"fmp_backup": {},
+"name": "Sunbelt Rentals Holdings Inc"
+}

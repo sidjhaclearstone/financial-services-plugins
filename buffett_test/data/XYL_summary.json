@@ -1,0 +1,176 @@
+{
+"ticker": "XYL-US",
+"name": "Xylem Inc.",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Machinery Manufacturing / Air, Liquid and Gas Control Equipment",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 10.6,
+"eps_cagr_5y": 19.8,
+"gaap_eps_cagr_10y": 7.7,
+"rev_cagr_10y": 9.4,
+"rev_cagr_5y": 13.1,
+"shares_cagr_10y": 3.0,
+"years_eps_growth_ge7": "8/10",
+"worst_eps_year": [
+2020,
+-31.8
+],
+"eps_series": {
+"2015": 1.85,
+"2016": 2.03,
+"2017": 2.4,
+"2018": 2.88,
+"2019": 3.02,
+"2020": 2.06,
+"2021": 2.49,
+"2022": 2.85,
+"2023": 3.78,
+"2024": 4.27,
+"2025": 5.08
+},
+"gaap_eps_series": {
+"2015": 1.87,
+"2016": 1.44,
+"2017": 1.83,
+"2018": 3.03,
+"2019": 2.21,
+"2020": 1.4,
+"2021": 2.35,
+"2022": 1.96,
+"2023": 2.79,
+"2024": 3.65,
+"2025": 3.92
+},
+"rev_series_m": {
+"2015": 3672,
+"2016": 3769,
+"2017": 4701,
+"2018": 5207,
+"2019": 5256,
+"2020": 4872,
+"2021": 5199,
+"2022": 5541,
+"2023": 7367,
+"2024": 8563,
+"2025": 9031
+},
+"ebit_margin_series": {
+"2015": 13.4,
+"2016": 13.5,
+"2017": 13.4,
+"2018": 13.7,
+"2019": 13.5,
+"2020": 10.2,
+"2021": 11.5,
+"2022": 12.0,
+"2023": 10.0,
+"2024": 12.5,
+"2025": 14.6
+},
+"ebit_margin_latest": 14.6,
+"ebit_margin_10y_avg": 12.6,
+"ebit_margin_10y_max": 14.6,
+"ebit_margin_10y_min": 10.0,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.96,
+"fcf_conversion_10y": 1.11,
+"acq_to_fcf_10y": 0.55,
+"buyback_to_fcf_10y": 0.07,
+"div_to_fcf_10y": 0.4,
+"net_debt_m": 1030,
+"net_debt_ebitda": 0.54,
+"roic_latest": 7.3,
+"roic_10y_avg": 7.3,
+"roe_latest": 8.7,
+"roe_10y_avg": 12.0,
+"adj_vs_gaap_gap_5y_avg_pct": 26.6,
+"adj_vs_gaap_gap_latest_pct": 29.5,
+"ntm_pe": 17.0,
+"is_reit": "False",
+"price": "103.53",
+"fcf_yield": 5.0,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 5.08,
+"std": null,
+"hi": 5.08,
+"lo": 5.08,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5.649,
+"std": 0.054,
+"hi": 5.75,
+"lo": 5.5228108335,
+"n": 19
+},
+"FY2": {
+"fy": 2027,
+"mean": 6.201,
+"std": 0.142,
+"hi": 6.45798902,
+"lo": 5.946132225,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 6.791,
+"std": 0.31,
+"hi": 7.31904259,
+"lo": 6.149859,
+"n": 12
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+9.8,
+9.5
+],
+"cons_EPS_growth_FY1": 11.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 9035.0,
+"std": null,
+"hi": 9035.0,
+"lo": 9035.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 9194.49,
+"std": 43.735,
+"hi": 9326.7275,
+"lo": 9127.715,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 9596.899,
+"std": 121.801,
+"hi": 9876.0,
+"lo": 9392.5,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 10068.011,
+"std": 163.703,
+"hi": 10350.0,
+"lo": 9826.2,
+"n": 10
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.4,
+4.9
+],
+"cons_SALES_growth_FY1": 1.8,
+"eps_ltg": 7.833333333333333,
+"missing": [],
+"fmp_backup": []
+}

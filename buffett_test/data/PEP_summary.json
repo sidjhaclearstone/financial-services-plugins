@@ -1,0 +1,176 @@
+{
+"ticker": "PEP-US",
+"name": "PepsiCo, Inc.",
+"last_fy": 2025,
+"rbics": "Food and Tobacco Production / Food and Beverage Production / Food Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 5.9,
+"eps_cagr_5y": 8.1,
+"gaap_eps_cagr_10y": 5.0,
+"rev_cagr_10y": 4.1,
+"rev_cagr_5y": 5.9,
+"shares_cagr_10y": -0.8,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2019,
+-2.3
+],
+"eps_series": {
+"2015": 4.57,
+"2016": 4.85,
+"2017": 5.23,
+"2018": 5.66,
+"2019": 5.53,
+"2020": 5.52,
+"2021": 6.26,
+"2022": 6.79,
+"2023": 7.62,
+"2024": 8.16,
+"2025": 8.14
+},
+"gaap_eps_series": {
+"2015": 3.67,
+"2016": 4.36,
+"2017": 3.38,
+"2018": 8.78,
+"2019": 5.2,
+"2020": 5.11,
+"2021": 5.48,
+"2022": 6.42,
+"2023": 6.56,
+"2024": 6.95,
+"2025": 6.0
+},
+"rev_series_m": {
+"2015": 63053,
+"2016": 62801,
+"2017": 63525,
+"2018": 64660,
+"2019": 67162,
+"2020": 70372,
+"2021": 79480,
+"2022": 86403,
+"2023": 91468,
+"2024": 91853,
+"2025": 93924
+},
+"ebit_margin_series": {
+"2015": 16.0,
+"2016": 16.2,
+"2017": 16.6,
+"2018": 16.1,
+"2019": 15.9,
+"2020": 14.8,
+"2021": 14.4,
+"2022": 13.5,
+"2023": 15.4,
+"2024": 15.6,
+"2025": 15.8
+},
+"ebit_margin_latest": 15.8,
+"ebit_margin_10y_avg": 15.5,
+"ebit_margin_10y_max": 16.6,
+"ebit_margin_10y_min": 13.5,
+"margin_pctile_in_history": 55,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.81,
+"fcf_conversion_10y": 0.83,
+"acq_to_fcf_10y": 0.27,
+"buyback_to_fcf_10y": 0.25,
+"div_to_fcf_10y": 0.86,
+"net_debt_m": 43498,
+"net_debt_ebitda": 2.29,
+"roic_latest": 13.3,
+"roic_10y_avg": 16.2,
+"roe_latest": 42.9,
+"roe_10y_avg": 55.0,
+"adj_vs_gaap_gap_5y_avg_pct": 17.8,
+"adj_vs_gaap_gap_latest_pct": 35.6,
+"ntm_pe": 15.61,
+"is_reit": "False",
+"price": "133.57",
+"fcf_yield": 5.8,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 8.14,
+"std": null,
+"hi": 8.14,
+"lo": 8.14,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 8.403,
+"std": 0.048,
+"hi": 8.58,
+"lo": 8.3458,
+"n": 21
+},
+"FY2": {
+"fy": 2027,
+"mean": 8.593,
+"std": 0.179,
+"hi": 9.02,
+"lo": 8.35207785,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 9.054,
+"std": 0.19,
+"hi": 9.43,
+"lo": 8.78,
+"n": 15
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+2.3,
+5.4
+],
+"cons_EPS_growth_FY1": 3.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 93925.0,
+"std": null,
+"hi": 93925.0,
+"lo": 93925.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 99299.838,
+"std": 151.61,
+"hi": 99622.07,
+"lo": 99065.66,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 101752.511,
+"std": 672.051,
+"hi": 103147.561855,
+"lo": 100430.04383526,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 104928.355,
+"std": 1054.474,
+"hi": 106473.837908425,
+"lo": 103192.29626491,
+"n": 14
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.5,
+3.1
+],
+"cons_SALES_growth_FY1": 5.7,
+"eps_ltg": 3.9913027147333335,
+"missing": [],
+"fmp_backup": []
+}

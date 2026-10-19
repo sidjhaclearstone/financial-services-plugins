@@ -1,0 +1,176 @@
+{
+"ticker": "XYZ-US",
+"name": "Block, Inc.",
+"last_fy": 2025,
+"rbics": "Specialty Finance and Services / Specialty Finance / Consumer Finance Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 23.1,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 34.3,
+"rev_cagr_5y": 20.6,
+"shares_cagr_10y": 6.4,
+"years_eps_growth_ge7": "5/8",
+"worst_eps_year": [
+2022,
+-41.5
+],
+"eps_series": {
+"2015": -0.38,
+"2016": -0.5,
+"2017": 0.27,
+"2018": 0.47,
+"2019": 0.8,
+"2020": 0.84,
+"2021": 1.71,
+"2022": 1.0,
+"2023": 1.8,
+"2024": 3.37,
+"2025": 2.37
+},
+"gaap_eps_series": {
+"2015": -0.63,
+"2016": -0.5,
+"2017": -0.17,
+"2018": -0.09,
+"2019": 0.81,
+"2020": 0.44,
+"2021": 0.33,
+"2022": -0.93,
+"2023": 0.02,
+"2024": 4.56,
+"2025": 2.1
+},
+"rev_series_m": {
+"2015": 1267,
+"2016": 1709,
+"2017": 2214,
+"2018": 3298,
+"2019": 4714,
+"2020": 9498,
+"2021": 17661,
+"2022": 17532,
+"2023": 21916,
+"2024": 24121,
+"2025": 24194
+},
+"ebit_margin_series": {
+"2015": -9.5,
+"2016": -4.2,
+"2017": 0.6,
+"2018": 1.7,
+"2019": 3.3,
+"2020": 1.8,
+"2021": 2.6,
+"2022": 0.8,
+"2023": 3.5,
+"2024": 8.4,
+"2025": 13.3
+},
+"ebit_margin_latest": 13.3,
+"ebit_margin_10y_avg": 2.0,
+"ebit_margin_10y_max": 13.3,
+"ebit_margin_10y_min": -9.5,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 0.7,
+"fcf_conversion_5y": 1.21,
+"fcf_conversion_10y": 1.35,
+"acq_to_fcf_10y": 0.07,
+"buyback_to_fcf_10y": 0.65,
+"div_to_fcf_10y": 0.0,
+"net_debt_m": 813,
+"net_debt_ebitda": 0.23,
+"roic_latest": 4.6,
+"roic_10y_avg": -0.6,
+"roe_latest": 6.0,
+"roe_10y_avg": 1.2,
+"adj_vs_gaap_gap_5y_avg_pct": 2905.8,
+"adj_vs_gaap_gap_latest_pct": 12.7,
+"ntm_pe": 15.48,
+"is_reit": "False",
+"price": "77.5",
+"fcf_yield": 7.2,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.37,
+"std": null,
+"hi": 2.37,
+"lo": 2.37,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4.061,
+"std": 0.069,
+"hi": 4.43,
+"lo": 4.00195356,
+"n": 43
+},
+"FY2": {
+"fy": 2027,
+"mean": 5.241,
+"std": 0.195,
+"hi": 5.63,
+"lo": 4.76,
+"n": 43
+},
+"FY3": {
+"fy": 2028,
+"mean": 6.533,
+"std": 0.449,
+"hi": 7.2411428149,
+"lo": 5.71203225,
+"n": 30
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+29.0,
+24.6
+],
+"cons_EPS_growth_FY1": 71.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 24193.683,
+"std": null,
+"hi": 24193.683,
+"lo": 24193.683,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 26024.302,
+"std": 427.485,
+"hi": 26834.6,
+"lo": 24718.656,
+"n": 35
+},
+"FY2": {
+"fy": 2027,
+"mean": 28999.86,
+"std": 870.704,
+"hi": 31066.0,
+"lo": 26269.982,
+"n": 34
+},
+"FY3": {
+"fy": 2028,
+"mean": 32262.253,
+"std": 1184.505,
+"hi": 35926.0,
+"lo": 30059.0,
+"n": 22
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+11.4,
+11.2
+],
+"cons_SALES_growth_FY1": 7.6,
+"eps_ltg": 23.3069234639,
+"missing": [],
+"fmp_backup": []
+}

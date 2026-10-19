@@ -1,0 +1,176 @@
+{
+"ticker": "OTTR-US",
+"name": "Otter Tail Corporation",
+"last_fy": 2025,
+"rbics": "Manufactured Products / Other Materials / Diversified Materials",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 15.4,
+"eps_cagr_5y": 22.9,
+"gaap_eps_cagr_10y": 16.8,
+"rev_cagr_10y": 5.3,
+"rev_cagr_5y": 7.9,
+"shares_cagr_10y": 1.1,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2025,
+-8.6
+],
+"eps_series": {
+"2015": 1.56,
+"2016": 1.6,
+"2017": 1.86,
+"2018": 2.06,
+"2019": 2.17,
+"2020": 2.34,
+"2021": 4.23,
+"2022": 6.78,
+"2023": 7.0,
+"2024": 7.17,
+"2025": 6.55
+},
+"gaap_eps_series": {
+"2015": 1.39,
+"2016": 1.61,
+"2017": 1.82,
+"2018": 2.06,
+"2019": 2.17,
+"2020": 2.34,
+"2021": 4.23,
+"2022": 6.78,
+"2023": 7.0,
+"2024": 7.17,
+"2025": 6.55
+},
+"rev_series_m": {
+"2015": 780,
+"2016": 804,
+"2017": 849,
+"2018": 916,
+"2019": 920,
+"2020": 890,
+"2021": 1197,
+"2022": 1460,
+"2023": 1349,
+"2024": 1331,
+"2025": 1304
+},
+"ebit_margin_series": {
+"2015": 14.0,
+"2016": 13.8,
+"2017": 14.9,
+"2018": 14.1,
+"2019": 14.7,
+"2020": 16.6,
+"2021": 20.9,
+"2022": 26.7,
+"2023": 28.0,
+"2024": 28.8,
+"2025": 26.3
+},
+"ebit_margin_latest": 26.3,
+"ebit_margin_10y_avg": 19.9,
+"ebit_margin_10y_max": 28.8,
+"ebit_margin_10y_min": 13.8,
+"margin_pctile_in_history": 73,
+"latest_eps_vs_10y_max": 0.91,
+"fcf_conversion_5y": 0.37,
+"fcf_conversion_10y": 0.21,
+"acq_to_fcf_10y": 0.0,
+"buyback_to_fcf_10y": 0.02,
+"div_to_fcf_10y": 1.8,
+"net_debt_m": 690,
+"net_debt_ebitda": 1.49,
+"roic_latest": 10.1,
+"roic_10y_avg": 9.3,
+"roe_latest": 15.6,
+"roe_10y_avg": 15.7,
+"adj_vs_gaap_gap_5y_avg_pct": 0.0,
+"adj_vs_gaap_gap_latest_pct": -0.0,
+"ntm_pe": 16.48,
+"is_reit": "False",
+"price": "88.87",
+"fcf_yield": 2.4,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 6.55,
+"std": null,
+"hi": 6.55,
+"lo": 6.55,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 6.075,
+"std": 0.163,
+"hi": 6.19,
+"lo": 5.96,
+"n": 2
+},
+"FY2": {
+"fy": 2027,
+"mean": 5.22,
+"std": 1.188,
+"hi": 6.06,
+"lo": 4.38,
+"n": 2
+},
+"FY3": {
+"fy": 2028,
+"mean": 4.02,
+"std": null,
+"hi": 4.02,
+"lo": 4.02,
+"n": 1
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-14.1,
+-23.0
+],
+"cons_EPS_growth_FY1": -7.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1304.058,
+"std": null,
+"hi": 1304.058,
+"lo": 1304.058,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1320.2,
+"std": 21.875,
+"hi": 1334.3,
+"lo": 1295.0,
+"n": 3
+},
+"FY2": {
+"fy": 2027,
+"mean": 1352.2,
+"std": 44.341,
+"hi": 1388.0,
+"lo": 1302.6,
+"n": 3
+},
+"FY3": {
+"fy": 2028,
+"mean": 1411.25,
+"std": 68.943,
+"hi": 1460.0,
+"lo": 1362.5,
+"n": 2
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.4,
+4.4
+],
+"cons_SALES_growth_FY1": 1.2,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

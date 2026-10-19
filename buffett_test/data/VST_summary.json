@@ -1,0 +1,175 @@
+{
+"ticker": "VST-US",
+"name": "Vistra Corp.",
+"last_fy": 2025,
+"rbics": "Utilities / Energy Utilities / Electric Utilities",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 11.2,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 12.2,
+"rev_cagr_5y": 8.9,
+"shares_cagr_10y": -2.1,
+"years_eps_growth_ge7": "2/5",
+"worst_eps_year": [
+2021,
+-304.6
+],
+"eps_series": {
+"2016": -0.38,
+"2017": -0.59,
+"2018": -0.11,
+"2019": 1.84,
+"2020": 1.29,
+"2021": -2.64,
+"2022": 0.5,
+"2023": 3.74,
+"2024": 6.12,
+"2025": 2.19
+},
+"gaap_eps_series": {
+"2015": -10.94,
+"2016": 53.06,
+"2017": -0.59,
+"2018": -0.11,
+"2019": 1.86,
+"2020": 1.3,
+"2021": -2.69,
+"2022": -3.26,
+"2023": 3.58,
+"2024": 7.0,
+"2025": 2.18
+},
+"rev_series_m": {
+"2015": 5370,
+"2016": 5258,
+"2017": 5380,
+"2018": 10049,
+"2019": 11502,
+"2020": 11062,
+"2021": 13213,
+"2022": 17837,
+"2023": 15543,
+"2024": 19377,
+"2025": 16972
+},
+"ebit_margin_series": {
+"2015": 5.9,
+"2016": 5.2,
+"2017": 3.0,
+"2018": 13.5,
+"2019": 14.4,
+"2020": 13.4,
+"2021": -7.5,
+"2022": 14.8,
+"2023": 25.2,
+"2024": 32.1,
+"2025": 7.9
+},
+"ebit_margin_latest": 7.9,
+"ebit_margin_10y_avg": 11.6,
+"ebit_margin_10y_max": 32.1,
+"ebit_margin_10y_min": -7.5,
+"margin_pctile_in_history": 45,
+"latest_eps_vs_10y_max": 0.36,
+"fcf_conversion_5y": 0.05,
+"fcf_conversion_10y": 0.17,
+"acq_to_fcf_10y": 1.43,
+"buyback_to_fcf_10y": 1.64,
+"div_to_fcf_10y": 0.82,
+"net_debt_m": 19579,
+"net_debt_ebitda": 4.57,
+"roic_latest": 4.4,
+"roic_10y_avg": 2.1,
+"roe_latest": 17.7,
+"roe_10y_avg": 8.5,
+"adj_vs_gaap_gap_5y_avg_pct": -2.5,
+"adj_vs_gaap_gap_latest_pct": 0.6,
+"ntm_pe": 15.25,
+"is_reit": "False",
+"price": "149.7",
+"fcf_yield": 9.9,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.188,
+"std": 0.02,
+"hi": 2.22,
+"lo": 2.16,
+"n": 7
+},
+"FY1": {
+"fy": 2026,
+"mean": 8.643,
+"std": 1.174,
+"hi": 10.65,
+"lo": 6.15,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 10.111,
+"std": 1.288,
+"hi": 12.64,
+"lo": 6.67,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 12.007,
+"std": 1.506,
+"hi": 13.84,
+"lo": 7.59,
+"n": 16
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+17.0,
+18.8
+],
+"cons_EPS_growth_FY1": 295.0,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 17738.0,
+"std": null,
+"hi": 17738.0,
+"lo": 17738.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 22378.256,
+"std": 2211.22,
+"hi": 26423.0,
+"lo": 17806.0,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 24545.896,
+"std": 3426.979,
+"hi": 30520.99,
+"lo": 18608.0,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 25830.651,
+"std": 3695.458,
+"hi": 31847.377,
+"lo": 18705.0,
+"n": 16
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+9.7,
+5.2
+],
+"cons_SALES_growth_FY1": 26.2,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

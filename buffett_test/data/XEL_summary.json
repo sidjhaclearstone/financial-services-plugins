@@ -1,0 +1,176 @@
+{
+"ticker": "XEL-US",
+"name": "Xcel Energy Inc.",
+"last_fy": 2025,
+"rbics": "Utilities / Energy Utilities / Electric Utilities",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 6.2,
+"eps_cagr_5y": 6.4,
+"gaap_eps_cagr_10y": 5.9,
+"rev_cagr_10y": 2.9,
+"rev_cagr_5y": 4.9,
+"shares_cagr_10y": 1.5,
+"years_eps_growth_ge7": "3/10",
+"worst_eps_year": [
+2017,
+4.1
+],
+"eps_series": {
+"2015": 2.09,
+"2016": 2.21,
+"2017": 2.3,
+"2018": 2.47,
+"2019": 2.64,
+"2020": 2.79,
+"2021": 2.96,
+"2022": 3.17,
+"2023": 3.35,
+"2024": 3.5,
+"2025": 3.8
+},
+"gaap_eps_series": {
+"2015": 1.94,
+"2016": 2.21,
+"2017": 2.25,
+"2018": 2.47,
+"2019": 2.64,
+"2020": 2.79,
+"2021": 2.96,
+"2022": 3.17,
+"2023": 3.21,
+"2024": 3.44,
+"2025": 3.43
+},
+"rev_series_m": {
+"2015": 11032,
+"2016": 11104,
+"2017": 11394,
+"2018": 11523,
+"2019": 11531,
+"2020": 11527,
+"2021": 13368,
+"2022": 15285,
+"2023": 14213,
+"2024": 13468,
+"2025": 14672
+},
+"ebit_margin_series": {
+"2015": 19.5,
+"2016": 20.0,
+"2017": 19.2,
+"2018": 17.0,
+"2019": 18.2,
+"2020": 18.5,
+"2021": 16.2,
+"2022": 15.9,
+"2023": 18.4,
+"2024": 18.1,
+"2025": 19.8
+},
+"ebit_margin_latest": 19.8,
+"ebit_margin_10y_avg": 18.2,
+"ebit_margin_10y_max": 20.0,
+"ebit_margin_10y_min": 15.9,
+"margin_pctile_in_history": 91,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": -1.42,
+"fcf_conversion_10y": -1.14,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"net_debt_m": 35641,
+"net_debt_ebitda": 5.95,
+"roic_latest": 3.8,
+"roic_10y_avg": 4.4,
+"roe_latest": 9.4,
+"roe_10y_avg": 10.4,
+"adj_vs_gaap_gap_5y_avg_pct": 3.4,
+"adj_vs_gaap_gap_latest_pct": 10.9,
+"ntm_pe": 16.84,
+"is_reit": "False",
+"price": "75.14",
+"fcf_yield": -17.5,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.8,
+"std": null,
+"hi": 3.8,
+"lo": 3.8,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4.126,
+"std": 0.03,
+"hi": 4.19,
+"lo": 4.07,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.547,
+"std": 0.065,
+"hi": 4.67,
+"lo": 4.42,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 5.036,
+"std": 0.086,
+"hi": 5.27,
+"lo": 4.89,
+"n": 15
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+10.2,
+10.7
+],
+"cons_EPS_growth_FY1": 8.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 14669.0,
+"std": null,
+"hi": 14669.0,
+"lo": 14669.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 15564.787,
+"std": 450.955,
+"hi": 16749.0,
+"lo": 14886.629758,
+"n": 12
+},
+"FY2": {
+"fy": 2027,
+"mean": 17189.297,
+"std": 601.565,
+"hi": 18290.0,
+"lo": 16217.636771,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 18611.081,
+"std": 687.947,
+"hi": 19623.5148580713,
+"lo": 17576.413784,
+"n": 11
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+10.4,
+8.3
+],
+"cons_SALES_growth_FY1": 6.1,
+"eps_ltg": 9.7896854211,
+"missing": [],
+"fmp_backup": []
+}

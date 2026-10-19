@@ -1,0 +1,176 @@
+{
+"ticker": "TKR-US",
+"name": "Timken Company",
+"last_fy": 2025,
+"rbics": "Mining and Mineral Products / Metal Products / Metal Parts and Component Manufacturing",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 9.2,
+"eps_cagr_5y": 5.4,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 4.8,
+"rev_cagr_5y": 5.5,
+"shares_cagr_10y": -1.8,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2024,
+-17.9
+],
+"eps_series": {
+"2015": 2.21,
+"2016": 1.97,
+"2017": 2.63,
+"2018": 4.18,
+"2019": 4.6,
+"2020": 4.1,
+"2021": 4.72,
+"2022": 6.02,
+"2023": 7.05,
+"2024": 5.79,
+"2025": 5.33
+},
+"gaap_eps_series": {
+"2015": -0.84,
+"2016": 1.93,
+"2017": 2.58,
+"2018": 3.87,
+"2019": 4.71,
+"2020": 3.72,
+"2021": 4.79,
+"2022": 5.48,
+"2023": 5.47,
+"2024": 4.99,
+"2025": 4.11
+},
+"rev_series_m": {
+"2015": 2872,
+"2016": 2670,
+"2017": 3004,
+"2018": 3581,
+"2019": 3790,
+"2020": 3513,
+"2021": 4133,
+"2022": 4497,
+"2023": 4769,
+"2024": 4573,
+"2025": 4582
+},
+"ebit_margin_series": {
+"2015": 10.7,
+"2016": 9.6,
+"2017": 9.6,
+"2018": 12.8,
+"2019": 14.0,
+"2020": 13.6,
+"2021": 12.6,
+"2022": 14.6,
+"2023": 15.5,
+"2024": 13.7,
+"2025": 12.8
+},
+"ebit_margin_latest": 12.8,
+"ebit_margin_10y_avg": 12.7,
+"ebit_margin_10y_max": 15.5,
+"ebit_margin_10y_min": 9.6,
+"margin_pctile_in_history": 45,
+"latest_eps_vs_10y_max": 0.76,
+"fcf_conversion_5y": 0.88,
+"fcf_conversion_10y": 0.99,
+"acq_to_fcf_10y": 0.88,
+"buyback_to_fcf_10y": 0.33,
+"div_to_fcf_10y": 0.29,
+"net_debt_m": 1669,
+"net_debt_ebitda": 2.04,
+"roic_latest": 5.7,
+"roic_10y_avg": 8.9,
+"roe_latest": 9.6,
+"roe_10y_avg": 15.5,
+"adj_vs_gaap_gap_5y_avg_pct": 16.6,
+"adj_vs_gaap_gap_latest_pct": 29.8,
+"ntm_pe": 15.84,
+"is_reit": "False",
+"price": "112.64",
+"fcf_yield": 6.3,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 5.33,
+"std": null,
+"hi": 5.33,
+"lo": 5.33,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 6.278,
+"std": 0.088,
+"hi": 6.42,
+"lo": 6.154401,
+"n": 13
+},
+"FY2": {
+"fy": 2027,
+"mean": 7.321,
+"std": 0.298,
+"hi": 7.82,
+"lo": 6.85,
+"n": 13
+},
+"FY3": {
+"fy": 2028,
+"mean": 8.503,
+"std": 0.567,
+"hi": 9.2970515668,
+"lo": 7.5,
+"n": 11
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+16.6,
+16.1
+],
+"cons_EPS_growth_FY1": 17.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 4581.8,
+"std": null,
+"hi": 4581.8,
+"lo": 4581.8,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4851.917,
+"std": 22.016,
+"hi": 4889.0,
+"lo": 4818.76755,
+"n": 12
+},
+"FY2": {
+"fy": 2027,
+"mean": 5012.045,
+"std": 80.762,
+"hi": 5160.0,
+"lo": 4887.66423431,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 5203.029,
+"std": 100.859,
+"hi": 5354.721653,
+"lo": 5058.0,
+"n": 10
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.3,
+3.8
+],
+"cons_SALES_growth_FY1": 5.9,
+"eps_ltg": 14.41628169945,
+"missing": [],
+"fmp_backup": []
+}

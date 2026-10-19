@@ -1,0 +1,176 @@
+{
+"ticker": "NWN-US",
+"name": "Northwest Natural Holding Co.",
+"last_fy": 2025,
+"rbics": "Utilities / Energy Utilities / Natural Gas Utilities",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 2.5,
+"eps_cagr_5y": 5.0,
+"gaap_eps_cagr_10y": 3.5,
+"rev_cagr_10y": 5.9,
+"rev_cagr_5y": 10.7,
+"shares_cagr_10y": 4.1,
+"years_eps_growth_ge7": "2/10",
+"worst_eps_year": [
+2024,
+-10.0
+],
+"eps_series": {
+"2015": 2.29,
+"2016": 2.19,
+"2017": 2.24,
+"2018": 2.33,
+"2019": 2.41,
+"2020": 2.3,
+"2021": 2.56,
+"2022": 2.54,
+"2023": 2.59,
+"2024": 2.33,
+"2025": 2.93
+},
+"gaap_eps_series": {
+"2015": 1.96,
+"2016": 2.12,
+"2017": -1.94,
+"2018": 2.24,
+"2019": 2.07,
+"2020": 2.32,
+"2021": 2.56,
+"2022": 2.54,
+"2023": 2.59,
+"2024": 2.03,
+"2025": 2.77
+},
+"rev_series_m": {
+"2015": 724,
+"2016": 675,
+"2017": 763,
+"2018": 704,
+"2019": 747,
+"2020": 775,
+"2021": 860,
+"2022": 1037,
+"2023": 1197,
+"2024": 1153,
+"2025": 1289
+},
+"ebit_margin_series": {
+"2015": 25.5,
+"2016": 21.1,
+"2017": 22.8,
+"2018": 19.8,
+"2019": 20.3,
+"2020": 18.0,
+"2021": 8.8,
+"2022": -5.8,
+"2023": -6.1,
+"2024": 27.3,
+"2025": 31.4
+},
+"ebit_margin_latest": 31.4,
+"ebit_margin_10y_avg": 16.7,
+"ebit_margin_10y_max": 31.4,
+"ebit_margin_10y_min": -6.1,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": -1.7,
+"fcf_conversion_10y": -1.42,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"net_debt_m": 2642,
+"net_debt_ebitda": 4.34,
+"roic_latest": 3.3,
+"roic_10y_avg": 3.0,
+"roe_latest": 7.9,
+"roe_10y_avg": 6.3,
+"adj_vs_gaap_gap_5y_avg_pct": 4.2,
+"adj_vs_gaap_gap_latest_pct": 5.9,
+"ntm_pe": 15.01,
+"is_reit": "False",
+"price": "47.96",
+"fcf_yield": -8.6,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.93,
+"std": null,
+"hi": 2.93,
+"lo": 2.93,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.088,
+"std": 0.029,
+"hi": 3.11,
+"lo": 3.04,
+"n": 5
+},
+"FY2": {
+"fy": 2027,
+"mean": 3.222,
+"std": 0.013,
+"hi": 3.23,
+"lo": 3.2,
+"n": 5
+},
+"FY3": {
+"fy": 2028,
+"mean": 3.393,
+"std": 0.034,
+"hi": 3.44,
+"lo": 3.36,
+"n": 4
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+4.3,
+5.3
+],
+"cons_EPS_growth_FY1": 5.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1289.363,
+"std": null,
+"hi": 1289.363,
+"lo": 1289.363,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1372.927,
+"std": 50.198,
+"hi": 1445.36,
+"lo": 1300.6,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 1435.333,
+"std": 73.107,
+"hi": 1513.0,
+"lo": 1325.2,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 1478.98,
+"std": 76.348,
+"hi": 1582.0,
+"lo": 1381.3,
+"n": 5
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.5,
+3.0
+],
+"cons_SALES_growth_FY1": 6.5,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

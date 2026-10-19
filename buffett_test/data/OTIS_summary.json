@@ -1,0 +1,165 @@
+{
+"ticker": "OTIS-US",
+"name": "Otis Worldwide Corporation",
+"last_fy": 2025,
+"rbics": "Business Services / Business Support Services / Facilities and Other Support Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 10.0,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 2.5,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "3/5",
+"worst_eps_year": [
+2022,
+5.3
+],
+"eps_series": {
+"2020": 2.52,
+"2021": 3.01,
+"2022": 3.17,
+"2023": 3.54,
+"2024": 3.83,
+"2025": 4.05
+},
+"gaap_eps_series": {
+"2017": 1.47,
+"2018": 2.42,
+"2019": 2.58,
+"2020": 2.08,
+"2021": 2.89,
+"2022": 2.96,
+"2023": 3.39,
+"2024": 4.07,
+"2025": 3.5
+},
+"rev_series_m": {
+"2017": 12323,
+"2018": 12915,
+"2019": 13118,
+"2020": 12756,
+"2021": 14298,
+"2022": 13685,
+"2023": 14209,
+"2024": 14261,
+"2025": 14431
+},
+"ebit_margin_series": {
+"2017": 15.5,
+"2018": 14.4,
+"2019": 14.4,
+"2020": 15.0,
+"2021": 15.2,
+"2022": 15.2,
+"2023": 15.7,
+"2024": 16.0,
+"2025": 16.2
+},
+"ebit_margin_latest": 16.2,
+"ebit_margin_10y_avg": 15.3,
+"ebit_margin_10y_max": 16.2,
+"ebit_margin_10y_min": 14.4,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.07,
+"fcf_conversion_10y": 1.2,
+"acq_to_fcf_10y": 0.07,
+"buyback_to_fcf_10y": 0.33,
+"div_to_fcf_10y": 0.23,
+"net_debt_m": 7406,
+"net_debt_ebitda": 2.94,
+"roic_latest": 64.0,
+"roic_10y_avg": 57.9,
+"roe_latest": 68.3,
+"roe_10y_avg": 68.3,
+"adj_vs_gaap_gap_5y_avg_pct": 5.1,
+"adj_vs_gaap_gap_latest_pct": 15.6,
+"ntm_pe": 16.05,
+"is_reit": "False",
+"price": "71.04",
+"fcf_yield": 6.9,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 4.05,
+"std": null,
+"hi": 4.05,
+"lo": 4.05,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4.04,
+"std": 0.02,
+"hi": 4.09,
+"lo": 4.009968467,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.521,
+"std": 0.138,
+"hi": 4.86273,
+"lo": 4.36,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 5.034,
+"std": 0.235,
+"hi": 5.57778,
+"lo": 4.82,
+"n": 12
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+11.9,
+11.3
+],
+"cons_EPS_growth_FY1": -0.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 14431.0,
+"std": null,
+"hi": 14431.0,
+"lo": 14431.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 15273.157,
+"std": 56.937,
+"hi": 15355.24,
+"lo": 15170.0,
+"n": 13
+},
+"FY2": {
+"fy": 2027,
+"mean": 16022.386,
+"std": 182.984,
+"hi": 16386.6454,
+"lo": 15747.0,
+"n": 13
+},
+"FY3": {
+"fy": 2028,
+"mean": 16843.44,
+"std": 314.829,
+"hi": 17497.5066,
+"lo": 16443.465278,
+"n": 12
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.9,
+5.1
+],
+"cons_SALES_growth_FY1": 5.8,
+"eps_ltg": 9.5714855,
+"missing": [],
+"fmp_backup": []
+}

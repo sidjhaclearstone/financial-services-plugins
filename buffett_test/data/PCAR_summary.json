@@ -1,0 +1,176 @@
+{
+"ticker": "PCAR-US",
+"name": "PACCAR Inc",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Transportation Equipment Manufacturing / Commercial Transportation Equipment Manufacturing",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 5.2,
+"eps_cagr_5y": 15.0,
+"gaap_eps_cagr_10y": 4.1,
+"rev_cagr_10y": 4.1,
+"rev_cagr_5y": 8.7,
+"shares_cagr_10y": -0.1,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2020,
+-45.6
+],
+"eps_series": {
+"2015": 3.01,
+"2016": 2.57,
+"2017": 2.84,
+"2018": 4.16,
+"2019": 4.58,
+"2020": 2.49,
+"2021": 3.55,
+"2022": 5.75,
+"2023": 9.61,
+"2024": 7.9,
+"2025": 5.01
+},
+"gaap_eps_series": {
+"2015": 3.01,
+"2016": 0.99,
+"2017": 3.17,
+"2018": 4.16,
+"2019": 4.58,
+"2020": 2.49,
+"2021": 3.54,
+"2022": 5.75,
+"2023": 8.76,
+"2024": 7.9,
+"2025": 4.51
+},
+"rev_series_m": {
+"2015": 19115,
+"2016": 17005,
+"2017": 19468,
+"2018": 23501,
+"2019": 25621,
+"2020": 18724,
+"2021": 23539,
+"2022": 28839,
+"2023": 35159,
+"2024": 33652,
+"2025": 28450
+},
+"ebit_margin_series": {
+"2015": 12.0,
+"2016": 11.3,
+"2017": 11.9,
+"2018": 10.9,
+"2019": 11.8,
+"2020": 8.9,
+"2021": 9.6,
+"2022": 12.7,
+"2023": 17.2,
+"2024": 15.2,
+"2025": 9.9
+},
+"ebit_margin_latest": 9.9,
+"ebit_margin_10y_avg": 12.0,
+"ebit_margin_10y_max": 17.2,
+"ebit_margin_10y_min": 8.9,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 0.52,
+"fcf_conversion_5y": 0.69,
+"fcf_conversion_10y": 0.64,
+"acq_to_fcf_10y": 0.0,
+"buyback_to_fcf_10y": 0.04,
+"div_to_fcf_10y": 0.8,
+"net_debt_m": 6184,
+"net_debt_ebitda": 1.69,
+"roic_latest": 8.7,
+"roic_10y_avg": 13.5,
+"roe_latest": 12.9,
+"roe_10y_avg": 20.7,
+"adj_vs_gaap_gap_5y_avg_pct": 4.2,
+"adj_vs_gaap_gap_latest_pct": 11.1,
+"ntm_pe": 15.57,
+"is_reit": "False",
+"price": "108.42",
+"fcf_yield": 6.0,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 5.01,
+"std": null,
+"hi": 5.01,
+"lo": 5.01,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5.936,
+"std": 0.137,
+"hi": 6.23,
+"lo": 5.7,
+"n": 19
+},
+"FY2": {
+"fy": 2027,
+"mean": 7.217,
+"std": 0.442,
+"hi": 8.03,
+"lo": 6.6,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 8.105,
+"std": 0.857,
+"hi": 9.29,
+"lo": 6.5,
+"n": 16
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+21.6,
+12.3
+],
+"cons_EPS_growth_FY1": 18.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 26235.1,
+"std": null,
+"hi": 26235.1,
+"lo": 26235.1,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 28650.962,
+"std": 469.972,
+"hi": 29386.6217711703,
+"lo": 27470.0,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 31567.207,
+"std": 1175.591,
+"hi": 33697.4108555177,
+"lo": 29791.1,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 33300.974,
+"std": 2520.056,
+"hi": 37115.1625634813,
+"lo": 28753.3,
+"n": 9
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+10.2,
+5.5
+],
+"cons_SALES_growth_FY1": 9.2,
+"eps_ltg": 16.2815259225,
+"missing": [],
+"fmp_backup": []
+}

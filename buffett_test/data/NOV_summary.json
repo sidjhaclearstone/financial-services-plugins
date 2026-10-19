@@ -1,0 +1,176 @@
+{
+"ticker": "NOV-US",
+"name": "NOV Inc.",
+"last_fy": 2025,
+"rbics": "Upstream Energy / Support Activities for Oil and Gas Operations / Oil and Gas Field Support Activities",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -17.9,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": -5.1,
+"rev_cagr_5y": 7.6,
+"shares_cagr_10y": -0.3,
+"years_eps_growth_ge7": "1/6",
+"worst_eps_year": [
+2020,
+-160.8
+],
+"eps_series": {
+"2015": 2.8,
+"2016": -0.84,
+"2017": -0.42,
+"2018": -0.06,
+"2019": 0.43,
+"2020": -0.26,
+"2021": -0.65,
+"2022": 0.51,
+"2023": 2.33,
+"2024": 1.23,
+"2025": 0.39
+},
+"gaap_eps_series": {
+"2015": -1.99,
+"2016": -6.41,
+"2017": -0.63,
+"2018": -0.08,
+"2019": -15.96,
+"2020": -6.62,
+"2021": -0.65,
+"2022": 0.39,
+"2023": 2.5,
+"2024": 1.6,
+"2025": 0.39
+},
+"rev_series_m": {
+"2015": 14738,
+"2016": 7246,
+"2017": 7296,
+"2018": 8455,
+"2019": 8478,
+"2020": 6073,
+"2021": 5525,
+"2022": 7234,
+"2023": 8572,
+"2024": 8865,
+"2025": 8744
+},
+"ebit_margin_series": {
+"2015": 13.0,
+"2016": -17.3,
+"2017": -3.7,
+"2018": 2.4,
+"2019": -5.2,
+"2020": -9.0,
+"2021": -2.3,
+"2022": 3.5,
+"2023": 7.4,
+"2024": 11.2,
+"2025": 7.7
+},
+"ebit_margin_latest": 7.7,
+"ebit_margin_10y_avg": 0.7,
+"ebit_margin_10y_max": 13.0,
+"ebit_margin_10y_min": -17.3,
+"margin_pctile_in_history": 82,
+"latest_eps_vs_10y_max": 0.14,
+"fcf_conversion_5y": 0.83,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 0.29,
+"buyback_to_fcf_10y": 0.13,
+"div_to_fcf_10y": 0.23,
+"net_debt_m": 788,
+"net_debt_ebitda": 0.76,
+"roic_latest": 1.7,
+"roic_10y_avg": -6.7,
+"roe_latest": 2.3,
+"roe_10y_avg": -8.5,
+"adj_vs_gaap_gap_5y_avg_pct": -0.1,
+"adj_vs_gaap_gap_latest_pct": 0.9,
+"ntm_pe": 15.65,
+"is_reit": "False",
+"price": "18.75",
+"fcf_yield": 12.5,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.39,
+"std": null,
+"hi": 0.39,
+"lo": 0.39,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.918,
+"std": 0.102,
+"hi": 1.13,
+"lo": 0.74,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.268,
+"std": 0.128,
+"hi": 1.47,
+"lo": 0.96,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.456,
+"std": 0.188,
+"hi": 1.7929239834,
+"lo": 1.13,
+"n": 9
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+38.1,
+14.8
+],
+"cons_EPS_growth_FY1": 135.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 8744.0,
+"std": null,
+"hi": 8744.0,
+"lo": 8744.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 8676.964,
+"std": 30.392,
+"hi": 8746.0,
+"lo": 8619.0,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 9136.536,
+"std": 189.005,
+"hi": 9391.9,
+"lo": 8800.5,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 9495.726,
+"std": 233.998,
+"hi": 9918.0,
+"lo": 9182.0,
+"n": 9
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.3,
+3.9
+],
+"cons_SALES_growth_FY1": -0.8,
+"eps_ltg": 92.4739699001,
+"missing": [],
+"fmp_backup": []
+}

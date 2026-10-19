@@ -1,0 +1,175 @@
+{
+"ticker": "VVV-US",
+"name": "Valvoline, Inc.",
+"last_fy": 2025,
+"rbics": "Miscellaneous Retail / Auto Retail / Automotive Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 1.4,
+"gaap_eps_cagr_10y": 5.5,
+"rev_cagr_10y": -1.4,
+"rev_cagr_5y": -6.2,
+"shares_cagr_10y": -4.5,
+"years_eps_growth_ge7": "4/9",
+"worst_eps_year": [
+2023,
+-44.3
+],
+"eps_series": {
+"2016": 1.31,
+"2017": 1.39,
+"2018": 1.29,
+"2019": 1.39,
+"2020": 1.48,
+"2021": 1.95,
+"2022": 2.12,
+"2023": 1.18,
+"2024": 1.57,
+"2025": 1.59
+},
+"gaap_eps_series": {
+"2015": 0.96,
+"2016": 1.33,
+"2017": 1.49,
+"2018": 0.84,
+"2019": 1.1,
+"2020": 1.69,
+"2021": 2.3,
+"2022": 2.35,
+"2023": -0.94,
+"2024": 1.61,
+"2025": 1.64
+},
+"rev_series_m": {
+"2015": 1967,
+"2016": 1929,
+"2017": 2084,
+"2018": 2285,
+"2019": 2390,
+"2020": 2353,
+"2021": 2981,
+"2022": 1236,
+"2023": 1444,
+"2024": 1619,
+"2025": 1710
+},
+"ebit_margin_series": {
+"2015": 16.0,
+"2016": 23.4,
+"2017": 25.9,
+"2018": 16.5,
+"2019": 15.7,
+"2020": 18.4,
+"2021": 15.4,
+"2022": 18.7,
+"2023": 19.4,
+"2024": 19.4,
+"2025": 18.0
+},
+"ebit_margin_latest": 18.0,
+"ebit_margin_10y_avg": 18.8,
+"ebit_margin_10y_max": 25.9,
+"ebit_margin_10y_min": 15.4,
+"margin_pctile_in_history": 45,
+"latest_eps_vs_10y_max": 0.75,
+"fcf_conversion_5y": 0.23,
+"fcf_conversion_10y": 0.4,
+"acq_to_fcf_10y": 0.9,
+"buyback_to_fcf_10y": 2.6,
+"div_to_fcf_10y": 0.47,
+"net_debt_m": 1616,
+"net_debt_ebitda": 3.78,
+"roic_latest": 11.7,
+"roic_10y_avg": 20.9,
+"roe_latest": 82.0,
+"roe_10y_avg": 280.5,
+"adj_vs_gaap_gap_5y_avg_pct": -7.7,
+"adj_vs_gaap_gap_latest_pct": -3.0,
+"ntm_pe": 15.42,
+"is_reit": "False",
+"price": "30.72",
+"fcf_yield": 1.0,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.59,
+"std": null,
+"hi": 1.59,
+"lo": 1.59,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.76,
+"std": 0.021,
+"hi": 1.8,
+"lo": 1.74,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.968,
+"std": 0.118,
+"hi": 2.2,
+"lo": 1.74,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.435,
+"std": 0.155,
+"hi": 2.7113478727,
+"lo": 2.18,
+"n": 9
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+11.8,
+23.7
+],
+"cons_EPS_growth_FY1": 10.7,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1710.3,
+"std": null,
+"hi": 1710.3,
+"lo": 1710.3,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2079.616,
+"std": 6.084,
+"hi": 2090.7022302322,
+"lo": 2069.1,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 2321.472,
+"std": 48.213,
+"hi": 2403.3,
+"lo": 2203.3,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 2549.197,
+"std": 54.027,
+"hi": 2655.9,
+"lo": 2488.6,
+"n": 8
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+11.6,
+9.8
+],
+"cons_SALES_growth_FY1": 21.6,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

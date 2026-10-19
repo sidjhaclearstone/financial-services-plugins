@@ -1,0 +1,176 @@
+{
+"ticker": "TSCO-US",
+"name": "Tractor Supply Company",
+"last_fy": 2025,
+"rbics": "Consumer Retail / Home Improvement Retail / Building Materials and Garden Supply Stores",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 13.1,
+"eps_cagr_5y": 8.4,
+"gaap_eps_cagr_10y": 13.1,
+"rev_cagr_10y": 9.6,
+"rev_cagr_5y": 7.9,
+"shares_cagr_10y": -2.5,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2025,
+1.0
+],
+"eps_series": {
+"2015": 0.6,
+"2016": 0.65,
+"2017": 0.67,
+"2018": 0.86,
+"2019": 0.94,
+"2020": 1.37,
+"2021": 1.72,
+"2022": 1.94,
+"2023": 2.02,
+"2024": 2.04,
+"2025": 2.06
+},
+"gaap_eps_series": {
+"2015": 0.6,
+"2016": 0.65,
+"2017": 0.66,
+"2018": 0.86,
+"2019": 0.93,
+"2020": 1.28,
+"2021": 1.72,
+"2022": 1.94,
+"2023": 2.02,
+"2024": 2.04,
+"2025": 2.06
+},
+"rev_series_m": {
+"2015": 6227,
+"2016": 6780,
+"2017": 7256,
+"2018": 7911,
+"2019": 8352,
+"2020": 10620,
+"2021": 12731,
+"2022": 14205,
+"2023": 14556,
+"2024": 14883,
+"2025": 15524
+},
+"ebit_margin_series": {
+"2015": 10.4,
+"2016": 10.3,
+"2017": 9.5,
+"2018": 8.9,
+"2019": 8.9,
+"2020": 11.2,
+"2021": 10.8,
+"2022": 10.1,
+"2023": 10.2,
+"2024": 9.9,
+"2025": 9.5
+},
+"ebit_margin_latest": 9.5,
+"ebit_margin_10y_avg": 10.0,
+"ebit_margin_10y_max": 11.2,
+"ebit_margin_10y_min": 8.9,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.57,
+"fcf_conversion_10y": 0.74,
+"acq_to_fcf_10y": 0.11,
+"buyback_to_fcf_10y": 0.85,
+"div_to_fcf_10y": 0.47,
+"net_debt_m": 5749,
+"net_debt_ebitda": 2.93,
+"roic_latest": 14.3,
+"roic_10y_avg": 19.8,
+"roe_latest": 45.2,
+"roe_10y_avg": 42.7,
+"adj_vs_gaap_gap_5y_avg_pct": 0.0,
+"adj_vs_gaap_gap_latest_pct": 0.0,
+"ntm_pe": 16.22,
+"is_reit": "False",
+"price": "32.81",
+"fcf_yield": 4.0,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.06,
+"std": null,
+"hi": 2.06,
+"lo": 2.06,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.938,
+"std": 0.027,
+"hi": 2.02,
+"lo": 1.89,
+"n": 31
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.043,
+"std": 0.071,
+"hi": 2.25,
+"lo": 1.9,
+"n": 31
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.252,
+"std": 0.081,
+"hi": 2.4,
+"lo": 2.1044272122,
+"n": 17
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+5.4,
+10.2
+],
+"cons_EPS_growth_FY1": -5.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 15524.046,
+"std": null,
+"hi": 15524.046,
+"lo": 15524.046,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 15977.743,
+"std": 47.807,
+"hi": 16098.2,
+"lo": 15871.0,
+"n": 28
+},
+"FY2": {
+"fy": 2027,
+"mean": 16623.973,
+"std": 142.308,
+"hi": 16975.953,
+"lo": 16272.0,
+"n": 28
+},
+"FY3": {
+"fy": 2028,
+"mean": 17526.376,
+"std": 271.217,
+"hi": 17934.431,
+"lo": 16882.0,
+"n": 14
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.0,
+5.4
+],
+"cons_SALES_growth_FY1": 2.9,
+"eps_ltg": 0.9615974512,
+"missing": [],
+"fmp_backup": []
+}

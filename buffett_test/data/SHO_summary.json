@@ -1,0 +1,215 @@
+{
+"ticker": "SHO-US",
+"name": "Sunstone Hotel Investors, Inc.",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment Trusts (REITs) / Equity REITs",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -4.1,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": -30.2,
+"rev_cagr_10y": -2.6,
+"rev_cagr_5y": 29.1,
+"shares_cagr_10y": -0.6,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2020,
+-165.0
+],
+"eps_series": {
+"2015": 1.31,
+"2016": 1.21,
+"2017": 1.22,
+"2018": 1.17,
+"2019": 1.12,
+"2020": -0.73,
+"2021": 0.04,
+"2022": 0.83,
+"2023": 0.95,
+"2024": 0.79,
+"2025": 0.86
+},
+"gaap_eps_series": {
+"2015": 1.55,
+"2016": 0.55,
+"2017": 0.56,
+"2018": 1.05,
+"2019": 0.54,
+"2020": -1.93,
+"2021": 0.06,
+"2022": 0.34,
+"2023": 0.93,
+"2024": 0.14,
+"2025": 0.04
+},
+"rev_series_m": {
+"2015": 1249,
+"2016": 1189,
+"2017": 1194,
+"2018": 1159,
+"2019": 1115,
+"2020": 268,
+"2021": 509,
+"2022": 912,
+"2023": 986,
+"2024": 906,
+"2025": 960
+},
+"ebit_margin_series": {
+"2015": 14.4,
+"2016": 14.4,
+"2017": 15.3,
+"2018": 15.7,
+"2019": 14.0,
+"2020": -93.9,
+"2021": -15.2,
+"2022": 11.3,
+"2023": 12.0,
+"2024": 8.7,
+"2025": 7.8
+},
+"ebit_margin_latest": 7.8,
+"ebit_margin_10y_avg": 0.4,
+"ebit_margin_10y_max": 15.7,
+"ebit_margin_10y_min": -93.9,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 0.66,
+"fcf_conversion_5y": 0.57,
+"fcf_conversion_10y": 1.03,
+"acq_to_fcf_10y": 0.15,
+"buyback_to_fcf_10y": 1.17,
+"div_to_fcf_10y": 1.73,
+"net_debt_m": 747,
+"net_debt_ebitda": 3.57,
+"roic_latest": 0.9,
+"roic_10y_avg": 2.1,
+"roe_latest": 1.2,
+"roe_10y_avg": 2.7,
+"adj_vs_gaap_gap_5y_avg_pct": 504.0,
+"adj_vs_gaap_gap_latest_pct": 1934.3,
+"ntm_pe": 12.13,
+"is_reit": "True",
+"price": "11.99",
+"fcf_yield": 7.9,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.04,
+"std": null,
+"hi": 0.04,
+"lo": 0.04,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.268,
+"std": 0.115,
+"hi": 0.42,
+"lo": 0.15,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.241,
+"std": 0.127,
+"hi": 0.33,
+"lo": 0.02,
+"n": 5
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.29,
+"std": null,
+"hi": 0.29,
+"lo": 0.29,
+"n": 1
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-10.1,
+20.2
+],
+"cons_EPS_growth_FY1": 570.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 960.126,
+"std": null,
+"hi": 960.126,
+"lo": 960.126,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 973.007,
+"std": 28.06,
+"hi": 998.278,
+"lo": 906.2242891412,
+"n": 10
+},
+"FY2": {
+"fy": 2027,
+"mean": 954.973,
+"std": 38.251,
+"hi": 1023.4,
+"lo": 875.372443607,
+"n": 10
+},
+"FY3": {
+"fy": 2028,
+"mean": 968.072,
+"std": 14.82,
+"hi": 981.1961,
+"lo": 952.0,
+"n": 3
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+-1.9,
+1.4
+],
+"cons_SALES_growth_FY1": 1.3,
+"cons_FFO": {
+"FY0": {
+"fy": 2025,
+"mean": 0.861,
+"std": 0.01,
+"hi": 0.8818348377,
+"lo": 0.84,
+"n": 10
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.964,
+"std": 0.024,
+"hi": 1.01,
+"lo": 0.9216,
+"n": 12
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.994,
+"std": 0.057,
+"hi": 1.11,
+"lo": 0.9,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.994,
+"std": 0.022,
+"hi": 1.02,
+"lo": 0.9665,
+"n": 4
+}
+},
+"cons_FFO_growth_FY2_FY3": [
+3.1,
+-0.0
+],
+"cons_FFO_growth_FY1": 12.1,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

@@ -1,0 +1,176 @@
+{
+"ticker": "PAG-US",
+"name": "Penske Automotive Group, Inc.",
+"last_fy": 2025,
+"rbics": "Miscellaneous Retail / Auto Retail / Motor Vehicle Sales",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 13.8,
+"eps_cagr_5y": 15.0,
+"gaap_eps_cagr_10y": 14.6,
+"rev_cagr_10y": 5.1,
+"rev_cagr_5y": 9.2,
+"shares_cagr_10y": -3.0,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2024,
+-14.7
+],
+"eps_series": {
+"2015": 3.67,
+"2016": 3.93,
+"2017": 4.31,
+"2018": 5.34,
+"2019": 5.28,
+"2020": 6.64,
+"2021": 15.28,
+"2022": 18.55,
+"2023": 16.1,
+"2024": 13.74,
+"2025": 13.33
+},
+"gaap_eps_series": {
+"2015": 3.63,
+"2016": 3.99,
+"2017": 7.14,
+"2018": 5.53,
+"2019": 5.28,
+"2020": 6.74,
+"2021": 14.89,
+"2022": 18.55,
+"2023": 15.5,
+"2024": 13.74,
+"2025": 14.13
+},
+"rev_series_m": {
+"2015": 19285,
+"2016": 20118,
+"2017": 21387,
+"2018": 22785,
+"2019": 23179,
+"2020": 20444,
+"2021": 25555,
+"2022": 27815,
+"2023": 29527,
+"2024": 30455,
+"2025": 31808
+},
+"ebit_margin_series": {
+"2015": 2.7,
+"2016": 2.6,
+"2017": 2.6,
+"2018": 2.6,
+"2019": 2.5,
+"2020": 2.9,
+"2021": 5.2,
+"2022": 5.2,
+"2023": 4.3,
+"2024": 3.7,
+"2025": 3.5
+},
+"ebit_margin_latest": 3.5,
+"ebit_margin_10y_avg": 3.4,
+"ebit_margin_10y_max": 5.2,
+"ebit_margin_10y_min": 2.5,
+"margin_pctile_in_history": 64,
+"latest_eps_vs_10y_max": 0.72,
+"fcf_conversion_5y": 0.67,
+"fcf_conversion_10y": 0.78,
+"acq_to_fcf_10y": 0.5,
+"buyback_to_fcf_10y": 0.35,
+"div_to_fcf_10y": 0.26,
+"net_debt_m": 8758,
+"net_debt_ebitda": 6.83,
+"roic_latest": 10.1,
+"roic_10y_avg": 11.7,
+"roe_latest": 17.4,
+"roe_10y_avg": 22.7,
+"adj_vs_gaap_gap_5y_avg_pct": 0.2,
+"adj_vs_gaap_gap_latest_pct": -5.7,
+"ntm_pe": 15.29,
+"is_reit": "False",
+"price": "212.0",
+"fcf_yield": 5.3,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 13.33,
+"std": null,
+"hi": 13.33,
+"lo": 13.33,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 13.314,
+"std": 0.185,
+"hi": 13.58,
+"lo": 12.9,
+"n": 9
+},
+"FY2": {
+"fy": 2027,
+"mean": 14.006,
+"std": 0.45,
+"hi": 14.8,
+"lo": 13.44,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 15.014,
+"std": 1.105,
+"hi": 16.78,
+"lo": 14.0,
+"n": 5
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+5.2,
+7.2
+],
+"cons_EPS_growth_FY1": -0.1,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 31808.5,
+"std": null,
+"hi": 31808.5,
+"lo": 31808.5,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 32681.763,
+"std": 382.495,
+"hi": 33170.0,
+"lo": 32213.1,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 33495.453,
+"std": 800.492,
+"hi": 34930.53,
+"lo": 32534.99913,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 34235.344,
+"std": 851.05,
+"hi": 35253.789131,
+"lo": 33215.00001,
+"n": 4
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.5,
+2.2
+],
+"cons_SALES_growth_FY1": 2.7,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

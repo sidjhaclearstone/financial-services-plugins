@@ -1,0 +1,176 @@
+{
+"ticker": "NOC-US",
+"name": "Northrop Grumman Corp.",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Aerospace and Defense Manufacturing / Defense Manufacturing",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 9.7,
+"eps_cagr_5y": 2.2,
+"gaap_eps_cagr_10y": 10.8,
+"rev_cagr_10y": 6.0,
+"rev_cagr_5y": 2.7,
+"shares_cagr_10y": -2.8,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2023,
+-8.8
+],
+"eps_series": {
+"2015": 10.39,
+"2016": 12.19,
+"2017": 13.28,
+"2018": 21.33,
+"2019": 21.21,
+"2020": 23.65,
+"2021": 25.63,
+"2022": 25.54,
+"2023": 23.29,
+"2024": 26.08,
+"2025": 26.34
+},
+"gaap_eps_series": {
+"2015": 10.39,
+"2016": 12.19,
+"2017": 11.47,
+"2018": 18.49,
+"2019": 13.22,
+"2020": 19.03,
+"2021": 43.54,
+"2022": 31.47,
+"2023": 13.53,
+"2024": 28.34,
+"2025": 29.08
+},
+"rev_series_m": {
+"2015": 23526,
+"2016": 24508,
+"2017": 25803,
+"2018": 30095,
+"2019": 33841,
+"2020": 36799,
+"2021": 35667,
+"2022": 36602,
+"2023": 39290,
+"2024": 41033,
+"2025": 41954
+},
+"ebit_margin_series": {
+"2015": 13.1,
+"2016": 13.0,
+"2017": 12.8,
+"2018": 12.6,
+"2019": 11.7,
+"2020": 11.0,
+"2021": 10.3,
+"2022": 9.8,
+"2023": 6.5,
+"2024": 10.6,
+"2025": 10.2
+},
+"ebit_margin_latest": 10.2,
+"ebit_margin_10y_avg": 11.1,
+"ebit_margin_10y_max": 13.1,
+"ebit_margin_10y_min": 6.5,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.52,
+"fcf_conversion_10y": 0.67,
+"acq_to_fcf_10y": 0.32,
+"buyback_to_fcf_10y": 0.64,
+"div_to_fcf_10y": 0.41,
+"net_debt_m": 13481,
+"net_debt_ebitda": 2.34,
+"roic_latest": 12.8,
+"roic_10y_avg": 14.5,
+"roe_latest": 26.2,
+"roe_10y_avg": 33.7,
+"adj_vs_gaap_gap_5y_avg_pct": -1.0,
+"adj_vs_gaap_gap_latest_pct": -9.4,
+"ntm_pe": 16.98,
+"is_reit": "False",
+"price": "510.65",
+"fcf_yield": 4.7,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 26.34,
+"std": null,
+"hi": 26.34,
+"lo": 26.34,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 28.931,
+"std": 0.249,
+"hi": 29.3676862176,
+"lo": 27.97,
+"n": 25
+},
+"FY2": {
+"fy": 2027,
+"mean": 30.364,
+"std": 0.665,
+"hi": 31.84,
+"lo": 29.248,
+"n": 25
+},
+"FY3": {
+"fy": 2028,
+"mean": 32.84,
+"std": 0.721,
+"hi": 34.3251734455,
+"lo": 32.0,
+"n": 18
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+5.0,
+8.2
+],
+"cons_EPS_growth_FY1": 9.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 41954.0,
+"std": null,
+"hi": 41954.0,
+"lo": 41954.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 44065.693,
+"std": 138.557,
+"hi": 44357.0,
+"lo": 43808.0,
+"n": 23
+},
+"FY2": {
+"fy": 2027,
+"mean": 47077.8,
+"std": 431.547,
+"hi": 48060.0,
+"lo": 46174.0,
+"n": 23
+},
+"FY3": {
+"fy": 2028,
+"mean": 49969.09,
+"std": 850.338,
+"hi": 51555.3376327221,
+"lo": 48712.0,
+"n": 18
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+6.8,
+6.1
+],
+"cons_SALES_growth_FY1": 5.0,
+"eps_ltg": 5.888352059233333,
+"missing": [],
+"fmp_backup": []
+}

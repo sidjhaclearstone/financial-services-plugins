@@ -1,0 +1,215 @@
+{
+"ticker": "PEB-US",
+"name": "Pebblebrook Hotel Trust",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment Trusts (REITs) / Equity REITs",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -4.5,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 6.7,
+"rev_cagr_5y": 27.2,
+"shares_cagr_10y": 4.9,
+"years_eps_growth_ge7": "3/9",
+"worst_eps_year": [
+2020,
+-155.5
+],
+"eps_series": {
+"2015": 2.5,
+"2016": 2.78,
+"2017": 2.57,
+"2018": 2.45,
+"2019": 2.63,
+"2020": -1.46,
+"2021": -0.32,
+"2022": 1.69,
+"2023": 1.6,
+"2024": 1.68,
+"2025": 1.58
+},
+"gaap_eps_series": {
+"2015": 0.94,
+"2016": 0.64,
+"2017": 1.19,
+"2018": -0.06,
+"2019": 0.63,
+"2020": -3.25,
+"2021": -1.8,
+"2022": -0.95,
+"2023": -0.93,
+"2024": -0.39,
+"2025": -0.9
+},
+"rev_series_m": {
+"2015": 771,
+"2016": 816,
+"2017": 769,
+"2018": 829,
+"2019": 1612,
+"2020": 443,
+"2021": 733,
+"2022": 1392,
+"2023": 1420,
+"2024": 1453,
+"2025": 1476
+},
+"ebit_margin_series": {
+"2015": 16.6,
+"2016": 17.1,
+"2017": 15.7,
+"2018": 15.7,
+"2019": 14.6,
+"2020": -73.4,
+"2021": -19.0,
+"2022": 7.1,
+"2023": 4.0,
+"2024": 5.8,
+"2025": 5.1
+},
+"ebit_margin_latest": 5.1,
+"ebit_margin_10y_avg": 0.8,
+"ebit_margin_10y_max": 17.1,
+"ebit_margin_10y_min": -73.4,
+"margin_pctile_in_history": 36,
+"latest_eps_vs_10y_max": 0.57,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 2.09,
+"buyback_to_fcf_10y": 1.33,
+"div_to_fcf_10y": 1.42,
+"net_debt_m": 2318,
+"net_debt_ebitda": 7.65,
+"roic_latest": -1.3,
+"roic_10y_avg": -0.5,
+"roe_latest": -2.5,
+"roe_10y_avg": -1.1,
+"adj_vs_gaap_gap_5y_avg_pct": null,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 11.33,
+"is_reit": "True",
+"price": "20.1",
+"fcf_yield": 6.5,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": -0.9,
+"std": null,
+"hi": -0.9,
+"lo": -0.9,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": -0.288,
+"std": 0.077,
+"hi": -0.21,
+"lo": -0.4,
+"n": 5
+},
+"FY2": {
+"fy": 2027,
+"mean": -0.238,
+"std": 0.181,
+"hi": 0.04,
+"lo": -0.46,
+"n": 5
+},
+"FY3": {
+"fy": 2028,
+"mean": -0.25,
+"std": null,
+"hi": -0.25,
+"lo": -0.25,
+"n": 1
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-17.4,
+5.0
+],
+"cons_EPS_growth_FY1": -68.0,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1475.544,
+"std": null,
+"hi": 1475.544,
+"lo": 1475.544,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1486.497,
+"std": 14.887,
+"hi": 1508.508,
+"lo": 1465.954,
+"n": 12
+},
+"FY2": {
+"fy": 2027,
+"mean": 1513.883,
+"std": 18.479,
+"hi": 1538.87608,
+"lo": 1468.691,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 1562.935,
+"std": 21.037,
+"hi": 1585.198,
+"lo": 1543.7736,
+"n": 4
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+1.8,
+3.2
+],
+"cons_SALES_growth_FY1": 0.7,
+"cons_FFO": {
+"FY0": {
+"fy": 2025,
+"mean": 1.58,
+"std": null,
+"hi": 1.58,
+"lo": 1.58,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.74,
+"std": 0.082,
+"hi": 1.89,
+"lo": 1.617,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.782,
+"std": 0.133,
+"hi": 1.98,
+"lo": 1.43,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.888,
+"std": 0.251,
+"hi": 2.22,
+"lo": 1.5,
+"n": 6
+}
+},
+"cons_FFO_growth_FY2_FY3": [
+2.4,
+6.0
+],
+"cons_FFO_growth_FY1": 10.1,
+"eps_ltg": 6.04996978405,
+"missing": [],
+"fmp_backup": []
+}

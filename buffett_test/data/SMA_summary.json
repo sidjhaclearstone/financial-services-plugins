@@ -1,0 +1,215 @@
+{
+"ticker": "SMA-US",
+"name": "SmartStop Self Storage REIT, Inc.",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment Trusts (REITs) / Equity REITs",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 31.7,
+"rev_cagr_5y": 17.8,
+"shares_cagr_10y": 23.1,
+"years_eps_growth_ge7": "0/1",
+"worst_eps_year": [
+2023,
+-149.1
+],
+"eps_series": {
+"2015": -2.58,
+"2016": -0.65,
+"2017": -0.27,
+"2018": -0.06,
+"2019": -0.42,
+"2020": -0.91,
+"2021": -0.37,
+"2022": 0.07,
+"2023": -0.03,
+"2024": -0.37,
+"2025": -0.2
+},
+"gaap_eps_series": {
+"2015": -2.58,
+"2016": -0.65,
+"2017": -0.27,
+"2018": -0.06,
+"2019": -0.42,
+"2020": -0.91,
+"2021": -0.37,
+"2022": 0.07,
+"2023": -0.03,
+"2024": -0.37,
+"2025": -0.2
+},
+"rev_series_m": {
+"2015": 18,
+"2016": 45,
+"2017": 76,
+"2018": 80,
+"2019": 110,
+"2020": 124,
+"2021": 169,
+"2022": 213,
+"2023": 233,
+"2024": 237,
+"2025": 281
+},
+"ebit_margin_series": {
+"2015": -28.4,
+"2016": -32.8,
+"2017": 5.2,
+"2018": 21.3,
+"2019": 8.8,
+"2020": 13.2,
+"2021": 24.2,
+"2022": 29.5,
+"2023": 30.3,
+"2024": 29.2,
+"2025": 19.8
+},
+"ebit_margin_latest": 19.8,
+"ebit_margin_10y_avg": 10.9,
+"ebit_margin_10y_max": 30.3,
+"ebit_margin_10y_min": -32.8,
+"margin_pctile_in_history": 55,
+"latest_eps_vs_10y_max": -3.02,
+"fcf_conversion_5y": 137.63,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 1.18,
+"buyback_to_fcf_10y": 0.61,
+"div_to_fcf_10y": 0.83,
+"net_debt_m": 1039,
+"net_debt_ebitda": 8.07,
+"roic_latest": -0.1,
+"roic_10y_avg": -1.5,
+"roe_latest": -0.2,
+"roe_10y_avg": -3.0,
+"adj_vs_gaap_gap_5y_avg_pct": null,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 15.98,
+"is_reit": "True",
+"price": "33.62",
+"fcf_yield": 5.9,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": -0.2,
+"std": null,
+"hi": -0.2,
+"lo": -0.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.671,
+"std": 0.03,
+"hi": 0.71,
+"lo": 0.6442485,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.657,
+"std": 0.131,
+"hi": 0.84,
+"lo": 0.53,
+"n": 4
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.622,
+"std": 0.049,
+"hi": 0.6763093,
+"lo": 0.58,
+"n": 3
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-2.1,
+-5.3
+],
+"cons_EPS_growth_FY1": -435.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 238.501,
+"std": null,
+"hi": 238.501,
+"lo": 238.501,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 253.226,
+"std": 1.083,
+"hi": 255.0,
+"lo": 252.0,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 262.265,
+"std": 6.519,
+"hi": 277.2,
+"lo": 256.753,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 273.379,
+"std": 9.465,
+"hi": 291.3,
+"lo": 266.0,
+"n": 7
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.6,
+4.2
+],
+"cons_SALES_growth_FY1": 6.2,
+"cons_FFO": {
+"FY0": {
+"fy": 2025,
+"mean": 1.273,
+"std": null,
+"hi": 1.273374,
+"lo": 1.273374,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.021,
+"std": 0.025,
+"hi": 2.04,
+"lo": 1.96,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.124,
+"std": 0.092,
+"hi": 2.24,
+"lo": 1.93,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.198,
+"std": 0.114,
+"hi": 2.42,
+"lo": 2.02,
+"n": 9
+}
+},
+"cons_FFO_growth_FY2_FY3": [
+5.1,
+3.5
+],
+"cons_FFO_growth_FY1": 58.7,
+"eps_ltg": 4.1,
+"missing": [],
+"fmp_backup": []
+}
