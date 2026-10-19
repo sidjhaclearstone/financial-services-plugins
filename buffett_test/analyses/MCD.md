@@ -3,7 +3,29 @@ As-of 2026-10-19 | NTM P/E 17.8 (FactSet, 19-Oct-2026) | Mkt cap $171.9bn (FactS
 Specialness (PM Part 1 test): **Good–track for dislocation**. McDonald's has a compelling customer value proposition, unmatched global scale, and a royalty-plus-rent model on owned real estate (46% EBIT margin) that is close to a perpetual toll. But the moat is not widening, there is no secular growth driver (US traffic is flat to negative), and growth now depends on unit openings and price. It is a superb business but a ~6% EPS grower.
 
 ## Snapshot table
-{{SNAPSHOT}}
+Source: FactSet Fundamentals ANN FY2015–FY2025 (fiscal year end 12-31); Adj EPS = FactSet EstimatesConsensus actuals (broker/adjusted basis); FCF = FF_OPER_CF − FF_CAPEX (pre-dividend). "nm" = not meaningful (negative or near-zero equity).
+
+| FY | Adj EPS | GAAP dil. EPS | Revenue $m | EBIT margin % | Dil. shares m | FCF $m | ROIC % | ROE % |
+|---|---|---|---|---|---|---|---|---|
+| 2015 | 4.98 | 4.80 | 25,413 | 28.9 | 944.6 | 4,725 | 15.3 | 45.4 |
+| 2016 | 5.75 | 5.44 | 24,622 | 31.8 | 861.2 | 4,238 | 17.1 | nm |
+| 2017 | 6.66 | 6.37 | 22,820 | 36.8 | 815.5 | 3,698 | 20.8 | n/a |
+| 2018 | 7.90 | 7.54 | 21,025 | 40.8 | 785.6 | 4,225 | 23.2 | n/a |
+| 2019 | 7.84 | 7.88 | 21,076 | 41.8 | 764.9 | 5,728 | 19.0 | n/a |
+| 2020 | 6.05 | 6.31 | 19,208 | 37.3 | 750.1 | 4,624 | 11.9 | n/a |
+| 2021 | 9.28 | 10.04 | 23,223 | 42.1 | 751.8 | 7,102 | 17.8 | n/a |
+| 2022 | 10.10 | 8.33 | 23,183 | 44.7 | 741.3 | 5,488 | 14.4 | n/a |
+| 2023 | 11.94 | 11.56 | 25,494 | 46.0 | 732.3 | 7,254 | 19.3 | n/a |
+| 2024 | 11.72 | 11.39 | 25,920 | 45.8 | 721.9 | 6,671 | 17.7 | n/a |
+| 2025 | 12.20 | 11.95 | 26,885 | 46.1 | 716.4 | 7,186 | 17.2 | n/a |
+
+| Consensus EPS | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 12.88 | 13.23 | 12.63 | 0.122 | 32 | +5.6% |
+| FY2 | 2027 | 13.78 | 14.73 | 12.81 | 0.345 | 32 | +7.0% |
+| FY3 | 2028 | 14.47 | 15.33 | 12.68 | 0.559 | 17 | +5.0% |
+
+Consensus: FactSet EstimatesConsensus, 19-Oct-2026.
 
 ROE n/a: shareholders' equity is negative because of debt-funded buybacks. Price $242.67 (FactSet close 19-Oct-2026). Net debt $54.0bn, ND/EBITDA 3.7x (FactSet Fundamentals FY2025). LTG 6.6% (FactSet consensus).
 

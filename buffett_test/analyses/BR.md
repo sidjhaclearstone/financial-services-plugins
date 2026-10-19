@@ -3,7 +3,29 @@ As-of 2026-10-19 | NTM P/E 16.1 (FactSet, 19-Oct-2026) | Mkt cap $19.8bn (FactSe
 Specialness (PM Part 1 test): **Special** — a near-monopoly utility in US beneficial-owner proxy and investor communications (an oligopoly-of-one), with excellent, consistent management (five straight three-year cycles of hitting recurring revenue and EPS targets, per CFO on the Q4 FY26 call, 4-Aug-2026) and a clear customer value proposition (it is the regulated plumbing that banks, brokers and funds outsource). Secular growth comes from rising investor positions, the shift to digital communications and, as an option, tokenisation.
 
 ## Snapshot table
-{{SNAPSHOT}}
+Source: FactSet Fundamentals ANN FY2016–FY2026 (fiscal year end 06-30); Adj EPS = FactSet EstimatesConsensus actuals (broker/adjusted basis); FCF = FF_OPER_CF − FF_CAPEX (pre-dividend). "nm" = not meaningful (negative or near-zero equity).
+
+| FY | Adj EPS | GAAP dil. EPS | Revenue $m | EBIT margin % | Dil. shares m | FCF $m | ROIC % | ROE % |
+|---|---|---|---|---|---|---|---|---|
+| 2016 | 2.73 | 2.53 | 2,958 | 19.0 | 121.6 | 362 | 17.3 | 31.2 |
+| 2017 | 3.13 | 2.71 | 4,224 | 14.5 | 120.8 | 312 | 16.1 | 31.9 |
+| 2018 | 4.19 | 3.55 | 4,407 | 15.3 | 120.4 | 556 | 20.1 | 40.8 |
+| 2019 | 4.66 | 4.06 | 4,465 | 16.9 | 118.8 | 544 | 20.3 | 43.4 |
+| 2020 | 5.03 | 3.95 | 4,665 | 17.2 | 117.0 | 500 | 16.5 | 37.4 |
+| 2021 | 5.66 | 4.65 | 5,126 | 16.2 | 117.8 | 539 | 12.2 | 34.7 |
+| 2022 | 6.46 | 4.55 | 5,736 | 14.2 | 118.5 | 370 | 9.1 | 28.9 |
+| 2023 | 7.01 | 5.30 | 6,061 | 16.0 | 119.0 | 748 | 11.9 | 30.3 |
+| 2024 | 7.73 | 5.86 | 6,507 | 16.7 | 119.1 | 943 | 13.4 | 31.7 |
+| 2025 | 8.55 | 7.10 | 6,889 | 17.5 | 118.3 | 1,056 | 14.9 | 34.8 |
+| 2026 | 9.60 | 9.60 | 7,477 | 17.8 | 117.1 | 1,233 | 18.9 | 40.9 |
+
+| Consensus EPS | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2027 | 10.55 | 10.65 | 10.40 | 0.078 | 8 | +9.9% |
+| FY2 | 2028 | 11.56 | 11.68 | 11.36 | 0.122 | 8 | +9.5% |
+| FY3 | 2029 | 12.73 | 12.92 | 12.57 | 0.146 | 5 | +10.1% |
+
+Consensus: FactSet EstimatesConsensus, 19-Oct-2026.
 
 Price $175.12 (FactSet close 19-Oct-2026). Net debt $3.11bn, ND/EBITDA 1.7x (FactSet Fundamentals FY2026). Adj EPS growth was ≥7% in 10/10 years (FactSet).
 

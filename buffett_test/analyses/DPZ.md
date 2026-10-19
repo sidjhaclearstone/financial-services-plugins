@@ -3,7 +3,29 @@ As-of 2026-10-19 | NTM P/E 15.0 (FactSet, 19-Oct-2026) | Mkt cap $10.2bn (FactSe
 Specialness (PM Part 1 test): **Good–track for dislocation**. Domino's has a very clear customer value proposition (the low-cost, fastest delivery/carryout pizza, built on scale in supply chain, technology and store density) and an asset-light franchise model with ~100% ROIC. But the delivery moat is narrowing as aggregators (DoorDash, Uber Eats) give independents the same reach, management execution is good rather than exceptional, and the international master-franchise layer is fragile (DPE).
 
 ## Snapshot table
-{{SNAPSHOT}}
+Source: FactSet Fundamentals ANN FY2015–FY2025 (fiscal year end 12-31); Adj EPS = FactSet EstimatesConsensus actuals (broker/adjusted basis); FCF = FF_OPER_CF − FF_CAPEX (pre-dividend). "nm" = not meaningful (negative or near-zero equity).
+
+| FY | Adj EPS | GAAP dil. EPS | Revenue $m | EBIT margin % | Dil. shares m | FCF $m | ROIC % | ROE % |
+|---|---|---|---|---|---|---|---|---|
+| 2015 | 3.56 | 3.47 | 2,217 | 18.3 | 55.5 | 229 | 56.3 | n/a |
+| 2016 | 4.30 | 4.30 | 2,473 | 18.4 | 49.9 | 229 | 66.4 | n/a |
+| 2017 | 5.91 | 5.83 | 2,788 | 18.7 | 47.7 | 249 | 85.3 | n/a |
+| 2018 | 8.42 | 8.35 | 3,433 | 16.5 | 43.3 | 274 | 86.0 | n/a |
+| 2019 | 9.57 | 9.56 | 3,619 | 17.4 | 41.9 | 408 | 61.0 | n/a |
+| 2020 | 12.39 | 12.39 | 4,117 | 17.7 | 39.6 | 504 | 52.4 | n/a |
+| 2021 | 13.60 | 13.54 | 4,357 | 17.9 | 37.7 | 560 | 50.9 | n/a |
+| 2022 | 12.53 | 12.53 | 4,537 | 16.5 | 36.1 | 381 | 46.1 | n/a |
+| 2023 | 14.66 | 14.66 | 4,479 | 18.3 | 35.4 | 485 | 51.5 | n/a |
+| 2024 | 16.69 | 16.69 | 4,706 | 18.7 | 35.0 | 512 | 107.3 | n/a |
+| 2025 | 17.57 | 17.57 | 4,940 | 19.3 | 34.2 | 672 | 105.7 | n/a |
+
+| Consensus EPS | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 19.11 | 19.49 | 18.68 | 0.187 | 31 | +8.8% |
+| FY2 | 2027 | 20.65 | 21.50 | 19.89 | 0.392 | 31 | +8.0% |
+| FY3 | 2028 | 22.26 | 23.27 | 21.09 | 0.606 | 16 | +7.8% |
+
+Consensus: FactSet EstimatesConsensus, 19-Oct-2026.
 
 ROE n/a: shareholders' equity is negative because of securitised recapitalisations. Price $305.42 (FactSet close 19-Oct-2026). Net debt $4.61bn, ND/EBITDA 4.4x (FactSet Fundamentals FY2025). LTG 10.8% (FactSet consensus).
 

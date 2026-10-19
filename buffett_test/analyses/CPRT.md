@@ -3,7 +3,29 @@ As-of 2026-10-19 | NTM P/E 16.6 (FactSet, 19-Oct-2026) | Mkt cap $25.8bn (FactSe
 Specialness (PM Part 1 test): **Special (moat under test)**. Copart is a salvage-auction duopoly with IAA (RB Global), with a widening moat in owned land (permitted yard capacity is very hard to replicate) and a global online buyer network that generates the best returns for insurers. It has founder-led, conservative capital allocation (net cash, almost no M&A) and a secular tailwind from rising total-loss frequency. The 2026 slowdown is testing whether the moat converts into growth.
 
 ## Snapshot table
-{{SNAPSHOT}}
+Source: FactSet Fundamentals ANN FY2016–FY2026 (fiscal year end 07-31); Adj EPS = FactSet EstimatesConsensus actuals (broker/adjusted basis); FCF = FF_OPER_CF − FF_CAPEX (pre-dividend). "nm" = not meaningful (negative or near-zero equity).
+
+| FY | Adj EPS | GAAP dil. EPS | Revenue $m | EBIT margin % | Dil. shares m | FCF $m | ROIC % | ROE % |
+|---|---|---|---|---|---|---|---|---|
+| 2016 | 0.26 | 0.28 | 1,268 | 32.0 | 977.2 | 159 | 18.7 | 31.1 |
+| 2017 | 0.32 | 0.42 | 1,448 | 33.3 | 948.1 | 320 | 26.4 | 42.1 |
+| 2018 | 0.43 | 0.43 | 1,806 | 36.2 | 967.5 | 247 | 23.0 | 31.2 |
+| 2019 | 0.56 | 0.62 | 2,042 | 35.1 | 961.8 | 273 | 28.5 | 35.2 |
+| 2020 | 0.64 | 0.73 | 2,206 | 37.0 | 954.6 | 323 | 27.1 | 32.8 |
+| 2021 | 0.93 | 0.97 | 2,693 | 42.2 | 961.2 | 528 | 26.7 | 31.1 |
+| 2022 | 1.11 | 1.13 | 3,501 | 39.3 | 964.6 | 838 | 24.9 | 26.7 |
+| 2023 | 1.26 | 1.28 | 3,870 | 38.4 | 966.6 | 848 | 22.9 | 23.3 |
+| 2024 | 1.40 | 1.40 | 4,237 | 37.1 | 974.8 | 962 | 19.9 | 20.2 |
+| 2025 | 1.59 | 1.59 | 4,647 | 36.5 | 977.6 | 1,231 | 18.4 | 18.6 |
+| 2026 | 1.55 | 1.55 | 4,666 | 35.4 | 956.9 | 1,266 | 16.1 | 16.2 |
+
+| Consensus EPS | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2027 | 1.62 | 1.67 | 1.56 | 0.041 | 11 | +4.5% |
+| FY2 | 2028 | 1.77 | 1.88 | 1.62 | 0.085 | 10 | +9.1% |
+| FY3 | 2029 | 1.91 | 2.19 | 1.72 | 0.250 | 3 | +7.8% |
+
+Consensus: FactSet EstimatesConsensus, 19-Oct-2026.
 
 Price $27.51 (FactSet close 19-Oct-2026). Net cash $4.40bn (17% of mkt cap), ND/EBITDA −2.3x (FactSet Fundamentals FY2026). LTG 17.0% (FactSet consensus; looks stale relative to FY1–FY3).
 

@@ -3,7 +3,29 @@ As-of 2026-10-19 | NTM P/E 17.1 (FactSet, 19-Oct-2026) | Mkt cap $65.1bn (FactSe
 Specialness (PM Part 1 test): **Good–track for dislocation**. It is a true oligopoly: one of three US drug wholesalers with MCK and CAH, which together handle the great majority of US pharmaceutical distribution. It also has a growing specialty/MSO franchise (OneOncology, RCA, EyeSouth). But the business earns a ~1% operating margin on a pass-through product, is exposed to policy and customer concentration (Walgreens), and its moat is stable rather than widening.
 
 ## Snapshot table
-{{SNAPSHOT}}
+Source: FactSet Fundamentals ANN FY2015–FY2025 (fiscal year end 09-30); Adj EPS = FactSet EstimatesConsensus actuals (broker/adjusted basis); FCF = FF_OPER_CF − FF_CAPEX (pre-dividend). "nm" = not meaningful (negative or near-zero equity).
+
+| FY | Adj EPS | GAAP dil. EPS | Revenue $m | EBIT margin % | Dil. shares m | FCF $m | ROIC % | ROE % |
+|---|---|---|---|---|---|---|---|---|
+| 2015 | 4.96 | -0.62 | 135,962 | 1.0 | 217.8 | 3,689 | -3.3 | -10.4 |
+| 2016 | 5.62 | 6.32 | 146,850 | 1.1 | 226.0 | 2,714 | 28.2 | 103.4 |
+| 2017 | 5.88 | 1.64 | 153,144 | 1.3 | 221.6 | 1,038 | 6.2 | 17.4 |
+| 2018 | 6.49 | 7.53 | 167,940 | 1.0 | 220.3 | 1,075 | 25.0 | 66.4 |
+| 2019 | 7.09 | 4.04 | 179,589 | 1.0 | 211.8 | 2,034 | 11.7 | 29.4 |
+| 2020 | 7.90 | -16.65 | 189,894 | 1.1 | 204.8 | 1,837 | -66.7 | nm |
+| 2021 | 9.26 | 7.39 | 213,989 | 1.3 | 208.5 | 2,228 | 29.2 | n/a |
+| 2022 | 11.03 | 8.04 | 238,587 | 1.2 | 211.2 | 2,207 | 26.5 | nm |
+| 2023 | 11.99 | 8.53 | 262,173 | 0.9 | 204.6 | 3,453 | 32.1 | nm |
+| 2024 | 13.76 | 7.53 | 293,959 | 1.0 | 200.3 | 2,998 | 27.2 | nm |
+| 2025 | 16.00 | 7.96 | 321,333 | 1.1 | 195.2 | 3,207 | 19.5 | 144.3 |
+
+| Consensus EPS | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 17.89 | 17.93 | 17.85 | 0.029 | 14 | +11.8% |
+| FY2 | 2027 | 19.72 | 20.11 | 19.44 | 0.179 | 13 | +10.3% |
+| FY3 | 2028 | 21.74 | 22.30 | 21.04 | 0.424 | 10 | +10.2% |
+
+Consensus: FactSet EstimatesConsensus, 19-Oct-2026.
 
 Price $340.00 (FactSet close 19-Oct-2026). Net debt $4.94bn, ND/EBITDA 1.05x (FactSet Fundamentals FY2025). FY2026 (Sep) is complete but not yet reported, so FY1 consensus (+11.8%, std $0.03) is effectively known. LTG 11.9% (FactSet consensus).
 
