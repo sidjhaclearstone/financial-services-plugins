@@ -1,0 +1,912 @@
+{
+"ticker": "IVZ-US",
+"fundamentals": {
+"FF_SALES": {
+"2015": {
+"v": 5064.0,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 4767.0,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 5294.2,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 5238.7,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": 6151.8,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 6184.8,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 7009.4,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 5922.0,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": 5540.1,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 6009.1,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": 6445.0,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20251231,20251231,,RP,USD)"
+}
+},
+"FF_EBIT_OPER": {
+"2015": {
+"v": 1306.2,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 1273.8,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 1447.0,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 1270.3,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": 1570.4,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 1383.5,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 1946.0,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 1119.8,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": 709.5,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 798.0,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": 1226.3,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20251231,20251231,,RP,USD)"
+}
+},
+"FF_EBIT_OPER_MGN": {
+"2015": {
+"v": 25.7938388625592,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 26.7212083071114,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 27.3317970609346,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 24.2483822322332,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": 25.5274878897233,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 22.3693571336179,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 27.7627186349759,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 18.9091523134076,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": 12.8066280392051,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 13.2798588806976,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": 19.0271528316524,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20251231,20251231,,RP,USD)"
+}
+},
+"FF_EBITDA_OPER": {
+"2015": {
+"v": 1399.8,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 1375.0,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 1563.8,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 1412.4,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": 1748.0,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 1587.0,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 2151.3,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 1315.1,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": 892.3,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 977.6,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": 1382.2,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20251231,20251231,,RP,USD)"
+}
+},
+"FF_NET_INC": {
+"2015": {
+"v": 943.5,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 829.4,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 1093.6,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 855.9,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": 688.3,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 761.6,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 1629.8,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 920.7,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": -96.9,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 774.8,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": -281.7,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20251231,20251231,,RP,USD)"
+}
+},
+"FF_EPS_DIL": {
+"2015": {
+"v": 2.255,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 2.0586,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 2.7498,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 2.1403,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": 1.282,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 1.1347,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 2.9931,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 1.4884,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": -0.7337,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 1.1772,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": -1.6047,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20251231,20251231,,RP,USD)"
+}
+},
+"FF_EPS_DIL_BEF_UNUSUAL": {
+"2015": {
+"v": 2.22942160611855,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 2.15812856788285,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 2.84415388483782,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 2.38517129282321,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": 2.33060158910329,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 1.61766486486486,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 2.88949290932531,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 1.5206528835691,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": 1.25252858399296,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 1.17724288840263,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": 1.17129916040654,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20251231,20251231,,RP,USD)"
+}
+},
+"FF_NET_DEBT": {
+"2015": {
+"v": 5248.5,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 4408.4,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 4329.3,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 5801.3,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": 6946.5,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 7246.7,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 7533.5,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 7098.4,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": 7113.4,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 6050.4,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": 7804.7,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20251231,20251231,,RP,USD)"
+}
+},
+"FF_DEBT_EBITDA_OPER": {
+"2015": {
+"v": 5.36490927275325,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 4.73127272727273,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 4.39672592403121,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 5.40555083545738,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": 4.75680778032037,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 5.54297416509137,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 4.37930553618742,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 6.14249866930271,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": 9.6506780230864,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 7.25398936170213,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": 6.78469107220373,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20251231,20251231,,RP,USD)"
+}
+},
+"FF_DIV_CF": {
+"2015": {
+"v": 454.5,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 460.4,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 471.6,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 490.6,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": 652.7,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 594.2,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 544.5,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 571.6,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": 594.7,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 608.3,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": 581.9,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20251231,20251231,,RP,USD)"
+}
+},
+"FF_STK_PURCH_CF": {
+"2015": {
+"v": 548.8,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 535.0,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 63.8,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 51.8,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": 469.8,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 47.1,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 60.9,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 244.7,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": 187.5,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 79.3,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": 1863.6,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20251231,20251231,,RP,USD)"
+}
+},
+"FF_ACQ_BUS_CF": {
+"2015": {
+"v": 0.0,
+"end": "2015-12-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20151231,20151231,,RP,USD)"
+},
+"2016": {
+"v": 121.9,
+"end": "2016-12-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20161231,20161231,,RP,USD)"
+},
+"2017": {
+"v": 299.2,
+"end": "2017-12-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20171231,20171231,,RP,USD)"
+},
+"2018": {
+"v": 1469.3,
+"end": "2018-12-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20181231,20181231,,RP,USD)"
+},
+"2019": {
+"v": -290.5,
+"end": "2019-12-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20191231,20191231,,RP,USD)"
+},
+"2020": {
+"v": 0.0,
+"end": "2020-12-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20201231,20201231,,RP,USD)"
+},
+"2021": {
+"v": 0.0,
+"end": "2021-12-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20211231,20211231,,RP,USD)"
+},
+"2022": {
+"v": 0.0,
+"end": "2022-12-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20221231,20221231,,RP,USD)"
+},
+"2023": {
+"v": 0.0,
+"end": "2023-12-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20231231,20231231,,RP,USD)"
+},
+"2024": {
+"v": 0.0,
+"end": "2024-12-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20241231,20241231,,RP,USD)"
+},
+"2025": {
+"v": 0.0,
+"end": "2025-12-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20251231,20251231,,RP,USD)"
+}
+}
+},
+"adj_eps_actual": {
+"2014": {
+"v": 2.51,
+"end": "2014-12-31",
+"consensus_before": 2.510326666666667,
+"date": "2015-01-29"
+},
+"2015": {
+"v": 2.44,
+"end": "2015-12-31",
+"consensus_before": 2.468415238095238,
+"date": "2016-01-28"
+},
+"2016": {
+"v": 2.23,
+"end": "2016-12-31",
+"consensus_before": 2.224561875,
+"date": "2017-01-26"
+},
+"2017": {
+"v": 2.7,
+"end": "2017-12-31",
+"consensus_before": 2.6635535294117645,
+"date": "2018-01-31"
+},
+"2018": {
+"v": 2.43,
+"end": "2018-12-31",
+"consensus_before": 2.52807625,
+"date": "2019-01-30"
+},
+"2019": {
+"v": 2.55,
+"end": "2019-12-31",
+"consensus_before": 2.6141165314588237,
+"date": "2020-01-29"
+},
+"2020": {
+"v": 1.93,
+"end": "2020-12-31",
+"consensus_before": 1.7838537180058824,
+"date": "2021-01-26"
+},
+"2021": {
+"v": 3.09,
+"end": "2021-12-31",
+"consensus_before": 2.9939931194076923,
+"date": "2022-01-25"
+},
+"2022": {
+"v": 1.68,
+"end": "2022-12-31",
+"consensus_before": 1.6598187091533334,
+"date": "2023-01-24"
+},
+"2023": {
+"v": 1.51,
+"end": "2023-12-31",
+"consensus_before": 1.4410370193266666,
+"date": "2024-01-23"
+},
+"2024": {
+"v": 1.71,
+"end": "2024-12-31",
+"consensus_before": 1.6717584161647059,
+"date": "2025-01-28"
+},
+"2025": {
+"v": 2.03,
+"end": "2025-12-31",
+"consensus_before": 1.9930883333333334,
+"date": "2026-01-27"
+}
+},
+"entity": {
+"name": "Invesco Ltd.",
+"description": "Invesco Ltd. engages in the investment management business. Its products include mutual funds, unit trusts, exchange-traded funds, closed-end funds, and retirement plans. The company was founded in December 1935 and is headquartered in Atlanta, GA.",
+"rbics_econ": "Finance",
+"rbics_sector": "Investment Services",
+"rbics_subsector": "Investment Services",
+"rbics_indgrp": "Asset Management and Financial Advisory Services",
+"country_of_risk": "US"
+},
+"sources": {
+"fundamentals": "FactSet Fundamentals ANN (USD), pulled 2026-10-19",
+"entity": "FactSet EntityReference, pulled 2026-10-19",
+"adj_eps": "FactSet EstimatesConsensus surprise (actual EPS, broker/adjusted basis, USD), pulled 2026-10-19"
+},
+"missing": [],
+"fmp_backup": {},
+"name": "Invesco Ltd."
+}
