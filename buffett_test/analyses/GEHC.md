@@ -5,7 +5,21 @@ Specialness (PM Part 1 test): **Good–track for dislocation**. GEHC sits in a g
 ## Snapshot table
 Source: FactSet Fundamentals ANN FY2019–FY2025 (carve-out history before the 2023 spin); Adj EPS = FactSet EstimatesConsensus actuals (from FY2022); FCF = FactSet FF_FREE_CF.
 
-<<SNAP>>
+| FY | Adj EPS | GAAP dil. EPS | Revenue $m | EBIT margin % | Dil. shares m | FCF $m | ROIC % | ROE % |
+|---|---|---|---|---|---|---|---|---|
+| 2019 | – | 3.35 | 16,633 | 12.8 | 454.7 | 1,726 | – | – |
+| 2020 | – | 4.41 | 17,164 | 15.8 | 454.7 | 1,450 | – | – |
+| 2021 | – | 4.90 | 17,585 | 15.9 | 454.7 | 1,365 | 13.9 | 14.2 |
+| 2022 | 4.63 | 4.22 | 18,341 | 14.0 | 453.9 | 1,803 | 10.9 | 14.6 |
+| 2023 | 3.93 | 3.02 | 19,552 | 14.3 | 458.0 | 1,673 | 9.3 | 19.1 |
+| 2024 | 4.49 | 4.34 | 19,672 | 15.0 | 459.0 | 1,495 | 12.4 | 25.6 |
+| 2025 | 4.59 | 4.55 | 20,625 | 14.0 | 458.0 | 1,441 | 11.4 | 22.1 |
+
+| Consensus EPS | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 4.92 | 5.00 | 4.78 | 0.044 | 20 | +7.3% |
+| FY2 | 2027 | 5.43 | 5.64 | 5.12 | 0.130 | 20 | +10.4% |
+| FY3 | 2028 | 6.04 | 6.33 | 5.63 | 0.170 | 17 | +11.2% |
 
 Price $69.76 (FactSet, 19-Oct-2026). Net debt $5.95bn, ND/EBITDA 1.7x (FactSet FY2025). LTG 8.7% (FactSet consensus).
 

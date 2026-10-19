@@ -5,7 +5,25 @@ Specialness (PM Part 1 test): **Good–track for dislocation**. The appeal is a 
 ## Snapshot table
 Source: FactSet Fundamentals ANN FY2015–FY2025; Adj EPS = FactSet EstimatesConsensus actuals; FCF = FactSet FF_FREE_CF (OCF − capex − dividends; 2015–16 negative because of recap special dividends).
 
-<<SNAP>>
+| FY | Adj EPS | GAAP dil. EPS | Revenue $m | EBIT margin % | Dil. shares m | FCF $m | ROIC % | ROE % |
+|---|---|---|---|---|---|---|---|---|
+| 2015 | 0.54 | 0.51 | 331 | 24.1 | 36.2 | -114 | 3.7 | 28.5 |
+| 2016 | 0.69 | 0.50 | 378 | 30.2 | 43.3 | -209 | 4.2 | – |
+| 2017 | 0.84 | 0.42 | 430 | 34.4 | 79.0 | 80 | 5.8 | – |
+| 2018 | 1.22 | 1.00 | 573 | 32.2 | 87.7 | 134 | 12.9 | – |
+| 2019 | 1.59 | 1.41 | 689 | 33.8 | 83.6 | 139 | 12.3 | – |
+| 2020 | 0.04 | -0.19 | 407 | 14.7 | 80.3 | -23 | -1.3 | – |
+| 2021 | 0.82 | 0.51 | 587 | 24.6 | 83.9 | 134 | 3.4 | – |
+| 2022 | 1.64 | 1.18 | 937 | 24.6 | 84.5 | 136 | 5.8 | – |
+| 2023 | 2.24 | 1.62 | 1,071 | 25.5 | 85.2 | 190 | 6.4 | – |
+| 2024 | 2.59 | 2.00 | 1,182 | 27.4 | 85.8 | 184 | 7.5 | – |
+| 2025 | 3.07 | 2.62 | 1,324 | 29.9 | 83.7 | 253 | 9.3 | – |
+
+| Consensus EPS | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 3.25 | 3.36 | 3.07 | 0.054 | 18 | +5.9% |
+| FY2 | 2027 | 3.66 | 4.10 | 3.20 | 0.262 | 18 | +12.5% |
+| FY3 | 2028 | 4.22 | 5.13 | 3.30 | 0.595 | 9 | +15.5% |
 
 Price $52.89 (FactSet, 19-Oct-2026). Net debt $2.43bn, ND/EBITDA 4.4x (FactSet FY2025; securitised whole-business debt). LTG 9.3% (FactSet consensus).
 

@@ -5,7 +5,25 @@ Specialness (PM Part 1 test): **Good–track for dislocation** — a true oligop
 ## Snapshot table
 Source: FactSet Fundamentals ANN FY2015–FY2025; Adj EPS = FactSet EstimatesConsensus actuals (broker basis); FCF = FactSet FF_FREE_CF (OCF − capex − dividends).
 
-<<SNAP>>
+| FY | Adj EPS | GAAP dil. EPS | Revenue $m | EBIT margin % | Dil. shares m | FCF $m | ROIC % | ROE % |
+|---|---|---|---|---|---|---|---|---|
+| 2015 | 1.09 | 0.04 | 1,507 | 13.1 | 166.8 | 177 | 0.2 | 0.6 |
+| 2016 | 1.50 | 0.65 | 1,705 | 18.8 | 184.6 | 266 | 3.4 | 9.3 |
+| 2017 | 1.87 | 2.32 | 1,934 | 24.0 | 189.9 | 333 | 11.4 | 28.5 |
+| 2018 | 2.50 | 1.45 | 2,317 | 22.1 | 190.9 | 334 | 5.6 | 15.4 |
+| 2019 | 2.79 | 1.81 | 2,656 | 23.0 | 191.8 | 510 | 6.0 | 17.0 |
+| 2020 | 3.00 | 1.79 | 2,717 | 22.4 | 192.2 | 516 | 5.8 | 14.3 |
+| 2021 | 3.44 | 2.10 | 2,960 | 21.4 | 193.0 | 514 | 4.4 | 11.0 |
+| 2022 | 3.62 | 1.35 | 3,710 | 18.0 | 193.1 | -79 | 2.5 | 6.2 |
+| 2023 | 3.37 | -1.07 | 3,831 | 17.1 | 193.4 | 250 | -2.1 | -5.0 |
+| 2024 | 3.91 | 1.45 | 4,184 | 18.8 | 196.7 | 434 | 3.0 | 6.9 |
+| 2025 | 4.30 | 2.32 | 4,576 | 20.1 | 196.6 | 571 | 4.9 | 10.5 |
+
+| Consensus EPS | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 4.83 | 4.89 | 4.77 | 0.035 | 22 | +12.3% |
+| FY2 | 2027 | 5.47 | 5.96 | 5.09 | 0.205 | 22 | +13.3% |
+| FY3 | 2028 | 6.31 | 7.30 | 5.40 | 0.468 | 16 | +15.2% |
 
 Price $73.12 (FactSet, 19-Oct-2026). Net debt $4.30bn, ND/EBITDA 2.9x (FactSet Fundamentals FY2025). LTG 12.8% (FactSet consensus).
 

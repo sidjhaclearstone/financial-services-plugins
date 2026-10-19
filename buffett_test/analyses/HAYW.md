@@ -5,7 +5,21 @@ Specialness (PM Part 1 test): **Good–track for dislocation**. The case rests o
 ## Snapshot table
 Source: FactSet Fundamentals ANN FY2019–FY2025 (pre-2019 not available); Adj EPS = FactSet EstimatesConsensus actuals (from FY2021); FCF = FactSet FF_FREE_CF. Pre-IPO (2019–20) GAAP EPS and share counts reflect the LBO structure and are not meaningful.
 
-<<SNAP>>
+| FY | Adj EPS | GAAP dil. EPS | Revenue $m | EBIT margin % | Dil. shares m | FCF $m | ROIC % | ROE % |
+|---|---|---|---|---|---|---|---|---|
+| 2019 | – | 0.00 | 733 | 11.2 | 46.3 | 69 | – | – |
+| 2020 | – | 0.01 | 875 | 16.4 | 46.3 | -76 | 0.0 | 0.1 |
+| 2021 | 1.16 | 0.49 | 1,402 | 23.8 | 200.6 | 151 | 8.1 | 16.8 |
+| 2022 | 0.98 | 0.78 | 1,314 | 22.4 | 229.7 | 78 | 7.5 | 13.8 |
+| 2023 | 0.56 | 0.37 | 992 | 19.0 | 220.7 | 154 | 3.3 | 6.4 |
+| 2024 | 0.67 | 0.54 | 1,052 | 20.5 | 221.4 | 188 | 4.9 | 8.7 |
+| 2025 | 0.77 | 0.68 | 1,122 | 21.1 | 222.2 | 226 | 6.0 | 10.0 |
+
+| Consensus EPS | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 0.86 | 0.88 | 0.84 | 0.014 | 9 | +11.9% |
+| FY2 | 2027 | 0.95 | 1.00 | 0.89 | 0.038 | 9 | +10.7% |
+| FY3 | 2028 | 1.05 | 1.11 | 0.98 | 0.047 | 6 | +10.1% |
 
 Price $11.77 (FactSet, 19-Oct-2026). Net debt $619m, ND/EBITDA 2.1x (FactSet FY2025). LTG 12.5% (FactSet consensus).
 

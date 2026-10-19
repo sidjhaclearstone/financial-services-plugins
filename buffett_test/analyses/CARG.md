@@ -5,7 +5,25 @@ Specialness (PM Part 1 test): **Good–track for dislocation**. CarGurus is the 
 ## Snapshot table
 Source: FactSet Fundamentals ANN FY2015–FY2025; Adj EPS = FactSet EstimatesConsensus actuals (available from FY2017); FCF = FactSet FF_FREE_CF.
 
-<<SNAP>>
+| FY | Adj EPS | GAAP dil. EPS | Revenue $m | EBIT margin % | Dil. shares m | FCF $m | ROIC % | ROE % |
+|---|---|---|---|---|---|---|---|---|
+| 2015 | – | -0.41 | 99 | -2.6 | 43.1 | 5 | – | – |
+| 2016 | – | -0.58 | 198 | 4.3 | 44.1 | 13 | 10.7 | 10.7 |
+| 2017 | 0.15 | 0.12 | 317 | 4.8 | 60.6 | 18 | 7.4 | 7.4 |
+| 2018 | 0.31 | 0.57 | 454 | 5.1 | 113.4 | 44 | 40.6 | 40.6 |
+| 2019 | 0.52 | 0.37 | 589 | 6.0 | 113.4 | 56 | 16.5 | 18.7 |
+| 2020 | 1.07 | 0.68 | 551 | 19.4 | 113.8 | 149 | 20.7 | 24.6 |
+| 2021 | 1.58 | -0.00 | 951 | 15.7 | 117.1 | 84 | -0.0 | -0.0 |
+| 2022 | 1.02 | 1.51 | 1,655 | 6.6 | 128.2 | 236 | 28.5 | 31.0 |
+| 2023 | 1.23 | 0.27 | 914 | 3.6 | 114.2 | 83 | 3.9 | 4.6 |
+| 2024 | 1.72 | 0.20 | 894 | 16.7 | 106.3 | 162 | 2.8 | 3.6 |
+| 2025 | 2.28 | 1.55 | 907 | 27.0 | 100.4 | 266 | 30.7 | 43.0 |
+
+| Consensus EPS | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 2.62 | 2.70 | 2.52 | 0.050 | 11 | +14.9% |
+| FY2 | 2027 | 3.02 | 3.58 | 2.83 | 0.198 | 11 | +15.4% |
+| FY3 | 2028 | 3.56 | 5.46 | 3.19 | 0.771 | 8 | +17.9% |
 
 Price $31.02 (FactSet, 19-Oct-2026). Net debt ≈ $0 (FactSet FY2025). LTG 8.0% (FactSet consensus, thin coverage).
 
