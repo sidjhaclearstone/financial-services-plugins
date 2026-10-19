@@ -1,0 +1,152 @@
+{
+ "as_of": "2026-10-19",
+ "method": "FactSet CompanyScreener: US, primary listing, mkt cap>$1bn, FY2 PE 0-15, FR_RBICS_NAME_INDGRP CT 'REIT' (16 hits); plus heuristic: non-null NTM FFO mean AND name contains REIT/Realty/Properties/Trust/Residential",
+ "rbics_screen_reits": [
+  "BXMT-US",
+  "NLY-US",
+  "DX-US",
+  "CIM-US",
+  "PMT-US",
+  "ORC-US",
+  "STWD-US",
+  "ABR-US",
+  "AGNC-US",
+  "LADR-US",
+  "ARR-US",
+  "RITM-US",
+  "EFC-US",
+  "GLPI-US",
+  "IIPR-US",
+  "VICI-US"
+ ],
+ "heuristic_reits": [
+  "MRP-US"
+ ],
+ "reits": [
+  "ABR-US",
+  "AGNC-US",
+  "ARR-US",
+  "BXMT-US",
+  "CIM-US",
+  "DX-US",
+  "EFC-US",
+  "GLPI-US",
+  "IIPR-US",
+  "LADR-US",
+  "MRP-US",
+  "NLY-US",
+  "ORC-US",
+  "PMT-US",
+  "RITM-US",
+  "STWD-US",
+  "VICI-US"
+ ],
+ "ffo_non_null_log": [
+  {
+   "ticker": "CXW-US",
+   "name": "CoreCivic, Inc.",
+   "ntm_ffo_mean": 3.436166666666667,
+   "in_rbics_screen": false,
+   "name_keyword_hits": [],
+   "flagged_by_heuristic": false
+  },
+  {
+   "ticker": "ES-US",
+   "name": "Eversource Energy",
+   "ntm_ffo_mean": 11.97622,
+   "in_rbics_screen": false,
+   "name_keyword_hits": [],
+   "flagged_by_heuristic": false
+  },
+  {
+   "ticker": "EXC-US",
+   "name": "Exelon Corp.",
+   "ntm_ffo_mean": 6.52867704048,
+   "in_rbics_screen": false,
+   "name_keyword_hits": [],
+   "flagged_by_heuristic": false
+  },
+  {
+   "ticker": "GLPI-US",
+   "name": "Gaming & Leisure Properties, Inc.",
+   "ntm_ffo_mean": 4.2440480174627275,
+   "in_rbics_screen": true,
+   "name_keyword_hits": [
+    "Properties"
+   ],
+   "flagged_by_heuristic": false
+  },
+  {
+   "ticker": "IIPR-US",
+   "name": "Innovative Industrial Properties, Inc.",
+   "ntm_ffo_mean": 6.963107142857143,
+   "in_rbics_screen": true,
+   "name_keyword_hits": [
+    "Properties"
+   ],
+   "flagged_by_heuristic": false
+  },
+  {
+   "ticker": "MRP-US",
+   "name": "Millrose Properties, Inc.",
+   "ntm_ffo_mean": 3.23483469341,
+   "in_rbics_screen": false,
+   "name_keyword_hits": [
+    "Properties"
+   ],
+   "flagged_by_heuristic": true
+  },
+  {
+   "ticker": "NLY-US",
+   "name": "Annaly Capital Management, Inc.",
+   "ntm_ffo_mean": 3.116,
+   "in_rbics_screen": true,
+   "name_keyword_hits": [],
+   "flagged_by_heuristic": false
+  },
+  {
+   "ticker": "NMRK-US",
+   "name": "Newmark Group, Inc.",
+   "ntm_ffo_mean": 2.002,
+   "in_rbics_screen": false,
+   "name_keyword_hits": [],
+   "flagged_by_heuristic": false
+  },
+  {
+   "ticker": "NRG-US",
+   "name": "NRG Energy, Inc.",
+   "ntm_ffo_mean": 18.704,
+   "in_rbics_screen": false,
+   "name_keyword_hits": [],
+   "flagged_by_heuristic": false
+  },
+  {
+   "ticker": "VICI-US",
+   "name": "VICI Properties, Inc.",
+   "ntm_ffo_mean": 2.521381739130435,
+   "in_rbics_screen": true,
+   "name_keyword_hits": [
+    "Properties"
+   ],
+   "flagged_by_heuristic": false
+  }
+ ],
+ "name_keyword_not_flagged_no_ffo": [
+  {
+   "ticker": "WTFC-US",
+   "name": "Wintrust Financial Corp."
+  },
+  {
+   "ticker": "CTBI-US",
+   "name": "Community Trust Bancorp, Inc. (Kentucky)"
+  },
+  {
+   "ticker": "NTRS-US",
+   "name": "Northern Trust Corp."
+  },
+  {
+   "ticker": "TRMK-US",
+   "name": "Trustmark Corp."
+  }
+ ]
+}
