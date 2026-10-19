@@ -20,3 +20,5 @@ Run date: 2026-10-19 (unattended). All data FactSet unless stated; FMP = Financi
 - A12. Stage 1 result: 780 PASS (0<NTM P/E<15), 33 near-miss (15–16x), 13 fail, 0 missing. 17 REITs (P/E on NTM FFO for 5 with FFO consensus — NLY, MRP, GLPI, IIPR, VICI; on EPS for 12 mortgage REITs without FFO consensus).
 - A13. Six names in the US-HQ universe have primary listings abroad (1316-HK, 1910-HK, 2507-HK, RWC-AU, GQG-AU, LNW-AU); retained because they meet the FactSet HQ=US + primary-listing definition. The three HK names use the 16-Oct-2026 close (no 19-Oct print).
 - A14. Very low P/Es (e.g. FMCC 0.8x, FNMA 1.3x, ALIT 1.7x) are carried as-is from FactSet; they are dealt with on business merits in triage (GSE conservatorship, one-off items) rather than discarded as data errors.
+- A15. FactSet FF_FREE_CF is net of dividends; FCF used in stats = FF_OPER_CF − |FF_CAPEX| (fallback FF_FREE_CF). Adjusted-EPS snapshots anchored on 19-Oct each year so non-December FYs are captured.
+- A16. Pilot batch 00 triaged BANF, MZTI, QDEL; MZTI is not a Test 1 PASS (NTM P/E ≥15) so its triage row is dropped from the final Triage tab.
