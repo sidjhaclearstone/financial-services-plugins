@@ -71,6 +71,80 @@
 "ntm_pe": 13.54,
 "is_reit": "False",
 "price": "108.01",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 7.11,
+"std": null,
+"hi": 7.11,
+"lo": 7.11,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 7.72,
+"std": 0.061,
+"hi": 7.79,
+"lo": 7.68,
+"n": 3
+},
+"FY2": {
+"fy": 2027,
+"mean": 8.04,
+"std": 0.33,
+"hi": 8.26,
+"lo": 7.66,
+"n": 3
+},
+"FY3": {
+"fy": 2028,
+"mean": 8.22,
+"std": null,
+"hi": 8.22,
+"lo": 8.22,
+"n": 1
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+4.1,
+2.2
+],
+"cons_EPS_growth_FY1": 8.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 690.628,
+"std": null,
+"hi": 690.628,
+"lo": 690.628,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 748.4,
+"std": 2.687,
+"hi": 750.3,
+"lo": 746.5,
+"n": 2
+},
+"FY2": {
+"fy": 2027,
+"mean": 795.9,
+"std": 10.182,
+"hi": 803.1,
+"lo": 788.7,
+"n": 2
+},
+"FY3": {
+"fy": 2028,
+"mean": null,
+"std": null,
+"hi": null,
+"lo": null,
+"n": null
+}
+},
+"eps_ltg": null,
 "missing": [],
 "fmp_backup": []
 }

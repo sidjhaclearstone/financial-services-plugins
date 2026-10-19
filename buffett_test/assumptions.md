@@ -22,3 +22,4 @@ Run date: 2026-10-19 (unattended). All data FactSet unless stated; FMP = Financi
 - A14. Very low P/Es (e.g. FMCC 0.8x, FNMA 1.3x, ALIT 1.7x) are carried as-is from FactSet; they are dealt with on business merits in triage (GSE conservatorship, one-off items) rather than discarded as data errors.
 - A15. FactSet FF_FREE_CF is net of dividends; FCF used in stats = FF_OPER_CF − |FF_CAPEX| (fallback FF_FREE_CF). Adjusted-EPS snapshots anchored on 19-Oct each year so non-December FYs are captured.
 - A16. Pilot batch 00 triaged BANF, MZTI, QDEL; MZTI is not a Test 1 PASS (NTM P/E ≥15) so its triage row is dropped from the final Triage tab.
+- A17. Batch 09: FactSet GlobalPrices market_value timed out (408) after retries for all 20 names; market cap backfilled centrally at the end (FactSet retry, else FMP).
