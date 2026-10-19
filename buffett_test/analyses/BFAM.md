@@ -5,7 +5,31 @@ Specialness (PM Part 1 test): **Good–track for dislocation**. Two attributes a
 Data caveat: FactSet did not return FCF, ROIC, ROE or share count for BFAM. Shares are derived from net income / diluted EPS, about 57.4m in FY2025. The FMP market cap implies ~48.6m shares, which looks low, so the cap may be understated (≈$4.0bn on 57m shares, estimate). Confidence is reduced accordingly.
 
 ## Snapshot table
-{{SNAPSHOT}}
+Source: FactSet Fundamentals ANN (USD) and FactSet EstimatesConsensus actuals, pulled 19-Oct-2026; fiscal years labelled by FactSet year.
+
+| Metric | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Adj EPS $ (FactSet actuals) | 1.85 | 2.16 | 2.69 | 3.21 | 3.67 | 1.55 | 1.99 | 2.60 | 2.84 | 3.47 | 4.55 |
+| GAAP dil. EPS $ | 1.50 | 1.55 | 2.59 | 2.66 | 3.05 | 0.45 | 1.16 | 1.37 | 1.28 | 2.40 | 3.36 |
+| Revenue $m | 1,458 | 1,570 | 1,741 | 1,903 | 2,062 | 1,515 | 1,755 | 2,020 | 2,418 | 2,686 | 2,934 |
+| EBIT margin % | 12.5 | 12.7 | 12.2 | 12.6 | 13.0 | 0.2 | 5.9 | 4.3 | 6.6 | 10.6 | 12.3 |
+| Diluted shares m | 62.2* | 60.6* | 60.2* | 59.0* | 58.9* | 60.3* | 60.6* | 58.5* | 57.9* | 58.5* | 57.4* |
+| FCF $m | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| ROIC % | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| ROE % | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+
+\* derived as net income / diluted EPS (share count not in FactSet pull).
+
+Consensus EPS (FactSet consensus, 19-Oct-2026):
+
+| | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 5.11 | 5.17 | 5.07 | 0.03 | 9 | +12.4% |
+| FY2 | 2027 | 5.90 | 6.04 | 5.76 | 0.11 | 9 | +15.5% |
+| FY3 | 2028 | 6.90 | 7.46 | 6.58 | 0.34 | 5 | +16.9% |
+
+Consensus sales $m (FactSet consensus): FY1 3,099 / FY2 3,268 / FY3 3,489; LTG 13.9%.
+
 Net debt $1,604m, net debt/EBITDA 3.5x (FactSet FY2025; FactSet debt/EBITDA field 2.1x).
 
 ## 1. Historic EPS growth decomposition (10y, FY2015→FY2025)

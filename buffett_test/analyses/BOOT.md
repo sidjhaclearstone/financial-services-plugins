@@ -3,7 +3,29 @@ As-of 2026-10-19 | NTM P/E 12.4 (FactSet, 19-Oct-2026) | Mkt cap $3.6bn (FMP, 19
 Specialness (PM Part 1 test): **Good–track for dislocation** — excellent management/capital allocation (self-funded store growth, no dilution, net cash ex-leases) and a compelling customer value proposition (category-killer western/work assortment, exclusive brands >40% penetration) apply, but demand rests partly on a fashion cycle, so the moat is narrower than the growth record suggests.
 
 ## Snapshot table
-{{SNAPSHOT}}
+Source: FactSet Fundamentals ANN (USD) and FactSet EstimatesConsensus actuals, pulled 19-Oct-2026; fiscal years labelled by FactSet year.
+
+| Metric | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Adj EPS $ (FactSet actuals) | 0.69 | 0.55 | 0.78 | 1.35 | 1.64 | 1.92 | 6.16 | 5.57 | 4.80 | 5.88 | 7.35 |
+| GAAP dil. EPS $ | 0.37 | 0.53 | 1.05 | 1.35 | 1.64 | 2.01 | 6.33 | 5.62 | 4.80 | 5.88 | 7.35 |
+| Revenue $m | 569 | 630 | 678 | 777 | 846 | 893 | 1,488 | 1,658 | 1,667 | 1,911 | 2,254 |
+| EBIT margin % | 6.6 | 6.2 | 7.1 | 8.3 | 8.7 | 9.7 | 17.4 | 14.0 | 11.9 | 12.5 | 13.3 |
+| Diluted shares m | 27.0 | 26.9 | 27.5 | 28.8 | 29.2 | 29.5 | 30.4 | 30.4 | 30.6 | 30.8 | 30.7 |
+| FCF $m | -3 | 19 | 20 | 36 | -12 | 127 | 28 | -36 | 117 | -1 | 126 |
+| ROIC % | 3.4 | 3.8 | 7.3 | 9.1 | 9.2 | 9.3 | 25.3 | 17.6 | 12.0 | 12.2 | 12.5 |
+| ROE % | 6.5 | 8.3 | 14.6 | 16.3 | 16.4 | 16.6 | 38.7 | 24.8 | 17.1 | 17.4 | 18.4 |
+
+Consensus EPS (FactSet consensus, 19-Oct-2026):
+
+| | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 9.15 | 9.28 | 9.00 | 0.10 | 16 | +24.6% |
+| FY2 | 2027 | 10.06 | 10.53 | 9.40 | 0.27 | 17 | +9.9% |
+| FY3 | 2028 | 11.71 | 12.46 | 11.15 | 0.56 | 4 | +16.5% |
+
+Consensus sales $m (FactSet consensus): FY1 2,608 / FY2 2,944 / FY3 3,308; LTG 16.9%.
+
 Fiscal year ends March (FY2025 = year to Mar-2026). Net debt $632m (FactSet FY2025) is essentially lease liabilities — FactSet debt/EBITDA 0.0x.
 
 ## 1. Historic EPS growth decomposition (10y, FY2015→FY2025)

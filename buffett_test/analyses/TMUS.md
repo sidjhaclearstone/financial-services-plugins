@@ -9,7 +9,29 @@ Specialness (PM Part 1 test): **Special**. Four attributes apply:
 It is tempered by leverage and an intensifying price war.
 
 ## Snapshot table
-{{SNAPSHOT}}
+Source: FactSet Fundamentals ANN (USD) and FactSet EstimatesConsensus actuals, pulled 19-Oct-2026; fiscal years labelled by FactSet year.
+
+| Metric | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Adj EPS $ (FactSet actuals) | 0.82 | 1.69 | 2.70 | 3.35 | 4.01 | 2.65 | 2.41 | 2.06 | 6.93 | 9.66 | 9.72 |
+| GAAP dil. EPS $ | 0.82 | 1.68 | 5.19 | 3.36 | 4.01 | 2.65 | 2.41 | 2.06 | 6.93 | 9.66 | 9.72 |
+| Revenue $m | 32,053 | 37,242 | 40,604 | 43,239 | 44,998 | 68,397 | 80,118 | 79,571 | 78,558 | 81,400 | 88,309 |
+| EBIT margin % | 6.5 | 7.6 | 10.5 | 12.3 | 14.4 | 13.8 | 12.5 | 16.7 | 19.2 | 22.1 | 21.2 |
+| Diluted shares m | 824.1 | 834.6 | 873.4 | 859.9 | 865.0 | 1,154.7 | 1,254.8 | 1,255.4 | 1,200.3 | 1,173.2 | 1,131.1 |
+| FCF $m | 635 | 1,378 | 2,670 | -1,642 | 433 | -2,394 | 1,591 | 2,811 | 8,011 | 10,153 | 11,306 |
+| ROIC % | 1.7 | 3.1 | 9.1 | 5.5 | 5.7 | 2.4 | 1.8 | 1.5 | 4.9 | 6.7 | 6.5 |
+| ROE % | 4.5 | 8.4 | 22.2 | 12.2 | 13.0 | 5.8 | 4.5 | 3.7 | 12.4 | 17.9 | 18.2 |
+
+Consensus EPS (FactSet consensus, 19-Oct-2026):
+
+| | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 10.92 | 11.46 | 10.35 | 0.28 | 23 | +12.4% |
+| FY2 | 2027 | 13.98 | 16.60 | 12.30 | 0.93 | 24 | +27.9% |
+| FY3 | 2028 | 16.79 | 21.39 | 14.40 | 1.72 | 18 | +20.1% |
+
+Consensus sales $m (FactSet consensus): FY1 94,371 / FY2 98,517 / FY3 102,567; LTG 18.4%.
+
 Net debt $116.4bn, net debt/EBITDA 3.6x (FactSet FY2025). 2025 shareholder returns were $9.97bn of buybacks plus $4.12bn of dividends, against FactSet FCF of $11.3bn (FactSet cash flow).
 
 ## 1. Historic EPS growth decomposition (10y, FY2015→FY2025)

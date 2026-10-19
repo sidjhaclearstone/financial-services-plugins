@@ -59,7 +59,7 @@ EPS needs 5.4%/yr from a depressed FY1 base, or 5.35%/yr after the FY3 consensus
 Survival = 0.80 × 0.95 × 0.95 × 0.97 = 0.70 → **P(Test2) ≈ 70% — FAIL**. Buybacks (~4 pts/yr) and the cost program give a floor, but they cannot reach 5.4% without some revenue growth.
 
 ## 5. TEST 3 — P(EPS ≥ +7% every year FY1–FY5)
-FY1 consensus is −3.1%, guidance was reaffirmed in Sep-2026 and three quarters are reported, so FY1 ≥7% is ~1% likely. History was 8/10 years ≥7% (FactSet), including 2020 (+5.8% — actually <7%; the misses were 2020 and 2022). **P(Test3) ≈ 1% — FAIL.**
+FY1 consensus is −3.1%, guidance was reaffirmed in Sep-2026 and three quarters are reported, so FY1 ≥7% is ~1% likely. History was 8/10 years ≥7% (FactSet). The misses were 2020 (+5.8%) and 2022 (+3.8%), so even before 2026 the record was not recession-proof. **P(Test3) ≈ 1% — FAIL.**
 
 ## 6. Key uncertainty and what would change the view
 Whether derm/parasiticide share loss stabilises in 2027 and the CKD launch lands. A return to ≥5% organic growth in 2027 with stable derm share would lift P(Test2) to ~85%. Another guide-down in Feb-2027 would push it toward 55–60%.

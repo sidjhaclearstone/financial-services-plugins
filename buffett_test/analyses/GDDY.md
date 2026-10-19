@@ -3,7 +3,29 @@ As-of 2026-10-19 | NTM P/E 12.2 (FactSet, 19-Oct-2026) | Mkt cap $13.5bn (FMP, 1
 Specialness (PM Part 1 test): **Good–track for dislocation**. Two of the four attributes apply. The first is a compelling customer value proposition: the largest domain registrar, with sticky renewals and a one-stop small-business stack. The second is exceptional capital allocation: about 100% of FCF goes to buybacks. The moat is not clearly widening, because AI site-builders and agentic discovery could erode the A&C upsell layer.
 
 ## Snapshot table
-{{SNAPSHOT}}
+Source: FactSet Fundamentals ANN (USD) and FactSet EstimatesConsensus actuals, pulled 19-Oct-2026; fiscal years labelled by FactSet year.
+
+| Metric | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Adj EPS $ (FactSet actuals) | -0.81 | -0.21 | 0.75 | 0.45 | 0.76 | -2.94 | 1.42 | 2.19 | 9.20 | 6.45 | 6.22 |
+| GAAP dil. EPS $ | -0.81 | -0.21 | 0.58 | 0.43 | 0.75 | -2.94 | 1.42 | 2.18 | 9.08 | 6.45 | 6.22 |
+| Revenue $m | 1,607 | 1,848 | 2,231 | 2,662 | 2,985 | 3,314 | 3,825 | 4,086 | 4,238 | 4,569 | 4,950 |
+| EBIT margin % | -0.1 | 2.7 | 3.0 | 6.1 | 7.4 | 9.4 | 10.2 | 13.3 | 15.0 | 20.3 | 23.0 |
+| Diluted shares m | 58.7 | 79.8 | 177.1 | 181.4 | 181.7 | 168.6 | 171.1 | 161.5 | 151.5 | 145.3 | 140.6 |
+| FCF $m | 203 | 315 | 402 | 466 | 636 | 698 | 778 | 920 | 1,006 | 1,261 | 1,576 |
+| ROIC % | -2.9 | -1.1 | 5.4 | 2.5 | 4.2 | -15.0 | 6.6 | 9.2 | 36.4 | 22.0 | 20.4 |
+| ROE % | -11.3 | -3.3 | 23.3 | 12.1 | 17.5 | -130.4 | 704.4 | n/a | n/a | 248.4 | 192.9 |
+
+Consensus EPS (FactSet consensus, 19-Oct-2026):
+
+| | FY | Mean | High | Low | Std | n | Growth |
+|---|---|---|---|---|---|---|---|
+| FY1 | 2026 | 7.40 | 7.69 | 7.05 | 0.17 | 13 | +19.0% |
+| FY2 | 2027 | 9.12 | 10.51 | 8.21 | 0.63 | 13 | +23.1% |
+| FY3 | 2028 | 10.21 | 12.11 | 7.38 | 1.41 | 10 | +12.0% |
+
+Consensus sales $m (FactSet consensus): FY1 5,236 / FY2 5,511 / FY3 5,739; LTG 2.0%.
+
 Net debt $2.78bn, net debt/EBITDA 2.2x (FactSet FY2025). ROE is meaningless because of negative/low book equity after buybacks.
 
 ## 1. Historic EPS growth decomposition (FY2017→FY2025, 8y)
