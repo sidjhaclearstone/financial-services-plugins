@@ -24,3 +24,4 @@ Run date: 2026-10-19 (unattended). All data FactSet unless stated; FMP = Financi
 - A16. Pilot batch 00 triaged BANF, MZTI, QDEL; MZTI is not a Test 1 PASS (NTM P/E ≥15) so its triage row is dropped from the final Triage tab.
 - A17. Batch 09: FactSet GlobalPrices market_value timed out (408) after retries for all 20 names; market cap backfilled centrally at the end (FactSet retry, else FMP).
 - A18. Market value removed from per-batch pulls from batch 19 onward (repeated 408 timeouts); central backfill for all names.
+- A19. Stage 3 first pass (39 batch workers): KEEP 59 / TOO HARD 153 / NO 568 of 780. A single reviewer then re-checked all KEEP and TOO HARD verdicts side by side for cross-batch consistency (triage/review_overrides.csv, triage/review_notes.md); final triage.csv applies those overrides.
