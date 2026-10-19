@@ -36,3 +36,8 @@ After writing the .md, also append one JSON line per name to `analyses/_results.
 Calibration anchors (keep probabilities consistent across companies):
 - P(Test2) ≥ 90% requires: recurring/non-cyclical demand, demonstrated pricing power, no material 5-yr disruption threat, balance sheet that survives a recession, AND consensus/driver stack comfortably > 5.4%/yr. A wide-moat compounder with 8–10% normal-year EPS growth ≈ 88–95%. A good business with 1 credible threat ≈ 70–85%. Cyclical exposure → usually < 80%.
 - P(Test3) ≥ 50% requires an essentially recession-proof EPS line plus ≥7% growth every year (history ≥ 8/10 years ≥7%, including 2020). Typical good compounder: 20–40%. Banks/insurers rarely > 25%.
+
+## Notes added by orchestrator
+- Your tickers: `data/stage4_plan.json` → `groups[NN]`. Names also listed in `borderline_analysed` were TOO HARD at triage; analyse them fully but put "Borderline (TOO HARD at triage)" in the header and `"triage":"BORDERLINE"` in the JSON line (else `"triage":"KEEP"`).
+- Market cap: use `market_value_usd_m` in data/<KEY>.json; if null (a central backfill may still be running), make one FMP call (ToolSearch `select:mcp__Financial_Modelling_Prep__company`, endpoint market-cap, symbol without -US) and cite "FMP".
+- Final triage reasons are in `triage.csv` (columns reason, review_override).
