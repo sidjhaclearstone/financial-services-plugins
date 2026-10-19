@@ -54,7 +54,7 @@ Strip out the post-spin residual and the repeatable core is ~6%/yr.
 Buybacks plus service volume and price carry the most weight. Consensus FY2/FY3 (+11–12%) is well above the stack and assumes a 2027 rebound.
 
 ## 3. What the market is doubting (why <18x NTM / FCF yield 6.9%)
-The shares fell from ~$86 in late January to $71 (StreetAccount price tags; FactSet close 19-Oct-2026). At 16x they trade well below the post-spin norm. The doubts:
+The shares fell from ~$86 in late January to $71 (StreetAccount price tags; FactSet close 19-Oct-2026). At 16x they trade well below the post-spin norm of low-to-high 20s (estimate). The doubts:
 (a) **2026 is a lost year.** Consensus 2026 EPS is $4.04, flat on 2025 and below January's mid-single-digit guide (StreetAccount 28-Jan-2026).
 (b) **China.** NE is down ~8% in 2026 and management no longer expects it to grow (StreetAccount 17-Sep-2026). China pricing is still weak.
 (c) **Retention.** Maintenance price is being held back to protect retention.

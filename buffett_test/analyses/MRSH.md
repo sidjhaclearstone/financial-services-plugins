@@ -56,7 +56,7 @@ The repeatable core is ~5–6% organic growth, ~1.5 pts of margin, and ~1 pt of 
 Volume/new business and margin plus buybacks carry the most weight. Consensus FY2/FY3 (+9.3%/+9.8%) sits above the stack.
 
 ## 3. What the market is doubting (why <18x NTM / FCF yield 6.2%)
-MRSH has historically traded at a premium P/E in the low-to-mid 20s. At 16.8x with a 6.2% NTM FCF yield, the market is pricing in a slowdown. The doubts:
+MRSH has historically traded at a premium P/E in the low-to-mid 20s (estimate, not sourced in our data). At 16.8x with a 6.2% NTM FCF yield, the market is pricing in a slowdown. The doubts:
 (a) **The soft market.** P&C and reinsurance rates are falling, and R&I organic growth slowed to +3% in H1 2026 (StreetAccount).
 (b) **Peak margin.** The 25.3% EBIT margin is at the 100th percentile of the last 10 years (FactSet).
 (c) **AI disintermediation fears** for the broker and consulting model.

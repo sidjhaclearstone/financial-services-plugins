@@ -59,7 +59,7 @@ The repeatable organic core (price + volume) is ~5%. The rest came from rate tai
 Price/mix and volume carry most of the weight. Consensus (+8.2/+7.5/+7.2%) confirms the stack and leaves almost no margin.
 
 ## 3. What the market is doubting (why FCF yield ≥6% / ~18x)
-For most of the past decade PAYX traded in the high-20s P/E. At 18.1x with a 6.5% FCF yield, the market doubts:
+For most of the past decade PAYX traded in the high-20s P/E (estimate, not sourced in our data). At 18.1x with a 6.5% FCF yield, the market doubts:
 (a) **AI disruption.** Both AI-native HCM entrants and AI cutting SMB white-collar headcount ("AI concerns", "AI disintermediation" in every broker note, StreetAccount 26-Mar-2026).
 (b) **Slow organic growth.** The "low-hire" labour market keeps organic growth at ~5–6%, versus a market that had priced in double digits.
 (c) **Falling float income** as the Fed cuts.
