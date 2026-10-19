@@ -1,0 +1,780 @@
+{
+"ticker": "WS-US",
+"fundamentals": {
+"FF_SALES": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 4068.9,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 3607.7,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 3430.6,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 3093.3,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 3443.8,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_EBIT_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 215.2,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 162.0,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 207.5,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 167.7,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 130.9,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_EBIT_OPER_MGN": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 5.28889871955565,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 4.49039554286665,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 6.04850463475777,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 5.42139462709727,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 3.80103374179685,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 274.7,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 231.6,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 272.8,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 233.7,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 215.1,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_NET_INC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 180.4,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 87.1,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 154.7,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 110.7,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 8.5,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 3.6569,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 1.7656,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 3.1359,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 2.1921,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 0.1673,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_EPS_DIL_BEF_UNUSUAL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 3.7008797256861,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 2.21116262517303,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 3.43816733457643,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 2.3209900990099,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 2.08818897637795,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_COM_SHS_OUT_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 49.331514,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 49.331514,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 49.331514,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 50.5,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 50.8,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_ROIC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": null,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": null,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 14.3619737269647,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 10.0695865738846,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 0.727428326914848,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_ROE": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": null,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": null,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 15.3601747505337,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 10.7507040885695,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 0.79535884719753,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_FREE_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 3.1,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 269.5,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 88.2,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 68.0,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 47.4,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_OPER_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 39.5,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 315.0,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 199.5,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 230.3,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 201.2,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_CAPEX": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 36.4,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 45.5,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 103.4,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 130.4,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 121.2,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_NET_DEBT": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": null,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 67.7,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 183.7,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 135.0,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 269.7,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_DEBT_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": null,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 0.0984455958549223,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 0.542521994134897,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 0.648267008985879,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 1.23291492329149,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_DIV_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 0.0,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 0.0,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 7.9,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 31.9,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 32.6,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_STK_PURCH_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 0.0,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 0.0,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 0.0,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 0.0,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 0.0,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20260531,20260531,,RP,USD)"
+}
+},
+"FF_ACQ_BUS_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2021": {
+"v": 418.7,
+"end": "2022-05-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20220531,20220531,,RP,USD)"
+},
+"2022": {
+"v": 20.2,
+"end": "2023-05-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20230531,20230531,,RP,USD)"
+},
+"2023": {
+"v": 29.8,
+"end": "2024-05-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20240531,20240531,,RP,USD)"
+},
+"2024": {
+"v": 17.0,
+"end": "2025-05-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20250531,20250531,,RP,USD)"
+},
+"2025": {
+"v": 8.9,
+"end": "2026-05-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20260531,20260531,,RP,USD)"
+}
+}
+},
+"adj_eps_actual": {
+"2014": {
+"v": null,
+"end": "2015-05-31",
+"consensus_before": null,
+"date": null
+},
+"2015": {
+"v": null,
+"end": "2016-05-31",
+"consensus_before": null,
+"date": null
+},
+"2016": {
+"v": null,
+"end": "2017-05-31",
+"consensus_before": null,
+"date": null
+},
+"2017": {
+"v": null,
+"end": "2018-05-31",
+"consensus_before": null,
+"date": null
+},
+"2018": {
+"v": null,
+"end": "2019-05-31",
+"consensus_before": null,
+"date": null
+},
+"2019": {
+"v": null,
+"end": "2020-05-31",
+"consensus_before": null,
+"date": null
+},
+"2020": {
+"v": null,
+"end": "2021-05-31",
+"consensus_before": null,
+"date": null
+},
+"2021": {
+"v": null,
+"end": "2022-05-31",
+"consensus_before": null,
+"date": null
+},
+"2022": {
+"v": null,
+"end": "2023-05-31",
+"consensus_before": null,
+"date": null
+},
+"2023": {
+"v": 3.42,
+"end": "2024-05-31",
+"consensus_before": 3.0454,
+"date": "2024-06-27"
+},
+"2024": {
+"v": 2.16,
+"end": "2025-05-31",
+"consensus_before": 1.92,
+"date": "2025-06-26"
+},
+"2025": {
+"v": 2.23,
+"end": "2026-05-31",
+"consensus_before": 2.16,
+"date": "2026-06-25"
+}
+},
+"entity": {
+"name": "Worthington Steel, Inc.",
+"description": "Worthington Steel, Inc. engages in the steel processing business in connection with the separation and the distribution. Its products include cold rolled steel, hot rolled, galvanized, first operation blanking, dry film lubricant, cut-to-length sheets, pickling, annealing, one pass rolling, temper rolling, slitting, and oscillate slitting. The company was founded in 1955 and is headquartered in Columbus, OH.",
+"rbics_econ": "Non-Energy Materials",
+"rbics_sector": "Mining and Mineral Products",
+"rbics_subsector": "Metal Products",
+"rbics_indgrp": "Primary Metals Products",
+"country_of_risk": "US"
+},
+"sources": {
+"fundamentals": "FactSet Fundamentals ANN (USD), pulled 2026-10-19",
+"entity": "FactSet EntityReference, pulled 2026-10-19",
+"adj_eps": "FactSet EstimatesConsensus surprise (actual EPS, broker/adjusted basis, USD), pulled 2026-10-19"
+},
+"missing": [],
+"fmp_backup": {},
+"name": "Worthington Steel, Inc."
+}

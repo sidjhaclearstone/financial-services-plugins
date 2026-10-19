@@ -1,0 +1,672 @@
+{
+"ticker": "MH-US",
+"fundamentals": {
+"FF_SALES": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 1947.773,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 1960.478,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 2101.299,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 2102.781,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_SALES(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_EBIT_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 150.943,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 245.551,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 334.415,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 328.147,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_EBIT_OPER_MGN": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 7.74951701250608,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 12.5250576645083,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 15.9146794435252,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 15.6053816350823,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_EBIT_OPER_MGN(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 592.233,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 687.262,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 772.691,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 766.251,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_EBITDA_OPER(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_NET_INC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": -404.104,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": -193.019,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": -85.839,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 35.32,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_NET_INC(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": -2.1157,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": -1.0106,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": -0.4494,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 0.1923,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_EPS_DIL_BEF_UNUSUAL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": -0.918896357049391,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": -0.692310724502668,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": -0.338270084647861,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 0.486269337954345,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_COM_SHS_OUT_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 191.001519,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 191.001519,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 191.001519,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 183.670022,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_ROIC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": null,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": null,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": -2.32590434335994,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 1.02835577499506,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_ROIC(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_ROE": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": null,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": null,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": -26.4527779746625,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 7.01864551269695,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_ROE(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_FREE_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 186.582,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 154.203,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 575.222,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 246.311,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_FREE_CF(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_OPER_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 256.621,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 236.156,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 646.284,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 331.173,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_OPER_CF(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_CAPEX": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 140.561,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 156.609,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 161.062,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 203.863,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_CAPEX(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_NET_DEBT": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": null,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 3332.531,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 2870.879,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 2402.078,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_NET_DEBT(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_DEBT_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": null,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 5.02048709225885,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 4.12575013815354,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 3.38000341924513,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_DIV_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 0.0,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 0.0,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 0.0,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 0.0,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_DIV_CF(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_STK_PURCH_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 0.0,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 0.0,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 0.0,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 0.0,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_STK_PURCH_CF(ANN,20260331,20260331,,RP,USD)"
+}
+},
+"FF_ACQ_BUS_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "USD",
+"formula": null
+},
+"2022": {
+"v": 21.76,
+"end": "2023-03-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20230331,20230331,,RP,USD)"
+},
+"2023": {
+"v": 0.0,
+"end": "2024-03-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20240331,20240331,,RP,USD)"
+},
+"2024": {
+"v": 6.0,
+"end": "2025-03-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20250331,20250331,,RP,USD)"
+},
+"2025": {
+"v": 0.0,
+"end": "2026-03-31",
+"cur": "USD",
+"formula": "FF_ACQ_BUS_CF(ANN,20260331,20260331,,RP,USD)"
+}
+}
+},
+"adj_eps_actual": {
+"2014": {
+"v": null,
+"end": "2015-03-31",
+"consensus_before": null,
+"date": null
+},
+"2015": {
+"v": null,
+"end": "2016-03-31",
+"consensus_before": null,
+"date": null
+},
+"2016": {
+"v": null,
+"end": "2017-03-31",
+"consensus_before": null,
+"date": null
+},
+"2017": {
+"v": null,
+"end": "2018-03-31",
+"consensus_before": null,
+"date": null
+},
+"2018": {
+"v": null,
+"end": "2019-03-31",
+"consensus_before": null,
+"date": null
+},
+"2019": {
+"v": null,
+"end": "2020-03-31",
+"consensus_before": null,
+"date": null
+},
+"2020": {
+"v": null,
+"end": "2021-03-31",
+"consensus_before": null,
+"date": null
+},
+"2021": {
+"v": null,
+"end": "2022-03-31",
+"consensus_before": null,
+"date": null
+},
+"2022": {
+"v": null,
+"end": "2023-03-31",
+"consensus_before": null,
+"date": null
+},
+"2023": {
+"v": null,
+"end": "2024-03-31",
+"consensus_before": null,
+"date": null
+},
+"2024": {
+"v": null,
+"end": "2025-03-31",
+"consensus_before": null,
+"date": null
+},
+"2025": {
+"v": 2.04,
+"end": "2026-03-31",
+"consensus_before": 1.8372037094769231,
+"date": "2026-06-11"
+}
+},
+"entity": {
+"name": "McGraw Hill, Inc.",
+"description": "McGraw Hill, Inc. is a holding company, which engages in the provision of content and digital education solutions. It operates through the following segments: K-12, High Education, Global Professional, and International. The K-12 segment consists of blended digital and print learning solutions for end-to-end core, supplemental, and intervention curricula for K-12 schools. The High Education segment offers digital course experiences for nearly every subject through the flagship Connect solution. The Global Professional segment covers global content provision of medical and engineering learning solutions and support for learners and educational institutions. The International segment includes digital and print solutions for various countries and languages outside the United States. The company was founded in 1888 and is headquartered in Columbus, OH.",
+"rbics_econ": "Technology",
+"rbics_sector": "Software and Consulting",
+"rbics_subsector": "Internet and Data Services",
+"rbics_indgrp": "Consumer Data and Services",
+"country_of_risk": "US"
+},
+"sources": {
+"fundamentals": "FactSet Fundamentals ANN (USD), pulled 2026-10-19",
+"entity": "FactSet EntityReference, pulled 2026-10-19",
+"adj_eps": "FactSet EstimatesConsensus surprise (actual EPS, broker/adjusted basis, USD), pulled 2026-10-19"
+},
+"missing": [],
+"fmp_backup": {},
+"name": "McGraw Hill, Inc."
+}
