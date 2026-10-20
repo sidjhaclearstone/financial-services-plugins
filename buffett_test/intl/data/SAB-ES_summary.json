@@ -1,0 +1,157 @@
+{
+"ticker": "SAB-ES",
+"name": "Banco de Sabadell SA",
+"last_fy": 2025,
+"rbics": "Banking / International Banks / Europe, Middle East and Africa Banks",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 9.5,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": 8.8,
+"rev_cagr_10y": 0.1,
+"rev_cagr_5y": 3.5,
+"shares_cagr_10y": -0.1,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2020,
+-126.3
+],
+"eps_series": {
+"2015": 0.11,
+"2016": 0.11,
+"2017": 0.12,
+"2018": 0.04,
+"2019": 0.11,
+"2020": -0.03,
+"2021": 0.07,
+"2022": 0.12,
+"2023": 0.2,
+"2024": 0.28,
+"2025": 0.28
+},
+"gaap_eps_series": {
+"2015": 0.14,
+"2016": 0.13,
+"2017": 0.14,
+"2018": 0.05,
+"2019": 0.14,
+"2020": -0.01,
+"2021": 0.08,
+"2022": 0.13,
+"2023": 0.23,
+"2024": 0.32,
+"2025": 0.32
+},
+"rev_series_m": {
+"2015": 7749,
+"2016": 7599,
+"2017": 7202,
+"2018": 6699,
+"2019": 6891,
+"2020": 6601,
+"2021": 5857,
+"2022": 6928,
+"2023": 10468,
+"2024": 11657,
+"2025": 7858
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 3.28,
+"fcf_conversion_10y": 4.8,
+"acq_to_fcf_10y": 0.0,
+"buyback_to_fcf_10y": 0.08,
+"div_to_fcf_10y": 0.09,
+"roic_latest": 3.0,
+"roic_10y_avg": 1.5,
+"roe_latest": 8.6,
+"roe_10y_avg": 5.8,
+"adj_vs_gaap_gap_5y_avg_pct": -9.7,
+"adj_vs_gaap_gap_latest_pct": -10.8,
+"ntm_pe": 11.04,
+"is_reit": "False",
+"price": "3.9640878",
+"fcf_yield": 51.4,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.282,
+"std": null,
+"hi": 0.2823584083,
+"lo": 0.2823584083,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.292,
+"std": 0.04,
+"hi": 0.37,
+"lo": 0.201,
+"n": 21
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.327,
+"std": 0.02,
+"hi": 0.37,
+"lo": 0.28,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.359,
+"std": 0.026,
+"hi": 0.4,
+"lo": 0.3,
+"n": 20
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+12.1,
+9.9
+],
+"cons_EPS_growth_FY1": 3.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 6221.0,
+"std": null,
+"hi": 6221.0,
+"lo": 6221.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5201.073,
+"std": 199.12,
+"hi": 5561.0,
+"lo": 4972.0,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 5408.372,
+"std": 76.932,
+"hi": 5576.0,
+"lo": 5250.946185244,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 5657.058,
+"std": 82.861,
+"hi": 5802.0,
+"lo": 5456.4192214344,
+"n": 18
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.0,
+4.6
+],
+"cons_SALES_growth_FY1": -16.4,
+"eps_ltg": 5.5510904093,
+"missing": [],
+"fmp_backup": []
+}

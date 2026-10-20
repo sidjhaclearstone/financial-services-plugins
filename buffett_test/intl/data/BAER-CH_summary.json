@@ -1,0 +1,157 @@
+{
+"ticker": "BAER-CH",
+"name": "Julius Baer Gruppe AG",
+"last_fy": 2025,
+"rbics": "Investment Services / Investment Services / Asset Management and Financial Advisory Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 2.8,
+"eps_cagr_5y": -0.8,
+"gaap_eps_cagr_10y": 21.0,
+"rev_cagr_10y": 7.2,
+"rev_cagr_5y": 8.4,
+"shares_cagr_10y": -0.6,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2023,
+-56.2
+],
+"eps_series": {
+"2015": 3.25,
+"2016": 3.12,
+"2017": 3.66,
+"2018": 3.72,
+"2019": 3.55,
+"2020": 4.44,
+"2021": 5.34,
+"2022": 5.04,
+"2023": 2.21,
+"2024": 5.1,
+"2025": 4.27
+},
+"gaap_eps_series": {
+"2015": 0.55,
+"2016": 2.84,
+"2017": 3.25,
+"2018": 3.37,
+"2019": 2.12,
+"2020": 3.25,
+"2021": 5.06,
+"2022": 4.56,
+"2023": 2.21,
+"2024": 4.97,
+"2025": 3.71
+},
+"rev_series_m": {
+"2015": 3042,
+"2016": 3188,
+"2017": 3700,
+"2018": 4105,
+"2019": 4110,
+"2020": 4060,
+"2021": 4268,
+"2022": 4523,
+"2023": 5846,
+"2024": 6281,
+"2025": 6089
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 0.8,
+"fcf_conversion_5y": 1.15,
+"fcf_conversion_10y": 0.39,
+"acq_to_fcf_10y": 0.02,
+"buyback_to_fcf_10y": 0.52,
+"div_to_fcf_10y": 1.39,
+"roic_latest": 5.0,
+"roic_10y_avg": 7.1,
+"roe_latest": 10.9,
+"roe_10y_avg": 12.1,
+"adj_vs_gaap_gap_5y_avg_pct": 6.8,
+"adj_vs_gaap_gap_latest_pct": 15.0,
+"ntm_pe": 11.29,
+"is_reit": "False",
+"price": "84.77141992128368",
+"fcf_yield": -1.0,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 4.27,
+"std": null,
+"hi": 4.27,
+"lo": 4.27,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 6.04,
+"std": 0.266,
+"hi": 6.38,
+"lo": 5.1821109223,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 6.238,
+"std": 0.274,
+"hi": 7.13,
+"lo": 5.8,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 7.053,
+"std": 0.358,
+"hi": 7.99,
+"lo": 6.45,
+"n": 19
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+3.3,
+13.1
+],
+"cons_EPS_growth_FY1": 41.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 3860.9,
+"std": null,
+"hi": 3860.9,
+"lo": 3860.9,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4462.667,
+"std": 88.57,
+"hi": 4550.2093784958,
+"lo": 4160.7443338616,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 4616.497,
+"std": 92.313,
+"hi": 4815.0,
+"lo": 4472.0,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 4887.659,
+"std": 118.866,
+"hi": 5113.0,
+"lo": 4640.0,
+"n": 15
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.4,
+5.9
+],
+"cons_SALES_growth_FY1": 15.6,
+"eps_ltg": 12.870727654266666,
+"missing": [],
+"fmp_backup": []
+}
