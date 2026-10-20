@@ -3,7 +3,7 @@ Usage: python3 scripts/consensus_build.py FILE [FILE ...]"""
 import json, os, sys
 sys.path.insert(0, os.path.dirname(__file__))
 from fsload import load
-BASE = os.path.join(os.path.dirname(__file__), '..', 'data')
+BASE = os.environ.get('BT_DATA') or os.path.join(os.path.dirname(__file__), '..', 'data')  # BT_DATA=intl/data for the Europe/India run
 p = os.path.join(BASE, 'consensus.json')
 out = json.load(open(p)) if os.path.exists(p) else {}
 n = 0

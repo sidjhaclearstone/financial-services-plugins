@@ -3,7 +3,7 @@ Usage: python3 scripts/summarize.py BANF-US MZTI-US ...   -> writes data/<T>_sum
 import json, os, sys, csv, math
 sys.path.insert(0, os.path.dirname(__file__))
 from fsload import tkey
-BASE = os.path.join(os.path.dirname(__file__), '..', 'data')
+BASE = os.environ.get('BT_DATA') or os.path.join(os.path.dirname(__file__), '..', 'data')  # BT_DATA=intl/data for the Europe/India run
 
 def series(d, m):
     s = d.get('fundamentals', {}).get(m, {})

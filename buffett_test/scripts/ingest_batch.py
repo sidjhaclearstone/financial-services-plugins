@@ -4,7 +4,7 @@ All paths may be repeated. Records are keyed by 'requestId' (the ticker passed i
 import json, os, sys, argparse, datetime
 sys.path.insert(0, os.path.dirname(__file__))
 from fsload import load, tkey
-BASE = os.path.join(os.path.dirname(__file__), '..', 'data')
+BASE = os.environ.get('BT_DATA') or os.path.join(os.path.dirname(__file__), '..', 'data')  # BT_DATA=intl/data for the Europe/India run
 TODAY = '2026-10-19'
 
 def path_for(t): return os.path.join(BASE, tkey(t) + '.json')
