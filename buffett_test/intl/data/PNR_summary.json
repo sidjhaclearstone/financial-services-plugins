@@ -1,0 +1,176 @@
+{
+"ticker": "PNR-US",
+"name": "Pentair plc",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Machinery Manufacturing / Air, Liquid and Gas Control Equipment",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 2.2,
+"eps_cagr_5y": 14.5,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": -4.3,
+"rev_cagr_5y": 6.7,
+"shares_cagr_10y": -0.9,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2018,
+-33.4
+],
+"eps_series": {
+"2015": 3.94,
+"2016": 3.05,
+"2017": 3.53,
+"2018": 2.35,
+"2019": 2.38,
+"2020": 2.5,
+"2021": 3.4,
+"2022": 3.68,
+"2023": 3.75,
+"2024": 4.33,
+"2025": 4.92
+},
+"gaap_eps_series": {
+"2015": -0.39,
+"2016": 2.85,
+"2017": 2.64,
+"2018": 1.96,
+"2019": 2.09,
+"2020": 2.14,
+"2021": 3.3,
+"2022": 2.9,
+"2023": 3.74,
+"2024": 3.74,
+"2025": 3.95
+},
+"rev_series_m": {
+"2015": 6449,
+"2016": 4890,
+"2017": 4936,
+"2018": 2965,
+"2019": 2957,
+"2020": 3018,
+"2021": 3765,
+"2022": 4122,
+"2023": 4104,
+"2024": 4083,
+"2025": 4176
+},
+"ebit_margin_series": {
+"2015": 13.2,
+"2016": 15.1,
+"2017": 15.4,
+"2018": 16.1,
+"2019": 15.1,
+"2020": 16.0,
+"2021": 17.4,
+"2022": 16.5,
+"2023": 19.2,
+"2024": 22.0,
+"2025": 23.3
+},
+"ebit_margin_latest": 23.3,
+"ebit_margin_10y_avg": 17.2,
+"ebit_margin_10y_max": 23.3,
+"ebit_margin_10y_min": 13.2,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.96,
+"fcf_conversion_10y": 1.08,
+"acq_to_fcf_10y": 0.52,
+"buyback_to_fcf_10y": 0.3,
+"div_to_fcf_10y": 0.31,
+"net_debt_m": 1664,
+"net_debt_ebitda": 1.53,
+"roic_latest": 11.9,
+"roic_10y_avg": 10.8,
+"roe_latest": 17.5,
+"roe_10y_avg": 16.8,
+"adj_vs_gaap_gap_5y_avg_pct": 14.0,
+"adj_vs_gaap_gap_latest_pct": 24.5,
+"ntm_pe": 10.36,
+"is_reit": "False",
+"price": "52.75",
+"fcf_yield": 9.4,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 4.92,
+"std": null,
+"hi": 4.92,
+"lo": 4.92,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4.655,
+"std": 0.037,
+"hi": 4.7,
+"lo": 4.5967,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 5.202,
+"std": 0.143,
+"hi": 5.35,
+"lo": 4.81,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 5.559,
+"std": 0.268,
+"hi": 5.9,
+"lo": 5.09,
+"n": 8
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+11.8,
+6.9
+],
+"cons_EPS_growth_FY1": -5.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 4176.0,
+"std": null,
+"hi": 4176.0,
+"lo": 4176.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3961.792,
+"std": 50.564,
+"hi": 4070.0,
+"lo": 3889.0,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 4424.122,
+"std": 267.2,
+"hi": 4800.0,
+"lo": 4131.647,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 4603.419,
+"std": 316.644,
+"hi": 4987.0,
+"lo": 4303.708,
+"n": 7
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+11.7,
+4.1
+],
+"cons_SALES_growth_FY1": -5.1,
+"eps_ltg": 6.601142683,
+"missing": [],
+"fmp_backup": []
+}

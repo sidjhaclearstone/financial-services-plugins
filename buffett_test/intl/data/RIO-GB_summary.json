@@ -1,0 +1,176 @@
+{
+"ticker": "RIO-GB",
+"name": "Rio Tinto plc",
+"last_fy": 2025,
+"rbics": "Mining and Mineral Products / Metal Ore Mining / Base Metal Mining",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 10.4,
+"eps_cagr_5y": -2.8,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 5.2,
+"rev_cagr_5y": 5.3,
+"shares_cagr_10y": -1.1,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2022,
+-38.0
+],
+"eps_series": {
+"2015": 2.49,
+"2016": 2.84,
+"2017": 4.83,
+"2018": 5.12,
+"2019": 6.36,
+"2020": 7.7,
+"2021": 13.21,
+"2022": 8.2,
+"2023": 7.25,
+"2024": 6.7,
+"2025": 6.69
+},
+"gaap_eps_series": {
+"2015": -0.47,
+"2016": 2.55,
+"2017": 4.87,
+"2018": 7.88,
+"2019": 4.88,
+"2020": 6.0,
+"2021": 12.95,
+"2022": 7.62,
+"2023": 6.16,
+"2024": 7.07,
+"2025": 6.08
+},
+"rev_series_m": {
+"2015": 34829,
+"2016": 33781,
+"2017": 40030,
+"2018": 40522,
+"2019": 43165,
+"2020": 44611,
+"2021": 63495,
+"2022": 55554,
+"2023": 54041,
+"2024": 53658,
+"2025": 57638
+},
+"ebit_margin_series": {
+"2015": 13.4,
+"2016": 16.4,
+"2017": 28.3,
+"2018": 27.0,
+"2019": 32.6,
+"2020": 38.1,
+"2021": 44.9,
+"2022": 30.0,
+"2023": 25.8,
+"2024": 24.2,
+"2025": 23.8
+},
+"ebit_margin_latest": 23.8,
+"ebit_margin_10y_avg": 27.7,
+"ebit_margin_10y_max": 44.9,
+"ebit_margin_10y_min": 13.4,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 0.51,
+"fcf_conversion_5y": 0.75,
+"fcf_conversion_10y": 0.83,
+"acq_to_fcf_10y": 0.13,
+"buyback_to_fcf_10y": 0.1,
+"div_to_fcf_10y": 0.83,
+"net_debt_m": 14071,
+"net_debt_ebitda": 0.67,
+"roic_latest": 12.9,
+"roic_10y_avg": 17.9,
+"roe_latest": 16.7,
+"roe_10y_avg": 23.0,
+"adj_vs_gaap_gap_5y_avg_pct": 6.4,
+"adj_vs_gaap_gap_latest_pct": 10.0,
+"ntm_pe": 10.92,
+"is_reit": "False",
+"price": "89.4270125",
+"fcf_yield": 7.2,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 6.692,
+"std": null,
+"hi": 6.692,
+"lo": 6.692,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 8.186,
+"std": 0.564,
+"hi": 9.15,
+"lo": 7.0383197234,
+"n": 22
+},
+"FY2": {
+"fy": 2027,
+"mean": 8.19,
+"std": 0.783,
+"hi": 9.5257083015,
+"lo": 6.97,
+"n": 22
+},
+"FY3": {
+"fy": 2028,
+"mean": 8.176,
+"std": 0.973,
+"hi": 10.36,
+"lo": 6.5691,
+"n": 20
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+0.0,
+-0.2
+],
+"cons_EPS_growth_FY1": 22.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 57638.0,
+"std": null,
+"hi": 57638.0,
+"lo": 57638.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 63581.607,
+"std": 2571.706,
+"hi": 69239.9202819496,
+"lo": 61488.0,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 65285.934,
+"std": 3804.221,
+"hi": 72023.377732,
+"lo": 58726.0,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 66589.743,
+"std": 4796.63,
+"hi": 75155.8152075633,
+"lo": 54431.1,
+"n": 19
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.7,
+2.0
+],
+"cons_SALES_growth_FY1": 10.3,
+"eps_ltg": 3.2000541317333333,
+"missing": [],
+"fmp_backup": []
+}

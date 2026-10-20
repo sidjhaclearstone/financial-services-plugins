@@ -1,0 +1,176 @@
+{
+"ticker": "CON-DE",
+"name": "Continental AG",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Machinery Manufacturing / Natural Resource and Construction Machinery Makers",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": -6.7,
+"rev_cagr_5y": -12.2,
+"shares_cagr_10y": 0.0,
+"years_eps_growth_ge7": "2/10",
+"worst_eps_year": [
+2025,
+-118.7
+],
+"eps_series": {
+"2015": 9.51,
+"2016": 9.63,
+"2017": 10.28,
+"2018": 9.85,
+"2019": 4.36,
+"2020": 2.1,
+"2021": 5.53,
+"2022": 0.25,
+"2023": 4.39,
+"2024": 4.44,
+"2025": -0.83
+},
+"gaap_eps_series": {
+"2015": 13.64,
+"2016": 14.01,
+"2017": 14.92,
+"2018": 14.49,
+"2019": -6.12,
+"2020": -4.81,
+"2021": 7.28,
+"2022": 0.33,
+"2023": 5.78,
+"2024": 5.84,
+"2025": -0.82
+},
+"rev_series_m": {
+"2015": 39232,
+"2016": 40550,
+"2017": 44010,
+"2018": 44404,
+"2019": 44478,
+"2020": 37722,
+"2021": 33765,
+"2022": 39409,
+"2023": 41420,
+"2024": 39719,
+"2025": 19676
+},
+"ebit_margin_series": {
+"2015": 11.0,
+"2016": 10.3,
+"2017": 9.8,
+"2018": 7.1,
+"2019": 5.2,
+"2020": 1.6,
+"2021": 2.9,
+"2022": 1.5,
+"2023": 2.4,
+"2024": 2.1,
+"2025": 9.1
+},
+"ebit_margin_latest": 9.1,
+"ebit_margin_10y_avg": 5.7,
+"ebit_margin_10y_max": 11.0,
+"ebit_margin_10y_min": 1.5,
+"margin_pctile_in_history": 73,
+"latest_eps_vs_10y_max": -0.08,
+"fcf_conversion_5y": 1.38,
+"fcf_conversion_10y": 1.28,
+"acq_to_fcf_10y": 0.2,
+"buyback_to_fcf_10y": 0.02,
+"div_to_fcf_10y": 0.46,
+"net_debt_m": 5185,
+"net_debt_ebitda": 1.82,
+"roic_latest": -3.3,
+"roic_10y_avg": 5.6,
+"roe_latest": -4.9,
+"roe_10y_avg": 6.7,
+"adj_vs_gaap_gap_5y_avg_pct": -24.1,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 10.77,
+"is_reit": "False",
+"price": "77.217828",
+"fcf_yield": 9.0,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": -0.83,
+"std": null,
+"hi": -0.83,
+"lo": -0.83,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5.65,
+"std": 0.533,
+"hi": 6.6445648035,
+"lo": 4.8,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 6.576,
+"std": 0.592,
+"hi": 7.6480577501,
+"lo": 5.64,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 7.316,
+"std": 0.896,
+"hi": 9.22,
+"lo": 6.1159156625,
+"n": 9
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+16.4,
+11.3
+],
+"cons_EPS_growth_FY1": -780.7,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 19676.0,
+"std": null,
+"hi": 19676.0,
+"lo": 19676.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 14465.982,
+"std": 1713.427,
+"hi": 18013.414045552,
+"lo": 13568.0,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 14975.705,
+"std": 1705.895,
+"hi": 18590.7100354926,
+"lo": 13819.0,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 15588.629,
+"std": 1799.437,
+"hi": 18887.6963737921,
+"lo": 14352.0,
+"n": 9
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.5,
+4.1
+],
+"cons_SALES_growth_FY1": -26.5,
+"eps_ltg": 11.0112183135,
+"missing": [],
+"fmp_backup": []
+}

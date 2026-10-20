@@ -1,0 +1,176 @@
+{
+"ticker": "VIV-FR",
+"name": "Vivendi SE",
+"last_fy": 2025,
+"rbics": "Software and Consulting / Software / Games Software",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -3.8,
+"eps_cagr_5y": -20.2,
+"gaap_eps_cagr_10y": -28.7,
+"rev_cagr_10y": -29.9,
+"rev_cagr_5y": -54.7,
+"shares_cagr_10y": -3.1,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2025,
+-81.8
+],
+"eps_series": {
+"2015": 0.03,
+"2016": 0.03,
+"2017": 0.06,
+"2018": 0.05,
+"2019": 0.08,
+"2020": 0.06,
+"2021": 0.17,
+"2022": 0.1,
+"2023": 0.2,
+"2024": 0.11,
+"2025": 0.02
+},
+"gaap_eps_series": {
+"2015": 0.59,
+"2016": 0.95,
+"2017": 0.95,
+"2018": 0.1,
+"2019": 1.28,
+"2020": 1.26,
+"2021": 22.87,
+"2022": -0.98,
+"2023": 0.39,
+"2024": -5.96,
+"2025": 0.02
+},
+"rev_series_m": {
+"2015": 10762,
+"2016": 10819,
+"2017": 12444,
+"2018": 13932,
+"2019": 15898,
+"2020": 16090,
+"2021": 9572,
+"2022": 9595,
+"2023": 10510,
+"2024": 297,
+"2025": 307
+},
+"ebit_margin_series": {
+"2015": 5.9,
+"2016": 5.5,
+"2017": 7.7,
+"2018": 9.3,
+"2019": 9.8,
+"2020": 9.9,
+"2021": 6.2,
+"2022": 6.0,
+"2023": 6.5,
+"2024": -45.8,
+"2025": -34.2
+},
+"ebit_margin_latest": -34.2,
+"ebit_margin_10y_avg": -1.2,
+"ebit_margin_10y_max": 9.9,
+"ebit_margin_10y_min": -45.8,
+"margin_pctile_in_history": 18,
+"latest_eps_vs_10y_max": 0.1,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": 2.03,
+"acq_to_fcf_10y": 0.75,
+"buyback_to_fcf_10y": 0.92,
+"div_to_fcf_10y": 0.71,
+"net_debt_m": 1528,
+"net_debt_ebitda": -27.78,
+"roic_latest": 0.3,
+"roic_10y_avg": 2.0,
+"roe_latest": 0.4,
+"roe_10y_avg": 2.5,
+"adj_vs_gaap_gap_5y_avg_pct": -49.5,
+"adj_vs_gaap_gap_latest_pct": -0.5,
+"ntm_pe": 17.74,
+"is_reit": "False",
+"price": "1.7509736999999999",
+"fcf_yield": 7.5,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.02,
+"std": null,
+"hi": 0.02,
+"lo": 0.02,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.055,
+"std": 0.028,
+"hi": 0.08643,
+"lo": 0.02,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.096,
+"std": 0.054,
+"hi": 0.153953,
+"lo": 0.02,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.118,
+"std": 0.067,
+"hi": 0.184656,
+"lo": 0.02,
+"n": 6
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+74.5,
+22.4
+],
+"cons_EPS_growth_FY1": 175.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 307.0,
+"std": null,
+"hi": 307.0,
+"lo": 307.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 320.236,
+"std": 8.203,
+"hi": 332.0,
+"lo": 310.18,
+"n": 5
+},
+"FY2": {
+"fy": 2027,
+"mean": 329.525,
+"std": 7.199,
+"hi": 341.0,
+"lo": 324.0,
+"n": 5
+},
+"FY3": {
+"fy": 2028,
+"mean": 338.76,
+"std": 8.703,
+"hi": 351.0,
+"lo": 327.0,
+"n": 5
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.9,
+2.8
+],
+"cons_SALES_growth_FY1": 4.3,
+"eps_ltg": 42.008634,
+"missing": [],
+"fmp_backup": []
+}

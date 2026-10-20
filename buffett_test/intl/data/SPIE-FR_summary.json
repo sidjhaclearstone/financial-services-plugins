@@ -1,0 +1,176 @@
+{
+"ticker": "SPIE-FR",
+"name": "SPIE SA",
+"last_fy": 2025,
+"rbics": "Business Services / Business Support Services / Facilities and Other Support Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 9.2,
+"eps_cagr_5y": 19.6,
+"gaap_eps_cagr_10y": 11.2,
+"rev_cagr_10y": 6.7,
+"rev_cagr_5y": 9.3,
+"shares_cagr_10y": 2.9,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2020,
+-24.1
+],
+"eps_series": {
+"2015": 1.11,
+"2016": 1.33,
+"2017": 1.36,
+"2018": 1.38,
+"2019": 1.45,
+"2020": 1.1,
+"2021": 1.48,
+"2022": 1.83,
+"2023": 1.44,
+"2024": 2.5,
+"2025": 2.69
+},
+"gaap_eps_series": {
+"2015": 0.36,
+"2016": 1.22,
+"2017": 0.71,
+"2018": 0.59,
+"2019": 0.96,
+"2020": 0.34,
+"2021": 1.05,
+"2022": 0.92,
+"2023": 1.44,
+"2024": 1.62,
+"2025": 1.04
+},
+"rev_series_m": {
+"2015": 5432,
+"2016": 5156,
+"2017": 6128,
+"2018": 6694,
+"2019": 6953,
+"2020": 6655,
+"2021": 6994,
+"2022": 8114,
+"2023": 8725,
+"2024": 9920,
+"2025": 10397
+},
+"ebit_margin_series": {
+"2015": 3.9,
+"2016": 6.2,
+"2017": 5.2,
+"2018": 4.5,
+"2019": 4.9,
+"2020": 4.0,
+"2021": 4.9,
+"2022": 5.2,
+"2023": 5.4,
+"2024": 5.5,
+"2025": 5.8
+},
+"ebit_margin_latest": 5.8,
+"ebit_margin_10y_avg": 5.0,
+"ebit_margin_10y_max": 6.2,
+"ebit_margin_10y_min": 3.9,
+"margin_pctile_in_history": 91,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 2.88,
+"fcf_conversion_10y": 2.59,
+"acq_to_fcf_10y": 0.51,
+"buyback_to_fcf_10y": 0.01,
+"div_to_fcf_10y": 0.23,
+"net_debt_m": 1990,
+"net_debt_ebitda": 1.87,
+"roic_latest": 4.1,
+"roic_10y_avg": 4.9,
+"roe_latest": 8.3,
+"roe_10y_avg": 10.2,
+"adj_vs_gaap_gap_5y_avg_pct": 70.4,
+"adj_vs_gaap_gap_latest_pct": 158.5,
+"ntm_pe": 12.12,
+"is_reit": "False",
+"price": "45.810228",
+"fcf_yield": 9.2,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.69,
+"std": null,
+"hi": 2.69,
+"lo": 2.69,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.089,
+"std": 0.148,
+"hi": 3.32,
+"lo": 2.76,
+"n": 13
+},
+"FY2": {
+"fy": 2027,
+"mean": 3.44,
+"std": 0.173,
+"hi": 3.72,
+"lo": 3.02,
+"n": 13
+},
+"FY3": {
+"fy": 2028,
+"mean": 3.656,
+"std": 0.316,
+"hi": 4.14,
+"lo": 2.9,
+"n": 12
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+11.4,
+6.3
+],
+"cons_EPS_growth_FY1": 14.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 10379.9,
+"std": null,
+"hi": 10379.9,
+"lo": 10379.9,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 11239.874,
+"std": 29.127,
+"hi": 11289.782148,
+"lo": 11191.6,
+"n": 13
+},
+"FY2": {
+"fy": 2027,
+"mean": 12058.313,
+"std": 97.512,
+"hi": 12293.0,
+"lo": 11926.4,
+"n": 13
+},
+"FY3": {
+"fy": 2028,
+"mean": 12633.675,
+"std": 248.592,
+"hi": 13069.0,
+"lo": 12311.6,
+"n": 12
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+7.3,
+4.8
+],
+"cons_SALES_growth_FY1": 8.3,
+"eps_ltg": 8.622760766125,
+"missing": [],
+"fmp_backup": []
+}

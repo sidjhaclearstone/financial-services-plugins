@@ -1,0 +1,176 @@
+{
+"ticker": "BRBY-GB",
+"name": "Burberry Group plc",
+"last_fy": 2025,
+"rbics": "Consumer Goods / Apparel and Accessory Products / Apparel and Footwear Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -14.2,
+"eps_cagr_5y": -25.7,
+"gaap_eps_cagr_10y": -21.9,
+"rev_cagr_10y": -0.4,
+"rev_cagr_5y": 0.6,
+"shares_cagr_10y": -2.1,
+"years_eps_growth_ge7": "3/10",
+"worst_eps_year": [
+2024,
+-120.0
+],
+"eps_series": {
+"2015": 0.7,
+"2016": 0.77,
+"2017": 0.82,
+"2018": 0.82,
+"2019": 0.79,
+"2020": 0.67,
+"2021": 0.94,
+"2022": 1.22,
+"2023": 0.74,
+"2024": -0.15,
+"2025": 0.15
+},
+"gaap_eps_series": {
+"2015": 0.69,
+"2016": 0.65,
+"2017": 0.68,
+"2018": 0.82,
+"2019": 0.3,
+"2020": 0.93,
+"2021": 0.98,
+"2022": 1.26,
+"2023": 0.74,
+"2024": -0.21,
+"2025": 0.06
+},
+"rev_series_m": {
+"2015": 2515,
+"2016": 2766,
+"2017": 2733,
+"2018": 2720,
+"2019": 2633,
+"2020": 2344,
+"2021": 2826,
+"2022": 3094,
+"2023": 2968,
+"2024": 2461,
+"2025": 2420
+},
+"ebit_margin_series": {
+"2015": 17.1,
+"2016": 17.0,
+"2017": 18.5,
+"2018": 17.1,
+"2019": 17.8,
+"2020": 17.8,
+"2021": 18.2,
+"2022": 20.7,
+"2023": 15.0,
+"2024": 2.4,
+"2025": 6.3
+},
+"ebit_margin_latest": 6.3,
+"ebit_margin_10y_avg": 15.3,
+"ebit_margin_10y_max": 20.7,
+"ebit_margin_10y_min": 2.4,
+"margin_pctile_in_history": 18,
+"latest_eps_vs_10y_max": 0.12,
+"fcf_conversion_5y": 1.86,
+"fcf_conversion_10y": 1.65,
+"acq_to_fcf_10y": 0.03,
+"buyback_to_fcf_10y": 0.43,
+"div_to_fcf_10y": 0.36,
+"net_debt_m": 852,
+"net_debt_ebitda": 1.61,
+"roic_latest": 1.0,
+"roic_10y_avg": 12.2,
+"roe_latest": 2.3,
+"roe_10y_avg": 16.8,
+"adj_vs_gaap_gap_5y_avg_pct": 38.5,
+"adj_vs_gaap_gap_latest_pct": 160.7,
+"ntm_pe": 23.19,
+"is_reit": "False",
+"price": "14.6625675",
+"fcf_yield": 8.2,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.152,
+"std": null,
+"hi": 0.15199999660253521,
+"lo": 0.15199999660253521,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.38,
+"std": 0.025,
+"hi": 0.42761153261913715,
+"lo": 0.33008612584399993,
+"n": 21
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.551,
+"std": 0.046,
+"hi": 0.6229216269906162,
+"lo": 0.47181414519113174,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.713,
+"std": 0.086,
+"hi": 0.8508313772864361,
+"lo": 0.5325999880954622,
+"n": 18
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+45.0,
+29.5
+],
+"cons_EPS_growth_FY1": 149.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2420.0,
+"std": null,
+"hi": 2420.0,
+"lo": 2420.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2537.411,
+"std": 22.679,
+"hi": 2582.312382,
+"lo": 2492.0,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 2680.006,
+"std": 46.122,
+"hi": 2777.0,
+"lo": 2609.0,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 2832.138,
+"std": 86.466,
+"hi": 2986.0,
+"lo": 2700.0,
+"n": 17
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.6,
+5.7
+],
+"cons_SALES_growth_FY1": 4.9,
+"eps_ltg": 37.87928043724,
+"missing": [],
+"fmp_backup": []
+}

@@ -1,0 +1,176 @@
+{
+"ticker": "LOUP-FR",
+"name": "LDC SA",
+"last_fy": 2025,
+"rbics": "Food and Tobacco Production / Agriculture / Animal Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": 10.4,
+"eps_cagr_5y": 17.6,
+"gaap_eps_cagr_10y": 10.4,
+"rev_cagr_10y": 7.7,
+"rev_cagr_5y": 10.5,
+"shares_cagr_10y": 0.4,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2024,
+-19.9
+],
+"eps_series": {
+"2015": 3.43,
+"2016": 3.9,
+"2017": 4.2,
+"2018": 4.38,
+"2019": 4.21,
+"2020": 4.12,
+"2021": 4.71,
+"2022": 6.42,
+"2023": 8.79,
+"2024": 7.04,
+"2025": 9.26
+},
+"gaap_eps_series": {
+"2015": 3.43,
+"2016": 3.9,
+"2017": 4.2,
+"2018": 4.38,
+"2019": 4.21,
+"2020": 4.12,
+"2021": 4.71,
+"2022": 6.42,
+"2023": 8.79,
+"2024": 7.04,
+"2025": 9.26
+},
+"rev_series_m": {
+"2015": 3479,
+"2016": 3580,
+"2017": 3827,
+"2018": 4124,
+"2019": 4419,
+"2020": 4428,
+"2021": 5069,
+"2022": 5846,
+"2023": 6198,
+"2024": 6323,
+"2025": 7283
+},
+"ebit_margin_series": {
+"2015": 4.3,
+"2016": 4.9,
+"2017": 4.7,
+"2018": 4.3,
+"2019": 4.5,
+"2020": 4.3,
+"2021": 4.1,
+"2022": 5.6,
+"2023": 5.9,
+"2024": 4.9,
+"2025": 6.2
+},
+"ebit_margin_latest": 6.2,
+"ebit_margin_10y_avg": 4.9,
+"ebit_margin_10y_max": 6.2,
+"ebit_margin_10y_min": 4.1,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.71,
+"fcf_conversion_10y": 0.59,
+"acq_to_fcf_10y": 0.74,
+"buyback_to_fcf_10y": 0.03,
+"div_to_fcf_10y": 0.31,
+"net_debt_m": -179,
+"net_debt_ebitda": -0.25,
+"roic_latest": 11.6,
+"roic_10y_avg": 10.9,
+"roe_latest": 13.2,
+"roe_10y_avg": 12.1,
+"adj_vs_gaap_gap_5y_avg_pct": 0.6,
+"adj_vs_gaap_gap_latest_pct": 1.0,
+"ntm_pe": 10.27,
+"is_reit": "False",
+"price": "113.96471999999999",
+"fcf_yield": 8.0,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 9.329,
+"std": 0.38,
+"hi": 9.97,
+"lo": 9.0,
+"n": 5
+},
+"FY1": {
+"fy": 2026,
+"mean": 9.273,
+"std": 0.646,
+"hi": 9.93,
+"lo": 8.45,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 10.238,
+"std": 0.596,
+"hi": 10.99,
+"lo": 9.72,
+"n": 4
+},
+"FY3": {
+"fy": 2028,
+"mean": 10.643,
+"std": 0.317,
+"hi": 11.02,
+"lo": 10.29,
+"n": 4
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+10.4,
+4.0
+],
+"cons_EPS_growth_FY1": -0.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 7283.134,
+"std": 0.086,
+"hi": 7283.2,
+"lo": 7283.0,
+"n": 5
+},
+"FY1": {
+"fy": 2026,
+"mean": 7797.275,
+"std": 17.682,
+"hi": 7815.7,
+"lo": 7780.4,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 8249.85,
+"std": 88.852,
+"hi": 8342.2,
+"lo": 8154.0,
+"n": 4
+},
+"FY3": {
+"fy": 2028,
+"mean": 8591.325,
+"std": 221.359,
+"hi": 8876.5,
+"lo": 8364.0,
+"n": 4
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.8,
+4.1
+],
+"cons_SALES_growth_FY1": 7.1,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

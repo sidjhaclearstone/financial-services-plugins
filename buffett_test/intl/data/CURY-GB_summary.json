@@ -1,0 +1,176 @@
+{
+"ticker": "CURY-GB",
+"name": "Currys PLC",
+"last_fy": 2025,
+"rbics": "Consumer Retail / Electronics and Entertainment Retail / Electronics Retail",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -7.8,
+"eps_cagr_5y": 3.3,
+"gaap_eps_cagr_10y": -0.1,
+"rev_cagr_10y": -0.5,
+"rev_cagr_5y": -2.2,
+"shares_cagr_10y": -0.4,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2019,
+-48.0
+],
+"eps_series": {
+"2015": 0.28,
+"2016": 0.34,
+"2017": 0.26,
+"2018": 0.2,
+"2019": 0.11,
+"2020": 0.11,
+"2021": 0.12,
+"2022": 0.08,
+"2023": 0.08,
+"2024": 0.11,
+"2025": 0.13
+},
+"gaap_eps_series": {
+"2015": 0.15,
+"2016": 0.26,
+"2017": 0.14,
+"2018": -0.28,
+"2019": -0.14,
+"2020": 0.01,
+"2021": 0.06,
+"2022": -0.44,
+"2023": 0.15,
+"2024": 0.1,
+"2025": 0.14
+},
+"rev_series_m": {
+"2015": 9738,
+"2016": 10580,
+"2017": 10525,
+"2018": 10433,
+"2019": 10123,
+"2020": 10358,
+"2021": 10122,
+"2022": 9511,
+"2023": 8476,
+"2024": 8706,
+"2025": 9254
+},
+"ebit_margin_series": {
+"2015": 4.4,
+"2016": 4.5,
+"2017": 3.5,
+"2018": 2.0,
+"2019": -0.6,
+"2020": 3.0,
+"2021": 2.3,
+"2022": 2.3,
+"2023": 2.1,
+"2024": 2.6,
+"2025": 2.8
+},
+"ebit_margin_latest": 2.8,
+"ebit_margin_10y_avg": 2.6,
+"ebit_margin_10y_max": 4.5,
+"ebit_margin_10y_min": -0.6,
+"margin_pctile_in_history": 64,
+"latest_eps_vs_10y_max": 0.37,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 0.01,
+"buyback_to_fcf_10y": 0.09,
+"div_to_fcf_10y": 0.23,
+"net_debt_m": 776,
+"net_debt_ebitda": 1.4,
+"roic_latest": 5.4,
+"roic_10y_avg": -0.1,
+"roe_latest": 7.1,
+"roe_10y_avg": -0.5,
+"adj_vs_gaap_gap_5y_avg_pct": 12.8,
+"adj_vs_gaap_gap_latest_pct": -13.0,
+"ntm_pe": 10.43,
+"is_reit": "False",
+"price": "2.002952",
+"fcf_yield": 8.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.126,
+"std": null,
+"hi": 0.12599999718368052,
+"lo": 0.12599999718368052,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.138,
+"std": 0.004,
+"hi": 0.14199999682605263,
+"lo": 0.1290999971143901,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.151,
+"std": 0.007,
+"hi": 0.15899999644607302,
+"lo": 0.13809999691322444,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.166,
+"std": 0.011,
+"hi": 0.17999999597668645,
+"lo": 0.14899999666959043,
+"n": 7
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+9.8,
+9.5
+],
+"cons_EPS_growth_FY1": 9.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 9254.0,
+"std": null,
+"hi": 9254.0,
+"lo": 9254.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 9591.375,
+"std": 112.629,
+"hi": 9730.1,
+"lo": 9382.3,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 9820.732,
+"std": 169.316,
+"hi": 10080.5,
+"lo": 9549.8,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 10065.503,
+"std": 216.556,
+"hi": 10372.1,
+"lo": 9788.6,
+"n": 7
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.4,
+2.5
+],
+"cons_SALES_growth_FY1": 3.6,
+"eps_ltg": 4.6823295,
+"missing": [],
+"fmp_backup": []
+}

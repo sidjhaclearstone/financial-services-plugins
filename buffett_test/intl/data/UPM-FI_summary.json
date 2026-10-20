@@ -1,0 +1,176 @@
+{
+"ticker": "UPM-FI",
+"name": "UPM-Kymmene Oyj",
+"last_fy": 2025,
+"rbics": "Manufactured Products / Forestry and Paper Products / Paper and Paper Products",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -3.0,
+"eps_cagr_5y": -0.6,
+"gaap_eps_cagr_10y": -6.2,
+"rev_cagr_10y": -0.6,
+"rev_cagr_5y": 2.3,
+"shares_cagr_10y": -0.1,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2023,
+-55.2
+],
+"eps_series": {
+"2015": 1.8,
+"2016": 1.65,
+"2017": 1.88,
+"2018": 2.24,
+"2019": 2.07,
+"2020": 1.37,
+"2021": 2.22,
+"2022": 3.09,
+"2023": 1.39,
+"2024": 1.74,
+"2025": 1.33
+},
+"gaap_eps_series": {
+"2015": 1.72,
+"2016": 1.65,
+"2017": 1.82,
+"2018": 2.8,
+"2019": 1.99,
+"2020": 1.05,
+"2021": 2.41,
+"2022": 2.86,
+"2023": 0.73,
+"2024": 0.82,
+"2025": 0.91
+},
+"rev_series_m": {
+"2015": 10238,
+"2016": 9803,
+"2017": 9984,
+"2018": 10464,
+"2019": 10289,
+"2020": 8599,
+"2021": 9808,
+"2022": 11779,
+"2023": 10399,
+"2024": 10344,
+"2025": 9622
+},
+"ebit_margin_series": {
+"2015": 9.5,
+"2016": 10.1,
+"2017": 11.2,
+"2018": 12.7,
+"2019": 13.1,
+"2020": 10.5,
+"2021": 11.4,
+"2022": 16.4,
+"2023": 5.8,
+"2024": 9.7,
+"2025": 4.9
+},
+"ebit_margin_latest": 4.9,
+"ebit_margin_10y_avg": 10.5,
+"ebit_margin_10y_max": 16.4,
+"ebit_margin_10y_min": 4.9,
+"margin_pctile_in_history": 9,
+"latest_eps_vs_10y_max": 0.43,
+"fcf_conversion_5y": 0.4,
+"fcf_conversion_10y": 0.76,
+"acq_to_fcf_10y": 0.05,
+"buyback_to_fcf_10y": 0.02,
+"div_to_fcf_10y": 0.97,
+"net_debt_m": 3002,
+"net_debt_ebitda": 2.96,
+"roic_latest": 3.4,
+"roic_10y_avg": 7.7,
+"roe_latest": 4.5,
+"roe_10y_avg": 9.3,
+"adj_vs_gaap_gap_5y_avg_pct": 50.0,
+"adj_vs_gaap_gap_latest_pct": 46.5,
+"ntm_pe": 14.31,
+"is_reit": "False",
+"price": "28.233189",
+"fcf_yield": 7.3,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.33,
+"std": null,
+"hi": 1.33,
+"lo": 1.33,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.391,
+"std": 0.077,
+"hi": 1.53,
+"lo": 1.2495,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.849,
+"std": 0.255,
+"hi": 2.5,
+"lo": 1.4614266406,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.042,
+"std": 0.309,
+"hi": 2.5,
+"lo": 1.500679,
+"n": 16
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+32.9,
+10.5
+],
+"cons_EPS_growth_FY1": 4.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 9656.0,
+"std": null,
+"hi": 9656.0,
+"lo": 9656.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 9536.681,
+"std": 152.851,
+"hi": 9850.9348371365,
+"lo": 9285.70697,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 9708.824,
+"std": 648.465,
+"hi": 10474.0,
+"lo": 7596.0,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 9871.24,
+"std": 749.872,
+"hi": 10732.7962,
+"lo": 7626.0,
+"n": 15
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+1.8,
+1.7
+],
+"cons_SALES_growth_FY1": -1.2,
+"eps_ltg": 9.260859351133334,
+"missing": [],
+"fmp_backup": []
+}

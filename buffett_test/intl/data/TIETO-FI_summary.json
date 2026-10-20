@@ -1,0 +1,176 @@
+{
+"ticker": "TIETO-FI",
+"name": "Tieto Corporation",
+"last_fy": 2025,
+"rbics": "Software and Consulting / Software / Industry-Specific Software",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -0.6,
+"eps_cagr_5y": -8.2,
+"gaap_eps_cagr_10y": -16.0,
+"rev_cagr_10y": 2.4,
+"rev_cagr_5y": -7.8,
+"shares_cagr_10y": 4.9,
+"years_eps_growth_ge7": "3/10",
+"worst_eps_year": [
+2025,
+-24.6
+],
+"eps_series": {
+"2015": 1.5,
+"2016": 1.58,
+"2017": 1.68,
+"2018": 1.8,
+"2019": 1.7,
+"2020": 2.16,
+"2021": 2.2,
+"2022": 2.36,
+"2023": 2.02,
+"2024": 1.87,
+"2025": 1.41
+},
+"gaap_eps_series": {
+"2015": 1.23,
+"2016": 1.45,
+"2017": 1.46,
+"2018": 1.66,
+"2019": 1.02,
+"2020": 0.8,
+"2021": 2.46,
+"2022": 1.59,
+"2023": 1.45,
+"2024": -0.53,
+"2025": 0.22
+},
+"rev_series_m": {
+"2015": 1460,
+"2016": 1492,
+"2017": 1543,
+"2018": 1600,
+"2019": 1734,
+"2020": 2786,
+"2021": 2823,
+"2022": 2928,
+"2023": 2851,
+"2024": 2803,
+"2025": 1852
+},
+"ebit_margin_series": {
+"2015": 8.4,
+"2016": 10.4,
+"2017": 10.6,
+"2018": 9.4,
+"2019": 10.8,
+"2020": 13.0,
+"2021": 8.9,
+"2022": 7.8,
+"2023": 8.9,
+"2024": 10.0,
+"2025": 10.9
+},
+"ebit_margin_latest": 10.9,
+"ebit_margin_10y_avg": 9.9,
+"ebit_margin_10y_max": 13.0,
+"ebit_margin_10y_min": 7.8,
+"margin_pctile_in_history": 91,
+"latest_eps_vs_10y_max": 0.6,
+"fcf_conversion_5y": 1.81,
+"fcf_conversion_10y": 1.67,
+"acq_to_fcf_10y": 0.26,
+"buyback_to_fcf_10y": 0.01,
+"div_to_fcf_10y": 0.71,
+"net_debt_m": 560,
+"net_debt_ebitda": 1.91,
+"roic_latest": 1.4,
+"roic_10y_avg": 8.9,
+"roe_latest": 2.1,
+"roe_10y_avg": 11.9,
+"adj_vs_gaap_gap_5y_avg_pct": 157.5,
+"adj_vs_gaap_gap_latest_pct": 552.6,
+"ntm_pe": 10.74,
+"is_reit": "False",
+"price": "21.144045",
+"fcf_yield": 8.5,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.408,
+"std": 0.146,
+"hi": 1.58,
+"lo": 1.17,
+"n": 8
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.729,
+"std": 0.193,
+"hi": 2.11,
+"lo": 1.55,
+"n": 10
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.761,
+"std": 0.104,
+"hi": 1.98,
+"lo": 1.63,
+"n": 10
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.892,
+"std": 0.164,
+"hi": 2.28,
+"lo": 1.7,
+"n": 10
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+1.9,
+7.4
+],
+"cons_EPS_growth_FY1": 22.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1853.976,
+"std": 6.377,
+"hi": 1873.2,
+"lo": 1852.0,
+"n": 11
+},
+"FY1": {
+"fy": 2026,
+"mean": 1718.428,
+"std": 25.372,
+"hi": 1782.63546,
+"lo": 1688.0,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 1736.52,
+"std": 42.191,
+"hi": 1815.0,
+"lo": 1681.0,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 1804.138,
+"std": 50.633,
+"hi": 1895.0,
+"lo": 1739.0,
+"n": 11
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+1.1,
+3.9
+],
+"cons_SALES_growth_FY1": -7.3,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

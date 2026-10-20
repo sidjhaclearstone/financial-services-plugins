@@ -1,0 +1,176 @@
+{
+"ticker": "AKRBP-NO",
+"name": "Aker BP ASA",
+"last_fy": 2025,
+"rbics": "Upstream Energy / Fossil Fuel Exploration and Production / Other Fossil Fuel Exploration and Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 11.8,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 24.9,
+"rev_cagr_5y": 30.1,
+"shares_cagr_10y": 12.0,
+"years_eps_growth_ge7": "5/9",
+"worst_eps_year": [
+2025,
+-92.8
+],
+"eps_series": {
+"2015": -1.46,
+"2016": 0.1,
+"2017": 0.81,
+"2018": 1.33,
+"2019": 0.39,
+"2020": 0.12,
+"2021": 2.44,
+"2022": 3.23,
+"2023": 2.12,
+"2024": 2.9,
+"2025": 0.21
+},
+"gaap_eps_series": {
+"2015": -1.54,
+"2016": 0.15,
+"2017": 0.81,
+"2018": 1.32,
+"2019": 0.39,
+"2020": 0.12,
+"2021": 2.37,
+"2022": 3.23,
+"2023": 2.12,
+"2024": 2.9,
+"2025": 0.21
+},
+"rev_series_m": {
+"2015": 1159,
+"2016": 1261,
+"2017": 2576,
+"2018": 3711,
+"2019": 3339,
+"2020": 2868,
+"2021": 5640,
+"2022": 12896,
+"2023": 13580,
+"2024": 12243,
+"2025": 10699
+},
+"ebit_margin_series": {
+"2015": 33.0,
+"2016": 33.9,
+"2017": 36.6,
+"2018": 50.1,
+"2019": 41.5,
+"2020": 28.9,
+"2021": 61.8,
+"2022": 76.2,
+"2023": 71.5,
+"2024": 69.4,
+"2025": 61.6
+},
+"ebit_margin_latest": 61.6,
+"ebit_margin_10y_avg": 51.3,
+"ebit_margin_10y_max": 76.2,
+"ebit_margin_10y_min": 28.9,
+"margin_pctile_in_history": 64,
+"latest_eps_vs_10y_max": 0.07,
+"fcf_conversion_5y": 1.48,
+"fcf_conversion_10y": 1.71,
+"acq_to_fcf_10y": 0.29,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 0.69,
+"net_debt_m": 7033,
+"net_debt_ebitda": 0.75,
+"roic_latest": 0.6,
+"roic_10y_avg": 6.4,
+"roe_latest": 1.1,
+"roe_10y_avg": 12.3,
+"adj_vs_gaap_gap_5y_avg_pct": 0.7,
+"adj_vs_gaap_gap_latest_pct": 0.2,
+"ntm_pe": 12.64,
+"is_reit": "False",
+"price": "39.93388640579079",
+"fcf_yield": 9.5,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.21,
+"std": null,
+"hi": 0.21,
+"lo": 0.21,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.661,
+"std": 0.284,
+"hi": 4.1,
+"lo": 3.085675,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 3.037,
+"std": 0.461,
+"hi": 4.04,
+"lo": 2.3593217449,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 3.03,
+"std": 0.391,
+"hi": 3.79,
+"lo": 2.3494779552,
+"n": 19
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-17.0,
+-0.3
+],
+"cons_EPS_growth_FY1": 1643.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 10943.1,
+"std": null,
+"hi": 10943.1,
+"lo": 10943.1,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 13544.335,
+"std": 799.141,
+"hi": 14687.303319,
+"lo": 11906.0,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 13053.573,
+"std": 1070.343,
+"hi": 15661.0,
+"lo": 11301.5055972,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 13581.82,
+"std": 934.136,
+"hi": 15192.0,
+"lo": 11959.1301,
+"n": 19
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+-3.6,
+4.0
+],
+"cons_SALES_growth_FY1": 23.8,
+"eps_ltg": -4.0,
+"missing": [],
+"fmp_backup": []
+}

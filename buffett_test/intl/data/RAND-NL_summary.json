@@ -1,0 +1,176 @@
+{
+"ticker": "RAND-NL",
+"name": "Randstad NV",
+"last_fy": 2025,
+"rbics": "Business Services / Other Professional Services / Administrative Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -2.1,
+"eps_cagr_5y": 1.0,
+"gaap_eps_cagr_10y": -5.0,
+"rev_cagr_10y": 1.8,
+"rev_cagr_5y": 2.2,
+"shares_cagr_10y": -0.4,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2024,
+-49.4
+],
+"eps_series": {
+"2015": 3.11,
+"2016": 3.52,
+"2017": 3.86,
+"2018": 4.27,
+"2019": 3.92,
+"2020": 2.4,
+"2021": 4.09,
+"2022": 5.67,
+"2023": 4.53,
+"2024": 2.29,
+"2025": 2.52
+},
+"gaap_eps_series": {
+"2015": 2.76,
+"2016": 3.13,
+"2017": 3.36,
+"2018": 3.77,
+"2019": 3.23,
+"2020": 1.61,
+"2021": 4.1,
+"2022": 5.02,
+"2023": 3.43,
+"2024": 0.65,
+"2025": 1.66
+},
+"rev_series_m": {
+"2015": 19219,
+"2016": 20684,
+"2017": 23273,
+"2018": 23812,
+"2019": 23676,
+"2020": 20718,
+"2021": 24635,
+"2022": 27568,
+"2023": 25426,
+"2024": 24122,
+"2025": 23077
+},
+"ebit_margin_series": {
+"2015": 3.7,
+"2016": 4.0,
+"2017": 3.7,
+"2018": 3.9,
+"2019": 3.7,
+"2020": 2.5,
+"2021": 4.2,
+"2022": 4.5,
+"2023": 3.7,
+"2024": 2.3,
+"2025": 2.7
+},
+"ebit_margin_latest": 2.7,
+"ebit_margin_10y_avg": 3.5,
+"ebit_margin_10y_max": 4.5,
+"ebit_margin_10y_min": 2.3,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 0.44,
+"fcf_conversion_5y": 1.47,
+"fcf_conversion_10y": 1.46,
+"acq_to_fcf_10y": 0.21,
+"buyback_to_fcf_10y": 0.09,
+"div_to_fcf_10y": 0.59,
+"net_debt_m": 1511,
+"net_debt_ebitda": 1.59,
+"roic_latest": 5.1,
+"roic_10y_avg": 10.7,
+"roe_latest": 7.4,
+"roe_10y_avg": 12.4,
+"adj_vs_gaap_gap_5y_avg_pct": 69.8,
+"adj_vs_gaap_gap_latest_pct": 52.0,
+"ntm_pe": 12.23,
+"is_reit": "False",
+"price": "39.080028",
+"fcf_yield": 7.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.52,
+"std": null,
+"hi": 2.52,
+"lo": 2.52,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.596,
+"std": 0.081,
+"hi": 2.73,
+"lo": 2.438496,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.911,
+"std": 0.168,
+"hi": 3.17,
+"lo": 2.550944,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 3.197,
+"std": 0.272,
+"hi": 3.56,
+"lo": 2.648426,
+"n": 14
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+12.1,
+9.8
+],
+"cons_EPS_growth_FY1": 3.0,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 23077.0,
+"std": null,
+"hi": 23077.0,
+"lo": 23077.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 23443.876,
+"std": 297.506,
+"hi": 24350.0,
+"lo": 23069.913268,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 24096.878,
+"std": 482.82,
+"hi": 25250.0,
+"lo": 23430.560356,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 24870.615,
+"std": 649.8,
+"hi": 26100.0,
+"lo": 23650.0,
+"n": 13
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.8,
+3.2
+],
+"cons_SALES_growth_FY1": 1.6,
+"eps_ltg": 10.438575516833334,
+"missing": [],
+"fmp_backup": []
+}

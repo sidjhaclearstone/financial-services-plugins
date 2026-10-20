@@ -1,0 +1,176 @@
+{
+"ticker": "GBF-DE",
+"name": "Bilfinger SE",
+"last_fy": 2025,
+"rbics": "Industrial Services / Facilities and Construction Services / Infrastructure Construction/Contracting Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 9.9,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": -1.8,
+"rev_cagr_5y": 9.4,
+"shares_cagr_10y": -1.6,
+"years_eps_growth_ge7": "4/8",
+"worst_eps_year": [
+2020,
+-118.0
+],
+"eps_series": {
+"2015": 2.01,
+"2016": -0.16,
+"2017": -0.17,
+"2018": 0.8,
+"2019": 0.97,
+"2020": -0.18,
+"2021": 1.92,
+"2022": 1.67,
+"2023": 3.87,
+"2024": 4.51,
+"2025": 5.19
+},
+"gaap_eps_series": {
+"2015": -11.06,
+"2016": 6.12,
+"2017": -2.01,
+"2018": -0.59,
+"2019": 0.6,
+"2020": 2.44,
+"2021": 3.16,
+"2022": 0.71,
+"2023": 4.82,
+"2024": 4.76,
+"2025": 4.7
+},
+"rev_series_m": {
+"2015": 6481,
+"2016": 4249,
+"2017": 4044,
+"2018": 4153,
+"2019": 4327,
+"2020": 3461,
+"2021": 3737,
+"2022": 4312,
+"2023": 4486,
+"2024": 5038,
+"2025": 5427
+},
+"ebit_margin_series": {
+"2015": 1.4,
+"2016": -1.6,
+"2017": -1.6,
+"2018": -0.2,
+"2019": 0.9,
+"2020": 0.3,
+"2021": 2.7,
+"2022": 3.0,
+"2023": 3.6,
+"2024": 4.7,
+"2025": 5.0
+},
+"ebit_margin_latest": 5.0,
+"ebit_margin_10y_avg": 1.6,
+"ebit_margin_10y_max": 5.0,
+"ebit_margin_10y_min": -1.6,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.88,
+"fcf_conversion_10y": 0.37,
+"acq_to_fcf_10y": 0.71,
+"buyback_to_fcf_10y": 2.36,
+"div_to_fcf_10y": 4.74,
+"net_debt_m": -146,
+"net_debt_ebitda": -0.36,
+"roic_latest": 11.2,
+"roic_10y_avg": 2.8,
+"roe_latest": 13.4,
+"roe_10y_avg": 3.6,
+"adj_vs_gaap_gap_5y_avg_pct": 16.2,
+"adj_vs_gaap_gap_latest_pct": 10.4,
+"ntm_pe": 10.88,
+"is_reit": "False",
+"price": "62.871284999999986",
+"fcf_yield": 9.1,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 5.19,
+"std": null,
+"hi": 5.19,
+"lo": 5.19,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.96,
+"std": 1.27,
+"hi": 6.06,
+"lo": 2.88,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 5.447,
+"std": 0.774,
+"hi": 6.9942462201,
+"lo": 4.85,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 6.346,
+"std": 0.907,
+"hi": 7.9542062954,
+"lo": 5.28,
+"n": 7
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+37.5,
+16.5
+],
+"cons_EPS_growth_FY1": -23.7,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 5427.0,
+"std": null,
+"hi": 5427.0,
+"lo": 5427.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5533.438,
+"std": 74.419,
+"hi": 5665.0,
+"lo": 5452.76425,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 5732.808,
+"std": 182.613,
+"hi": 6044.0,
+"lo": 5533.55785625,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 5973.152,
+"std": 273.383,
+"hi": 6449.0,
+"lo": 5652.6616412188,
+"n": 7
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.6,
+4.2
+],
+"cons_SALES_growth_FY1": 2.0,
+"eps_ltg": 6.362403,
+"missing": [],
+"fmp_backup": []
+}

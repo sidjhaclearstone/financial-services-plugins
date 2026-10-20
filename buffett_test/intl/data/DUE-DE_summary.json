@@ -1,0 +1,176 @@
+{
+"ticker": "DUE-DE",
+"name": "Durr AG",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Machinery Manufacturing / Factory Automation Equipment",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 1.8,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": 2.4,
+"rev_cagr_10y": 1.0,
+"rev_cagr_5y": 4.6,
+"shares_cagr_10y": 0.0,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2020,
+-112.8
+],
+"eps_series": {
+"2015": 2.45,
+"2016": 2.63,
+"2017": 2.81,
+"2018": 2.27,
+"2019": 1.79,
+"2020": -0.23,
+"2021": 1.16,
+"2022": 1.81,
+"2023": 1.55,
+"2024": 1.41,
+"2025": 2.93
+},
+"gaap_eps_series": {
+"2015": 2.33,
+"2016": 2.63,
+"2017": 2.81,
+"2018": 2.27,
+"2019": 1.79,
+"2020": -0.23,
+"2021": 1.16,
+"2022": 1.81,
+"2023": 1.55,
+"2024": 1.41,
+"2025": 2.95
+},
+"rev_series_m": {
+"2015": 3767,
+"2016": 3574,
+"2017": 3715,
+"2018": 3870,
+"2019": 3922,
+"2020": 3325,
+"2021": 3537,
+"2022": 4314,
+"2023": 4627,
+"2024": 4291,
+"2025": 4168
+},
+"ebit_margin_series": {
+"2015": 7.3,
+"2016": 7.2,
+"2017": 7.1,
+"2018": 6.8,
+"2019": 5.2,
+"2020": 0.3,
+"2021": 4.5,
+"2022": 4.8,
+"2023": 4.5,
+"2024": 3.0,
+"2025": 3.8
+},
+"ebit_margin_latest": 3.8,
+"ebit_margin_10y_avg": 4.9,
+"ebit_margin_10y_max": 7.3,
+"ebit_margin_10y_min": 0.3,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 2.66,
+"fcf_conversion_10y": 1.36,
+"acq_to_fcf_10y": 0.5,
+"buyback_to_fcf_10y": 0.07,
+"div_to_fcf_10y": 0.4,
+"net_debt_m": 41,
+"net_debt_ebitda": 0.14,
+"roic_latest": -2.2,
+"roic_10y_avg": 6.1,
+"roe_latest": -4.1,
+"roe_10y_avg": 10.7,
+"adj_vs_gaap_gap_5y_avg_pct": -0.1,
+"adj_vs_gaap_gap_latest_pct": -0.7,
+"ntm_pe": 7.24,
+"is_reit": "False",
+"price": "18.351011999999997",
+"fcf_yield": 8.0,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.93,
+"std": null,
+"hi": 2.93,
+"lo": 2.93,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.694,
+"std": 0.695,
+"hi": 2.77,
+"lo": 0.75,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.4,
+"std": 0.551,
+"hi": 3.60474,
+"lo": 1.67,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.738,
+"std": 0.607,
+"hi": 3.977124,
+"lo": 1.96,
+"n": 9
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+41.7,
+14.1
+],
+"cons_EPS_growth_FY1": -42.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 4480.2,
+"std": null,
+"hi": 4480.2,
+"lo": 4480.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4058.245,
+"std": 42.613,
+"hi": 4127.0,
+"lo": 3983.0,
+"n": 9
+},
+"FY2": {
+"fy": 2027,
+"mean": 4143.881,
+"std": 163.093,
+"hi": 4345.0,
+"lo": 3856.0,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 4331.414,
+"std": 211.902,
+"hi": 4654.0,
+"lo": 4004.0,
+"n": 9
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.1,
+4.5
+],
+"cons_SALES_growth_FY1": -9.4,
+"eps_ltg": -4.0571385,
+"missing": [],
+"fmp_backup": []
+}

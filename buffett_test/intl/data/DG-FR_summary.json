@@ -1,0 +1,176 @@
+{
+"ticker": "DG-FR",
+"name": "VINCI SA",
+"last_fy": 2025,
+"rbics": "Industrial Services / Facilities and Construction Services / Infrastructure Construction/Contracting Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 8.8,
+"eps_cagr_5y": 31.5,
+"gaap_eps_cagr_10y": 8.9,
+"rev_cagr_10y": 6.8,
+"rev_cagr_5y": 11.4,
+"shares_cagr_10y": 0.2,
+"years_eps_growth_ge7": "7/10",
+"worst_eps_year": [
+2020,
+-62.2
+],
+"eps_series": {
+"2015": 3.73,
+"2016": 4.31,
+"2017": 4.89,
+"2018": 5.32,
+"2019": 5.82,
+"2020": 2.2,
+"2021": 4.51,
+"2022": 7.47,
+"2023": 8.18,
+"2024": 8.43,
+"2025": 8.65
+},
+"gaap_eps_series": {
+"2015": 3.67,
+"2016": 4.48,
+"2017": 4.91,
+"2018": 5.32,
+"2019": 5.82,
+"2020": 2.21,
+"2021": 4.51,
+"2022": 7.47,
+"2023": 8.18,
+"2024": 8.43,
+"2025": 8.65
+},
+"rev_series_m": {
+"2015": 39161,
+"2016": 38547,
+"2017": 40876,
+"2018": 44152,
+"2019": 48753,
+"2020": 43930,
+"2021": 49982,
+"2022": 62265,
+"2023": 69619,
+"2024": 72459,
+"2025": 75372
+},
+"ebit_margin_series": {
+"2015": 8.8,
+"2016": 10.0,
+"2017": 10.7,
+"2018": 10.6,
+"2019": 11.1,
+"2020": 5.9,
+"2021": 8.8,
+"2022": 10.2,
+"2023": 11.4,
+"2024": 11.9,
+"2025": 12.0
+},
+"ebit_margin_latest": 12.0,
+"ebit_margin_10y_avg": 10.1,
+"ebit_margin_10y_max": 12.0,
+"ebit_margin_10y_min": 5.9,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.62,
+"fcf_conversion_10y": 1.53,
+"acq_to_fcf_10y": 0.48,
+"buyback_to_fcf_10y": 0.18,
+"div_to_fcf_10y": 0.32,
+"net_debt_m": 20613,
+"net_debt_ebitda": 1.56,
+"roic_latest": 7.9,
+"roic_10y_avg": 7.3,
+"roe_latest": 16.2,
+"roe_10y_avg": 15.0,
+"adj_vs_gaap_gap_5y_avg_pct": 0.0,
+"adj_vs_gaap_gap_latest_pct": 0.0,
+"ntm_pe": 10.83,
+"is_reit": "False",
+"price": "119.629305",
+"fcf_yield": 9.3,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 8.65,
+"std": null,
+"hi": 8.65,
+"lo": 8.65,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 9.196,
+"std": 0.211,
+"hi": 9.58,
+"lo": 8.69,
+"n": 19
+},
+"FY2": {
+"fy": 2027,
+"mean": 10.012,
+"std": 0.508,
+"hi": 11.16,
+"lo": 9.18,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 10.738,
+"std": 0.581,
+"hi": 11.83,
+"lo": 9.78,
+"n": 18
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+8.9,
+7.3
+],
+"cons_EPS_growth_FY1": 6.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 75372.0,
+"std": null,
+"hi": 75372.0,
+"lo": 75372.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 76645.343,
+"std": 595.761,
+"hi": 77851.8123918735,
+"lo": 75645.559439,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 79207.61,
+"std": 972.494,
+"hi": 80800.124695,
+"lo": 77595.0,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 81654.327,
+"std": 1328.599,
+"hi": 83866.0,
+"lo": 78954.0,
+"n": 17
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.3,
+3.1
+],
+"cons_SALES_growth_FY1": 1.7,
+"eps_ltg": 7.158392024166667,
+"missing": [],
+"fmp_backup": []
+}

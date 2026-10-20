@@ -1,0 +1,176 @@
+{
+"ticker": "ENI-IT",
+"name": "Eni S.p.A.",
+"last_fy": 2025,
+"rbics": "Integrated Oil and Gas Exploration and Production / Integrated Oil and Gas Exploration and Production / Integrated Oil and Gas Exploration and Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 34.7,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 1.9,
+"rev_cagr_5y": 13.3,
+"shares_cagr_10y": -1.5,
+"years_eps_growth_ge7": "2/9",
+"worst_eps_year": [
+2016,
+-453.3
+],
+"eps_series": {
+"2015": 0.08,
+"2016": -0.29,
+"2017": 0.67,
+"2018": 1.28,
+"2019": 0.8,
+"2020": -0.21,
+"2021": 1.3,
+"2022": 3.78,
+"2023": 2.46,
+"2024": 1.63,
+"2025": 1.62
+},
+"gaap_eps_series": {
+"2015": -2.44,
+"2016": -0.41,
+"2017": 0.94,
+"2018": 1.14,
+"2019": 0.04,
+"2020": -2.42,
+"2021": 1.6,
+"2022": 3.98,
+"2023": 1.43,
+"2024": 0.78,
+"2025": 0.78
+},
+"rev_series_m": {
+"2015": 67740,
+"2016": 55762,
+"2017": 66919,
+"2018": 75822,
+"2019": 69881,
+"2020": 43987,
+"2021": 76575,
+"2022": 132512,
+"2023": 93717,
+"2024": 88797,
+"2025": 82151
+},
+"ebit_margin_series": {
+"2015": 1.6,
+"2016": 1.4,
+"2017": 5.6,
+"2018": 13.3,
+"2019": 11.8,
+"2020": 3.3,
+"2021": 15.3,
+"2022": 15.6,
+"2023": 10.4,
+"2024": 11.4,
+"2025": 8.3
+},
+"ebit_margin_latest": 8.3,
+"ebit_margin_10y_avg": 8.9,
+"ebit_margin_10y_max": 15.6,
+"ebit_margin_10y_min": 1.4,
+"margin_pctile_in_history": 45,
+"latest_eps_vs_10y_max": 0.43,
+"fcf_conversion_5y": 1.08,
+"fcf_conversion_10y": 1.48,
+"acq_to_fcf_10y": 0.19,
+"buyback_to_fcf_10y": 0.22,
+"div_to_fcf_10y": 0.7,
+"net_debt_m": 24111,
+"net_debt_ebitda": 1.67,
+"roic_latest": 3.1,
+"roic_10y_avg": 3.6,
+"roe_latest": 5.2,
+"roe_10y_avg": 6.0,
+"adj_vs_gaap_gap_5y_avg_pct": 52.8,
+"adj_vs_gaap_gap_latest_pct": 107.7,
+"ntm_pe": 9.58,
+"is_reit": "False",
+"price": "29.3156295",
+"fcf_yield": 10.0,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.616,
+"std": null,
+"hi": 1.615556,
+"lo": 1.615556,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.89,
+"std": 0.188,
+"hi": 3.1973295845,
+"lo": 2.42,
+"n": 22
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.689,
+"std": 0.431,
+"hi": 3.8383830046,
+"lo": 2.0049969533,
+"n": 22
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.509,
+"std": 0.342,
+"hi": 3.421830511,
+"lo": 1.9567220417,
+"n": 21
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-7.0,
+-6.7
+],
+"cons_EPS_growth_FY1": 78.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 82151.0,
+"std": null,
+"hi": 82151.0,
+"lo": 82151.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 99720.51,
+"std": 18912.205,
+"hi": 146748.728696819,
+"lo": 73930.0,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 91886.944,
+"std": 17002.418,
+"hi": 125664.0,
+"lo": 60570.0,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 87300.705,
+"std": 15217.228,
+"hi": 110579.941930148,
+"lo": 58191.0,
+"n": 17
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+-7.9,
+-5.0
+],
+"cons_SALES_growth_FY1": 21.4,
+"eps_ltg": 26.82733140435,
+"missing": [],
+"fmp_backup": []
+}

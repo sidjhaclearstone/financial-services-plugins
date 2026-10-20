@@ -1,0 +1,176 @@
+{
+"ticker": "ABI-BE",
+"name": "Anheuser-Busch InBev SA/NV",
+"last_fy": 2025,
+"rbics": "Food and Tobacco Production / Food and Beverage Production / Beverages Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -3.2,
+"eps_cagr_5y": 14.3,
+"gaap_eps_cagr_10y": -3.7,
+"rev_cagr_10y": 3.1,
+"rev_cagr_5y": 4.8,
+"shares_cagr_10y": 1.9,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2020,
+-53.2
+],
+"eps_series": {
+"2015": 5.14,
+"2016": 2.89,
+"2017": 4.04,
+"2018": 3.44,
+"2019": 4.08,
+"2020": 1.91,
+"2021": 2.85,
+"2022": 3.21,
+"2023": 3.05,
+"2024": 3.53,
+"2025": 3.73
+},
+"gaap_eps_series": {
+"2015": 4.96,
+"2016": 0.71,
+"2017": 3.98,
+"2018": 2.17,
+"2019": 4.53,
+"2020": -0.25,
+"2021": 2.28,
+"2022": 2.91,
+"2023": 2.6,
+"2024": 2.86,
+"2025": 3.39
+},
+"rev_series_m": {
+"2015": 43604,
+"2016": 45517,
+"2017": 56444,
+"2018": 54619,
+"2019": 52329,
+"2020": 46881,
+"2021": 54304,
+"2022": 57786,
+"2023": 59380,
+"2024": 59768,
+"2025": 59320
+},
+"ebit_margin_series": {
+"2015": 29.2,
+"2016": 27.4,
+"2017": 29.9,
+"2018": 31.4,
+"2019": 29.5,
+"2020": 26.3,
+"2021": 25.5,
+"2022": 24.4,
+"2023": 23.3,
+"2024": 24.6,
+"2025": 25.4
+},
+"ebit_margin_latest": 25.4,
+"ebit_margin_10y_avg": 27.0,
+"ebit_margin_10y_max": 31.4,
+"ebit_margin_10y_min": 23.3,
+"margin_pctile_in_history": 36,
+"latest_eps_vs_10y_max": 0.73,
+"fcf_conversion_5y": 1.67,
+"fcf_conversion_10y": 1.7,
+"acq_to_fcf_10y": 0.83,
+"buyback_to_fcf_10y": 0.04,
+"div_to_fcf_10y": 0.54,
+"net_debt_m": 61083,
+"net_debt_ebitda": 2.99,
+"roic_latest": 4.3,
+"roic_10y_avg": 3.1,
+"roe_latest": 8.1,
+"roe_10y_avg": 6.9,
+"adj_vs_gaap_gap_5y_avg_pct": 17.1,
+"adj_vs_gaap_gap_latest_pct": 10.1,
+"ntm_pe": 17.17,
+"is_reit": "False",
+"price": "82.75902599999999",
+"fcf_yield": 8.5,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.73,
+"std": null,
+"hi": 3.73,
+"lo": 3.73,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4.437,
+"std": 0.109,
+"hi": 4.67,
+"lo": 4.15,
+"n": 25
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.914,
+"std": 0.232,
+"hi": 5.65,
+"lo": 4.46,
+"n": 26
+},
+"FY3": {
+"fy": 2028,
+"mean": 5.392,
+"std": 0.272,
+"hi": 5.81,
+"lo": 4.89,
+"n": 22
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+10.8,
+9.7
+],
+"cons_EPS_growth_FY1": 19.0,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 59320.0,
+"std": null,
+"hi": 59320.0,
+"lo": 59320.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 64861.27,
+"std": 567.321,
+"hi": 66438.2,
+"lo": 63424.0,
+"n": 23
+},
+"FY2": {
+"fy": 2027,
+"mean": 67312.692,
+"std": 874.947,
+"hi": 69369.9,
+"lo": 64946.0,
+"n": 23
+},
+"FY3": {
+"fy": 2028,
+"mean": 69941.578,
+"std": 1303.134,
+"hi": 72294.0,
+"lo": 66978.0,
+"n": 20
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.8,
+3.9
+],
+"cons_SALES_growth_FY1": 9.3,
+"eps_ltg": 11.1537172393,
+"missing": [],
+"fmp_backup": []
+}

@@ -1,0 +1,176 @@
+{
+"ticker": "JAZZ-US",
+"name": "Jazz Pharmaceuticals Public Limited Company",
+"last_fy": 2025,
+"rbics": "Biopharmaceuticals / System-Specific Biopharmaceuticals / Neurology Biopharmaceuticals",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -1.3,
+"eps_cagr_5y": -7.6,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 12.4,
+"rev_cagr_5y": 12.5,
+"shares_cagr_10y": -0.3,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2025,
+-59.9
+],
+"eps_series": {
+"2015": 9.52,
+"2016": 10.14,
+"2017": 11.04,
+"2018": 13.7,
+"2019": 16.23,
+"2020": 12.46,
+"2021": 16.23,
+"2022": 13.2,
+"2023": 18.29,
+"2024": 20.9,
+"2025": 8.38
+},
+"gaap_eps_series": {
+"2015": 5.23,
+"2016": 6.41,
+"2017": 7.96,
+"2018": 7.3,
+"2019": 9.09,
+"2020": 4.22,
+"2021": -5.52,
+"2022": -3.58,
+"2023": 6.1,
+"2024": 8.65,
+"2025": -5.84
+},
+"rev_series_m": {
+"2015": 1325,
+"2016": 1488,
+"2017": 1619,
+"2018": 1891,
+"2019": 2162,
+"2020": 2364,
+"2021": 3094,
+"2022": 3659,
+"2023": 3834,
+"2024": 4069,
+"2025": 4268
+},
+"ebit_margin_series": {
+"2015": 40.9,
+"2016": 42.1,
+"2017": 37.9,
+"2018": 34.8,
+"2019": 29.7,
+"2020": 32.4,
+"2021": 12.9,
+"2022": 19.7,
+"2023": 17.2,
+"2024": 17.9,
+"2025": 17.6
+},
+"ebit_margin_latest": 17.6,
+"ebit_margin_10y_avg": 27.6,
+"ebit_margin_10y_max": 42.1,
+"ebit_margin_10y_min": 12.9,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 0.4,
+"fcf_conversion_5y": 85.52,
+"fcf_conversion_10y": 3.86,
+"acq_to_fcf_10y": 1.04,
+"buyback_to_fcf_10y": 0.25,
+"div_to_fcf_10y": 0.0,
+"net_debt_m": 2985,
+"net_debt_ebitda": 2.06,
+"roic_latest": -3.8,
+"roic_10y_avg": 5.1,
+"roe_latest": -8.5,
+"roe_10y_avg": 8.8,
+"adj_vs_gaap_gap_5y_avg_pct": 170.7,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 8.09,
+"is_reit": "False",
+"price": "208.43",
+"fcf_yield": 9.4,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 8.38,
+"std": null,
+"hi": 8.38,
+"lo": 8.38,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 24.628,
+"std": 0.698,
+"hi": 26.1499,
+"lo": 23.71,
+"n": 12
+},
+"FY2": {
+"fy": 2027,
+"mean": 26.055,
+"std": 2.213,
+"hi": 31.389326,
+"lo": 21.82,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 29.062,
+"std": 3.064,
+"hi": 36.104339,
+"lo": 24.83,
+"n": 16
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+5.8,
+11.5
+],
+"cons_EPS_growth_FY1": 193.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 4267.586,
+"std": null,
+"hi": 4267.586,
+"lo": 4267.586,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4724.937,
+"std": 43.722,
+"hi": 4811.855964,
+"lo": 4624.371,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 4989.624,
+"std": 186.032,
+"hi": 5287.0,
+"lo": 4690.0,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 5453.318,
+"std": 365.891,
+"hi": 6323.0,
+"lo": 4747.0,
+"n": 18
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.6,
+9.3
+],
+"cons_SALES_growth_FY1": 10.7,
+"eps_ltg": 1.5,
+"missing": [],
+"fmp_backup": []
+}

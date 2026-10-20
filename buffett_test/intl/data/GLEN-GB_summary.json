@@ -1,0 +1,176 @@
+{
+"ticker": "GLEN-GB",
+"name": "Glencore plc",
+"last_fy": 2025,
+"rbics": "Downstream and Midstream Energy / Downstream Energy / LPG, Propane and Other Distributors",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 7.8,
+"eps_cagr_5y": 2.8,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 3.8,
+"rev_cagr_5y": 11.7,
+"shares_cagr_10y": -1.0,
+"years_eps_growth_ge7": "2/9",
+"worst_eps_year": [
+2016,
+-150.0
+],
+"eps_series": {
+"2015": 0.09,
+"2016": -0.05,
+"2017": 0.38,
+"2018": 0.23,
+"2019": -0.03,
+"2020": 0.17,
+"2021": 0.66,
+"2022": 1.26,
+"2023": 0.44,
+"2024": 0.3,
+"2025": 0.2
+},
+"gaap_eps_series": {
+"2015": -0.37,
+"2016": -0.03,
+"2017": 0.4,
+"2018": 0.24,
+"2019": -0.03,
+"2020": -0.14,
+"2021": 0.37,
+"2022": 1.32,
+"2023": 0.34,
+"2024": -0.13,
+"2025": 0.03
+},
+"rev_series_m": {
+"2015": 170497,
+"2016": 152948,
+"2017": 205476,
+"2018": 219754,
+"2019": 215111,
+"2020": 142338,
+"2021": 203297,
+"2022": 255686,
+"2023": 217983,
+"2024": 230973,
+"2025": 247355
+},
+"ebit_margin_series": {
+"2015": 1.1,
+"2016": 1.4,
+"2017": 3.1,
+"2018": 3.5,
+"2019": 1.4,
+"2020": 1.4,
+"2021": 4.6,
+"2022": 8.5,
+"2023": 4.3,
+"2024": 1.2,
+"2025": 1.0
+},
+"ebit_margin_latest": 1.0,
+"ebit_margin_10y_avg": 2.9,
+"ebit_margin_10y_max": 8.5,
+"ebit_margin_10y_min": 1.0,
+"margin_pctile_in_history": 9,
+"latest_eps_vs_10y_max": 0.16,
+"fcf_conversion_5y": 1.28,
+"fcf_conversion_10y": 1.6,
+"acq_to_fcf_10y": 0.24,
+"buyback_to_fcf_10y": 0.27,
+"div_to_fcf_10y": 0.45,
+"net_debt_m": 38541,
+"net_debt_ebitda": 3.87,
+"roic_latest": 0.5,
+"roic_10y_avg": 4.7,
+"roe_latest": 0.9,
+"roe_10y_avg": 7.0,
+"adj_vs_gaap_gap_5y_avg_pct": 166.3,
+"adj_vs_gaap_gap_latest_pct": 564.5,
+"ntm_pe": 11.59,
+"is_reit": "False",
+"price": "7.5084065",
+"fcf_yield": 7.5,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.2,
+"std": null,
+"hi": 0.2,
+"lo": 0.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.621,
+"std": 0.05,
+"hi": 0.75,
+"lo": 0.5573244074,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.655,
+"std": 0.105,
+"hi": 0.9003493183,
+"lo": 0.4766,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.65,
+"std": 0.133,
+"hi": 0.87,
+"lo": 0.3883,
+"n": 20
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+5.5,
+-0.7
+],
+"cons_EPS_growth_FY1": 210.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 247535.0,
+"std": null,
+"hi": 247535.0,
+"lo": 247535.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 330535.408,
+"std": 24805.533,
+"hi": 385143.0,
+"lo": 304135.0,
+"n": 19
+},
+"FY2": {
+"fy": 2027,
+"mean": 298230.768,
+"std": 33534.449,
+"hi": 354966.0,
+"lo": 245000.0,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 291869.246,
+"std": 32967.171,
+"hi": 351543.072623,
+"lo": 242000.0,
+"n": 18
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+-9.8,
+-2.1
+],
+"cons_SALES_growth_FY1": 33.5,
+"eps_ltg": 45.2948085226,
+"missing": [],
+"fmp_backup": []
+}

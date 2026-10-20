@@ -1,0 +1,176 @@
+{
+"ticker": "SECU.B-SE",
+"name": "Securitas AB",
+"last_fy": 2025,
+"rbics": "Business Services / Business Support Services / Security Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 6.8,
+"eps_cagr_5y": 15.9,
+"gaap_eps_cagr_10y": 4.9,
+"rev_cagr_10y": 6.7,
+"rev_cagr_5y": 7.5,
+"shares_cagr_10y": 2.7,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2023,
+-75.7
+],
+"eps_series": {
+"2015": 5.99,
+"2016": 6.02,
+"2017": 6.23,
+"2018": 6.87,
+"2019": 7.65,
+"2020": 5.51,
+"2021": 7.14,
+"2022": 9.2,
+"2023": 2.24,
+"2024": 10.81,
+"2025": 11.55
+},
+"gaap_eps_series": {
+"2015": 5.55,
+"2016": 6.02,
+"2017": 6.23,
+"2018": 6.87,
+"2019": 7.65,
+"2020": 5.51,
+"2021": 7.14,
+"2022": 9.2,
+"2023": 2.24,
+"2024": 9.01,
+"2025": 8.93
+},
+"rev_series_m": {
+"2015": 80860,
+"2016": 88162,
+"2017": 92197,
+"2018": 101467,
+"2019": 110899,
+"2020": 107954,
+"2021": 107700,
+"2022": 133237,
+"2023": 157249,
+"2024": 161921,
+"2025": 155113
+},
+"ebit_margin_series": {
+"2015": 4.7,
+"2016": 4.8,
+"2017": 4.7,
+"2018": 4.9,
+"2019": 4.9,
+"2020": 3.5,
+"2021": 4.6,
+"2022": 5.5,
+"2023": 5.9,
+"2024": 6.3,
+"2025": 6.9
+},
+"ebit_margin_latest": 6.9,
+"ebit_margin_10y_avg": 5.2,
+"ebit_margin_10y_max": 6.9,
+"ebit_margin_10y_min": 3.5,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.33,
+"fcf_conversion_10y": 1.23,
+"acq_to_fcf_10y": 1.02,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 0.42,
+"net_debt_m": 32278,
+"net_debt_ebitda": 2.19,
+"roic_latest": 6.5,
+"roic_10y_avg": 7.7,
+"roe_latest": 12.5,
+"roe_10y_avg": 14.8,
+"adj_vs_gaap_gap_5y_avg_pct": 9.8,
+"adj_vs_gaap_gap_latest_pct": 29.4,
+"ntm_pe": 12.0,
+"is_reit": "False",
+"price": "16.75532183339558",
+"fcf_yield": 7.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 11.55,
+"std": null,
+"hi": 11.55,
+"lo": 11.55,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 12.86,
+"std": 0.501,
+"hi": 13.77969194,
+"lo": 12.0259668591,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 14.077,
+"std": 0.654,
+"hi": 15.24445263,
+"lo": 12.9110282873,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 15.086,
+"std": 0.799,
+"hi": 16.3236933,
+"lo": 13.5600404995,
+"n": 13
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+9.5,
+7.2
+],
+"cons_EPS_growth_FY1": 11.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 155113.0,
+"std": null,
+"hi": 155113.0,
+"lo": 155113.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 151714.353,
+"std": 938.296,
+"hi": 153125.0,
+"lo": 149473.953867403,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 158676.124,
+"std": 2339.06,
+"hi": 162016.0,
+"lo": 154618.244652762,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 164886.937,
+"std": 2632.913,
+"hi": 168478.0,
+"lo": 159940.839663609,
+"n": 13
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.6,
+3.9
+],
+"cons_SALES_growth_FY1": -2.2,
+"eps_ltg": 6.612308144933333,
+"missing": [],
+"fmp_backup": []
+}

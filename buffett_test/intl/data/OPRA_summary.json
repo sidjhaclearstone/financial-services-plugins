@@ -1,0 +1,167 @@
+{
+"ticker": "OPRA-US",
+"name": "Opera Limited",
+"last_fy": 2025,
+"rbics": "Business Services / Marketing and Printing Services / Marketing and Advertising Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 22.0,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 30.1,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "4/7",
+"worst_eps_year": [
+2021,
+-88.6
+],
+"eps_series": {
+"2018": 0.44,
+"2019": 0.59,
+"2020": 0.44,
+"2021": 0.05,
+"2022": 0.13,
+"2023": 1.86,
+"2024": 0.9,
+"2025": 1.19
+},
+"gaap_eps_series": {
+"2017": 0.03,
+"2018": 0.17,
+"2019": 0.25,
+"2020": 0.76,
+"2021": -0.19,
+"2022": 0.07,
+"2023": 0.84,
+"2024": 0.9,
+"2025": 1.19
+},
+"rev_series_m": {
+"2017": 129,
+"2018": 172,
+"2019": 335,
+"2020": 166,
+"2021": 250,
+"2022": 332,
+"2023": 397,
+"2024": 479,
+"2025": 617
+},
+"ebit_margin_series": {
+"2017": 9.8,
+"2018": 26.3,
+"2019": 6.2,
+"2020": -8.5,
+"2021": -0.4,
+"2022": 13.5,
+"2023": 15.9,
+"2024": 18.7,
+"2025": 15.0
+},
+"ebit_margin_latest": 15.0,
+"ebit_margin_10y_avg": 10.7,
+"ebit_margin_10y_max": 26.3,
+"ebit_margin_10y_min": -8.5,
+"margin_pctile_in_history": 67,
+"latest_eps_vs_10y_max": 0.64,
+"fcf_conversion_5y": 1.05,
+"fcf_conversion_10y": 0.86,
+"acq_to_fcf_10y": 0.06,
+"buyback_to_fcf_10y": 0.62,
+"div_to_fcf_10y": 0.34,
+"net_debt_m": -147,
+"net_debt_ebitda": -1.32,
+"roic_latest": 11.1,
+"roic_10y_avg": 6.2,
+"roe_latest": 11.1,
+"roe_10y_avg": 6.3,
+"adj_vs_gaap_gap_5y_avg_pct": 52.7,
+"adj_vs_gaap_gap_latest_pct": -0.4,
+"ntm_pe": 12.59,
+"is_reit": "False",
+"price": "17.63",
+"fcf_yield": 10.1,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.19,
+"std": null,
+"hi": 1.19,
+"lo": 1.19,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.176,
+"std": 0.076,
+"hi": 1.3,
+"lo": 1.1,
+"n": 5
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.456,
+"std": 0.197,
+"hi": 1.78,
+"lo": 1.26,
+"n": 5
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.62,
+"std": 0.085,
+"hi": 1.68,
+"lo": 1.56,
+"n": 2
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+23.8,
+11.3
+],
+"cons_EPS_growth_FY1": -1.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 614.825,
+"std": null,
+"hi": 614.825,
+"lo": 614.825,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 740.036,
+"std": 2.802,
+"hi": 744.4,
+"lo": 735.8,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 853.021,
+"std": 8.732,
+"hi": 864.87815694,
+"lo": 842.5,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 973.583,
+"std": 20.393,
+"hi": 994.1156736796,
+"lo": 953.333,
+"n": 3
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+15.3,
+14.1
+],
+"cons_SALES_growth_FY1": 20.4,
+"eps_ltg": 3.0,
+"missing": [],
+"fmp_backup": []
+}

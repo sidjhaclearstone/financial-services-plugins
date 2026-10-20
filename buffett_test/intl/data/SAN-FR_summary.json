@@ -1,0 +1,176 @@
+{
+"ticker": "SAN-FR",
+"name": "Sanofi SA",
+"last_fy": 2025,
+"rbics": "Biopharmaceuticals / Other Biopharmaceuticals / Diversified Biopharmaceuticals",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 3.4,
+"eps_cagr_5y": 6.1,
+"gaap_eps_cagr_10y": 2.7,
+"rev_cagr_10y": 2.4,
+"rev_cagr_5y": 3.9,
+"shares_cagr_10y": -0.7,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2024,
+-12.2
+],
+"eps_series": {
+"2015": 5.61,
+"2016": 5.52,
+"2017": 5.51,
+"2018": 5.44,
+"2019": 5.96,
+"2020": 5.83,
+"2021": 6.52,
+"2022": 8.26,
+"2023": 8.11,
+"2024": 7.12,
+"2025": 7.83
+},
+"gaap_eps_series": {
+"2015": 3.25,
+"2016": 3.63,
+"2017": 2.99,
+"2018": 3.44,
+"2019": 2.31,
+"2020": 9.77,
+"2021": 4.95,
+"2022": 6.66,
+"2023": 4.3,
+"2024": 4.43,
+"2025": 4.25
+},
+"rev_series_m": {
+"2015": 34542,
+"2016": 33821,
+"2017": 35055,
+"2018": 34463,
+"2019": 36126,
+"2020": 36041,
+"2021": 37761,
+"2022": 42997,
+"2023": 43070,
+"2024": 41081,
+"2025": 43626
+},
+"ebit_margin_series": {
+"2015": 20.2,
+"2016": 19.9,
+"2017": 17.2,
+"2018": 14.7,
+"2019": 16.8,
+"2020": 20.2,
+"2021": 23.0,
+"2022": 23.3,
+"2023": 21.3,
+"2024": 23.1,
+"2025": 26.1
+},
+"ebit_margin_latest": 26.1,
+"ebit_margin_10y_avg": 20.5,
+"ebit_margin_10y_max": 26.1,
+"ebit_margin_10y_min": 14.7,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 0.95,
+"fcf_conversion_5y": 1.21,
+"fcf_conversion_10y": 1.08,
+"acq_to_fcf_10y": 0.43,
+"buyback_to_fcf_10y": 0.22,
+"div_to_fcf_10y": 0.65,
+"net_debt_m": 12655,
+"net_debt_ebitda": 0.74,
+"roic_latest": 5.5,
+"roic_10y_avg": 7.0,
+"roe_latest": 6.6,
+"roe_10y_avg": 8.9,
+"adj_vs_gaap_gap_5y_avg_pct": 58.0,
+"adj_vs_gaap_gap_latest_pct": 84.4,
+"ntm_pe": 7.87,
+"is_reit": "False",
+"price": "79.651917",
+"fcf_yield": 10.0,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 7.83,
+"std": null,
+"hi": 7.83,
+"lo": 7.83,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 8.578,
+"std": 0.243,
+"hi": 8.84,
+"lo": 7.66,
+"n": 24
+},
+"FY2": {
+"fy": 2027,
+"mean": 9.132,
+"std": 0.377,
+"hi": 9.72982017,
+"lo": 8.43,
+"n": 24
+},
+"FY3": {
+"fy": 2028,
+"mean": 9.857,
+"std": 0.6,
+"hi": 10.84,
+"lo": 8.65,
+"n": 20
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+6.5,
+7.9
+],
+"cons_EPS_growth_FY1": 9.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 45506.546,
+"std": 1762.674,
+"hi": 46813.0,
+"lo": 41604.0,
+"n": 15
+},
+"FY1": {
+"fy": 2026,
+"mean": 49727.938,
+"std": 1617.797,
+"hi": 51534.0,
+"lo": 46614.0,
+"n": 21
+},
+"FY2": {
+"fy": 2027,
+"mean": 52833.168,
+"std": 1707.656,
+"hi": 55368.363,
+"lo": 49923.1,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 55522.584,
+"std": 1894.495,
+"hi": 58686.708,
+"lo": 52885.0,
+"n": 18
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+6.2,
+5.1
+],
+"cons_SALES_growth_FY1": 9.3,
+"eps_ltg": 6.607863,
+"missing": [],
+"fmp_backup": []
+}

@@ -1,0 +1,176 @@
+{
+"ticker": "WTB-GB",
+"name": "Whitbread PLC",
+"last_fy": 2025,
+"rbics": "Hospitality Services / Hospitality Services / Accommodation Providers",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 0.2,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": -4.0,
+"rev_cagr_10y": -0.0,
+"rev_cagr_5y": 37.7,
+"shares_cagr_10y": -2.0,
+"years_eps_growth_ge7": "3/9",
+"worst_eps_year": [
+2020,
+-274.0
+],
+"eps_series": {
+"2015": 2.03,
+"2016": 2.11,
+"2017": 2.23,
+"2018": 1.66,
+"2019": 1.65,
+"2020": -2.88,
+"2021": -0.02,
+"2022": 1.62,
+"2023": 2.05,
+"2024": 1.93,
+"2025": 2.07
+},
+"gaap_eps_series": {
+"2015": 1.84,
+"2016": 1.98,
+"2017": 2.05,
+"2018": 1.59,
+"2019": 1.25,
+"2020": -4.82,
+"2021": 0.21,
+"2022": 1.37,
+"2023": 1.6,
+"2024": 1.41,
+"2025": 1.22
+},
+"rev_series_m": {
+"2015": 2922,
+"2016": 3106,
+"2017": 3295,
+"2018": 2049,
+"2019": 2062,
+"2020": 589,
+"2021": 1703,
+"2022": 2625,
+"2023": 2960,
+"2024": 2922,
+"2025": 2920
+},
+"ebit_margin_series": {
+"2015": 18.5,
+"2016": 18.6,
+"2017": 18.3,
+"2018": 22.1,
+"2019": 24.2,
+"2020": -105.7,
+"2021": 2.0,
+"2022": 20.3,
+"2023": 22.3,
+"2024": 21.0,
+"2025": 21.3
+},
+"ebit_margin_latest": 21.3,
+"ebit_margin_10y_avg": 7.5,
+"ebit_margin_10y_max": 24.2,
+"ebit_margin_10y_min": -105.7,
+"margin_pctile_in_history": 73,
+"latest_eps_vs_10y_max": 0.93,
+"fcf_conversion_5y": 1.18,
+"fcf_conversion_10y": 0.39,
+"acq_to_fcf_10y": 0.52,
+"buyback_to_fcf_10y": 6.37,
+"div_to_fcf_10y": 2.31,
+"net_debt_m": 5232,
+"net_debt_ebitda": 4.99,
+"roic_latest": 2.5,
+"roic_10y_avg": 3.3,
+"roe_latest": 6.6,
+"roe_10y_avg": 4.9,
+"adj_vs_gaap_gap_5y_avg_pct": 8.2,
+"adj_vs_gaap_gap_latest_pct": 69.1,
+"ntm_pe": 13.81,
+"is_reit": "False",
+"price": "34.705405",
+"fcf_yield": 9.8,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.07,
+"std": null,
+"hi": 2.069999953731894,
+"lo": 2.069999953731894,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.782,
+"std": 0.035,
+"hi": 1.8357839589670297,
+"lo": 1.7192117429366218,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.946,
+"std": 0.088,
+"hi": 2.095423388119636,
+"lo": 1.7907999599725004,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.161,
+"std": 0.146,
+"hi": 2.3521999474242326,
+"lo": 1.8909999577328558,
+"n": 16
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+9.2,
+11.1
+],
+"cons_EPS_growth_FY1": -13.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2920.2,
+"std": null,
+"hi": 2920.2,
+"lo": 2920.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2903.662,
+"std": 28.33,
+"hi": 2984.0,
+"lo": 2854.0,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 2982.87,
+"std": 72.941,
+"hi": 3106.9703565099,
+"lo": 2854.398347,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 3125.074,
+"std": 81.114,
+"hi": 3277.9,
+"lo": 3004.3445772808,
+"n": 15
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.7,
+4.8
+],
+"cons_SALES_growth_FY1": -0.6,
+"eps_ltg": 6.61337763835,
+"missing": [],
+"fmp_backup": []
+}

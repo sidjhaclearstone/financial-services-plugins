@@ -1,0 +1,176 @@
+{
+"ticker": "KRN-DE",
+"name": "Krones AG",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Machinery Manufacturing / Factory Automation Equipment",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 6.7,
+"eps_cagr_5y": 56.4,
+"gaap_eps_cagr_10y": 6.6,
+"rev_cagr_10y": 6.0,
+"rev_cagr_5y": 11.3,
+"shares_cagr_10y": 0.0,
+"years_eps_growth_ge7": "7/10",
+"worst_eps_year": [
+2020,
+-58.1
+],
+"eps_series": {
+"2015": 4.94,
+"2016": 5.37,
+"2017": 5.97,
+"2018": 4.78,
+"2019": 2.41,
+"2020": 1.01,
+"2021": 4.22,
+"2022": 5.82,
+"2023": 7.13,
+"2024": 8.79,
+"2025": 9.45
+},
+"gaap_eps_series": {
+"2015": 4.98,
+"2016": 5.4,
+"2017": 5.97,
+"2018": 4.78,
+"2019": 0.3,
+"2020": -2.52,
+"2021": 4.47,
+"2022": 5.92,
+"2023": 7.11,
+"2024": 8.77,
+"2025": 9.45
+},
+"rev_series_m": {
+"2015": 3174,
+"2016": 3391,
+"2017": 3691,
+"2018": 3854,
+"2019": 3959,
+"2020": 3323,
+"2021": 3634,
+"2022": 4209,
+"2023": 4721,
+"2024": 5294,
+"2025": 5664
+},
+"ebit_margin_series": {
+"2015": 5.7,
+"2016": 6.7,
+"2017": 6.4,
+"2018": 5.5,
+"2019": 0.2,
+"2020": -1.4,
+"2021": 3.6,
+"2022": 5.2,
+"2023": 5.6,
+"2024": 6.3,
+"2025": 6.1
+},
+"ebit_margin_latest": 6.1,
+"ebit_margin_10y_avg": 4.5,
+"ebit_margin_10y_max": 6.7,
+"ebit_margin_10y_min": -1.4,
+"margin_pctile_in_history": 73,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.01,
+"fcf_conversion_10y": 0.9,
+"acq_to_fcf_10y": 0.28,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 0.34,
+"net_debt_m": -401,
+"net_debt_ebitda": -0.76,
+"roic_latest": 14.1,
+"roic_10y_avg": 9.9,
+"roe_latest": 14.7,
+"roe_10y_avg": 10.2,
+"adj_vs_gaap_gap_5y_avg_pct": -1.4,
+"adj_vs_gaap_gap_latest_pct": -0.0,
+"ntm_pe": 10.34,
+"is_reit": "False",
+"price": "126.30342",
+"fcf_yield": 7.2,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 9.45,
+"std": null,
+"hi": 9.45,
+"lo": 9.45,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 10.114,
+"std": 0.375,
+"hi": 10.828437,
+"lo": 9.64,
+"n": 12
+},
+"FY2": {
+"fy": 2027,
+"mean": 11.076,
+"std": 0.707,
+"hi": 12.01,
+"lo": 9.92,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 12.255,
+"std": 0.962,
+"hi": 13.91,
+"lo": 10.71,
+"n": 12
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+9.5,
+10.7
+],
+"cons_EPS_growth_FY1": 7.0,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 5663.8,
+"std": null,
+"hi": 5663.8,
+"lo": 5663.8,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5780.472,
+"std": 34.692,
+"hi": 5879.0,
+"lo": 5745.0,
+"n": 13
+},
+"FY2": {
+"fy": 2027,
+"mean": 6087.735,
+"std": 94.542,
+"hi": 6216.0,
+"lo": 5919.0,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 6445.935,
+"std": 144.934,
+"hi": 6671.0,
+"lo": 6211.148,
+"n": 12
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.3,
+5.9
+],
+"cons_SALES_growth_FY1": 2.1,
+"eps_ltg": 8.348237,
+"missing": [],
+"fmp_backup": []
+}

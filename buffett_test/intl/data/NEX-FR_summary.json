@@ -1,0 +1,176 @@
+{
+"ticker": "NEX-FR",
+"name": "Nexans SA",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Electrical Equipment and Power Systems / Commercial and Industrial Electric Products",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 20.7,
+"eps_cagr_5y": 28.0,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 5.4,
+"rev_cagr_5y": 5.5,
+"shares_cagr_10y": 0.5,
+"years_eps_growth_ge7": "7/10",
+"worst_eps_year": [
+2019,
+-978.1
+],
+"eps_series": {
+"2015": 1.24,
+"2016": 2.3,
+"2017": 3.29,
+"2018": 0.32,
+"2019": -2.81,
+"2020": 2.35,
+"2021": 3.66,
+"2022": 5.47,
+"2023": 5.46,
+"2024": 6.39,
+"2025": 8.08
+},
+"gaap_eps_series": {
+"2015": -4.56,
+"2016": 1.39,
+"2017": 2.72,
+"2018": 0.32,
+"2019": -2.81,
+"2020": 1.76,
+"2021": 3.66,
+"2022": 5.46,
+"2023": 4.92,
+"2024": 6.2,
+"2025": 1.29
+},
+"rev_series_m": {
+"2015": 4604,
+"2016": 4431,
+"2017": 4571,
+"2018": 4409,
+"2019": 4605,
+"2020": 5979,
+"2021": 7374,
+"2022": 8369,
+"2023": 7790,
+"2024": 8546,
+"2025": 7810
+},
+"ebit_margin_series": {
+"2015": 3.1,
+"2016": 5.3,
+"2017": 7.4,
+"2018": 3.9,
+"2019": 5.2,
+"2020": 3.9,
+"2021": 5.5,
+"2022": 4.6,
+"2023": 5.4,
+"2024": 7.1,
+"2025": 5.9
+},
+"ebit_margin_latest": 5.9,
+"ebit_margin_10y_avg": 5.2,
+"ebit_margin_10y_max": 7.4,
+"ebit_margin_10y_min": 3.1,
+"margin_pctile_in_history": 82,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.19,
+"fcf_conversion_10y": 1.09,
+"acq_to_fcf_10y": 0.9,
+"buyback_to_fcf_10y": 0.1,
+"div_to_fcf_10y": 0.33,
+"net_debt_m": 260,
+"net_debt_ebitda": 0.36,
+"roic_latest": 5.9,
+"roic_10y_avg": 5.2,
+"roe_latest": 11.2,
+"roe_10y_avg": 8.0,
+"adj_vs_gaap_gap_5y_avg_pct": 108.0,
+"adj_vs_gaap_gap_latest_pct": 525.6,
+"ntm_pe": 13.61,
+"is_reit": "False",
+"price": "136.95956999999999",
+"fcf_yield": 8.1,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 8.08,
+"std": null,
+"hi": 8.08,
+"lo": 8.08,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 7.288,
+"std": 0.988,
+"hi": 9.8213455757,
+"lo": 6.28,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 9.381,
+"std": 1.035,
+"hi": 11.67,
+"lo": 8.124916,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 11.347,
+"std": 1.075,
+"hi": 13.5,
+"lo": 9.9,
+"n": 14
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+28.7,
+20.9
+],
+"cons_EPS_growth_FY1": -9.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 7810.0,
+"std": null,
+"hi": 7810.0,
+"lo": 7810.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 8299.985,
+"std": 1597.245,
+"hi": 11337.624,
+"lo": 6643.0,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 8928.315,
+"std": 1793.331,
+"hi": 12667.429,
+"lo": 7084.0,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 9507.112,
+"std": 1922.734,
+"hi": 13277.412,
+"lo": 7379.0,
+"n": 13
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+7.6,
+6.5
+],
+"cons_SALES_growth_FY1": 6.3,
+"eps_ltg": 26.89644457675,
+"missing": [],
+"fmp_backup": []
+}

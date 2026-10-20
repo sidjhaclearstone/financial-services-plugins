@@ -1,0 +1,176 @@
+{
+"ticker": "INF-GB",
+"name": "Informa Plc",
+"last_fy": 2025,
+"rbics": "Business Services / Marketing and Printing Services / Marketing and Advertising Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 3.5,
+"eps_cagr_5y": 41.2,
+"gaap_eps_cagr_10y": -28.6,
+"rev_cagr_10y": 12.8,
+"rev_cagr_5y": 19.5,
+"shares_cagr_10y": 6.4,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2020,
+-80.7
+],
+"eps_series": {
+"2015": 0.39,
+"2016": 0.42,
+"2017": 0.46,
+"2018": 0.49,
+"2019": 0.51,
+"2020": 0.1,
+"2021": 0.17,
+"2022": 0.26,
+"2023": 0.45,
+"2024": 0.5,
+"2025": 0.56
+},
+"gaap_eps_series": {
+"2015": 0.24,
+"2016": 0.24,
+"2017": 0.38,
+"2018": 0.2,
+"2019": 0.18,
+"2020": -0.73,
+"2021": 0.05,
+"2022": -0.07,
+"2023": 0.3,
+"2024": 0.22,
+"2025": 0.01
+},
+"rev_series_m": {
+"2015": 1212,
+"2016": 1346,
+"2017": 1758,
+"2018": 2370,
+"2019": 2890,
+"2020": 1661,
+"2021": 1799,
+"2022": 2262,
+"2023": 3190,
+"2024": 3553,
+"2025": 4041
+},
+"ebit_margin_series": {
+"2015": 22.1,
+"2016": 22.3,
+"2017": 22.3,
+"2018": 20.9,
+"2019": 21.1,
+"2020": -1.7,
+"2021": 6.5,
+"2022": 9.9,
+"2023": 17.0,
+"2024": 19.4,
+"2025": 19.6
+},
+"ebit_margin_latest": 19.6,
+"ebit_margin_10y_avg": 16.3,
+"ebit_margin_10y_max": 22.3,
+"ebit_margin_10y_min": -1.7,
+"margin_pctile_in_history": 55,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 3.07,
+"fcf_conversion_10y": 5.23,
+"acq_to_fcf_10y": 1.16,
+"buyback_to_fcf_10y": 0.44,
+"div_to_fcf_10y": 0.35,
+"net_debt_m": 3149,
+"net_debt_ebitda": 2.54,
+"roic_latest": 0.1,
+"roic_10y_avg": 1.9,
+"roe_latest": 0.2,
+"roe_10y_avg": 2.9,
+"adj_vs_gaap_gap_5y_avg_pct": 1730.1,
+"adj_vs_gaap_gap_latest_pct": 6519.0,
+"ntm_pe": 13.43,
+"is_reit": "False",
+"price": "11.540945500000001",
+"fcf_yield": 8.5,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.556,
+"std": null,
+"hi": 0.5559999875724314,
+"lo": 0.5559999875724314,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.559,
+"std": 0.011,
+"hi": 0.5769999871030449,
+"lo": 0.5399999879300593,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.667,
+"std": 0.012,
+"hi": 0.6806999847851692,
+"lo": 0.6349999858066439,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.715,
+"std": 0.025,
+"hi": 0.7570999830774962,
+"lo": 0.6739999849349259,
+"n": 12
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+19.3,
+7.3
+],
+"cons_EPS_growth_FY1": 0.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 4041.4,
+"std": null,
+"hi": 4041.4,
+"lo": 4041.4,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4316.845,
+"std": 40.176,
+"hi": 4367.0,
+"lo": 4247.0,
+"n": 13
+},
+"FY2": {
+"fy": 2027,
+"mean": 5266.569,
+"std": 56.205,
+"hi": 5373.0,
+"lo": 5219.0,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 5438.785,
+"std": 73.718,
+"hi": 5545.3812,
+"lo": 5345.453451,
+"n": 8
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+22.0,
+3.3
+],
+"cons_SALES_growth_FY1": 6.8,
+"eps_ltg": 11.76001895015,
+"missing": [],
+"fmp_backup": []
+}
