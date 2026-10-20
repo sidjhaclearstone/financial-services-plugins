@@ -1,5 +1,5 @@
 {
-"ticker": "TEL",
+"ticker": "TEL-US",
 "name": "TE Connectivity plc",
 "last_fy": 2025,
 "rbics": "Electronic Components and Manufacturing / Electronic Components / Interconnect Electronic Components",
@@ -87,9 +87,90 @@
 "roe_10y_avg": 18.4,
 "adj_vs_gaap_gap_5y_avg_pct": 4.2,
 "adj_vs_gaap_gap_latest_pct": 42.2,
-"ntm_pe": null,
-"is_reit": null,
-"price": null,
+"ntm_pe": 16.16,
+"is_reit": "False",
+"price": "212.33",
+"fcf_yield": 6.2,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 8.76,
+"std": null,
+"hi": 8.76,
+"lo": 8.76,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 11.451,
+"std": 0.027,
+"hi": 11.52,
+"lo": 11.3947410945,
+"n": 19
+},
+"FY2": {
+"fy": 2027,
+"mean": 13.056,
+"std": 0.311,
+"hi": 13.83,
+"lo": 12.6266660499,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 14.508,
+"std": 0.41,
+"hi": 15.3,
+"lo": 13.9391754328,
+"n": 11
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+14.0,
+11.1
+],
+"cons_EPS_growth_FY1": 30.7,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 17262.0,
+"std": null,
+"hi": 17262.0,
+"lo": 17262.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 19850.567,
+"std": 42.001,
+"hi": 19981.0,
+"lo": 19820.9810949784,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 21797.487,
+"std": 346.712,
+"hi": 22642.0,
+"lo": 21235.28646,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 23312.982,
+"std": 328.28,
+"hi": 23848.0,
+"lo": 22870.185309288,
+"n": 10
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+9.8,
+7.0
+],
+"cons_SALES_growth_FY1": 15.0,
+"eps_ltg": 14.0021150739,
 "missing": [],
 "fmp_backup": []
 }

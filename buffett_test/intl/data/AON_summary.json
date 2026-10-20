@@ -1,5 +1,5 @@
 {
-"ticker": "AON",
+"ticker": "AON-US",
 "name": "Aon Plc",
 "last_fy": 2025,
 "rbics": "Insurance / Insurance / Insurance Brokerage",
@@ -87,9 +87,90 @@
 "roe_10y_avg": 135.3,
 "adj_vs_gaap_gap_5y_avg_pct": 32.9,
 "adj_vs_gaap_gap_latest_pct": 0.3,
-"ntm_pe": null,
-"is_reit": null,
-"price": null,
+"ntm_pe": 14.52,
+"is_reit": "False",
+"price": "289.74",
+"fcf_yield": 6.4,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 17.07,
+"std": null,
+"hi": 17.07,
+"lo": 17.07,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 18.552,
+"std": 0.349,
+"hi": 19.0,
+"lo": 17.97626,
+"n": 23
+},
+"FY2": {
+"fy": 2027,
+"mean": 20.304,
+"std": 0.569,
+"hi": 21.35,
+"lo": 18.86594,
+"n": 23
+},
+"FY3": {
+"fy": 2028,
+"mean": 23.468,
+"std": 0.83,
+"hi": 24.7,
+"lo": 21.3168,
+"n": 18
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+9.4,
+15.6
+],
+"cons_EPS_growth_FY1": 8.7,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 17181.0,
+"std": null,
+"hi": 17181.0,
+"lo": 17181.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 17908.829,
+"std": 124.214,
+"hi": 18191.6279,
+"lo": 17648.0737402553,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 21534.02,
+"std": 986.205,
+"hi": 22284.2,
+"lo": 19000.0,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 22743.18,
+"std": 1030.649,
+"hi": 23639.0,
+"lo": 20623.0,
+"n": 14
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+20.2,
+5.6
+],
+"cons_SALES_growth_FY1": 4.2,
+"eps_ltg": 10.4177350518,
 "missing": [],
 "fmp_backup": []
 }
