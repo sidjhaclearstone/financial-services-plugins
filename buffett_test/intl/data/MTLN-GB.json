@@ -1,0 +1,672 @@
+{
+"ticker": "MTLN-GB",
+"fundamentals": {
+"FF_SALES": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 6306.472,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_SALES(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 5491.685,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_SALES(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 5682.956,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_SALES(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 7106.996,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_SALES(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_EBIT_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 678.243,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_EBIT_OPER(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 832.894,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_EBIT_OPER(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 850.525,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_EBIT_OPER(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 297.102,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_EBIT_OPER(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_EBIT_OPER_MGN": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 10.75471357044,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_EBIT_OPER_MGN(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 15.1664561969596,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_EBIT_OPER_MGN(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 14.9662429200578,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_EBIT_OPER_MGN(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 4.18041602950107,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_EBIT_OPER_MGN(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 770.442,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_EBITDA_OPER(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 949.068,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_EBITDA_OPER(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 1018.305,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_EBITDA_OPER(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 492.311,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_EBITDA_OPER(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_NET_INC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 465.898,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_NET_INC(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 623.11,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_NET_INC(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 614.587,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_NET_INC(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 314.468,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_NET_INC(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 3.2556,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_EPS_DIL(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 4.3541,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_EPS_DIL(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 4.2946,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_EPS_DIL(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 2.198,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_EPS_DIL(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_EPS_DIL_BEF_UNUSUAL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 3.37058695066314,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 4.43118823950229,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 4.1849905401272,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 2.04016621466715,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_COM_SHS_OUT_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 143.108161,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 143.108161,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 143.108161,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 143.068,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_ROIC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": null,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_ROIC(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 14.6179723102841,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_ROIC(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 10.8209985689957,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_ROIC(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 4.60076174129267,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_ROIC(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_ROE": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": null,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_ROE(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 26.3058851243684,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_ROE(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 21.9567814521649,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_ROE(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 10.4767314602119,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_ROE(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_FREE_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 132.865,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_FREE_CF(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": -883.358,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_FREE_CF(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": -430.93,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_FREE_CF(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": -382.858,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_FREE_CF(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_OPER_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 889.749,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_OPER_CF(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 159.779,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_OPER_CF(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 422.635,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_OPER_CF(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 458.938,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_OPER_CF(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_CAPEX": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 715.707,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_CAPEX(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 1054.327,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_CAPEX(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 801.257,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_CAPEX(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 687.549,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_CAPEX(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_NET_DEBT": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 896.484,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_NET_DEBT(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 2192.074,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_NET_DEBT(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 2866.418,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_NET_DEBT(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 3325.717,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_NET_DEBT(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_DEBT_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 2.5392683680277,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 3.27900213683319,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 4.18506832432326,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 10.3435511292658,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_DIV_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 70.066,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_DIV_CF(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 167.412,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_DIV_CF(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 209.877,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_DIV_CF(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 214.09,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_DIV_CF(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_STK_PURCH_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 67.316,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_STK_PURCH_CF(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 43.558,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_STK_PURCH_CF(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 31.634,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_STK_PURCH_CF(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 6.324,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_STK_PURCH_CF(ANN,20251231,20251231,,RP,EUR)"
+}
+},
+"FF_ACQ_BUS_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "EUR",
+"formula": null
+},
+"2022": {
+"v": 9.459,
+"end": "2022-12-31",
+"cur": "EUR",
+"formula": "FF_ACQ_BUS_CF(ANN,20221231,20221231,,RP,EUR)"
+},
+"2023": {
+"v": 0.0,
+"end": "2023-12-31",
+"cur": "EUR",
+"formula": "FF_ACQ_BUS_CF(ANN,20231231,20231231,,RP,EUR)"
+},
+"2024": {
+"v": 16.423,
+"end": "2024-12-31",
+"cur": "EUR",
+"formula": "FF_ACQ_BUS_CF(ANN,20241231,20241231,,RP,EUR)"
+},
+"2025": {
+"v": 33.228,
+"end": "2025-12-31",
+"cur": "EUR",
+"formula": "FF_ACQ_BUS_CF(ANN,20251231,20251231,,RP,EUR)"
+}
+}
+},
+"adj_eps_actual": {
+"2014": {
+"v": null,
+"end": "2014-12-31",
+"consensus_before": null,
+"date": null
+},
+"2015": {
+"v": null,
+"end": "2015-12-31",
+"consensus_before": null,
+"date": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"consensus_before": null,
+"date": null
+},
+"2017": {
+"v": null,
+"end": "2017-12-31",
+"consensus_before": null,
+"date": null
+},
+"2018": {
+"v": null,
+"end": "2018-12-31",
+"consensus_before": null,
+"date": null
+},
+"2019": {
+"v": null,
+"end": "2019-12-31",
+"consensus_before": null,
+"date": null
+},
+"2020": {
+"v": null,
+"end": "2020-12-31",
+"consensus_before": null,
+"date": null
+},
+"2021": {
+"v": null,
+"end": "2021-12-31",
+"consensus_before": null,
+"date": null
+},
+"2022": {
+"v": null,
+"end": "2022-12-31",
+"consensus_before": null,
+"date": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"consensus_before": null,
+"date": null
+},
+"2024": {
+"v": null,
+"end": "2024-12-31",
+"consensus_before": null,
+"date": null
+},
+"2025": {
+"v": 2.2,
+"end": "2025-12-31",
+"consensus_before": 2.715689332077778,
+"date": "2026-04-09"
+}
+},
+"entity": {
+"name": "Metlen Energy & Metals PLC",
+"description": "Metlen Energy & Metals Plc engages in the provision of services focused on metals and energy. It operates through the Energy, Metals, and Infrastructure and Concessions segments. The Energy segment focuses on the supply of electricity and renewable energy. The Metals segment refers to the production of refined alumina, primary and secondary aluminum, and bauxite. The Infrastructure and Concessions segment engages in Public-Private Partnership (PPP) and concessions related activities. The company was founded in 1990 and is headquartered in Maroussi, Greece.",
+"rbics_econ": "Utilities",
+"rbics_sector": "Utilities",
+"rbics_subsector": "Energy Utilities",
+"rbics_indgrp": "Other Electric and Natural Gas Utilities",
+"country_of_risk": "GB"
+},
+"sources": {
+"fundamentals": "FactSet Fundamentals ANN (USD), pulled 2026-10-19",
+"entity": "FactSet EntityReference, pulled 2026-10-19",
+"adj_eps": "FactSet EstimatesConsensus surprise (actual EPS, broker/adjusted basis, USD), pulled 2026-10-19"
+},
+"missing": [],
+"fmp_backup": {},
+"name": "Metlen Energy & Metals PLC"
+}

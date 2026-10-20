@@ -1,0 +1,157 @@
+{
+"ticker": "SAN-ES",
+"name": "Banco Santander SA",
+"last_fy": 2025,
+"rbics": "Banking / International Banks / Europe, Middle East and Africa Banks",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 7.8,
+"eps_cagr_5y": 28.0,
+"gaap_eps_cagr_10y": 8.6,
+"rev_cagr_10y": 5.0,
+"rev_cagr_5y": 14.0,
+"shares_cagr_10y": -0.0,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2020,
+-39.6
+],
+"eps_series": {
+"2015": 0.42,
+"2016": 0.41,
+"2017": 0.44,
+"2018": 0.45,
+"2019": 0.43,
+"2020": 0.26,
+"2021": 0.47,
+"2022": 0.54,
+"2023": 0.65,
+"2024": 0.77,
+"2025": 0.9
+},
+"gaap_eps_series": {
+"2015": 0.4,
+"2016": 0.39,
+"2017": 0.39,
+"2018": 0.43,
+"2019": 0.35,
+"2020": -0.54,
+"2021": 0.44,
+"2022": 0.54,
+"2023": 0.65,
+"2024": 0.77,
+"2025": 0.9
+},
+"rev_series_m": {
+"2015": 76287,
+"2016": 74541,
+"2017": 77378,
+"2018": 75887,
+"2019": 79616,
+"2020": 64552,
+"2021": 66127,
+"2022": 93584,
+"2023": 126543,
+"2024": 134910,
+"2025": 124423
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 2.31,
+"fcf_conversion_10y": -0.9,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"roic_latest": 3.4,
+"roic_10y_avg": 1.8,
+"roe_latest": 12.4,
+"roe_10y_avg": 7.7,
+"adj_vs_gaap_gap_5y_avg_pct": 1.5,
+"adj_vs_gaap_gap_latest_pct": -0.0,
+"ntm_pe": 9.7,
+"is_reit": "False",
+"price": "13.204652399999999",
+"fcf_yield": 43.3,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.9,
+"std": null,
+"hi": 0.9,
+"lo": 0.9,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.042,
+"std": 0.073,
+"hi": 1.26,
+"lo": 0.9577546157,
+"n": 23
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.255,
+"std": 0.081,
+"hi": 1.46,
+"lo": 1.11,
+"n": 23
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.454,
+"std": 0.098,
+"hi": 1.68,
+"lo": 1.3,
+"n": 22
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+20.5,
+15.9
+],
+"cons_EPS_growth_FY1": 15.7,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 62390.0,
+"std": null,
+"hi": 62390.0,
+"lo": 62390.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 64039.468,
+"std": 467.654,
+"hi": 64858.0,
+"lo": 63356.045,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 69523.589,
+"std": 1058.97,
+"hi": 71111.851149,
+"lo": 66894.0,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 72466.369,
+"std": 1304.595,
+"hi": 75343.074798,
+"lo": 69606.0,
+"n": 20
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+8.6,
+4.2
+],
+"cons_SALES_growth_FY1": 2.6,
+"eps_ltg": 20.94035,
+"missing": [],
+"fmp_backup": []
+}

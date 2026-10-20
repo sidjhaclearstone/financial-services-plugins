@@ -1,0 +1,157 @@
+{
+"ticker": "CS-FR",
+"name": "AXA SA",
+"last_fy": 2025,
+"rbics": "Insurance / Insurance / Life and Health Insurance",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 5.3,
+"eps_cagr_5y": 15.8,
+"gaap_eps_cagr_10y": 7.6,
+"rev_cagr_10y": -0.7,
+"rev_cagr_5y": 1.4,
+"shares_cagr_10y": -1.4,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2020,
+-33.0
+],
+"eps_series": {
+"2015": 2.29,
+"2016": 2.34,
+"2017": 2.59,
+"2018": 2.61,
+"2019": 2.76,
+"2020": 1.85,
+"2021": 2.75,
+"2022": 3.08,
+"2023": 3.31,
+"2024": 3.59,
+"2025": 3.86
+},
+"gaap_eps_series": {
+"2015": 2.18,
+"2016": 2.48,
+"2017": 2.49,
+"2018": 0.79,
+"2019": 1.51,
+"2020": 1.25,
+"2021": 2.97,
+"2022": 2.83,
+"2023": 3.13,
+"2024": 3.5,
+"2025": 4.53
+},
+"rev_series_m": {
+"2015": 117059,
+"2016": 119322,
+"2017": 112593,
+"2018": 117100,
+"2019": 124964,
+"2020": 101707,
+"2021": 110654,
+"2022": 92124,
+"2023": 101147,
+"2024": 107866,
+"2025": 109229
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.43,
+"fcf_conversion_10y": 2.06,
+"acq_to_fcf_10y": 0.11,
+"buyback_to_fcf_10y": 0.22,
+"div_to_fcf_10y": 0.3,
+"roic_latest": 6.8,
+"roic_10y_avg": 6.2,
+"roe_latest": 16.6,
+"roe_10y_avg": 10.6,
+"adj_vs_gaap_gap_5y_avg_pct": -1.0,
+"adj_vs_gaap_gap_latest_pct": -14.8,
+"ntm_pe": 9.55,
+"is_reit": "False",
+"price": "47.582513999999996",
+"fcf_yield": 23.5,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.86,
+"std": null,
+"hi": 3.86,
+"lo": 3.86,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4.16,
+"std": 0.071,
+"hi": 4.26,
+"lo": 3.9975900665,
+"n": 19
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.508,
+"std": 0.139,
+"hi": 4.681,
+"lo": 4.08,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 4.862,
+"std": 0.213,
+"hi": 5.142,
+"lo": 4.09,
+"n": 18
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+8.4,
+7.8
+],
+"cons_EPS_growth_FY1": 7.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 115524.0,
+"std": null,
+"hi": 115524.0,
+"lo": 115524.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 78915.994,
+"std": 513.03,
+"hi": 79504.2602565774,
+"lo": 78357.348,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 83563.368,
+"std": 1140.084,
+"hi": 85887.0,
+"lo": 82434.7782003927,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 88034.654,
+"std": 1467.585,
+"hi": 90797.0,
+"lo": 86954.164,
+"n": 6
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.9,
+5.4
+],
+"cons_SALES_growth_FY1": -31.7,
+"eps_ltg": 8.0,
+"missing": [],
+"fmp_backup": []
+}

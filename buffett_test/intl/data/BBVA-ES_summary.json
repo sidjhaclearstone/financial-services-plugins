@@ -1,0 +1,157 @@
+{
+"ticker": "BBVA-ES",
+"name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+"last_fy": 2025,
+"rbics": "Banking / International Banks / Americas Banks",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 13.2,
+"eps_cagr_5y": 34.1,
+"gaap_eps_cagr_10y": 16.3,
+"rev_cagr_10y": 7.1,
+"rev_cagr_5y": 19.3,
+"shares_cagr_10y": -0.9,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2020,
+-37.9
+],
+"eps_series": {
+"2015": 0.51,
+"2016": 0.5,
+"2017": 0.7,
+"2018": 0.7,
+"2019": 0.66,
+"2020": 0.41,
+"2021": 0.71,
+"2022": 1.05,
+"2023": 1.32,
+"2024": 1.68,
+"2025": 1.78
+},
+"gaap_eps_series": {
+"2015": 0.39,
+"2016": 0.5,
+"2017": 0.48,
+"2018": 0.76,
+"2019": 0.47,
+"2020": 0.14,
+"2021": 0.67,
+"2022": 0.99,
+"2023": 1.29,
+"2024": 1.68,
+"2025": 1.76
+},
+"rev_series_m": {
+"2015": 39865,
+"2016": 42151,
+"2017": 43015,
+"2018": 43107,
+"2019": 43495,
+"2020": 32933,
+"2021": 35432,
+"2022": 45431,
+"2023": 63767,
+"2024": 83080,
+"2025": 79483
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 8.62,
+"fcf_conversion_10y": 8.62,
+"acq_to_fcf_10y": 0.01,
+"buyback_to_fcf_10y": 0.04,
+"div_to_fcf_10y": 0.05,
+"roic_latest": 6.3,
+"roic_10y_avg": 3.4,
+"roe_latest": 17.9,
+"roe_10y_avg": 11.0,
+"adj_vs_gaap_gap_5y_avg_pct": 3.2,
+"adj_vs_gaap_gap_latest_pct": 1.2,
+"ntm_pe": 9.79,
+"is_reit": "False",
+"price": "25.496240999999998",
+"fcf_yield": 89.6,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.78,
+"std": null,
+"hi": 1.78,
+"lo": 1.78,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.091,
+"std": 0.057,
+"hi": 2.24,
+"lo": 2.02,
+"n": 23
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.378,
+"std": 0.078,
+"hi": 2.62,
+"lo": 2.255444,
+"n": 23
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.622,
+"std": 0.107,
+"hi": 2.9,
+"lo": 2.47,
+"n": 22
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+13.7,
+10.2
+],
+"cons_EPS_growth_FY1": 17.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 36931.0,
+"std": null,
+"hi": 36931.0,
+"lo": 36931.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 42647.511,
+"std": 503.2,
+"hi": 43353.4471,
+"lo": 41486.0,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 45393.69,
+"std": 1092.482,
+"hi": 47145.245871291,
+"lo": 43436.0,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 47809.914,
+"std": 1651.433,
+"hi": 50929.38073641,
+"lo": 45225.8930877425,
+"n": 20
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+6.4,
+5.3
+],
+"cons_SALES_growth_FY1": 15.5,
+"eps_ltg": 12.6707915,
+"missing": [],
+"fmp_backup": []
+}

@@ -1,0 +1,157 @@
+{
+"ticker": "LLOY-GB",
+"name": "Lloyds Banking Group plc",
+"last_fy": 2025,
+"rbics": "Banking / International Banks / Europe, Middle East and Africa Banks",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -2.1,
+"eps_cagr_5y": 39.3,
+"gaap_eps_cagr_10y": 24.1,
+"rev_cagr_10y": 7.9,
+"rev_cagr_5y": 14.0,
+"shares_cagr_10y": -1.8,
+"years_eps_growth_ge7": "3/10",
+"worst_eps_year": [
+2020,
+-82.9
+],
+"eps_series": {
+"2015": 0.08,
+"2016": 0.07,
+"2017": 0.08,
+"2018": 0.08,
+"2019": 0.08,
+"2020": 0.01,
+"2021": 0.07,
+"2022": 0.07,
+"2023": 0.07,
+"2024": 0.06,
+"2025": 0.07
+},
+"gaap_eps_series": {
+"2015": 0.01,
+"2016": 0.03,
+"2017": 0.04,
+"2018": 0.06,
+"2019": 0.03,
+"2020": 0.01,
+"2021": 0.07,
+"2022": 0.07,
+"2023": 0.07,
+"2024": 0.06,
+"2025": 0.07
+},
+"rev_series_m": {
+"2015": 30666,
+"2016": 48523,
+"2017": 40642,
+"2018": 26337,
+"2019": 49420,
+"2020": 34118,
+"2021": 42017,
+"2022": 23810,
+"2023": 54939,
+"2024": 58217,
+"2025": 65551
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 0.81,
+"fcf_conversion_5y": -0.98,
+"fcf_conversion_10y": -0.18,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"roic_latest": 3.7,
+"roic_10y_avg": 2.7,
+"roe_latest": 10.3,
+"roe_10y_avg": 8.4,
+"adj_vs_gaap_gap_5y_avg_pct": 0.3,
+"adj_vs_gaap_gap_latest_pct": -0.4,
+"ntm_pe": 8.8,
+"is_reit": "False",
+"price": "1.372368375",
+"fcf_yield": -13.3,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.069,
+"std": null,
+"hi": 0.0689999984577298,
+"lo": 0.0689999984577298,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.101,
+"std": 0.003,
+"hi": 0.10910601756129039,
+"lo": 0.09649999784305689,
+"n": 19
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.121,
+"std": 0.004,
+"hi": 0.12859999712556597,
+"lo": 0.11399999745190141,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.141,
+"std": 0.008,
+"hi": 0.1553999965265393,
+"lo": 0.12959999710321424,
+"n": 18
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+19.3,
+16.3
+],
+"cons_EPS_growth_FY1": 47.0,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 18301.0,
+"std": null,
+"hi": 18301.0,
+"lo": 18301.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 20964.223,
+"std": 848.105,
+"hi": 21830.0,
+"lo": 20078.0,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 22736.747,
+"std": 887.504,
+"hi": 23758.995988,
+"lo": 21393.0,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 24215.409,
+"std": 1003.196,
+"hi": 25525.791,
+"lo": 22581.0,
+"n": 16
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+8.5,
+6.5
+],
+"cons_SALES_growth_FY1": 14.6,
+"eps_ltg": 16.6882481956,
+"missing": [],
+"fmp_backup": []
+}
