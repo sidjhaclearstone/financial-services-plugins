@@ -1,0 +1,164 @@
+{
+"ticker": "IVG-IT",
+"name": "Iveco Group NV",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Transportation Equipment Manufacturing / Commercial Transportation Equipment Manufacturing",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 5.2,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "3/6",
+"worst_eps_year": [
+2020,
+-585.7
+],
+"eps_series": {
+"2018": 0.61,
+"2019": 0.31,
+"2020": -1.51,
+"2021": 0.19,
+"2022": 0.54,
+"2023": 0.8,
+"2024": 1.29,
+"2025": 1.08
+},
+"gaap_eps_series": {
+"2018": 0.61,
+"2019": 0.31,
+"2020": -1.51,
+"2021": 0.19,
+"2022": 0.54,
+"2023": 0.8,
+"2024": 1.29,
+"2025": 1.08
+},
+"rev_series_m": {
+"2018": 12005,
+"2019": 11948,
+"2020": 10411,
+"2021": 12651,
+"2022": 14357,
+"2023": 16206,
+"2024": 15291,
+"2025": 13425
+},
+"ebit_margin_series": {
+"2018": 5.6,
+"2019": 3.6,
+"2020": -1.8,
+"2021": 3.7,
+"2022": 4.1,
+"2023": 6.8,
+"2024": 7.0,
+"2025": 5.2
+},
+"ebit_margin_latest": 5.2,
+"ebit_margin_10y_avg": 4.3,
+"ebit_margin_10y_max": 7.0,
+"ebit_margin_10y_min": -1.8,
+"margin_pctile_in_history": 62,
+"latest_eps_vs_10y_max": 0.84,
+"fcf_conversion_5y": 1.31,
+"fcf_conversion_10y": 1.8,
+"acq_to_fcf_10y": 0.0,
+"buyback_to_fcf_10y": 0.07,
+"div_to_fcf_10y": 0.1,
+"net_debt_m": 3108,
+"net_debt_ebitda": 2.17,
+"roic_latest": 5.5,
+"roic_10y_avg": 2.7,
+"roe_latest": 8.6,
+"roe_10y_avg": 4.9,
+"adj_vs_gaap_gap_5y_avg_pct": 4.3,
+"adj_vs_gaap_gap_latest_pct": -24.2,
+"ntm_pe": 10.72,
+"is_reit": "False",
+"price": "16.1244375",
+"fcf_yield": 8.7,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.817,
+"std": null,
+"hi": 0.8173791984,
+"lo": 0.8173791984,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.709,
+"std": 0.301,
+"hi": 1.05,
+"lo": 0.48,
+"n": 3
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.497,
+"std": 0.355,
+"hi": 1.703353,
+"lo": 1.086528,
+"n": 3
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.121,
+"std": 0.353,
+"hi": 2.37,
+"lo": 1.87105,
+"n": 2
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+111.2,
+41.7
+],
+"cons_EPS_growth_FY1": -13.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 13428.0,
+"std": null,
+"hi": 13428.0,
+"lo": 13428.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 14126.513,
+"std": 968.468,
+"hi": 15024.0,
+"lo": 13100.0,
+"n": 3
+},
+"FY2": {
+"fy": 2027,
+"mean": 15245.445,
+"std": 1564.375,
+"hi": 16561.868,
+"lo": 13516.0,
+"n": 3
+},
+"FY3": {
+"fy": 2028,
+"mean": 15830.794,
+"std": 2644.469,
+"hi": 17700.716,
+"lo": 13960.872717,
+"n": 2
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+7.9,
+3.8
+],
+"cons_SALES_growth_FY1": 5.2,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

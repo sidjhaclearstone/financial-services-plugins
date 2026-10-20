@@ -1,0 +1,176 @@
+{
+"ticker": "AMUN-FR",
+"name": "Amundi SA",
+"last_fy": 2025,
+"rbics": "Investment Services / Investment Services / Asset Management and Financial Advisory Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 8.0,
+"eps_cagr_5y": 6.7,
+"gaap_eps_cagr_10y": 9.9,
+"rev_cagr_10y": 9.8,
+"rev_cagr_5y": 8.8,
+"shares_cagr_10y": 1.8,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2022,
+-10.8
+],
+"eps_series": {
+"2015": 3.03,
+"2016": 3.3,
+"2017": 4.16,
+"2018": 4.69,
+"2019": 4.75,
+"2020": 4.76,
+"2021": 6.49,
+"2022": 5.79,
+"2023": 6.0,
+"2024": 6.75,
+"2025": 6.58
+},
+"gaap_eps_series": {
+"2015": 3.01,
+"2016": 3.3,
+"2017": 3.54,
+"2018": 4.24,
+"2019": 4.75,
+"2020": 4.5,
+"2021": 6.75,
+"2022": 5.28,
+"2023": 5.7,
+"2024": 6.37,
+"2025": 7.74
+},
+"rev_series_m": {
+"2015": 2762,
+"2016": 2710,
+"2017": 4054,
+"2018": 4827,
+"2019": 4760,
+"2020": 4613,
+"2021": 5829,
+"2022": 5933,
+"2023": 5790,
+"2024": 6428,
+"2025": 7044
+},
+"ebit_margin_series": {
+"2015": 25.9,
+"2016": 29.9,
+"2017": 23.6,
+"2018": 23.5,
+"2019": 26.9,
+"2020": 26.2,
+"2021": 27.9,
+"2022": 23.0,
+"2023": 26.2,
+"2024": 26.7,
+"2025": 28.3
+},
+"ebit_margin_latest": 28.3,
+"ebit_margin_10y_avg": 26.2,
+"ebit_margin_10y_max": 29.9,
+"ebit_margin_10y_min": 23.0,
+"margin_pctile_in_history": 91,
+"latest_eps_vs_10y_max": 0.97,
+"fcf_conversion_5y": 0.99,
+"fcf_conversion_10y": 1.1,
+"acq_to_fcf_10y": 0.0,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 0.5,
+"net_debt_m": 122,
+"net_debt_ebitda": 0.06,
+"roic_latest": 11.4,
+"roic_10y_avg": 9.7,
+"roe_latest": 12.9,
+"roe_10y_avg": 10.7,
+"adj_vs_gaap_gap_5y_avg_pct": 0.4,
+"adj_vs_gaap_gap_latest_pct": -15.0,
+"ntm_pe": 10.99,
+"is_reit": "False",
+"price": "98.317005",
+"fcf_yield": 8.7,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 6.58,
+"std": null,
+"hi": 6.58,
+"lo": 6.58,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 7.774,
+"std": 0.349,
+"hi": 8.1,
+"lo": 6.988723,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 8.027,
+"std": 0.769,
+"hi": 9.02,
+"lo": 6.01,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 8.392,
+"std": 0.663,
+"hi": 9.4960365145,
+"lo": 7.18051,
+"n": 15
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+3.3,
+4.5
+],
+"cons_EPS_growth_FY1": 18.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 3342.0,
+"std": null,
+"hi": 3342.0,
+"lo": 3342.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3673.733,
+"std": 57.648,
+"hi": 3751.2923334165,
+"lo": 3547.0,
+"n": 13
+},
+"FY2": {
+"fy": 2027,
+"mean": 3729.61,
+"std": 128.013,
+"hi": 3896.2593757025,
+"lo": 3401.0,
+"n": 13
+},
+"FY3": {
+"fy": 2028,
+"mean": 3859.265,
+"std": 104.521,
+"hi": 4054.2,
+"lo": 3727.0,
+"n": 12
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+1.5,
+3.5
+],
+"cons_SALES_growth_FY1": 9.9,
+"eps_ltg": 5.042825558633333,
+"missing": [],
+"fmp_backup": []
+}
