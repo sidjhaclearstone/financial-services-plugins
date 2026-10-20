@@ -1,0 +1,176 @@
+{
+"ticker": "HLMA-GB",
+"name": "Halma plc",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Machinery Manufacturing / Industrial Machine Parts and Support Equipment",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 12.8,
+"eps_cagr_5y": 14.2,
+"gaap_eps_cagr_10y": 13.1,
+"rev_cagr_10y": 12.3,
+"rev_cagr_5y": 14.4,
+"shares_cagr_10y": 0.0,
+"years_eps_growth_ge7": "9/10",
+"worst_eps_year": [
+2020,
+2.2
+],
+"eps_series": {
+"2015": 0.34,
+"2016": 0.4,
+"2017": 0.45,
+"2018": 0.53,
+"2019": 0.57,
+"2020": 0.59,
+"2021": 0.65,
+"2022": 0.76,
+"2023": 0.82,
+"2024": 0.94,
+"2025": 1.14
+},
+"gaap_eps_series": {
+"2015": 0.29,
+"2016": 0.34,
+"2017": 0.41,
+"2018": 0.45,
+"2019": 0.49,
+"2020": 0.54,
+"2021": 0.64,
+"2022": 0.62,
+"2023": 0.71,
+"2024": 0.78,
+"2025": 0.98
+},
+"rev_series_m": {
+"2015": 808,
+"2016": 962,
+"2017": 1076,
+"2018": 1211,
+"2019": 1338,
+"2020": 1318,
+"2021": 1525,
+"2022": 1853,
+"2023": 2034,
+"2024": 2248,
+"2025": 2582
+},
+"ebit_margin_series": {
+"2015": 18.4,
+"2016": 17.9,
+"2017": 17.8,
+"2018": 18.2,
+"2019": 18.4,
+"2020": 19.1,
+"2021": 18.7,
+"2022": 17.4,
+"2023": 19.0,
+"2024": 19.0,
+"2025": 20.5
+},
+"ebit_margin_latest": 20.5,
+"ebit_margin_10y_avg": 18.6,
+"ebit_margin_10y_max": 20.5,
+"ebit_margin_10y_min": 17.4,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.05,
+"fcf_conversion_10y": 1.04,
+"acq_to_fcf_10y": 0.74,
+"buyback_to_fcf_10y": 0.06,
+"div_to_fcf_10y": 0.29,
+"net_debt_m": 770,
+"net_debt_ebitda": 1.17,
+"roic_latest": 13.1,
+"roic_10y_avg": 13.0,
+"roe_latest": 18.3,
+"roe_10y_avg": 17.7,
+"adj_vs_gaap_gap_5y_avg_pct": 15.6,
+"adj_vs_gaap_gap_latest_pct": 16.2,
+"ntm_pe": 24.03,
+"is_reit": "False",
+"price": "45.43931",
+"fcf_yield": 6.4,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.14,
+"std": null,
+"hi": 1.1404999745078384,
+"lo": 1.1404999745078384,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.342,
+"std": 0.03,
+"hi": 1.3981207610705648,
+"lo": 1.2740168327415038,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.483,
+"std": 0.057,
+"hi": 1.5770252994157365,
+"lo": 1.398816267764019,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.615,
+"std": 0.069,
+"hi": 1.746871680954374,
+"lo": 1.5114789220288123,
+"n": 15
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+10.5,
+9.0
+],
+"cons_EPS_growth_FY1": 17.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2582.3,
+"std": null,
+"hi": 2582.3,
+"lo": 2582.3,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2972.218,
+"std": 21.954,
+"hi": 3018.11174085,
+"lo": 2938.8526678129,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 3257.062,
+"std": 59.44,
+"hi": 3358.9107332395,
+"lo": 3166.24,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 3509.875,
+"std": 93.304,
+"hi": 3680.422,
+"lo": 3379.25,
+"n": 14
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+9.6,
+7.8
+],
+"cons_SALES_growth_FY1": 15.1,
+"eps_ltg": 12.054188773025,
+"missing": [],
+"fmp_backup": []
+}

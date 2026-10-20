@@ -1,0 +1,176 @@
+{
+"ticker": "VIE-FR",
+"name": "Veolia Environnement SA",
+"last_fy": 2025,
+"rbics": "Business Services / Waste Management Services / Other Waste Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 10.1,
+"eps_cagr_5y": 26.5,
+"gaap_eps_cagr_10y": 9.6,
+"rev_cagr_10y": 5.9,
+"rev_cagr_5y": 11.3,
+"shares_cagr_10y": 2.6,
+"years_eps_growth_ge7": "7/10",
+"worst_eps_year": [
+2018,
+-32.7
+],
+"eps_series": {
+"2015": 0.86,
+"2016": 0.94,
+"2017": 1.09,
+"2018": 0.73,
+"2019": 1.03,
+"2020": 0.69,
+"2021": 1.45,
+"2022": 1.62,
+"2023": 1.81,
+"2024": 2.13,
+"2025": 2.25
+},
+"gaap_eps_series": {
+"2015": 0.67,
+"2016": 0.53,
+"2017": 0.56,
+"2018": 0.62,
+"2019": 1.03,
+"2020": 0.15,
+"2021": 0.65,
+"2022": 1.0,
+"2023": 1.28,
+"2024": 1.48,
+"2025": 1.66
+},
+"rev_series_m": {
+"2015": 24965,
+"2016": 24390,
+"2017": 25125,
+"2018": 25911,
+"2019": 27189,
+"2020": 26010,
+"2021": 28508,
+"2022": 42885,
+"2023": 45351,
+"2024": 44692,
+"2025": 44396
+},
+"ebit_margin_series": {
+"2015": 4.6,
+"2016": 5.5,
+"2017": 5.5,
+"2018": 5.6,
+"2019": 5.7,
+"2020": 4.3,
+"2021": 5.7,
+"2022": 6.7,
+"2023": 6.4,
+"2024": 6.9,
+"2025": 7.8
+},
+"ebit_margin_latest": 7.8,
+"ebit_margin_10y_avg": 5.9,
+"ebit_margin_10y_max": 7.8,
+"ebit_margin_10y_min": 4.3,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.39,
+"fcf_conversion_10y": 1.57,
+"acq_to_fcf_10y": 0.01,
+"buyback_to_fcf_10y": 0.38,
+"div_to_fcf_10y": 0.58,
+"net_debt_m": 25327,
+"net_debt_ebitda": 3.85,
+"roic_latest": 4.2,
+"roic_10y_avg": 2.7,
+"roe_latest": 16.1,
+"roe_10y_avg": 8.6,
+"adj_vs_gaap_gap_5y_avg_pct": 60.7,
+"adj_vs_gaap_gap_latest_pct": 35.3,
+"ntm_pe": 12.33,
+"is_reit": "False",
+"price": "35.815881",
+"fcf_yield": 6.5,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.25,
+"std": null,
+"hi": 2.25,
+"lo": 2.25,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.39,
+"std": 0.093,
+"hi": 2.53776,
+"lo": 2.233825385,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.639,
+"std": 0.088,
+"hi": 2.8565,
+"lo": 2.49,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.878,
+"std": 0.102,
+"hi": 3.07457,
+"lo": 2.71,
+"n": 15
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+10.4,
+9.1
+],
+"cons_EPS_growth_FY1": 6.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 44396.0,
+"std": null,
+"hi": 44396.0,
+"lo": 44396.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 46222.455,
+"std": 405.623,
+"hi": 46918.5653688108,
+"lo": 45438.85,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 48247.543,
+"std": 823.919,
+"hi": 49994.9566289818,
+"lo": 46881.6968201377,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 50088.362,
+"std": 1206.151,
+"hi": 52370.2085799514,
+"lo": 48329.790045,
+"n": 14
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.4,
+3.8
+],
+"cons_SALES_growth_FY1": 4.1,
+"eps_ltg": 10.010400696766666,
+"missing": [],
+"fmp_backup": []
+}

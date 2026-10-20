@@ -1,0 +1,176 @@
+{
+"ticker": "SN-GB",
+"name": "Smith & Nephew plc",
+"last_fy": 2025,
+"rbics": "Healthcare Equipment / General Medical Devices / System-Specific General Medical Devices",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 1.8,
+"eps_cagr_5y": 9.6,
+"gaap_eps_cagr_10y": 4.6,
+"rev_cagr_10y": 2.9,
+"rev_cagr_5y": 6.2,
+"shares_cagr_10y": -0.3,
+"years_eps_growth_ge7": "3/10",
+"worst_eps_year": [
+2020,
+-36.8
+],
+"eps_series": {
+"2015": 0.85,
+"2016": 0.83,
+"2017": 0.94,
+"2018": 1.01,
+"2019": 1.02,
+"2020": 0.65,
+"2021": 0.81,
+"2022": 0.82,
+"2023": 0.83,
+"2024": 0.84,
+"2025": 1.02
+},
+"gaap_eps_series": {
+"2015": 0.46,
+"2016": 0.88,
+"2017": 0.88,
+"2018": 0.76,
+"2019": 0.68,
+"2020": 0.51,
+"2021": 0.6,
+"2022": 0.26,
+"2023": 0.3,
+"2024": 0.47,
+"2025": 0.72
+},
+"rev_series_m": {
+"2015": 4634,
+"2016": 4669,
+"2017": 4765,
+"2018": 4904,
+"2019": 5138,
+"2020": 4560,
+"2021": 5212,
+"2022": 5215,
+"2023": 5549,
+"2024": 5810,
+"2025": 6164
+},
+"ebit_margin_series": {
+"2015": 20.7,
+"2016": 19.4,
+"2017": 20.6,
+"2018": 21.1,
+"2019": 20.0,
+"2020": 12.2,
+"2021": 15.0,
+"2022": 15.1,
+"2023": 16.9,
+"2024": 16.8,
+"2025": 17.2
+},
+"ebit_margin_latest": 17.2,
+"ebit_margin_10y_avg": 17.7,
+"ebit_margin_10y_max": 21.1,
+"ebit_margin_10y_min": 12.2,
+"margin_pctile_in_history": 55,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.09,
+"fcf_conversion_10y": 0.99,
+"acq_to_fcf_10y": 0.39,
+"buyback_to_fcf_10y": 0.23,
+"div_to_fcf_10y": 0.6,
+"net_debt_m": 2770,
+"net_debt_ebitda": 1.7,
+"roic_latest": 7.2,
+"roic_10y_avg": 7.8,
+"roe_latest": 11.7,
+"roe_10y_avg": 11.1,
+"adj_vs_gaap_gap_5y_avg_pct": 110.5,
+"adj_vs_gaap_gap_latest_pct": 42.5,
+"ntm_pe": 12.23,
+"is_reit": "False",
+"price": "14.369582499999998",
+"fcf_yield": 6.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.02,
+"std": null,
+"hi": 1.02,
+"lo": 1.02,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.097,
+"std": 0.025,
+"hi": 1.135,
+"lo": 1.04175207,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.194,
+"std": 0.042,
+"hi": 1.2582,
+"lo": 1.133331,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.336,
+"std": 0.061,
+"hi": 1.4496,
+"lo": 1.248,
+"n": 14
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+8.9,
+11.8
+],
+"cons_EPS_growth_FY1": 7.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 6164.0,
+"std": null,
+"hi": 6164.0,
+"lo": 6164.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 6465.269,
+"std": 44.012,
+"hi": 6599.7247471681,
+"lo": 6406.204,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 6804.096,
+"std": 61.784,
+"hi": 6993.9643090621,
+"lo": 6703.979044,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 7175.636,
+"std": 97.514,
+"hi": 7410.5458544777,
+"lo": 6997.10881,
+"n": 14
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.2,
+5.5
+],
+"cons_SALES_growth_FY1": 4.9,
+"eps_ltg": 6.600580109533333,
+"missing": [],
+"fmp_backup": []
+}

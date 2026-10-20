@@ -1,0 +1,176 @@
+{
+"ticker": "DHL-DE",
+"name": "DHL AG",
+"last_fy": 2025,
+"rbics": "Industrial Services / Delivery and Logistics Services / Express Couriers",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 9.6,
+"eps_cagr_5y": 4.8,
+"gaap_eps_cagr_10y": 9.6,
+"rev_cagr_10y": 3.4,
+"rev_cagr_5y": 4.4,
+"shares_cagr_10y": -0.9,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2023,
+-29.8
+],
+"eps_series": {
+"2015": 1.22,
+"2016": 2.15,
+"2017": 2.22,
+"2018": 1.66,
+"2019": 2.13,
+"2020": 2.41,
+"2021": 4.09,
+"2022": 4.33,
+"2023": 3.04,
+"2024": 2.81,
+"2025": 3.04
+},
+"gaap_eps_series": {
+"2015": 1.22,
+"2016": 2.1,
+"2017": 2.15,
+"2018": 1.66,
+"2019": 2.09,
+"2020": 2.36,
+"2021": 4.01,
+"2022": 4.33,
+"2023": 3.04,
+"2024": 2.81,
+"2025": 3.04
+},
+"rev_series_m": {
+"2015": 59230,
+"2016": 57334,
+"2017": 60444,
+"2018": 61550,
+"2019": 63341,
+"2020": 66806,
+"2021": 81747,
+"2022": 94436,
+"2023": 81758,
+"2024": 84186,
+"2025": 82855
+},
+"ebit_margin_series": {
+"2015": 2.9,
+"2016": 5.5,
+"2017": 5.6,
+"2018": 3.3,
+"2019": 3.9,
+"2020": 5.5,
+"2021": 8.0,
+"2022": 7.2,
+"2023": 5.3,
+"2024": 4.6,
+"2025": 4.8
+},
+"ebit_margin_latest": 4.8,
+"ebit_margin_10y_avg": 5.1,
+"ebit_margin_10y_max": 8.0,
+"ebit_margin_10y_min": 2.9,
+"margin_pctile_in_history": 45,
+"latest_eps_vs_10y_max": 0.7,
+"fcf_conversion_5y": 1.36,
+"fcf_conversion_10y": 1.14,
+"acq_to_fcf_10y": 0.08,
+"buyback_to_fcf_10y": 0.18,
+"div_to_fcf_10y": 0.44,
+"net_debt_m": 20370,
+"net_debt_ebitda": 2.3,
+"roic_latest": 8.1,
+"roic_10y_avg": 11.7,
+"roe_latest": 15.2,
+"roe_10y_avg": 20.5,
+"adj_vs_gaap_gap_5y_avg_pct": 0.4,
+"adj_vs_gaap_gap_latest_pct": -0.1,
+"ntm_pe": 14.91,
+"is_reit": "False",
+"price": "64.72209",
+"fcf_yield": 6.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.04,
+"std": null,
+"hi": 3.04,
+"lo": 3.04,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.614,
+"std": 0.1,
+"hi": 3.834,
+"lo": 3.4403224479,
+"n": 21
+},
+"FY2": {
+"fy": 2027,
+"mean": 3.933,
+"std": 0.161,
+"hi": 4.206,
+"lo": 3.6061,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 4.226,
+"std": 0.19,
+"hi": 4.564,
+"lo": 3.84,
+"n": 20
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+8.8,
+7.5
+],
+"cons_EPS_growth_FY1": 18.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 82855.0,
+"std": null,
+"hi": 82855.0,
+"lo": 82855.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 88434.714,
+"std": 1059.877,
+"hi": 90406.68472,
+"lo": 87140.0,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 91273.916,
+"std": 1528.49,
+"hi": 95085.0,
+"lo": 89171.2278505133,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 94382.065,
+"std": 2167.777,
+"hi": 98725.0,
+"lo": 90125.0,
+"n": 19
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.2,
+3.4
+],
+"cons_SALES_growth_FY1": 6.7,
+"eps_ltg": 9.51620325,
+"missing": [],
+"fmp_backup": []
+}

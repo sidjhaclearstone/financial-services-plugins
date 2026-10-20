@@ -1,0 +1,169 @@
+{
+"ticker": "EQT-SE",
+"name": "EQT AB",
+"last_fy": 2025,
+"rbics": "Investment Services / Investment Services / Asset Management and Financial Advisory Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 30.5,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 26.9,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "5/6",
+"worst_eps_year": [
+2022,
+-37.2
+],
+"eps_series": {
+"2019": 0.19,
+"2020": 0.3,
+"2021": 1.01,
+"2022": 0.63,
+"2023": 0.86,
+"2024": 0.94,
+"2025": 1.12
+},
+"gaap_eps_series": {
+"2016": 0.0,
+"2017": 0.08,
+"2018": 0.13,
+"2019": 0.19,
+"2020": 0.3,
+"2021": 0.93,
+"2022": 0.17,
+"2023": 0.11,
+"2024": 0.66,
+"2025": 0.62
+},
+"rev_series_m": {
+"2016": 243,
+"2017": 326,
+"2018": 392,
+"2019": 600,
+"2020": 693,
+"2021": 1523,
+"2022": 1491,
+"2023": 2062,
+"2024": 2653,
+"2025": 2283
+},
+"ebit_margin_series": {
+"2016": 6.0,
+"2017": 27.7,
+"2018": 33.2,
+"2019": 37.5,
+"2020": 45.1,
+"2021": 60.3,
+"2022": 25.6,
+"2023": 34.7,
+"2024": 42.4,
+"2025": 46.0
+},
+"ebit_margin_latest": 46.0,
+"ebit_margin_10y_avg": 35.8,
+"ebit_margin_10y_max": 60.3,
+"ebit_margin_10y_min": 6.0,
+"margin_pctile_in_history": 90,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.0,
+"fcf_conversion_10y": 0.96,
+"acq_to_fcf_10y": 0.64,
+"buyback_to_fcf_10y": 0.17,
+"div_to_fcf_10y": 0.6,
+"net_debt_m": -610,
+"net_debt_ebitda": -0.41,
+"roic_latest": 7.1,
+"roic_10y_avg": 26.3,
+"roe_latest": 9.3,
+"roe_10y_avg": 38.9,
+"adj_vs_gaap_gap_5y_avg_pct": 218.0,
+"adj_vs_gaap_gap_latest_pct": 81.9,
+"ntm_pe": 16.11,
+"is_reit": "False",
+"price": "29.826491576918034",
+"fcf_yield": 6.6,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.123,
+"std": null,
+"hi": 1.123,
+"lo": 1.123,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.241,
+"std": 0.069,
+"hi": 1.363156,
+"lo": 1.07,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.751,
+"std": 0.135,
+"hi": 2.07,
+"lo": 1.59,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.045,
+"std": 0.21,
+"hi": 2.4,
+"lo": 1.78323004,
+"n": 13
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+41.1,
+16.8
+],
+"cons_EPS_growth_FY1": 10.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2732.0,
+"std": null,
+"hi": 2732.0,
+"lo": 2732.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3057.33,
+"std": 112.982,
+"hi": 3299.980517,
+"lo": 2934.31966,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 3963.029,
+"std": 402.165,
+"hi": 4549.0,
+"lo": 2885.0,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 4430.172,
+"std": 511.232,
+"hi": 4995.0,
+"lo": 3218.0,
+"n": 11
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+29.6,
+11.8
+],
+"cons_SALES_growth_FY1": 11.9,
+"eps_ltg": 27.6075569585,
+"missing": [],
+"fmp_backup": []
+}
