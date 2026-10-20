@@ -79,4 +79,12 @@ The key uncertainty is whether the take rate stabilises while volume stays at 20
 ## 7. Earnings quality
 The adjusted-vs-GAAP gap is −0.2% (5-year average), so there are no adjustments of note. FCF conversion (1.73x over 10 years) is **inflated by merchant float and settlement timing**. Use net income as owner earnings. Flag: FCF overstated by float; NTM FCF ≥6% not supported.
 
-`RESULT | P(Test2)=87% (FAIL) | P(Test3)=40% (FAIL) | Tests passed: 0/3 (Test 1 fails FCF check; P/E 20.5x) | Near-miss: Y | Confidence: M`
+`RESULT | P(Test2)=85% (FAIL) | P(Test3)=37% (FAIL) | Tests passed: 0/3 (Test 1 fails FCF check; P/E 20.5x) | Near-miss: Y | Confidence: M`
+
+## Calibration note
+Europe & India calibration against the 60 US anchors (20-Oct-2026). **P2 87→85%; P3 40→37%.**
+- **Test 2.** The EBIT margin is at its 10-year high (41.6%, 100th percentile, FactSet). The Test 2 table has no margin-reversion term and, unlike G24/BCG/TEL, no unknowns/short-record add-on, even though the record is only 7 years. The analysis names a credible disruption threat (Stripe/agentic/A2A rails), and the v2 top-tier rule sets 85% for names with at least 8 of 10 years and at most one credible threat. Adding ~2 pts of failure (the MRSH precedent: margin at peak, no reversion term) gives 85%, level with CPAY (payments, 85%). Only BR (88%, 10/10 years) sits above that tier. Still FAIL, and still a Test 2 near-miss (P2 ≥85%).
+- **Test 3.** The analysis put Adyen level with BR (40%), the strongest US record (10/10 years including 2020 and 2023, with buybacks). Adyen has a 7-year record and no buyback support in a weak year. The BCG precedent cuts the arithmetic for a short record, so 42% is cut to 37%, the ADBE level. Its 13-pt growth buffer keeps it at the top of the 20–40% compounder band. Still FAIL.
+- **Test 1.** Still FAIL on the FCF check (clean yield ~5.0–5.5%; P/E 20.5x). If the FCF basis were accepted, Adyen would pass 1/3 tests and be a Test 2 near-miss.
+
+Sections 4–5 above are left as the worker wrote them. The verdict line shows the calibrated figures.
