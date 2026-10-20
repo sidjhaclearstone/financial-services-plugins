@@ -1,0 +1,176 @@
+{
+"ticker": "NG-GB",
+"name": "National Grid PLC",
+"last_fy": 2025,
+"rbics": "Utilities / Energy Utilities / Electric Utilities",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 2.9,
+"eps_cagr_5y": 13.0,
+"gaap_eps_cagr_10y": -0.5,
+"rev_cagr_10y": 1.6,
+"rev_cagr_5y": 3.7,
+"shares_cagr_10y": 2.8,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2024,
+-28.2
+],
+"eps_series": {
+"2015": 0.58,
+"2016": 0.67,
+"2017": 0.56,
+"2018": 0.54,
+"2019": 0.53,
+"2020": 0.42,
+"2021": 0.65,
+"2022": 0.64,
+"2023": 0.77,
+"2024": 0.55,
+"2025": 0.78
+},
+"gaap_eps_series": {
+"2015": 0.69,
+"2016": 0.66,
+"2017": 0.94,
+"2018": 0.41,
+"2019": 0.33,
+"2020": 0.43,
+"2021": 0.6,
+"2022": 1.95,
+"2023": 0.57,
+"2024": 0.61,
+"2025": 0.65
+},
+"rev_series_m": {
+"2015": 15115,
+"2016": 15035,
+"2017": 15250,
+"2018": 14933,
+"2019": 14540,
+"2020": 14779,
+"2021": 18449,
+"2022": 21659,
+"2023": 19850,
+"2024": 18378,
+"2025": 17687
+},
+"ebit_margin_series": {
+"2015": 26.7,
+"2016": 24.7,
+"2017": 22.2,
+"2018": 22.6,
+"2019": 22.3,
+"2020": 19.3,
+"2021": 20.8,
+"2022": 14.9,
+"2023": 27.6,
+"2024": 25.3,
+"2025": 27.9
+},
+"ebit_margin_latest": 27.9,
+"ebit_margin_10y_avg": 23.1,
+"ebit_margin_10y_max": 27.9,
+"ebit_margin_10y_min": 14.9,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": -0.87,
+"fcf_conversion_10y": -0.56,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"net_debt_m": 43927,
+"net_debt_ebitda": 6.02,
+"roic_latest": 4.0,
+"roic_10y_avg": 4.2,
+"roe_latest": 8.4,
+"roe_10y_avg": 9.6,
+"adj_vs_gaap_gap_5y_avg_pct": -2.5,
+"adj_vs_gaap_gap_latest_pct": 19.6,
+"ntm_pe": 12.57,
+"is_reit": "False",
+"price": "15.84116625",
+"fcf_yield": -7.4,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.78,
+"std": null,
+"hi": 0.7799999825656413,
+"lo": 0.7799999825656413,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.905,
+"std": 0.01,
+"hi": 0.9231999793648717,
+"lo": 0.8899999801069496,
+"n": 12
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.979,
+"std": 0.031,
+"hi": 1.0317999769374726,
+"lo": 0.9392831490053849,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.069,
+"std": 0.05,
+"hi": 1.1409999744966624,
+"lo": 0.9725697782613707,
+"n": 11
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+8.2,
+9.2
+],
+"cons_EPS_growth_FY1": 16.0,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 17687.0,
+"std": null,
+"hi": 17687.0,
+"lo": 17687.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 19561.342,
+"std": 869.526,
+"hi": 21058.0,
+"lo": 18316.1012556605,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 21243.038,
+"std": 1153.302,
+"hi": 22939.0,
+"lo": 19632.0189222678,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 22917.301,
+"std": 1576.888,
+"hi": 25352.3582653992,
+"lo": 20706.1490419187,
+"n": 8
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+8.6,
+7.9
+],
+"cons_SALES_growth_FY1": 10.6,
+"eps_ltg": 11.188509,
+"missing": [],
+"fmp_backup": []
+}

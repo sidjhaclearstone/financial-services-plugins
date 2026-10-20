@@ -1,0 +1,209 @@
+{
+"ticker": "CATE-SE",
+"name": "Catena AB",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment and Services / Property Owners",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 7.4,
+"gaap_eps_cagr_10y": 2.0,
+"rev_cagr_10y": 18.4,
+"rev_cagr_5y": 16.2,
+"shares_cagr_10y": 8.9,
+"years_eps_growth_ge7": "5/9",
+"worst_eps_year": [
+2017,
+1.1
+],
+"eps_series": {
+"2016": 10.2,
+"2017": 10.31,
+"2018": 14.1,
+"2019": 15.57,
+"2020": 17.9,
+"2021": 19.67,
+"2022": 20.05,
+"2023": 20.7,
+"2024": 21.9,
+"2025": 25.61
+},
+"gaap_eps_series": {
+"2015": 22.29,
+"2016": 10.2,
+"2017": 16.08,
+"2018": 21.93,
+"2019": 32.46,
+"2020": 40.51,
+"2021": 66.63,
+"2022": 44.68,
+"2023": 19.73,
+"2024": 19.35,
+"2025": 27.24
+},
+"rev_series_m": {
+"2015": 494,
+"2016": 806,
+"2017": 894,
+"2018": 1093,
+"2019": 1187,
+"2020": 1256,
+"2021": 1394,
+"2022": 1546,
+"2023": 1815,
+"2024": 2198,
+"2025": 2666
+},
+"ebit_margin_series": {
+"2015": 69.0,
+"2016": 69.2,
+"2017": 71.7,
+"2018": 73.0,
+"2019": 73.5,
+"2020": 75.9,
+"2021": 76.4,
+"2022": 76.2,
+"2023": 77.4,
+"2024": 79.0,
+"2025": 80.9
+},
+"ebit_margin_latest": 80.9,
+"ebit_margin_10y_avg": 74.7,
+"ebit_margin_10y_max": 80.9,
+"ebit_margin_10y_min": 69.0,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.71,
+"fcf_conversion_10y": 0.66,
+"acq_to_fcf_10y": 0.8,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 0.35,
+"net_debt_m": 17603,
+"net_debt_ebitda": 8.16,
+"roic_latest": 4.2,
+"roic_10y_avg": 7.8,
+"roe_latest": 7.0,
+"roe_10y_avg": 14.5,
+"adj_vs_gaap_gap_5y_avg_pct": -22.7,
+"adj_vs_gaap_gap_latest_pct": -6.0,
+"ntm_pe": 11.94,
+"is_reit": "True",
+"price": "33.81345068787662",
+"fcf_yield": -4.1,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 25.841,
+"std": 0.779,
+"hi": 27.9,
+"lo": 25.36,
+"n": 9
+},
+"FY1": {
+"fy": 2026,
+"mean": 26.441,
+"std": 2.237,
+"hi": 27.43,
+"lo": 20.5,
+"n": 9
+},
+"FY2": {
+"fy": 2027,
+"mean": 28.194,
+"std": 1.835,
+"hi": 29.4,
+"lo": 23.55,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 28.884,
+"std": 2.056,
+"hi": 30.714,
+"lo": 23.9,
+"n": 9
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+6.6,
+2.4
+],
+"cons_EPS_growth_FY1": 2.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2588.3,
+"std": 150.529,
+"hi": 2671.0,
+"lo": 2198.0,
+"n": 10
+},
+"FY1": {
+"fy": 2026,
+"mean": 3164.444,
+"std": 64.257,
+"hi": 3230.447663,
+"lo": 3009.7335,
+"n": 9
+},
+"FY2": {
+"fy": 2027,
+"mean": 3472.355,
+"std": 121.388,
+"hi": 3651.9061,
+"lo": 3316.1269,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 3587.508,
+"std": 132.372,
+"hi": 3828.1276,
+"lo": 3416.0,
+"n": 9
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+9.7,
+3.3
+],
+"cons_SALES_growth_FY1": 22.3,
+"cons_FFO": {
+"FY0": {
+"fy": 2025,
+"mean": 25.614,
+"std": 0.02,
+"hi": 25.628909,
+"lo": 25.6,
+"n": 2
+},
+"FY1": {
+"fy": 2026,
+"mean": 26.65,
+"std": null,
+"hi": 26.65,
+"lo": 26.65,
+"n": 1
+},
+"FY2": {
+"fy": 2027,
+"mean": 28.39,
+"std": null,
+"hi": 28.39,
+"lo": 28.39,
+"n": 1
+},
+"FY3": {
+"fy": 2028,
+"mean": null,
+"std": null,
+"hi": null,
+"lo": null,
+"n": 0
+}
+},
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

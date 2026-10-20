@@ -1,0 +1,176 @@
+{
+"ticker": "INVE.B-SE",
+"name": "Investor AB",
+"last_fy": 2025,
+"rbics": "Investment Services / Investment Services / Investment Holding Companies",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 24.6,
+"eps_cagr_5y": 24.4,
+"gaap_eps_cagr_10y": 24.6,
+"rev_cagr_10y": 7.2,
+"rev_cagr_5y": 11.4,
+"shares_cagr_10y": 0.0,
+"years_eps_growth_ge7": "3/9",
+"worst_eps_year": [
+2022,
+-132.8
+],
+"eps_series": {
+"2015": 5.71,
+"2016": 10.99,
+"2017": 2.69,
+"2018": -0.73,
+"2019": 33.05,
+"2020": 17.23,
+"2021": 74.41,
+"2022": -24.38,
+"2023": 41.46,
+"2024": 36.98,
+"2025": 51.39
+},
+"gaap_eps_series": {
+"2015": 5.71,
+"2016": 11.01,
+"2017": 14.47,
+"2018": -0.74,
+"2019": 33.05,
+"2020": 17.23,
+"2021": 74.41,
+"2022": -24.38,
+"2023": 41.48,
+"2024": 36.98,
+"2025": 51.39
+},
+"rev_series_m": {
+"2015": 41771,
+"2016": 42985,
+"2017": 45545,
+"2018": 55223,
+"2019": 62576,
+"2020": 48853,
+"2021": 63027,
+"2022": 70699,
+"2023": 69927,
+"2024": 79252,
+"2025": 83716
+},
+"ebit_margin_series": {
+"2015": 46.8,
+"2016": 80.5,
+"2017": 105.3,
+"2018": 3.9,
+"2019": 169.6,
+"2020": 112.4,
+"2021": 363.9,
+"2022": -94.5,
+"2023": 186.9,
+"2024": 150.5,
+"2025": 192.9
+},
+"ebit_margin_latest": 192.9,
+"ebit_margin_10y_avg": 119.8,
+"ebit_margin_10y_max": 363.9,
+"ebit_margin_10y_min": -94.5,
+"margin_pctile_in_history": 91,
+"latest_eps_vs_10y_max": 0.69,
+"fcf_conversion_5y": 0.14,
+"fcf_conversion_10y": 0.16,
+"acq_to_fcf_10y": 0.61,
+"buyback_to_fcf_10y": 0.01,
+"div_to_fcf_10y": 0.86,
+"net_debt_m": 93529,
+"net_debt_ebitda": 0.56,
+"roic_latest": 15.9,
+"roic_10y_avg": 12.5,
+"roe_latest": 17.8,
+"roe_10y_avg": 14.4,
+"adj_vs_gaap_gap_5y_avg_pct": -0.0,
+"adj_vs_gaap_gap_latest_pct": 0.0,
+"ntm_pe": 12.29,
+"is_reit": "False",
+"price": "42.48887184197511",
+"fcf_yield": 0.1,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 51.39,
+"std": null,
+"hi": 51.39,
+"lo": 51.39,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 61.631,
+"std": null,
+"hi": 61.6305301927,
+"lo": 61.6305301927,
+"n": 1
+},
+"FY2": {
+"fy": 2027,
+"mean": 27.532,
+"std": null,
+"hi": 27.5315754827,
+"lo": 27.5315754827,
+"n": 1
+},
+"FY3": {
+"fy": 2028,
+"mean": 29.419,
+"std": null,
+"hi": 29.4188760993,
+"lo": 29.4188760993,
+"n": 1
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-55.3,
+6.9
+],
+"cons_EPS_growth_FY1": 19.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 64826.0,
+"std": null,
+"hi": 64826.0,
+"lo": 64826.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 70057.055,
+"std": 2708.141,
+"hi": 71972.0,
+"lo": 68142.11,
+"n": 2
+},
+"FY2": {
+"fy": 2027,
+"mean": 72473.054,
+"std": 1906.283,
+"hi": 73821.0,
+"lo": 71125.109,
+"n": 2
+},
+"FY3": {
+"fy": 2028,
+"mean": 74997.562,
+"std": 1107.948,
+"hi": 75781.0,
+"lo": 74214.124564,
+"n": 2
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.4,
+3.5
+],
+"cons_SALES_growth_FY1": 8.1,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

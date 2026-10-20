@@ -1,0 +1,157 @@
+{
+"ticker": "BCP-PT",
+"name": "Banco Comercial Portugues S.A.",
+"last_fy": 2025,
+"rbics": "Banking / International Banks / Europe, Middle East and Africa Banks",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 0.2,
+"eps_cagr_5y": 44.0,
+"gaap_eps_cagr_10y": 2.5,
+"rev_cagr_10y": 4.0,
+"rev_cagr_5y": 14.3,
+"shares_cagr_10y": 13.0,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2016,
+-70.6
+],
+"eps_series": {
+"2015": 0.06,
+"2016": 0.02,
+"2017": 0.01,
+"2018": 0.02,
+"2019": 0.02,
+"2020": 0.01,
+"2021": 0.01,
+"2022": 0.02,
+"2023": 0.06,
+"2024": 0.06,
+"2025": 0.07
+},
+"gaap_eps_series": {
+"2015": 0.05,
+"2016": 0.0,
+"2017": 0.01,
+"2018": 0.02,
+"2019": 0.02,
+"2020": 0.01,
+"2021": 0.01,
+"2022": 0.01,
+"2023": 0.05,
+"2024": 0.06,
+"2025": 0.07
+},
+"rev_series_m": {
+"2015": 3821,
+"2016": 3001,
+"2017": 2973,
+"2018": 2895,
+"2019": 3083,
+"2020": 2903,
+"2021": 2780,
+"2022": 3849,
+"2023": 5576,
+"2024": 5858,
+"2025": 5660
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 6.0,
+"fcf_conversion_10y": 5.86,
+"acq_to_fcf_10y": 0.02,
+"buyback_to_fcf_10y": 0.01,
+"div_to_fcf_10y": 0.03,
+"roic_latest": 7.4,
+"roic_10y_avg": 3.0,
+"roe_latest": 14.0,
+"roe_10y_avg": 6.3,
+"adj_vs_gaap_gap_5y_avg_pct": 30.0,
+"adj_vs_gaap_gap_latest_pct": 0.0,
+"ntm_pe": 11.9,
+"is_reit": "False",
+"price": "1.2406002",
+"fcf_yield": 12.7,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.066,
+"std": null,
+"hi": 0.066,
+"lo": 0.066,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.08,
+"std": 0.003,
+"hi": 0.09,
+"lo": 0.0760808057,
+"n": 21
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.096,
+"std": 0.006,
+"hi": 0.11,
+"lo": 0.09,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.109,
+"std": 0.008,
+"hi": 0.13,
+"lo": 0.09,
+"n": 21
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+19.6,
+13.3
+],
+"cons_EPS_growth_FY1": 21.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 3815.2,
+"std": null,
+"hi": 3815.2,
+"lo": 3815.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4005.984,
+"std": 47.573,
+"hi": 4105.0,
+"lo": 3905.0,
+"n": 19
+},
+"FY2": {
+"fy": 2027,
+"mean": 4274.822,
+"std": 83.626,
+"hi": 4413.955,
+"lo": 4087.0,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 4516.642,
+"std": 115.895,
+"hi": 4693.779,
+"lo": 4263.0,
+"n": 19
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+6.7,
+5.7
+],
+"cons_SALES_growth_FY1": 5.0,
+"eps_ltg": 16.96169175,
+"missing": [],
+"fmp_backup": []
+}

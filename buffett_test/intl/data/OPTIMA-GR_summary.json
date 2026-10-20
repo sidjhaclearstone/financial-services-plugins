@@ -1,0 +1,140 @@
+{
+"ticker": "OPTIMA-GR",
+"name": "Optima Bank SA",
+"last_fy": 2025,
+"rbics": "Banking / International Banks / Europe, Middle East and Africa Banks",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 74.0,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "2/4",
+"worst_eps_year": [
+2022,
+-20.1
+],
+"eps_series": {
+"2020": -0.57,
+"2021": 0.45,
+"2022": 0.36,
+"2023": 0.64,
+"2024": 0.63,
+"2025": 0.77
+},
+"gaap_eps_series": {
+"2020": -0.57,
+"2021": 0.45,
+"2022": 0.36,
+"2023": 0.64,
+"2024": 0.63,
+"2025": 0.77
+},
+"rev_series_m": {
+"2020": 24,
+"2021": 54,
+"2022": 105,
+"2023": 230,
+"2024": 325,
+"2025": 376
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.11,
+"fcf_conversion_10y": -0.22,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"roic_latest": 21.9,
+"roic_10y_avg": 19.3,
+"roe_latest": 24.9,
+"roe_10y_avg": 22.0,
+"ntm_pe": 11.64,
+"is_reit": "False",
+"price": "15.14295",
+"fcf_yield": 6.3,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.77,
+"std": 0.0,
+"hi": 0.77,
+"lo": 0.77,
+"n": 2
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.988,
+"std": 0.024,
+"hi": 1.02,
+"lo": 0.97,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.203,
+"std": 0.071,
+"hi": 1.3,
+"lo": 1.13,
+"n": 4
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.406,
+"std": 0.1,
+"hi": 1.54,
+"lo": 1.3,
+"n": 4
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+21.8,
+16.9
+],
+"cons_EPS_growth_FY1": 28.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 305.767,
+"std": 14.327,
+"hi": 322.3,
+"lo": 297.0,
+"n": 3
+},
+"FY1": {
+"fy": 2026,
+"mean": 379.462,
+"std": 11.678,
+"hi": 388.7,
+"lo": 361.0,
+"n": 5
+},
+"FY2": {
+"fy": 2027,
+"mean": 465.255,
+"std": 30.563,
+"hi": 496.0,
+"lo": 422.0,
+"n": 5
+},
+"FY3": {
+"fy": 2028,
+"mean": 538.061,
+"std": 38.109,
+"hi": 582.0,
+"lo": 488.0,
+"n": 5
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+22.6,
+15.6
+],
+"cons_SALES_growth_FY1": 24.1,
+"eps_ltg": 24.3,
+"missing": [],
+"fmp_backup": []
+}

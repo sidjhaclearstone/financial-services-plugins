@@ -1,0 +1,157 @@
+{
+"ticker": "ALV-DE",
+"name": "Allianz SE",
+"last_fy": 2025,
+"rbics": "Insurance / Insurance / Diversified Insurance",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 6.8,
+"eps_cagr_5y": 11.9,
+"gaap_eps_cagr_10y": 6.6,
+"rev_cagr_10y": 3.3,
+"rev_cagr_5y": 3.8,
+"shares_cagr_10y": -1.7,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2020,
+-13.3
+],
+"eps_series": {
+"2015": 14.78,
+"2016": 15.05,
+"2017": 15.23,
+"2018": 17.3,
+"2019": 18.83,
+"2020": 16.32,
+"2021": 15.83,
+"2022": 16.26,
+"2023": 22.61,
+"2024": 25.42,
+"2025": 28.61
+},
+"gaap_eps_series": {
+"2015": 14.55,
+"2016": 15.0,
+"2017": 15.23,
+"2018": 17.3,
+"2019": 18.83,
+"2020": 16.32,
+"2021": 15.83,
+"2022": 16.26,
+"2023": 21.55,
+"2024": 25.18,
+"2025": 27.67
+},
+"rev_series_m": {
+"2015": 104231,
+"2016": 104615,
+"2017": 108649,
+"2018": 100736,
+"2019": 109364,
+"2020": 118896,
+"2021": 110490,
+"2022": 112524,
+"2023": 124636,
+"2024": 134871,
+"2025": 143588
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 2.58,
+"fcf_conversion_10y": 3.21,
+"acq_to_fcf_10y": 0.06,
+"buyback_to_fcf_10y": 0.05,
+"div_to_fcf_10y": 0.17,
+"roic_latest": 12.7,
+"roic_10y_avg": 9.2,
+"roe_latest": 18.7,
+"roe_10y_avg": 12.6,
+"adj_vs_gaap_gap_5y_avg_pct": 1.8,
+"adj_vs_gaap_gap_latest_pct": 3.4,
+"ntm_pe": 13.05,
+"is_reit": "False",
+"price": "477.73203",
+"fcf_yield": 19.4,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 28.61,
+"std": null,
+"hi": 28.61,
+"lo": 28.61,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 30.619,
+"std": 0.564,
+"hi": 31.5,
+"lo": 29.6,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 33.118,
+"std": 0.593,
+"hi": 33.9184,
+"lo": 31.82,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 35.667,
+"std": 0.964,
+"hi": 37.03,
+"lo": 33.46,
+"n": 15
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+8.2,
+7.7
+],
+"cons_EPS_growth_FY1": 7.0,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 186900.0,
+"std": null,
+"hi": 186900.0,
+"lo": 186900.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 188286.647,
+"std": 6341.843,
+"hi": 195400.0,
+"lo": 177051.022131761,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 197664.143,
+"std": 6395.262,
+"hi": 203400.0,
+"lo": 186623.961437118,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 208902.154,
+"std": 4211.769,
+"hi": 211806.7711,
+"lo": 202000.0,
+"n": 5
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.0,
+5.7
+],
+"cons_SALES_growth_FY1": 0.7,
+"eps_ltg": 5.333333333333333,
+"missing": [],
+"fmp_backup": []
+}

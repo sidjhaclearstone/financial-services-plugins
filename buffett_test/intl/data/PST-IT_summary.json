@@ -1,0 +1,176 @@
+{
+"ticker": "PST-IT",
+"name": "Poste Italiane SpA",
+"last_fy": 2025,
+"rbics": "Banking / International Banks / Multinational Banks",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 15.0,
+"eps_cagr_5y": 13.0,
+"gaap_eps_cagr_10y": 15.0,
+"rev_cagr_10y": -3.4,
+"rev_cagr_5y": -6.8,
+"shares_cagr_10y": -0.1,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2020,
+-10.2
+],
+"eps_series": {
+"2015": 0.42,
+"2016": 0.47,
+"2017": 0.61,
+"2018": 1.07,
+"2019": 1.03,
+"2020": 0.93,
+"2021": 1.21,
+"2022": 1.16,
+"2023": 1.48,
+"2024": 1.54,
+"2025": 1.71
+},
+"gaap_eps_series": {
+"2015": 0.42,
+"2016": 0.48,
+"2017": 0.53,
+"2018": 1.07,
+"2019": 1.03,
+"2020": 0.93,
+"2021": 1.21,
+"2022": 1.16,
+"2023": 1.48,
+"2024": 1.54,
+"2025": 1.71
+},
+"rev_series_m": {
+"2015": 29773,
+"2016": 33048,
+"2017": 33441,
+"2018": 29717,
+"2019": 32760,
+"2020": 30019,
+"2021": 31710,
+"2022": 31878,
+"2023": 20140,
+"2024": 21158,
+"2025": 21055
+},
+"ebit_margin_series": {
+"2015": 3.5,
+"2016": 6.5,
+"2017": 5.2,
+"2018": 7.5,
+"2019": 7.0,
+"2020": 6.9,
+"2021": 6.9,
+"2022": 8.1,
+"2023": 15.2,
+"2024": 14.5,
+"2025": 17.4
+},
+"ebit_margin_latest": 17.4,
+"ebit_margin_10y_avg": 9.0,
+"ebit_margin_10y_max": 17.4,
+"ebit_margin_10y_min": 3.5,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.74,
+"fcf_conversion_10y": 0.77,
+"acq_to_fcf_10y": 0.09,
+"buyback_to_fcf_10y": 0.01,
+"div_to_fcf_10y": 0.71,
+"net_debt_m": 68469,
+"net_debt_ebitda": 14.74,
+"roic_latest": 11.2,
+"roic_10y_avg": 8.2,
+"roe_latest": 18.6,
+"roe_10y_avg": 15.0,
+"adj_vs_gaap_gap_5y_avg_pct": -0.0,
+"adj_vs_gaap_gap_latest_pct": -0.0,
+"ntm_pe": 12.32,
+"is_reit": "False",
+"price": "26.976885",
+"fcf_yield": 4.9,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.71,
+"std": null,
+"hi": 1.71,
+"lo": 1.71,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.881,
+"std": 0.15,
+"hi": 2.084,
+"lo": 1.5190708623,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.97,
+"std": 0.125,
+"hi": 2.14,
+"lo": 1.69,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.129,
+"std": 0.131,
+"hi": 2.33,
+"lo": 1.885189,
+"n": 14
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+4.8,
+8.1
+],
+"cons_EPS_growth_FY1": 10.0,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 13121.0,
+"std": null,
+"hi": 13121.0,
+"lo": 13121.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 13738.563,
+"std": 113.877,
+"hi": 13896.5873460175,
+"lo": 13542.0505181482,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 14191.045,
+"std": 253.179,
+"hi": 14609.2673812422,
+"lo": 13814.3790935674,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 14671.845,
+"std": 307.602,
+"hi": 15164.9858499644,
+"lo": 14184.9438487244,
+"n": 10
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.3,
+3.4
+],
+"cons_SALES_growth_FY1": 4.7,
+"eps_ltg": 7.61454516825,
+"missing": [],
+"fmp_backup": []
+}

@@ -1,0 +1,176 @@
+{
+"ticker": "BATS-GB",
+"name": "British American Tobacco p.l.c.",
+"last_fy": 2025,
+"rbics": "Food and Tobacco Production / Tobacco Production / Cigarette Manufacturing",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 5.4,
+"eps_cagr_5y": 1.2,
+"gaap_eps_cagr_10y": 4.2,
+"rev_cagr_10y": 6.9,
+"rev_cagr_5y": -0.1,
+"shares_cagr_10y": 1.7,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2024,
+-3.5
+],
+"eps_series": {
+"2015": 2.08,
+"2016": 2.47,
+"2017": 2.84,
+"2018": 2.97,
+"2019": 3.24,
+"2020": 3.32,
+"2021": 3.29,
+"2022": 3.71,
+"2023": 3.76,
+"2024": 3.62,
+"2025": 3.52
+},
+"gaap_eps_series": {
+"2015": 2.3,
+"2016": 2.49,
+"2017": 18.3,
+"2018": 2.63,
+"2019": 2.49,
+"2020": 2.79,
+"2021": 2.96,
+"2022": 2.92,
+"2023": -6.47,
+"2024": 1.36,
+"2025": 3.49
+},
+"rev_series_m": {
+"2015": 13104,
+"2016": 14893,
+"2017": 20240,
+"2018": 24477,
+"2019": 25865,
+"2020": 25760,
+"2021": 25713,
+"2022": 27671,
+"2023": 27334,
+"2024": 25900,
+"2025": 25639
+},
+"ebit_margin_series": {
+"2015": 36.3,
+"2016": 36.4,
+"2017": 34.9,
+"2018": 40.2,
+"2019": 42.6,
+"2020": 44.1,
+"2021": 43.0,
+"2022": 43.0,
+"2023": 45.9,
+"2024": 14.5,
+"2025": 39.8
+},
+"ebit_margin_latest": 39.8,
+"ebit_margin_10y_avg": 38.2,
+"ebit_margin_10y_max": 45.9,
+"ebit_margin_10y_min": 14.5,
+"margin_pctile_in_history": 45,
+"latest_eps_vs_10y_max": 0.94,
+"fcf_conversion_5y": 3.77,
+"fcf_conversion_10y": 0.93,
+"acq_to_fcf_10y": 0.28,
+"buyback_to_fcf_10y": 0.07,
+"div_to_fcf_10y": 0.7,
+"net_debt_m": 31227,
+"net_debt_ebitda": 2.51,
+"roic_latest": 9.5,
+"roic_10y_avg": 10.8,
+"roe_latest": 15.7,
+"roe_10y_avg": 22.7,
+"adj_vs_gaap_gap_5y_avg_pct": 51.5,
+"adj_vs_gaap_gap_latest_pct": 0.9,
+"ntm_pe": 11.59,
+"is_reit": "False",
+"price": "59.1163825",
+"fcf_yield": 4.3,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.521,
+"std": null,
+"hi": 3.5209999212995164,
+"lo": 3.5209999212995164,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.613,
+"std": 0.076,
+"hi": 3.7999999150633803,
+"lo": 3.536599920950829,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 3.884,
+"std": 0.103,
+"hi": 4.10999990813434,
+"lo": 3.689999917522072,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 4.203,
+"std": 0.166,
+"hi": 4.4899998996406785,
+"lo": 3.7699999157339326,
+"n": 13
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+7.5,
+8.2
+],
+"cons_EPS_growth_FY1": 2.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 26414.0,
+"std": null,
+"hi": 26414.0,
+"lo": 26414.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 26161.465,
+"std": 97.323,
+"hi": 26385.0,
+"lo": 26049.7700949306,
+"n": 12
+},
+"FY2": {
+"fy": 2027,
+"mean": 27115.143,
+"std": 294.585,
+"hi": 27871.961596,
+"lo": 26883.0,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 28159.817,
+"std": 482.56,
+"hi": 29238.216602,
+"lo": 27521.0,
+"n": 11
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.6,
+3.9
+],
+"cons_SALES_growth_FY1": -1.0,
+"eps_ltg": 6.4428227114,
+"missing": [],
+"fmp_backup": []
+}

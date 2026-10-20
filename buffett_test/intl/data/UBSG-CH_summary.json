@@ -1,0 +1,157 @@
+{
+"ticker": "UBSG-CH",
+"name": "UBS Group AG",
+"last_fy": 2025,
+"rbics": "Investment Services / Investment Services / Asset Management and Financial Advisory Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 6.5,
+"eps_cagr_5y": 9.0,
+"gaap_eps_cagr_10y": 3.3,
+"rev_cagr_10y": 7.1,
+"rev_cagr_5y": 19.6,
+"shares_cagr_10y": -1.4,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2023,
+-84.6
+],
+"eps_series": {
+"2015": 1.47,
+"2016": 1.15,
+"2017": 0.3,
+"2018": 1.2,
+"2019": 1.14,
+"2020": 1.79,
+"2021": 2.06,
+"2022": 2.25,
+"2023": 0.35,
+"2024": 1.52,
+"2025": 2.75
+},
+"gaap_eps_series": {
+"2015": 1.7,
+"2016": 0.85,
+"2017": 0.27,
+"2018": 1.18,
+"2019": 1.14,
+"2020": 1.77,
+"2021": 2.06,
+"2022": 2.25,
+"2023": 8.45,
+"2024": 1.52,
+"2025": 2.36
+},
+"rev_series_m": {
+"2015": 39715,
+"2016": 37977,
+"2017": 39192,
+"2018": 42755,
+"2019": 34023,
+"2020": 32238,
+"2021": 34553,
+"2022": 34384,
+"2023": 71552,
+"2024": 86878,
+"2025": 78940
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.98,
+"fcf_conversion_10y": 0.82,
+"acq_to_fcf_10y": 0.01,
+"buyback_to_fcf_10y": 0.43,
+"div_to_fcf_10y": 0.37,
+"roic_latest": 1.8,
+"roic_10y_avg": 2.7,
+"roe_latest": 8.7,
+"roe_10y_avg": 11.7,
+"adj_vs_gaap_gap_5y_avg_pct": -15.8,
+"adj_vs_gaap_gap_latest_pct": 16.5,
+"ntm_pe": 11.51,
+"is_reit": "False",
+"price": "47.326672721768084",
+"fcf_yield": -12.1,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.75,
+"std": null,
+"hi": 2.750075,
+"lo": 2.750075,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.629,
+"std": 0.123,
+"hi": 3.7916556737,
+"lo": 3.3,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.231,
+"std": 0.195,
+"hi": 4.517292,
+"lo": 3.9,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 4.779,
+"std": 0.273,
+"hi": 5.12,
+"lo": 4.21,
+"n": 17
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+16.6,
+12.9
+],
+"cons_EPS_growth_FY1": 31.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 47848.0,
+"std": null,
+"hi": 47848.0,
+"lo": 47848.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 53331.846,
+"std": 1106.009,
+"hi": 54538.464,
+"lo": 50663.0,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 54899.779,
+"std": 1134.499,
+"hi": 56252.88,
+"lo": 52120.0,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 56912.417,
+"std": 1325.319,
+"hi": 58885.109,
+"lo": 53870.0,
+"n": 14
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.9,
+3.7
+],
+"cons_SALES_growth_FY1": 11.5,
+"eps_ltg": 19.39635483545,
+"missing": [],
+"fmp_backup": []
+}

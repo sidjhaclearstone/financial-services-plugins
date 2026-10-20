@@ -1,0 +1,157 @@
+{
+"ticker": "SHB.A-SE",
+"name": "Svenska Handelsbanken AB",
+"last_fy": 2025,
+"rbics": "Banking / International Banks / Europe, Middle East and Africa Banks",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 5.7,
+"eps_cagr_5y": 12.5,
+"gaap_eps_cagr_10y": 3.6,
+"rev_cagr_10y": 9.7,
+"rev_cagr_5y": 19.4,
+"shares_cagr_10y": 0.0,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2020,
+-9.0
+],
+"eps_series": {
+"2015": 6.5,
+"2016": 6.41,
+"2017": 6.6,
+"2018": 7.11,
+"2019": 6.89,
+"2020": 6.27,
+"2021": 7.91,
+"2022": 8.9,
+"2023": 12.22,
+"2024": 12.08,
+"2025": 11.29
+},
+"gaap_eps_series": {
+"2015": 8.39,
+"2016": 8.3,
+"2017": 8.2,
+"2018": 8.79,
+"2019": 8.58,
+"2020": 7.87,
+"2021": 9.86,
+"2022": 10.84,
+"2023": 14.7,
+"2024": 13.86,
+"2025": 11.98
+},
+"rev_series_m": {
+"2015": 57725,
+"2016": 54636,
+"2017": 56045,
+"2018": 63635,
+"2019": 68915,
+"2020": 59918,
+"2021": 51171,
+"2022": 82435,
+"2023": 175680,
+"2024": 188170,
+"2025": 145245
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 0.92,
+"fcf_conversion_5y": 0.43,
+"fcf_conversion_10y": 1.24,
+"acq_to_fcf_10y": 0.0,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 0.58,
+"roic_latest": 1.9,
+"roic_10y_avg": 2.0,
+"roe_latest": 11.7,
+"roe_10y_avg": 11.7,
+"adj_vs_gaap_gap_5y_avg_pct": -14.7,
+"adj_vs_gaap_gap_latest_pct": -5.8,
+"ntm_pe": 12.63,
+"is_reit": "False",
+"price": "15.45325164272809",
+"fcf_yield": 17.9,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 11.286,
+"std": null,
+"hi": 11.2859543584,
+"lo": 11.2859543584,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 11.434,
+"std": 0.243,
+"hi": 11.8478520648,
+"lo": 11.0306473058,
+"n": 21
+},
+"FY2": {
+"fy": 2027,
+"mean": 12.291,
+"std": 0.37,
+"hi": 12.989612,
+"lo": 11.8116445983,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 12.743,
+"std": 0.378,
+"hi": 13.59,
+"lo": 12.0599,
+"n": 20
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+7.5,
+3.7
+],
+"cons_EPS_growth_FY1": 1.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 56796.0,
+"std": null,
+"hi": 56796.0,
+"lo": 56796.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 56588.971,
+"std": 440.425,
+"hi": 57181.2774039458,
+"lo": 55372.0,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 59448.8,
+"std": 754.059,
+"hi": 60927.5986943119,
+"lo": 58218.860479,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 61341.967,
+"std": 649.834,
+"hi": 62552.0,
+"lo": 60276.0,
+"n": 18
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.1,
+3.2
+],
+"cons_SALES_growth_FY1": -0.4,
+"eps_ltg": 1.4215685784,
+"missing": [],
+"fmp_backup": []
+}

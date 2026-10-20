@@ -1,0 +1,209 @@
+{
+"ticker": "LUMO-FI",
+"name": "Lumo Homes Plc",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment and Services / Property Owners",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": -1.3,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 3.4,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "2/7",
+"worst_eps_year": [
+2024,
+-11.8
+],
+"eps_series": {
+"2018": 0.47,
+"2019": 0.57,
+"2020": 0.61,
+"2021": 0.62,
+"2022": 0.65,
+"2023": 0.68,
+"2024": 0.6,
+"2025": 0.57
+},
+"gaap_eps_series": {
+"2016": 0.94,
+"2017": 0.86,
+"2018": 0.93,
+"2019": 3.34,
+"2020": 1.27,
+"2021": 4.14,
+"2022": -1.62,
+"2023": -0.36,
+"2024": 0.09,
+"2025": 0.08
+},
+"rev_series_m": {
+"2016": 344,
+"2017": 342,
+"2018": 361,
+"2019": 378,
+"2020": 388,
+"2021": 396,
+"2022": 417,
+"2023": 446,
+"2024": 456,
+"2025": 459
+},
+"ebit_margin_series": {
+"2016": 51.0,
+"2017": 53.1,
+"2018": 54.2,
+"2019": 55.4,
+"2020": 57.1,
+"2021": 57.4,
+"2022": 57.4,
+"2023": 56.9,
+"2024": 58.0,
+"2025": 58.7
+},
+"ebit_margin_latest": 58.7,
+"ebit_margin_10y_avg": 55.9,
+"ebit_margin_10y_max": 58.7,
+"ebit_margin_10y_min": 51.0,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 0.84,
+"fcf_conversion_5y": 1.36,
+"fcf_conversion_10y": 0.41,
+"acq_to_fcf_10y": 0.0,
+"buyback_to_fcf_10y": 0.06,
+"div_to_fcf_10y": 0.66,
+"net_debt_m": 3152,
+"net_debt_ebitda": 11.65,
+"roic_latest": 0.3,
+"roic_10y_avg": 4.5,
+"roe_latest": 0.6,
+"roe_10y_avg": 8.6,
+"adj_vs_gaap_gap_5y_avg_pct": 362.9,
+"adj_vs_gaap_gap_latest_pct": 574.6,
+"ntm_pe": 12.08,
+"is_reit": "True",
+"price": "7.728513",
+"fcf_yield": -2.3,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.08,
+"std": null,
+"hi": 0.08,
+"lo": 0.08,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.455,
+"std": 0.06,
+"hi": 0.51,
+"lo": 0.37,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.636,
+"std": 0.174,
+"hi": 0.86,
+"lo": 0.46,
+"n": 5
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.662,
+"std": 0.215,
+"hi": 0.87,
+"lo": 0.4,
+"n": 5
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+39.8,
+4.1
+],
+"cons_EPS_growth_FY1": 468.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 455.2,
+"std": null,
+"hi": 455.2,
+"lo": 455.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 491.341,
+"std": 1.55,
+"hi": 494.0,
+"lo": 489.471,
+"n": 9
+},
+"FY2": {
+"fy": 2027,
+"mean": 519.421,
+"std": 4.322,
+"hi": 530.0,
+"lo": 516.0,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 533.453,
+"std": 7.477,
+"hi": 549.0,
+"lo": 526.0,
+"n": 9
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.7,
+2.7
+],
+"cons_SALES_growth_FY1": 7.9,
+"cons_FFO": {
+"FY0": {
+"fy": 2025,
+"mean": 0.57,
+"std": null,
+"hi": 0.57,
+"lo": 0.57,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.572,
+"std": 0.008,
+"hi": 0.58,
+"lo": 0.56,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.57,
+"std": 0.02,
+"hi": 0.6,
+"lo": 0.55,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.56,
+"std": 0.036,
+"hi": 0.61,
+"lo": 0.51,
+"n": 6
+}
+},
+"cons_FFO_growth_FY2_FY3": [
+-0.3,
+-1.8
+],
+"cons_FFO_growth_FY1": 0.3,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}
