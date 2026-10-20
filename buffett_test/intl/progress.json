@@ -1,7 +1,7 @@
 {
  "run": "Europe & India",
- "stage": "3-review",
- "status": "RESUMED 2026-10-20T03:16Z; completing P1/P2 triage reviews",
+ "stage": "4",
+ "status": "Stage 4 running",
  "batches": {
   "06": "done",
   "01": "done",
@@ -58,5 +58,6 @@
  "phase2_batches": "31-50",
  "p1_triage": "KEEP 12 / TOO HARD 136 / NO 451",
  "p2_triage": "KEEP 7 / TOO HARD 76 / NO 304",
- "note": "P1 and P2 triage reviews FAILED mid-run (API spend limit, 429). Re-run both reviews on resume before Stage 4."
+ "note": "P1 and P2 triage reviews FAILED mid-run (API spend limit, 429). Re-run both reviews on resume before Stage 4.",
+ "triage_final": "P1 KEEP 12, P2 KEEP 5"
 }

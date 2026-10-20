@@ -9,3 +9,4 @@ Follow `/home/user/financial-services-plugins/buffett_test/scripts/stage4_prompt
 - JSON line adds: "region", "country", "phase", "fcf_yield", "currency" and "triage":"KEEP".
 - Section 3 (what the market doubts): explain the high FCF yield / low P/E, including any country, governance or state-ownership discount.
 - Calibration: stay consistent with the US anchors — skim 2 comparable US analyses in `../analyses/` (see `../analyses/_results_final_v2.jsonl`) before setting probabilities.
+- **FCF check (Phase 1):** for names whose FCF yield ≥6% rests on NTM consensus while LTM FCF yield is far lower (HLMA, ADYEN, EVD flagged by the reviewer), reconcile the two (customer float, working capital, capex timing). If the ≥6% cannot be supported, say so in the header, set "fcf_check":"FAIL" in the JSON line (Test 1 then fails on FCF; note whether P/E <15x rescues it), else "fcf_check":"OK".
