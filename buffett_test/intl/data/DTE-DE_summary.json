@@ -1,0 +1,176 @@
+{
+"ticker": "DTE-DE",
+"name": "Deutsche Telekom AG",
+"last_fy": 2025,
+"rbics": "Telecommunications / General Telecommunications Services / Other United States Telecommunications Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 9.8,
+"eps_cagr_5y": 10.8,
+"gaap_eps_cagr_10y": 10.8,
+"rev_cagr_10y": 5.6,
+"rev_cagr_5y": 3.3,
+"shares_cagr_10y": 0.7,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2018,
+-25.0
+],
+"eps_series": {
+"2015": 0.79,
+"2016": 0.89,
+"2017": 1.28,
+"2018": 0.96,
+"2019": 1.04,
+"2020": 1.2,
+"2021": 1.22,
+"2022": 1.83,
+"2023": 1.6,
+"2024": 1.9,
+"2025": 2.0
+},
+"gaap_eps_series": {
+"2015": 0.71,
+"2016": 0.58,
+"2017": 0.74,
+"2018": 0.46,
+"2019": 0.82,
+"2020": 0.88,
+"2021": 0.87,
+"2022": 1.61,
+"2023": 3.57,
+"2024": 2.27,
+"2025": 1.97
+},
+"rev_series_m": {
+"2015": 69228,
+"2016": 73095,
+"2017": 74947,
+"2018": 75656,
+"2019": 80531,
+"2020": 100999,
+"2021": 108794,
+"2022": 114197,
+"2023": 111970,
+"2024": 115769,
+"2025": 119081
+},
+"ebit_margin_series": {
+"2015": 8.4,
+"2016": 10.3,
+"2017": 12.5,
+"2018": 10.4,
+"2019": 11.7,
+"2020": 12.3,
+"2021": 12.8,
+"2022": 13.6,
+"2023": 20.7,
+"2024": 22.2,
+"2025": 22.5
+},
+"ebit_margin_latest": 22.5,
+"ebit_margin_10y_avg": 14.3,
+"ebit_margin_10y_max": 22.5,
+"ebit_margin_10y_min": 8.4,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 2.16,
+"fcf_conversion_10y": 1.85,
+"acq_to_fcf_10y": 0.57,
+"buyback_to_fcf_10y": 0.04,
+"div_to_fcf_10y": 0.36,
+"net_debt_m": 133354,
+"net_debt_ebitda": 2.63,
+"roic_latest": 5.0,
+"roic_10y_avg": 3.8,
+"roe_latest": 15.3,
+"roe_10y_avg": 12.1,
+"adj_vs_gaap_gap_5y_avg_pct": -3.2,
+"adj_vs_gaap_gap_latest_pct": 1.4,
+"ntm_pe": 10.17,
+"is_reit": "False",
+"price": "28.681869",
+"fcf_yield": 17.1,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.0,
+"std": null,
+"hi": 2.0,
+"lo": 2.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.265,
+"std": 0.095,
+"hi": 2.39,
+"lo": 2.02,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.574,
+"std": 0.147,
+"hi": 2.91,
+"lo": 2.27,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.831,
+"std": 0.178,
+"hi": 3.32,
+"lo": 2.49,
+"n": 17
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+13.7,
+10.0
+],
+"cons_EPS_growth_FY1": 13.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 119081.0,
+"std": null,
+"hi": 119081.0,
+"lo": 119081.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 123186.093,
+"std": 785.346,
+"hi": 124891.0,
+"lo": 121839.0,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 128083.584,
+"std": 1559.63,
+"hi": 130673.027066202,
+"lo": 126115.0,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 131970.932,
+"std": 1414.618,
+"hi": 135080.359,
+"lo": 130273.0,
+"n": 16
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.0,
+3.0
+],
+"cons_SALES_growth_FY1": 3.4,
+"eps_ltg": 15.038761084466667,
+"missing": [],
+"fmp_backup": []
+}

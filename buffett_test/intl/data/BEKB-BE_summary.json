@@ -1,0 +1,176 @@
+{
+"ticker": "BEKB-BE",
+"name": "Bekaert SA",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Machinery Manufacturing / Other Machinery Manufacturing",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 9.4,
+"eps_cagr_5y": 14.0,
+"gaap_eps_cagr_10y": -3.1,
+"rev_cagr_10y": 0.1,
+"rev_cagr_5y": -0.4,
+"shares_cagr_10y": -1.0,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2018,
+-73.8
+],
+"eps_series": {
+"2015": 1.81,
+"2016": 2.39,
+"2017": 2.67,
+"2018": 0.7,
+"2019": 1.54,
+"2020": 2.31,
+"2021": 7.0,
+"2022": 6.16,
+"2023": 5.16,
+"2024": 4.82,
+"2025": 4.44
+},
+"gaap_eps_series": {
+"2015": 1.82,
+"2016": 1.85,
+"2017": 2.67,
+"2018": 0.51,
+"2019": 0.73,
+"2020": 2.27,
+"2021": 7.06,
+"2022": 4.74,
+"2023": 4.72,
+"2024": 4.55,
+"2025": 1.33
+},
+"rev_series_m": {
+"2015": 3671,
+"2016": 3715,
+"2017": 4098,
+"2018": 4305,
+"2019": 4322,
+"2020": 3772,
+"2021": 4840,
+"2022": 5652,
+"2023": 4328,
+"2024": 3958,
+"2025": 3706
+},
+"ebit_margin_series": {
+"2015": 5.8,
+"2016": 8.5,
+"2017": 7.1,
+"2018": 2.5,
+"2019": 5.0,
+"2020": 7.3,
+"2021": 10.1,
+"2022": 6.6,
+"2023": 8.7,
+"2024": 8.2,
+"2025": 7.8
+},
+"ebit_margin_latest": 7.8,
+"ebit_margin_10y_avg": 7.1,
+"ebit_margin_10y_max": 10.1,
+"ebit_margin_10y_min": 2.5,
+"margin_pctile_in_history": 64,
+"latest_eps_vs_10y_max": 0.63,
+"fcf_conversion_5y": 0.96,
+"fcf_conversion_10y": 1.21,
+"acq_to_fcf_10y": 0.04,
+"buyback_to_fcf_10y": 0.17,
+"div_to_fcf_10y": 0.31,
+"net_debt_m": 189,
+"net_debt_ebitda": 0.41,
+"roic_latest": 2.6,
+"roic_10y_avg": 6.5,
+"roe_latest": 3.1,
+"roe_10y_avg": 9.8,
+"adj_vs_gaap_gap_5y_avg_pct": 55.9,
+"adj_vs_gaap_gap_latest_pct": 235.0,
+"ntm_pe": 8.43,
+"is_reit": "False",
+"price": "43.85847",
+"fcf_yield": 10.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 4.442,
+"std": 0.148,
+"hi": 4.52,
+"lo": 4.22,
+"n": 4
+},
+"FY1": {
+"fy": 2026,
+"mean": 4.169,
+"std": 0.353,
+"hi": 4.6,
+"lo": 3.7,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.757,
+"std": 0.386,
+"hi": 5.21,
+"lo": 4.19,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 5.114,
+"std": 0.648,
+"hi": 5.74,
+"lo": 3.82,
+"n": 7
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+14.1,
+7.5
+],
+"cons_EPS_growth_FY1": -6.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 3705.95,
+"std": 0.084,
+"hi": 3706.0,
+"lo": 3705.8,
+"n": 6
+},
+"FY1": {
+"fy": 2026,
+"mean": 3670.95,
+"std": 19.569,
+"hi": 3706.0,
+"lo": 3655.0,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 3795.317,
+"std": 89.257,
+"hi": 3885.0,
+"lo": 3647.0,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 3908.533,
+"std": 146.274,
+"hi": 4048.0,
+"lo": 3664.0,
+"n": 6
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.4,
+3.0
+],
+"cons_SALES_growth_FY1": -0.9,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

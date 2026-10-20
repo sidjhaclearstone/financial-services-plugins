@@ -1,0 +1,176 @@
+{
+"ticker": "HEIO-NL",
+"name": "Heineken Holding N.V.",
+"last_fy": 2025,
+"rbics": "Food and Tobacco Production / Food and Beverage Production / Beverages Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 10.8,
+"eps_cagr_5y": 36.5,
+"gaap_eps_cagr_10y": 0.4,
+"rev_cagr_10y": 3.4,
+"rev_cagr_5y": 7.8,
+"shares_cagr_10y": -0.0,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2020,
+-54.3
+],
+"eps_series": {
+"2015": 3.38,
+"2016": 3.74,
+"2017": 3.39,
+"2018": 4.25,
+"2019": 4.38,
+"2020": 2.0,
+"2021": 3.54,
+"2022": 4.92,
+"2023": 4.67,
+"2024": 4.89,
+"2025": 9.47
+},
+"gaap_eps_series": {
+"2015": 3.25,
+"2016": 2.77,
+"2017": 3.46,
+"2018": 3.41,
+"2019": 3.78,
+"2020": -0.35,
+"2021": 5.78,
+"2022": 4.67,
+"2023": 4.13,
+"2024": 1.76,
+"2025": 3.39
+},
+"rev_series_m": {
+"2015": 20511,
+"2016": 20792,
+"2017": 21888,
+"2018": 22471,
+"2019": 23969,
+"2020": 19715,
+"2021": 21941,
+"2022": 28719,
+"2023": 30362,
+"2024": 29821,
+"2025": 28753
+},
+"ebit_margin_series": {
+"2015": 13.8,
+"2016": 14.6,
+"2017": 15.6,
+"2018": 14.8,
+"2019": 15.4,
+"2020": 10.0,
+"2021": 14.8,
+"2022": 14.0,
+"2023": 10.4,
+"2024": 11.7,
+"2025": 12.9
+},
+"ebit_margin_latest": 12.9,
+"ebit_margin_10y_avg": 13.5,
+"ebit_margin_10y_max": 15.6,
+"ebit_margin_10y_min": 10.0,
+"margin_pctile_in_history": 36,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 2.21,
+"fcf_conversion_10y": 2.33,
+"acq_to_fcf_10y": 0.17,
+"buyback_to_fcf_10y": 0.09,
+"div_to_fcf_10y": 0.41,
+"net_debt_m": 14463,
+"net_debt_ebitda": 2.41,
+"roic_latest": 4.0,
+"roic_10y_avg": 4.4,
+"roe_latest": 10.5,
+"roe_10y_avg": 11.8,
+"adj_vs_gaap_gap_5y_avg_pct": 67.4,
+"adj_vs_gaap_gap_latest_pct": 179.6,
+"ntm_pe": 11.83,
+"is_reit": "False",
+"price": "81.491505",
+"fcf_yield": 12.9,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 9.47,
+"std": null,
+"hi": 9.469568,
+"lo": 9.469568,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5.454,
+"std": null,
+"hi": 5.4535,
+"lo": 5.4535,
+"n": 1
+},
+"FY2": {
+"fy": 2027,
+"mean": 6.313,
+"std": null,
+"hi": 6.3127,
+"lo": 6.3127,
+"n": 1
+},
+"FY3": {
+"fy": 2028,
+"mean": 7.164,
+"std": null,
+"hi": 7.1641,
+"lo": 7.1641,
+"n": 1
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+15.8,
+13.5
+],
+"cons_EPS_growth_FY1": -42.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 28753.0,
+"std": null,
+"hi": 28753.0,
+"lo": 28753.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 31008.086,
+"std": null,
+"hi": 31008.0858,
+"lo": 31008.0858,
+"n": 1
+},
+"FY2": {
+"fy": 2027,
+"mean": 32556.955,
+"std": null,
+"hi": 32556.9554,
+"lo": 32556.9554,
+"n": 1
+},
+"FY3": {
+"fy": 2028,
+"mean": 33949.293,
+"std": null,
+"hi": 33949.2932,
+"lo": 33949.2932,
+"n": 1
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.0,
+4.3
+],
+"cons_SALES_growth_FY1": 7.8,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

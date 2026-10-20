@@ -1,0 +1,176 @@
+{
+"ticker": "EDV-CA",
+"name": "Endeavour Mining PLC",
+"last_fy": 2025,
+"rbics": "Mining and Mineral Products / Metal Ore Mining / Precious Metal Mining",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 12.6,
+"eps_cagr_5y": 5.2,
+"gaap_eps_cagr_10y": 20.6,
+"rev_cagr_10y": 21.6,
+"rev_cagr_5y": 24.3,
+"shares_cagr_10y": 19.1,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2023,
+-42.9
+],
+"eps_series": {
+"2015": 0.99,
+"2016": 1.15,
+"2017": 0.67,
+"2018": 0.49,
+"2019": 0.67,
+"2020": 2.51,
+"2021": 2.4,
+"2022": 1.63,
+"2023": 0.93,
+"2024": 0.93,
+"2025": 3.23
+},
+"gaap_eps_series": {
+"2015": 0.42,
+"2016": -0.81,
+"2017": -1.32,
+"2018": -0.71,
+"2019": -1.49,
+"2020": 0.44,
+"2021": 0.95,
+"2022": -0.3,
+"2023": -0.13,
+"2024": -1.23,
+"2025": 2.74
+},
+"rev_series_m": {
+"2015": 601,
+"2016": 673,
+"2017": 652,
+"2018": 752,
+"2019": 886,
+"2020": 1424,
+"2021": 2778,
+"2022": 2508,
+"2023": 2115,
+"2024": 2676,
+"2025": 4234
+},
+"ebit_margin_series": {
+"2015": 13.2,
+"2016": 18.9,
+"2017": 10.7,
+"2018": 12.6,
+"2019": 17.9,
+"2020": 31.1,
+"2021": 27.8,
+"2022": 24.7,
+"2023": 27.8,
+"2024": 21.9,
+"2025": 44.1
+},
+"ebit_margin_latest": 44.1,
+"ebit_margin_10y_avg": 22.8,
+"ebit_margin_10y_max": 44.1,
+"ebit_margin_10y_min": 10.7,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 4.64,
+"fcf_conversion_10y": 8.53,
+"acq_to_fcf_10y": 0.06,
+"buyback_to_fcf_10y": 0.2,
+"div_to_fcf_10y": 0.41,
+"net_debt_m": 232,
+"net_debt_ebitda": 0.09,
+"roic_latest": 18.1,
+"roic_10y_avg": -0.8,
+"roe_latest": 23.6,
+"roe_10y_avg": -1.4,
+"adj_vs_gaap_gap_5y_avg_pct": 85.6,
+"adj_vs_gaap_gap_latest_pct": 17.7,
+"ntm_pe": 8.31,
+"is_reit": "False",
+"price": "55.00159682055286",
+"fcf_yield": 15.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.23,
+"std": null,
+"hi": 3.23,
+"lo": 3.23,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5.398,
+"std": 0.66,
+"hi": 7.0,
+"lo": 4.4737,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 6.919,
+"std": 0.872,
+"hi": 8.43,
+"lo": 5.58,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 6.851,
+"std": 0.913,
+"hi": 8.27,
+"lo": 5.31,
+"n": 13
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+28.2,
+-1.0
+],
+"cons_EPS_growth_FY1": 67.1,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 4234.0,
+"std": null,
+"hi": 4234.0,
+"lo": 4234.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5232.795,
+"std": 350.061,
+"hi": 6371.0,
+"lo": 4994.523,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 5855.609,
+"std": 683.667,
+"hi": 7533.0,
+"lo": 5075.16,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 5850.872,
+"std": 579.364,
+"hi": 7024.0,
+"lo": 4865.01,
+"n": 12
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+11.9,
+-0.1
+],
+"cons_SALES_growth_FY1": 23.6,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

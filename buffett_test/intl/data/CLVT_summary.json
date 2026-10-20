@@ -1,0 +1,166 @@
+{
+"ticker": "CLVT-US",
+"name": "Clarivate PLC",
+"last_fy": 2025,
+"rbics": "Business Services / Other Professional Services / Administrative Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 1.5,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 14.4,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "3/6",
+"worst_eps_year": [
+2024,
+-11.0
+],
+"eps_series": {
+"2019": 0.53,
+"2020": 0.64,
+"2021": 0.72,
+"2022": 0.85,
+"2023": 0.82,
+"2024": 0.73,
+"2025": 0.69
+},
+"gaap_eps_series": {
+"2017": -160.83,
+"2018": -147.14,
+"2019": -0.77,
+"2020": -0.73,
+"2021": -0.61,
+"2022": -6.24,
+"2023": -1.47,
+"2024": -0.96,
+"2025": -0.3
+},
+"rev_series_m": {
+"2017": 918,
+"2018": 968,
+"2019": 974,
+"2020": 1254,
+"2021": 1877,
+"2022": 2660,
+"2023": 2629,
+"2024": 2557,
+"2025": 2455
+},
+"ebit_margin_series": {
+"2017": -7.2,
+"2018": -5.0,
+"2019": 0.7,
+"2020": -0.2,
+"2021": 2.4,
+"2022": 10.0,
+"2023": 10.4,
+"2024": 9.1,
+"2025": 7.3
+},
+"ebit_margin_latest": 7.3,
+"ebit_margin_10y_avg": 3.1,
+"ebit_margin_10y_max": 10.4,
+"ebit_margin_10y_min": -7.2,
+"margin_pctile_in_history": 67,
+"latest_eps_vs_10y_max": 0.81,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 3.88,
+"buyback_to_fcf_10y": 0.48,
+"div_to_fcf_10y": 0.11,
+"net_debt_m": 4150,
+"net_debt_ebitda": 4.44,
+"roic_latest": -2.1,
+"roic_10y_avg": -8.0,
+"roe_latest": -4.0,
+"roe_10y_avg": -14.8,
+"adj_vs_gaap_gap_5y_avg_pct": null,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 2.29,
+"is_reit": "False",
+"price": "1.76",
+"fcf_yield": 30.8,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.69,
+"std": null,
+"hi": 0.69,
+"lo": 0.69,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.741,
+"std": 0.029,
+"hi": 0.79,
+"lo": 0.7098839029,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.773,
+"std": 0.072,
+"hi": 0.88,
+"lo": 0.6489716326,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.882,
+"std": 0.145,
+"hi": 1.1,
+"lo": 0.7016899246,
+"n": 7
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+4.4,
+14.0
+],
+"cons_EPS_growth_FY1": 7.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2455.2,
+"std": null,
+"hi": 2455.2,
+"lo": 2455.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2307.93,
+"std": 71.371,
+"hi": 2356.721,
+"lo": 2169.6,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 2283.448,
+"std": 182.673,
+"hi": 2407.1,
+"lo": 2005.0,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 2315.774,
+"std": 194.268,
+"hi": 2477.856,
+"lo": 2042.0,
+"n": 6
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+-1.1,
+1.4
+],
+"cons_SALES_growth_FY1": -6.0,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

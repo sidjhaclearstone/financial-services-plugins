@@ -1,0 +1,173 @@
+{
+"ticker": "ALTA-FR",
+"name": "Altarea SCA",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment and Services / Other Real Estate Investment and Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -6.9,
+"eps_cagr_5y": -13.4,
+"gaap_eps_cagr_10y": -26.9,
+"rev_cagr_10y": 5.4,
+"rev_cagr_5y": -7.4,
+"shares_cagr_10y": 5.9,
+"years_eps_growth_ge7": "2/4",
+"worst_eps_year": [
+2022,
+-3.5
+],
+"eps_series": {
+"2014": 8.25,
+"2015": 11.84,
+"2016": 11.74,
+"2018": 14.36,
+"2020": 11.94,
+"2021": 13.04,
+"2022": 12.58,
+"2025": 5.82
+},
+"gaap_eps_series": {
+"2015": 8.35,
+"2016": 11.59,
+"2017": 20.18,
+"2018": 15.57,
+"2019": 13.9,
+"2020": -17.81,
+"2021": 11.48,
+"2022": 15.83,
+"2023": -23.16,
+"2024": 0.29,
+"2025": 0.36
+},
+"rev_series_m": {
+"2015": 1236,
+"2016": 1591,
+"2017": 1918,
+"2018": 2354,
+"2019": 3129,
+"2020": 3077,
+"2021": 3038,
+"2022": 3018,
+"2023": 2714,
+"2024": 2775,
+"2025": 2100
+},
+"ebit_margin_series": {
+"2015": 13.6,
+"2016": 9.7,
+"2017": 12.8,
+"2018": 9.9,
+"2019": 9.0,
+"2020": 8.7,
+"2021": 8.4,
+"2022": 9.4,
+"2023": -5.8,
+"2024": 7.5,
+"2025": 8.7
+},
+"ebit_margin_latest": 8.7,
+"ebit_margin_10y_avg": 8.4,
+"ebit_margin_10y_max": 13.6,
+"ebit_margin_10y_min": -5.8,
+"margin_pctile_in_history": 36,
+"latest_eps_vs_10y_max": 0.41,
+"fcf_conversion_5y": 12.64,
+"fcf_conversion_10y": 2.9,
+"acq_to_fcf_10y": 0.39,
+"buyback_to_fcf_10y": 0.07,
+"div_to_fcf_10y": 0.59,
+"net_debt_m": 2453,
+"net_debt_ebitda": 11.19,
+"roic_latest": 0.2,
+"roic_10y_avg": 1.6,
+"roe_latest": 0.5,
+"roe_10y_avg": 4.1,
+"adj_vs_gaap_gap_5y_avg_pct": 370.7,
+"adj_vs_gaap_gap_latest_pct": 1497.8,
+"ntm_pe": 9.0,
+"is_reit": "False",
+"price": "83.90315999999999",
+"fcf_yield": 12.4,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 5.819,
+"std": null,
+"hi": 5.8191910172,
+"lo": 5.8191910172,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 7.487,
+"std": 0.194,
+"hi": 7.6242,
+"lo": 7.35,
+"n": 2
+},
+"FY2": {
+"fy": 2027,
+"mean": 8.513,
+"std": 1.749,
+"hi": 9.75,
+"lo": 7.276,
+"n": 2
+},
+"FY3": {
+"fy": 2028,
+"mean": 9.031,
+"std": 2.303,
+"hi": 10.66,
+"lo": 7.4027,
+"n": 2
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+13.7,
+6.1
+],
+"cons_EPS_growth_FY1": 28.7,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2578.0,
+"std": 571.342,
+"hi": 2982.0,
+"lo": 2174.0,
+"n": 2
+},
+"FY1": {
+"fy": 2026,
+"mean": 2227.026,
+"std": 47.035,
+"hi": 2260.285,
+"lo": 2193.767262,
+"n": 2
+},
+"FY2": {
+"fy": 2027,
+"mean": 2289.395,
+"std": 25.373,
+"hi": 2307.3366,
+"lo": 2271.454388,
+"n": 2
+},
+"FY3": {
+"fy": 2028,
+"mean": 2355.287,
+"std": 13.582,
+"hi": 2364.8906,
+"lo": 2345.683444,
+"n": 2
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.8,
+2.9
+],
+"cons_SALES_growth_FY1": -13.6,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

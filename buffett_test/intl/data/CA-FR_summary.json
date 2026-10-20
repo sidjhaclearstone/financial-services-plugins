@@ -1,0 +1,176 @@
+{
+"ticker": "CA-FR",
+"name": "Carrefour SA",
+"last_fy": 2025,
+"rbics": "Food and Staples Retail / General Merchandise Retail / Warehouse Clubs and Superstores",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 0.4,
+"eps_cagr_5y": 4.9,
+"gaap_eps_cagr_10y": -10.1,
+"rev_cagr_10y": 0.6,
+"rev_cagr_5y": 3.1,
+"shares_cagr_10y": -0.5,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2017,
+-28.9
+],
+"eps_series": {
+"2015": 1.54,
+"2016": 1.42,
+"2017": 1.01,
+"2018": 1.05,
+"2019": 1.14,
+"2020": 1.26,
+"2021": 1.47,
+"2022": 1.63,
+"2023": 1.83,
+"2024": 1.61,
+"2025": 1.6
+},
+"gaap_eps_series": {
+"2015": 1.35,
+"2016": 1.01,
+"2017": -0.7,
+"2018": -0.73,
+"2019": 1.42,
+"2020": 0.79,
+"2021": 1.35,
+"2022": 1.81,
+"2023": 2.31,
+"2024": 1.07,
+"2025": 0.47
+},
+"rev_series_m": {
+"2015": 78857,
+"2016": 78774,
+"2017": 80975,
+"2018": 77917,
+"2019": 74142,
+"2020": 72150,
+"2021": 74286,
+"2022": 83089,
+"2023": 84908,
+"2024": 87270,
+"2025": 84025
+},
+"ebit_margin_series": {
+"2015": 3.1,
+"2016": 3.0,
+"2017": 2.5,
+"2018": 2.4,
+"2019": 2.8,
+"2020": 3.0,
+"2021": 3.1,
+"2022": 2.9,
+"2023": 2.7,
+"2024": 2.5,
+"2025": 2.6
+},
+"ebit_margin_latest": 2.6,
+"ebit_margin_10y_avg": 2.8,
+"ebit_margin_10y_max": 3.1,
+"ebit_margin_10y_min": 2.4,
+"margin_pctile_in_history": 36,
+"latest_eps_vs_10y_max": 0.87,
+"fcf_conversion_5y": 2.15,
+"fcf_conversion_10y": 2.52,
+"acq_to_fcf_10y": 0.21,
+"buyback_to_fcf_10y": 0.21,
+"div_to_fcf_10y": 0.22,
+"net_debt_m": 14717,
+"net_debt_ebitda": 3.21,
+"roic_latest": 4.0,
+"roic_10y_avg": 2.5,
+"roe_latest": 9.0,
+"roe_10y_avg": 5.3,
+"adj_vs_gaap_gap_5y_avg_pct": 54.4,
+"adj_vs_gaap_gap_latest_pct": 243.9,
+"ntm_pe": 8.81,
+"is_reit": "False",
+"price": "18.227625",
+"fcf_yield": 15.1,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.6,
+"std": null,
+"hi": 1.6,
+"lo": 1.6,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.728,
+"std": 0.077,
+"hi": 1.85,
+"lo": 1.56,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.874,
+"std": 0.093,
+"hi": 2.02,
+"lo": 1.69,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.007,
+"std": 0.138,
+"hi": 2.18,
+"lo": 1.76,
+"n": 12
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+8.4,
+7.1
+],
+"cons_EPS_growth_FY1": 8.0,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 82102.0,
+"std": null,
+"hi": 82102.0,
+"lo": 82102.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 82725.878,
+"std": 1217.875,
+"hi": 84799.6,
+"lo": 80886.0,
+"n": 13
+},
+"FY2": {
+"fy": 2027,
+"mean": 84492.712,
+"std": 1933.716,
+"hi": 87913.1,
+"lo": 81483.0,
+"n": 13
+},
+"FY3": {
+"fy": 2028,
+"mean": 86716.501,
+"std": 2602.128,
+"hi": 91299.16274352,
+"lo": 82615.0,
+"n": 11
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.1,
+2.6
+],
+"cons_SALES_growth_FY1": 0.8,
+"eps_ltg": 5.3225799264,
+"missing": [],
+"fmp_backup": []
+}

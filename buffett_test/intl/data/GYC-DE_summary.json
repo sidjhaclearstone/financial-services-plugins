@@ -1,0 +1,214 @@
+{
+"ticker": "GYC-DE",
+"name": "Grand City Properties SA",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment and Services / Property Owners",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 0.2,
+"gaap_eps_cagr_10y": 1.3,
+"rev_cagr_10y": 6.1,
+"rev_cagr_5y": 2.4,
+"shares_cagr_10y": 1.9,
+"years_eps_growth_ge7": "1/9",
+"worst_eps_year": [
+2021,
+-12.6
+],
+"eps_series": {
+"2015": 0.89,
+"2016": 0.92,
+"2017": 0.96,
+"2018": 1.01,
+"2019": 1.07,
+"2020": 1.27,
+"2021": 1.11,
+"2022": 1.12,
+"2023": 1.06,
+"2024": 1.08
+},
+"gaap_eps_series": {
+"2015": 2.35,
+"2016": 3.25,
+"2017": 3.06,
+"2018": 2.76,
+"2019": 2.3,
+"2020": 2.01,
+"2021": 2.9,
+"2022": 0.76,
+"2023": -3.18,
+"2024": 1.14,
+"2025": 2.67
+},
+"rev_series_m": {
+"2015": 333,
+"2016": 443,
+"2017": 497,
+"2018": 545,
+"2019": 560,
+"2020": 535,
+"2021": 525,
+"2022": 583,
+"2023": 608,
+"2024": 597,
+"2025": 601
+},
+"ebit_margin_series": {
+"2015": 52.4,
+"2016": 50.6,
+"2017": 49.4,
+"2018": 49.9,
+"2019": 52.1,
+"2020": 54.8,
+"2021": 54.7,
+"2022": 50.7,
+"2023": 50.8,
+"2024": 54.7,
+"2025": 54.9
+},
+"ebit_margin_latest": 54.9,
+"ebit_margin_10y_avg": 52.3,
+"ebit_margin_10y_max": 54.9,
+"ebit_margin_10y_min": 49.4,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 0.85,
+"fcf_conversion_5y": 1.23,
+"fcf_conversion_10y": 0.58,
+"acq_to_fcf_10y": 0.67,
+"buyback_to_fcf_10y": 0.15,
+"div_to_fcf_10y": 0.29,
+"net_debt_m": 4130,
+"net_debt_ebitda": 12.26,
+"roic_latest": 5.1,
+"roic_10y_avg": 4.6,
+"roe_latest": 12.1,
+"roe_10y_avg": 10.9,
+"adj_vs_gaap_gap_5y_avg_pct": -13.9,
+"adj_vs_gaap_gap_latest_pct": -4.9,
+"ntm_pe": 6.61,
+"is_reit": "True",
+"price": "7.504173",
+"fcf_yield": 19.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.713,
+"std": 0.128,
+"hi": 2.939232,
+"lo": 2.62,
+"n": 5
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.424,
+"std": 0.261,
+"hi": 1.63,
+"lo": 1.13,
+"n": 3
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.475,
+"std": 0.337,
+"hi": 1.67,
+"lo": 1.085812,
+"n": 3
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.393,
+"std": 0.393,
+"hi": 1.88,
+"lo": 1.030919,
+"n": 4
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+3.6,
+-5.6
+],
+"cons_EPS_growth_FY1": -47.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 576.058,
+"std": 66.611,
+"hi": 601.5,
+"lo": 425.0,
+"n": 7
+},
+"FY1": {
+"fy": 2026,
+"mean": 623.638,
+"std": 2.16,
+"hi": 626.151,
+"lo": 620.700497061,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 646.269,
+"std": 9.268,
+"hi": 659.4,
+"lo": 635.702055,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 665.14,
+"std": 17.542,
+"hi": 687.6,
+"lo": 647.438849,
+"n": 5
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.6,
+2.9
+],
+"cons_SALES_growth_FY1": 8.3,
+"cons_FFO": {
+"FY0": {
+"fy": 2025,
+"mean": 1.062,
+"std": 0.004,
+"hi": 1.07,
+"lo": 1.06,
+"n": 5
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.026,
+"std": 0.022,
+"hi": 1.05,
+"lo": 0.9878447098,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.009,
+"std": 0.066,
+"hi": 1.06,
+"lo": 0.885428991,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.008,
+"std": 0.072,
+"hi": 1.07,
+"lo": 0.935116,
+"n": 4
+}
+},
+"cons_FFO_growth_FY2_FY3": [
+-1.6,
+-0.2
+],
+"cons_FFO_growth_FY1": -3.4,
+"eps_ltg": -7.1389368455,
+"missing": [],
+"fmp_backup": []
+}

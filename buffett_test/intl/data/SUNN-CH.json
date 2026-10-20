@@ -1,0 +1,564 @@
+{
+"ticker": "SUNN-CH",
+"fundamentals": {
+"FF_SALES": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": 3035.2,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_SALES(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 3018.0,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_SALES(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 2983.4,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_SALES(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_EBIT_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": 5.0,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_EBIT_OPER(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 39.4,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_EBIT_OPER(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 37.5,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_EBIT_OPER(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_EBIT_OPER_MGN": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": 0.164733790195045,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_EBIT_OPER_MGN(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 1.30550033134526,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_EBIT_OPER_MGN(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 1.25695515184018,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_EBIT_OPER_MGN(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": 1125.1,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_EBITDA_OPER(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 1087.0,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_EBITDA_OPER(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 1103.8,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_EBITDA_OPER(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_NET_INC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": -220.8,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_NET_INC(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": -365.8,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_NET_INC(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": -112.2,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_NET_INC(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": -3.0515,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_EPS_DIL(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": -5.0653,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_EPS_DIL(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": -1.5568,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_EPS_DIL(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_EPS_DIL_BEF_UNUSUAL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": -3.05151784708959,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": -7.38677116949956,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 1.74838176521485,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_COM_SHS_OUT_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": 72.3574336,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 72.2169386,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 72.07236,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_ROIC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_ROIC(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": null,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_ROIC(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": -1.16515743125363,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_ROIC(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_ROE": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_ROE(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": null,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_ROE(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": -2.66815690284532,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_ROE(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_FREE_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_FREE_CF(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 540.3,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_FREE_CF(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 600.2,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_FREE_CF(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_OPER_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_OPER_CF(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 1031.6,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_OPER_CF(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 995.8,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_OPER_CF(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_CAPEX": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_CAPEX(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 593.2,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_CAPEX(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 707.6,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_CAPEX(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_NET_DEBT": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_NET_DEBT(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 6202.1,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_NET_DEBT(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 5341.2,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_NET_DEBT(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_DEBT_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 6.02934682612696,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 5.0864287008516,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_DIV_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_DIV_CF(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 0.0,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_DIV_CF(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 0.0,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_DIV_CF(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_STK_PURCH_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_STK_PURCH_CF(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 0.1,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_STK_PURCH_CF(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 240.4,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_STK_PURCH_CF(ANN,20251231,20251231,,RP,CHF)"
+}
+},
+"FF_ACQ_BUS_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CHF",
+"formula": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"cur": "CHF",
+"formula": "FF_ACQ_BUS_CF(ANN,20231231,20231231,,RP,CHF)"
+},
+"2024": {
+"v": 0.0,
+"end": "2024-12-31",
+"cur": "CHF",
+"formula": "FF_ACQ_BUS_CF(ANN,20241231,20241231,,RP,CHF)"
+},
+"2025": {
+"v": 0.0,
+"end": "2025-12-31",
+"cur": "CHF",
+"formula": "FF_ACQ_BUS_CF(ANN,20251231,20251231,,RP,CHF)"
+}
+}
+},
+"adj_eps_actual": {
+"2014": {
+"v": null,
+"end": "2014-12-31",
+"consensus_before": null,
+"date": null
+},
+"2015": {
+"v": null,
+"end": "2015-12-31",
+"consensus_before": null,
+"date": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"consensus_before": null,
+"date": null
+},
+"2017": {
+"v": null,
+"end": "2017-12-31",
+"consensus_before": null,
+"date": null
+},
+"2018": {
+"v": null,
+"end": "2018-12-31",
+"consensus_before": null,
+"date": null
+},
+"2019": {
+"v": null,
+"end": "2019-12-31",
+"consensus_before": null,
+"date": null
+},
+"2020": {
+"v": null,
+"end": "2020-12-31",
+"consensus_before": null,
+"date": null
+},
+"2021": {
+"v": null,
+"end": "2021-12-31",
+"consensus_before": null,
+"date": null
+},
+"2022": {
+"v": null,
+"end": "2022-12-31",
+"consensus_before": null,
+"date": null
+},
+"2023": {
+"v": null,
+"end": "2023-12-31",
+"consensus_before": null,
+"date": null
+},
+"2024": {
+"v": -4.4276851080125,
+"end": "2024-12-31",
+"consensus_before": -2.8504051879285712,
+"date": "2025-02-28"
+},
+"2025": {
+"v": -1.480991736,
+"end": "2025-12-31",
+"consensus_before": -0.7396897688375,
+"date": "2026-02-18"
+}
+},
+"entity": {
+"name": "Sunrise Communications AG",
+"description": "Sunrise Communications AG engages in the provision of telecommunications solutions. It offers mobile, broadband, television, and fixed-line telephony services to residential customers. It also provides mobile and broadband services, as well as a range of value-added portfolio services, including cloud services, cybersecurity, and automation to business customers. It operates through the following segments: Residential Customers, Business Customers and Wholesale, and Infrastructure and Support Functions. The Residential Customers segment provides fixed-line and mobile services to residential end customers as well as sales of handsets. The Business Customers and Wholesale segment offers a full range of products and services, from fixed-line and mobile communications to Internet and data services as well as integration services to different business areas. The Infrastructure and Support Functions segment includes support units such as network, information technology and operations as well as staff functions like finance, human resources and strategy. The company was founded in 2001 and is headquartered in Opfikon, Switzerland.",
+"rbics_econ": "Telecommunications",
+"rbics_sector": "Telecommunications",
+"rbics_subsector": "General Telecommunications Services",
+"rbics_indgrp": "Pan-Europe Mixed Telecommunications Services",
+"country_of_risk": "CH"
+},
+"sources": {
+"fundamentals": "FactSet Fundamentals ANN (USD), pulled 2026-10-19",
+"entity": "FactSet EntityReference, pulled 2026-10-19",
+"adj_eps": "FactSet EstimatesConsensus surprise (actual EPS, broker/adjusted basis, USD), pulled 2026-10-19"
+},
+"missing": [],
+"fmp_backup": {},
+"name": "Sunrise Communications AG"
+}

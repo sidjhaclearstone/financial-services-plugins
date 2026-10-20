@@ -1,0 +1,176 @@
+{
+"ticker": "ADEN-CH",
+"name": "Adecco Group AG",
+"last_fy": 2025,
+"rbics": "Business Services / Other Professional Services / Administrative Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -6.6,
+"eps_cagr_5y": -2.3,
+"gaap_eps_cagr_10y": 42.7,
+"rev_cagr_10y": 0.5,
+"rev_cagr_5y": 3.4,
+"shares_cagr_10y": -0.2,
+"years_eps_growth_ge7": "2/10",
+"worst_eps_year": [
+2020,
+-40.5
+],
+"eps_series": {
+"2015": 4.69,
+"2016": 4.24,
+"2017": 4.66,
+"2018": 4.71,
+"2019": 4.47,
+"2020": 2.66,
+"2021": 3.6,
+"2022": 3.28,
+"2023": 2.99,
+"2024": 2.55,
+"2025": 2.37
+},
+"gaap_eps_series": {
+"2015": 0.05,
+"2016": 4.24,
+"2017": 4.66,
+"2018": 2.76,
+"2019": 4.47,
+"2020": -0.61,
+"2021": 3.6,
+"2022": 2.05,
+"2023": 1.93,
+"2024": 1.8,
+"2025": 1.75
+},
+"rev_series_m": {
+"2015": 22010,
+"2016": 22708,
+"2017": 23660,
+"2018": 23867,
+"2019": 23427,
+"2020": 19561,
+"2021": 20949,
+"2022": 23640,
+"2023": 23957,
+"2024": 23138,
+"2025": 23082
+},
+"ebit_margin_series": {
+"2015": 5.0,
+"2016": 4.8,
+"2017": 4.8,
+"2018": 4.3,
+"2019": 4.3,
+"2020": 3.2,
+"2021": 4.1,
+"2022": 2.9,
+"2023": 2.9,
+"2024": 2.5,
+"2025": 2.6
+},
+"ebit_margin_latest": 2.6,
+"ebit_margin_10y_avg": 3.8,
+"ebit_margin_10y_max": 5.0,
+"ebit_margin_10y_min": 2.5,
+"margin_pctile_in_history": 18,
+"latest_eps_vs_10y_max": 0.5,
+"fcf_conversion_5y": 1.25,
+"fcf_conversion_10y": 1.22,
+"acq_to_fcf_10y": 0.38,
+"buyback_to_fcf_10y": 0.13,
+"div_to_fcf_10y": 0.67,
+"net_debt_m": 2719,
+"net_debt_ebitda": 3.35,
+"roic_latest": 4.6,
+"roic_10y_avg": 7.8,
+"roe_latest": 8.5,
+"roe_10y_avg": 12.4,
+"adj_vs_gaap_gap_5y_avg_pct": 38.4,
+"adj_vs_gaap_gap_latest_pct": 35.4,
+"ntm_pe": 8.64,
+"is_reit": "False",
+"price": "25.358764759309718",
+"fcf_yield": 12.2,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.37,
+"std": null,
+"hi": 2.37,
+"lo": 2.37,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.398,
+"std": 0.223,
+"hi": 2.7448367997,
+"lo": 1.75,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.668,
+"std": 0.259,
+"hi": 3.15,
+"lo": 2.11,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.929,
+"std": 0.349,
+"hi": 3.45,
+"lo": 2.340151,
+"n": 16
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+11.3,
+9.8
+],
+"cons_EPS_growth_FY1": 1.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 23082.0,
+"std": null,
+"hi": 23082.0,
+"lo": 23082.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 23803.313,
+"std": 179.606,
+"hi": 24011.3519203462,
+"lo": 23232.6991260608,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 24506.937,
+"std": 404.66,
+"hi": 25035.0,
+"lo": 23670.0,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 25220.322,
+"std": 707.995,
+"hi": 26181.0,
+"lo": 23812.0,
+"n": 15
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.0,
+2.9
+],
+"cons_SALES_growth_FY1": 3.1,
+"eps_ltg": 9.66035237025,
+"missing": [],
+"fmp_backup": []
+}

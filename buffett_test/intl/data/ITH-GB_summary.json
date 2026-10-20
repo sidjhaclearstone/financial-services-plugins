@@ -1,0 +1,154 @@
+{
+"ticker": "ITH-GB",
+"name": "Ithaca Energy PLC",
+"last_fy": 2025,
+"rbics": "Upstream Energy / Fossil Fuel Exploration and Production / Other Fossil Fuel Exploration and Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": null,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "0/3",
+"worst_eps_year": [
+2025,
+-139.1
+],
+"eps_series": {
+"2020": -0.16,
+"2021": -0.04,
+"2022": 1.02,
+"2023": 0.21,
+"2024": 0.13,
+"2025": -0.05
+},
+"gaap_eps_series": {
+"2020": -0.16,
+"2021": -0.04,
+"2022": 1.02,
+"2023": 0.21,
+"2024": 0.13,
+"2025": -0.05
+},
+"rev_series_m": {
+"2020": 0,
+"2021": 0,
+"2022": 2598,
+"2023": 2320,
+"2024": 1982,
+"2025": 2900
+},
+"ebit_margin_series": {
+"2022": 46.0,
+"2023": 41.2,
+"2024": 39.2,
+"2025": 39.6
+},
+"ebit_margin_latest": 39.6,
+"ebit_margin_10y_avg": 41.5,
+"ebit_margin_10y_max": 46.0,
+"ebit_margin_10y_min": 39.2,
+"margin_pctile_in_history": 50,
+"latest_eps_vs_10y_max": -0.05,
+"fcf_conversion_5y": 2.24,
+"fcf_conversion_10y": 2.24,
+"acq_to_fcf_10y": 0.43,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 0.41,
+"net_debt_m": 1364,
+"net_debt_ebitda": 0.69,
+"roic_latest": -2.0,
+"roic_10y_avg": 9.6,
+"roe_latest": -2.9,
+"roe_10y_avg": 13.8,
+"adj_vs_gaap_gap_5y_avg_pct": -5.2,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 12.76,
+"is_reit": "False",
+"price": "3.9233355",
+"fcf_yield": 12.2,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.175,
+"std": null,
+"hi": 0.175377,
+"lo": 0.175377,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.286,
+"std": 0.062,
+"hi": 0.41,
+"lo": 0.22,
+"n": 9
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.313,
+"std": 0.082,
+"hi": 0.44,
+"lo": 0.2,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.209,
+"std": 0.089,
+"hi": 0.3372125,
+"lo": 0.09,
+"n": 8
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+9.3,
+-33.2
+],
+"cons_EPS_growth_FY1": 63.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2923.1,
+"std": 32.668,
+"hi": 2946.2,
+"lo": 2900.0,
+"n": 2
+},
+"FY1": {
+"fy": 2026,
+"mean": 3617.823,
+"std": 234.087,
+"hi": 3983.0,
+"lo": 3302.0,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 3712.551,
+"std": 467.467,
+"hi": 4575.2139721434,
+"lo": 3080.0,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 3160.261,
+"std": 244.118,
+"hi": 3594.772,
+"lo": 2816.824035,
+"n": 7
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.6,
+-14.9
+],
+"cons_SALES_growth_FY1": 23.8,
+"eps_ltg": 16.4368153275,
+"missing": [],
+"fmp_backup": []
+}

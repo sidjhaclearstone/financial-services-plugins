@@ -1,0 +1,154 @@
+{
+"ticker": "ALVO-US",
+"name": "Alvotech",
+"last_fy": 2025,
+"rbics": "Biopharmaceuticals / System-Specific Biopharmaceuticals / Immunology Biopharmaceuticals",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": null,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "0/1",
+"worst_eps_year": [
+2022,
+-2132.5
+],
+"eps_series": {
+"2020": -0.3,
+"2021": 0.13,
+"2022": -2.6,
+"2023": -2.43,
+"2024": -0.87,
+"2025": 0.1
+},
+"gaap_eps_series": {
+"2020": -0.3,
+"2021": 0.13,
+"2022": -2.6,
+"2023": -2.43,
+"2024": -0.87,
+"2025": 0.1
+},
+"rev_series_m": {
+"2020": 0,
+"2021": 0,
+"2022": 83,
+"2023": 91,
+"2024": 490,
+"2025": 586
+},
+"ebit_margin_series": {
+"2022": -416.3,
+"2023": -388.3,
+"2024": 13.8,
+"2025": 12.9
+},
+"ebit_margin_latest": 12.9,
+"ebit_margin_10y_avg": -194.5,
+"ebit_margin_10y_max": 13.8,
+"ebit_margin_10y_min": -416.3,
+"margin_pctile_in_history": 75,
+"latest_eps_vs_10y_max": 0.75,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"net_debt_m": 1277,
+"net_debt_ebitda": 11.25,
+"roic_latest": 3.0,
+"roic_10y_avg": -127.8,
+"roe_latest": 1.8,
+"roe_10y_avg": 1.8,
+"adj_vs_gaap_gap_5y_avg_pct": -204.4,
+"adj_vs_gaap_gap_latest_pct": -204.4,
+"ntm_pe": 27.37,
+"is_reit": "False",
+"price": "5.03",
+"fcf_yield": 12.1,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": -0.1,
+"std": null,
+"hi": -0.1,
+"lo": -0.1,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": -0.02,
+"std": 0.035,
+"hi": 0.03,
+"lo": -0.0727149973,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.234,
+"std": 0.095,
+"hi": 0.44,
+"lo": 0.104,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.458,
+"std": 0.153,
+"hi": 0.69,
+"lo": 0.27,
+"n": 7
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-1293.3,
+95.9
+],
+"cons_EPS_growth_FY1": -80.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 593.2,
+"std": null,
+"hi": 593.2,
+"lo": 593.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 621.632,
+"std": 93.246,
+"hi": 677.0,
+"lo": 411.3335035671,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 768.147,
+"std": 115.812,
+"hi": 901.0,
+"lo": 558.5502575243,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 939.535,
+"std": 151.669,
+"hi": 1092.0,
+"lo": 705.0,
+"n": 6
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+23.6,
+22.3
+],
+"cons_SALES_growth_FY1": 4.8,
+"eps_ltg": 87.5777455367,
+"missing": [],
+"fmp_backup": []
+}

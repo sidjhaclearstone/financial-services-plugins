@@ -1,0 +1,161 @@
+{
+"ticker": "IHS-US",
+"name": "IHS Holding Ltd.",
+"last_fy": 2025,
+"rbics": "Telecommunications / General Telecommunications Services / Telecommunications Industry Software and Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 2.4,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "0/0",
+"worst_eps_year": null,
+"eps_series": {
+"2018": -0.4,
+"2019": -1.28,
+"2020": -0.97,
+"2021": -0.08,
+"2022": -1.39,
+"2023": -5.93,
+"2024": -4.9,
+"2025": 0.42
+},
+"gaap_eps_series": {
+"2018": -0.4,
+"2019": -1.28,
+"2020": -0.97,
+"2021": -0.08,
+"2022": -1.39,
+"2023": -5.93,
+"2024": -4.9,
+"2025": 0.42
+},
+"rev_series_m": {
+"2018": 1168,
+"2019": 1231,
+"2020": 1403,
+"2021": 1580,
+"2022": 1961,
+"2023": 2126,
+"2024": 1711,
+"2025": 1582
+},
+"ebit_margin_series": {
+"2018": 18.4,
+"2019": -10.9,
+"2020": 25.2,
+"2021": 27.2,
+"2022": 24.7,
+"2023": 28.6,
+"2024": 29.7,
+"2025": 16.8
+},
+"ebit_margin_latest": 16.8,
+"ebit_margin_10y_avg": 20.0,
+"ebit_margin_10y_max": 29.7,
+"ebit_margin_10y_min": -10.9,
+"margin_pctile_in_history": 25,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 1.33,
+"buyback_to_fcf_10y": 0.01,
+"div_to_fcf_10y": 0.0,
+"net_debt_m": 2684,
+"net_debt_ebitda": 4.14,
+"roic_latest": 20.2,
+"roic_10y_avg": -15.9,
+"roe_latest": -318.5,
+"roe_10y_avg": -94.9,
+"adj_vs_gaap_gap_5y_avg_pct": -0.1,
+"adj_vs_gaap_gap_latest_pct": -0.1,
+"ntm_pe": 10.18,
+"is_reit": "False",
+"price": "8.43",
+"fcf_yield": 14.5,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.42,
+"std": null,
+"hi": 0.42,
+"lo": 0.42,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.78,
+"std": 0.085,
+"hi": 0.84,
+"lo": 0.72,
+"n": 2
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.84,
+"std": 0.41,
+"hi": 1.13,
+"lo": 0.55,
+"n": 2
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.98,
+"std": 0.382,
+"hi": 1.25,
+"lo": 0.71,
+"n": 2
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+7.7,
+16.7
+],
+"cons_EPS_growth_FY1": 85.7,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1582.0,
+"std": null,
+"hi": 1582.0,
+"lo": 1582.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1793.774,
+"std": 15.877,
+"hi": 1805.0,
+"lo": 1782.547,
+"n": 2
+},
+"FY2": {
+"fy": 2027,
+"mean": 1750.2,
+"std": 38.467,
+"hi": 1777.401,
+"lo": 1723.0,
+"n": 2
+},
+"FY3": {
+"fy": 2028,
+"mean": 1861.849,
+"std": 39.384,
+"hi": 1889.698,
+"lo": 1834.0,
+"n": 2
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+-2.4,
+6.4
+],
+"cons_SALES_growth_FY1": 13.4,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

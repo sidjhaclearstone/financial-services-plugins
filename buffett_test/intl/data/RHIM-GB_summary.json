@@ -1,0 +1,176 @@
+{
+"ticker": "RHIM-GB",
+"name": "RHI Magnesita NV",
+"last_fy": 2025,
+"rbics": "Mining and Mineral Products / Minerals / Nonmetallic Minerals Products",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 6.4,
+"eps_cagr_5y": -11.3,
+"gaap_eps_cagr_10y": 16.0,
+"rev_cagr_10y": 6.7,
+"rev_cagr_5y": 8.3,
+"shares_cagr_10y": 2.0,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2017,
+-123.6
+],
+"eps_series": {
+"2015": 0.83,
+"2016": 1.66,
+"2017": -0.39,
+"2018": 4.53,
+"2019": 4.9,
+"2020": 2.82,
+"2021": 3.78,
+"2022": 4.25,
+"2023": 4.18,
+"2024": 4.39,
+"2025": 1.55
+},
+"gaap_eps_series": {
+"2015": 0.4,
+"2016": 1.86,
+"2017": -0.45,
+"2018": 3.52,
+"2019": 2.81,
+"2020": 0.5,
+"2021": 5.05,
+"2022": 3.26,
+"2023": 3.42,
+"2024": 2.94,
+"2025": 1.77
+},
+"rev_series_m": {
+"2015": 1753,
+"2016": 1651,
+"2017": 1946,
+"2018": 3081,
+"2019": 2922,
+"2020": 2259,
+"2021": 2551,
+"2022": 3317,
+"2023": 3572,
+"2024": 3487,
+"2025": 3366
+},
+"ebit_margin_series": {
+"2015": 7.4,
+"2016": 7.1,
+"2017": 9.6,
+"2018": 13.0,
+"2019": 13.2,
+"2020": 10.7,
+"2021": 10.1,
+"2022": 10.7,
+"2023": 10.2,
+"2024": 10.5,
+"2025": 9.5
+},
+"ebit_margin_latest": 9.5,
+"ebit_margin_10y_avg": 10.2,
+"ebit_margin_10y_max": 13.2,
+"ebit_margin_10y_min": 7.1,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 0.32,
+"fcf_conversion_5y": 0.45,
+"fcf_conversion_10y": 1.0,
+"acq_to_fcf_10y": 0.81,
+"buyback_to_fcf_10y": 0.1,
+"div_to_fcf_10y": 0.52,
+"net_debt_m": 1487,
+"net_debt_ebitda": 2.95,
+"roic_latest": 3.4,
+"roic_10y_avg": 6.0,
+"roe_latest": 7.8,
+"roe_10y_avg": 14.0,
+"adj_vs_gaap_gap_5y_avg_pct": 12.8,
+"adj_vs_gaap_gap_latest_pct": -12.7,
+"ntm_pe": 6.57,
+"is_reit": "False",
+"price": "36.9560625",
+"fcf_yield": 14.0,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.546,
+"std": null,
+"hi": 1.546094270494099,
+"lo": 1.546094270494099,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.977,
+"std": 0.292,
+"hi": 4.403347844417503,
+"lo": 3.7675104459995765,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.283,
+"std": 0.222,
+"hi": 4.480299554319498,
+"lo": 3.988814331693049,
+"n": 4
+},
+"FY3": {
+"fy": 2028,
+"mean": 5.172,
+"std": 0.747,
+"hi": 6.010783562379514,
+"lo": 4.575904332000564,
+"n": 3
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+7.7,
+20.8
+],
+"cons_EPS_growth_FY1": 157.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2940.2,
+"std": null,
+"hi": 2940.1996784205,
+"lo": 2940.1996784205,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2855.818,
+"std": 26.001,
+"hi": 2884.8763468654,
+"lo": 2823.5025138926,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 2926.179,
+"std": 26.362,
+"hi": 2960.7553492585,
+"lo": 2899.7675877972,
+"n": 4
+},
+"FY3": {
+"fy": 2028,
+"mean": 3015.505,
+"std": 55.153,
+"hi": 3076.54386958,
+"lo": 2969.2535440215,
+"n": 3
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.5,
+3.1
+],
+"cons_SALES_growth_FY1": -2.9,
+"eps_ltg": 11.65189307485,
+"missing": [],
+"fmp_backup": []
+}

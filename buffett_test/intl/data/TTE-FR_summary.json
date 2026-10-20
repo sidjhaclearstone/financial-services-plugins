@@ -1,0 +1,176 @@
+{
+"ticker": "TTE-FR",
+"name": "TotalEnergies SE",
+"last_fy": 2025,
+"rbics": "Integrated Oil and Gas Exploration and Production / Integrated Oil and Gas Exploration and Production / Integrated Oil and Gas Exploration and Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 4.4,
+"eps_cagr_5y": 37.0,
+"gaap_eps_cagr_10y": 10.4,
+"rev_cagr_10y": 2.4,
+"rev_cagr_5y": 8.8,
+"shares_cagr_10y": -0.4,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2020,
+-67.4
+],
+"eps_series": {
+"2015": 4.5,
+"2016": 3.44,
+"2017": 4.12,
+"2018": 5.05,
+"2019": 4.38,
+"2020": 1.43,
+"2021": 6.68,
+"2022": 13.94,
+"2023": 9.4,
+"2024": 7.77,
+"2025": 6.89
+},
+"gaap_eps_series": {
+"2015": 2.21,
+"2016": 2.59,
+"2017": 3.46,
+"2018": 4.36,
+"2019": 4.3,
+"2020": -2.78,
+"2021": 6.06,
+"2022": 7.98,
+"2023": 8.79,
+"2024": 6.81,
+"2025": 5.93
+},
+"rev_series_m": {
+"2015": 143421,
+"2016": 127925,
+"2017": 149099,
+"2018": 184106,
+"2019": 176249,
+"2020": 119704,
+"2021": 184634,
+"2022": 263310,
+"2023": 218945,
+"2024": 195610,
+"2025": 182344
+},
+"ebit_margin_series": {
+"2015": 1.3,
+"2016": 5.3,
+"2017": 7.9,
+"2018": 9.2,
+"2019": 9.2,
+"2020": 1.4,
+"2021": 13.4,
+"2022": 19.3,
+"2023": 14.6,
+"2024": 12.7,
+"2025": 11.4
+},
+"ebit_margin_latest": 11.4,
+"ebit_margin_10y_avg": 9.6,
+"ebit_margin_10y_max": 19.3,
+"ebit_margin_10y_min": 1.3,
+"margin_pctile_in_history": 64,
+"latest_eps_vs_10y_max": 0.49,
+"fcf_conversion_5y": 1.14,
+"fcf_conversion_10y": 1.11,
+"acq_to_fcf_10y": 0.14,
+"buyback_to_fcf_10y": 0.32,
+"div_to_fcf_10y": 0.5,
+"net_debt_m": 31738,
+"net_debt_ebitda": 0.93,
+"roic_latest": 7.9,
+"roic_10y_avg": 7.5,
+"roe_latest": 11.0,
+"roe_10y_avg": 10.5,
+"adj_vs_gaap_gap_5y_avg_pct": 24.5,
+"adj_vs_gaap_gap_latest_pct": 16.2,
+"ntm_pe": 8.02,
+"is_reit": "False",
+"price": "90.330501",
+"fcf_yield": 10.3,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 6.89,
+"std": null,
+"hi": 6.89,
+"lo": 6.89,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 12.354,
+"std": 1.047,
+"hi": 13.55254551,
+"lo": 9.28,
+"n": 26
+},
+"FY2": {
+"fy": 2027,
+"mean": 10.989,
+"std": 1.609,
+"hi": 14.17,
+"lo": 7.76,
+"n": 26
+},
+"FY3": {
+"fy": 2028,
+"mean": 9.675,
+"std": 1.282,
+"hi": 12.71,
+"lo": 7.5,
+"n": 22
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-11.1,
+-12.0
+],
+"cons_EPS_growth_FY1": 79.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 182344.0,
+"std": null,
+"hi": 182344.0,
+"lo": 182344.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 214202.872,
+"std": 21812.941,
+"hi": 239309.856,
+"lo": 177785.0,
+"n": 13
+},
+"FY2": {
+"fy": 2027,
+"mean": 196119.783,
+"std": 17809.245,
+"hi": 228329.133,
+"lo": 164780.0,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 185403.425,
+"std": 13195.31,
+"hi": 202330.0,
+"lo": 162971.00150098,
+"n": 10
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+-8.4,
+-5.5
+],
+"cons_SALES_growth_FY1": 17.5,
+"eps_ltg": 8.097968993633334,
+"missing": [],
+"fmp_backup": []
+}

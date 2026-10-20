@@ -1,0 +1,212 @@
+{
+"ticker": "URW-FR",
+"name": "Unibail-Rodamco-Westfield SE",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment Trusts (REITs) / Equity REITs",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 5.4,
+"gaap_eps_cagr_10y": -9.4,
+"rev_cagr_10y": 4.5,
+"rev_cagr_5y": 2.9,
+"shares_cagr_10y": 3.8,
+"years_eps_growth_ge7": "1/7",
+"worst_eps_year": [
+2020,
+-45.2
+],
+"eps_series": {
+"2018": 13.02,
+"2019": 13.44,
+"2020": 7.36,
+"2021": 6.96,
+"2022": 9.22,
+"2023": 9.59,
+"2024": 9.75,
+"2025": 9.58
+},
+"gaap_eps_series": {
+"2015": 23.39,
+"2016": 23.08,
+"2017": 23.44,
+"2018": 7.95,
+"2019": 7.91,
+"2020": -52.1,
+"2021": -7.02,
+"2022": 1.28,
+"2023": -11.72,
+"2024": 1.04,
+"2025": 8.72
+},
+"rev_series_m": {
+"2015": 1978,
+"2016": 2032,
+"2017": 2078,
+"2018": 2734,
+"2019": 3381,
+"2020": 2646,
+"2021": 2520,
+"2022": 3006,
+"2023": 3061,
+"2024": 3256,
+"2025": 3058
+},
+"ebit_margin_series": {
+"2015": 71.6,
+"2016": 73.3,
+"2017": 74.1,
+"2018": 67.3,
+"2019": 56.6,
+"2020": 48.2,
+"2021": 48.6,
+"2022": 39.0,
+"2023": 53.9,
+"2024": 56.6,
+"2025": 58.1
+},
+"ebit_margin_latest": 58.1,
+"ebit_margin_10y_avg": 58.8,
+"ebit_margin_10y_max": 74.1,
+"ebit_margin_10y_min": 39.0,
+"margin_pctile_in_history": 64,
+"latest_eps_vs_10y_max": 0.71,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 0.87,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 1.12,
+"net_debt_m": 21813,
+"net_debt_ebitda": 12.09,
+"roic_latest": 3.1,
+"roic_10y_avg": 0.3,
+"roe_latest": 8.0,
+"roe_10y_avg": -0.2,
+"adj_vs_gaap_gap_5y_avg_pct": 491.4,
+"adj_vs_gaap_gap_latest_pct": 9.9,
+"ntm_pe": 9.38,
+"is_reit": "True",
+"price": "98.68716599999999",
+"fcf_yield": 12.4,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 9.58,
+"std": null,
+"hi": 9.58,
+"lo": 9.58,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 9.25,
+"std": 0.05,
+"hi": 9.3111,
+"lo": 9.1397483251,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 9.393,
+"std": 0.085,
+"hi": 9.6,
+"lo": 9.25,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 9.834,
+"std": 0.14,
+"hi": 10.044,
+"lo": 9.626138,
+"n": 12
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+1.5,
+4.7
+],
+"cons_EPS_growth_FY1": -3.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1872.3,
+"std": null,
+"hi": 1872.3,
+"lo": 1872.3,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2235.633,
+"std": 103.431,
+"hi": 2364.784781,
+"lo": 1992.7721121867,
+"n": 10
+},
+"FY2": {
+"fy": 2027,
+"mean": 2295.478,
+"std": 103.46,
+"hi": 2448.139475,
+"lo": 2110.5770901083,
+"n": 10
+},
+"FY3": {
+"fy": 2028,
+"mean": 2409.348,
+"std": 90.032,
+"hi": 2546.356215,
+"lo": 2265.4142619454,
+"n": 9
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.7,
+5.0
+],
+"cons_SALES_growth_FY1": 19.4,
+"cons_FFO": {
+"FY0": {
+"fy": 2025,
+"mean": 9.58,
+"std": 0.0,
+"hi": 9.58,
+"lo": 9.58,
+"n": 4
+},
+"FY1": {
+"fy": 2026,
+"mean": 9.267,
+"std": 0.024,
+"hi": 9.29,
+"lo": 9.23,
+"n": 6
+},
+"FY2": {
+"fy": 2027,
+"mean": 9.405,
+"std": 0.093,
+"hi": 9.51,
+"lo": 9.25,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 9.796,
+"std": 0.154,
+"hi": 10.03,
+"lo": 9.63,
+"n": 5
+}
+},
+"cons_FFO_growth_FY2_FY3": [
+1.5,
+4.2
+],
+"cons_FFO_growth_FY1": -3.3,
+"eps_ltg": 0.8896334731,
+"missing": [],
+"fmp_backup": []
+}

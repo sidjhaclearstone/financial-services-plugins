@@ -1,0 +1,1320 @@
+{
+"ticker": "PDD-US",
+"fundamentals": {
+"FF_SALES": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_SALES(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": 1744.07605819505,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_SALES(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": 13119.9898397556,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_SALES(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": 30141.8870371173,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_SALES(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": 59491.8666493411,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_SALES(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 93949.9413617868,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_SALES(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 130557.59191239,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_SALES(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 247639.206718069,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_SALES(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 393836.087724549,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_SALES(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 431845.7064071,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_SALES(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_EBIT_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": -585.72402,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": -10799.74087,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": -8538.21129,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": -9380.32526,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 6896.76217,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 30401.92168,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 58698.76241,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 108422.85945,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 93102.12958,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_EBIT_OPER_MGN": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER_MGN(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": -33.5836301230323,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER_MGN(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": -82.3151618634751,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER_MGN(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": -28.3267312097721,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER_MGN(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": -15.76740786198,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER_MGN(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 7.34089036964869,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER_MGN(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 23.2862151171105,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER_MGN(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 23.7033397093078,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER_MGN(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 27.5299452743897,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER_MGN(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 21.5591189631813,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_EBIT_OPER_MGN(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_EBITDA_OPER(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": -583.45902,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_EBITDA_OPER(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": -10302.73788,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_EBITDA_OPER(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": -7827.17427,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_EBITDA_OPER(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": -8579.85724,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_EBITDA_OPER(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 8741.00522,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_EBITDA_OPER(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 33137.00574,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_EBITDA_OPER(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 60586.96742,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_EBITDA_OPER(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 111063.74639,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_EBITDA_OPER(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 96102.49353,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_EBITDA_OPER(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_NET_INC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_NET_INC(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": -525.115017521653,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_NET_INC(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": -10217.1248752105,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_NET_INC(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": -6967.60323974016,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_NET_INC(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": -7179.74219904977,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_NET_INC(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 7768.67019529491,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_NET_INC(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 31538.0627035297,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_NET_INC(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 60026.5444164516,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_NET_INC(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 112434.509351993,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_NET_INC(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 97842.5375062577,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_NET_INC(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": -0.4502,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": -9.2445,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": -6.0231,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": -6.0228,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 5.4386,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 21.8965,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 41.1468,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 76.013,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 66.003,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_EPS_DIL_BEF_UNUSUAL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": -0.443859972300663,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": -9.24447069379938,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": -6.02306811604399,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": -6.0228400073877,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 5.43856539505757,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 21.8965230538685,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 41.1468095905613,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 76.013021923427,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 66.0030582330053,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_COM_SHS_OUT_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": 1107.786345,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": 1113.922172,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": 1156.8195985,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": 1192.085825,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 1428.44107425,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 1440.32285975,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 1459.9073905,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 1479.148,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 1482.394,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_ROIC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_ROIC(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": null,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_ROIC(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": -105.520475986299,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_ROIC(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": -28.4490607487733,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_ROIC(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": -13.1511982157714,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_ROIC(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 9.56281116271882,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_ROIC(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 30.203089199623,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_ROIC(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 37.8187588406986,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_ROIC(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 44.0868937191782,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_ROIC(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 26.4476213245874,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_ROIC(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_ROE": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_ROE(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": null,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_ROE(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": -119.269411024013,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_ROE(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": -32.1140135498931,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_ROE(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": -16.3300048446632,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_ROE(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 11.4790359289102,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_ROE(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 32.6076518580535,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_ROE(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 39.0948049228441,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_ROE(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 45.0711644245737,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_ROE(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 26.6676901026438,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_ROE(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_FREE_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_FREE_CF(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": 306.55801,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_FREE_CF(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": 7740.59591,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_FREE_CF(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": 14793.54051,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_FREE_CF(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": 28153.58178,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_FREE_CF(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 25495.77964,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_FREE_CF(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 47872.14507,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_FREE_CF(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 107435.63475,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_FREE_CF(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 142318.80565,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_FREE_CF(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 118393.63919,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_FREE_CF(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_OPER_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_OPER_CF(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": 315.479010526669,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_OPER_CF(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": 7767.92690512444,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_OPER_CF(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": 14820.9765099578,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_OPER_CF(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": 28196.6277817179,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_OPER_CF(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 28783.0117235698,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_OPER_CF(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 48507.8610820805,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_OPER_CF(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 108019.513749417,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_OPER_CF(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 143285.942625394,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_OPER_CF(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 119538.716175027,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_OPER_CF(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_CAPEX": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_CAPEX(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": 8.92100029766942,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_CAPEX(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": 27.3309996661858,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_CAPEX(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": 27.4360009440136,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_CAPEX(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": 43.0460011933991,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_CAPEX(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 3287.23208263701,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_CAPEX(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 635.716014181122,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_CAPEX(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 583.87900405083,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_CAPEX(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 967.136977222425,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_CAPEX(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 1145.07698251835,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_CAPEX(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_NET_DEBT": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_NET_DEBT(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": -10282.0801325102,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_NET_DEBT(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": -38170.3737105477,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_NET_DEBT(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": -61984.9283306611,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_NET_DEBT(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": -122427.650127874,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_NET_DEBT(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": -139800.258146213,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_NET_DEBT(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": -190478.652769716,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_NET_DEBT(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": -269029.361504363,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_NET_DEBT(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": -389379.143715347,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_NET_DEBT(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": -490760.306411955,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_NET_DEBT(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_DEBT_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": null,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": null,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": null,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": null,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 1.36477452436781,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 0.45196227059163,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 0.0969539743373534,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 0.0471358654438317,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 0.0,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_DIV_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_DIV_CF(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": 0.0,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_DIV_CF(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": 0.0,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_DIV_CF(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": 0.0,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_DIV_CF(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": 0.0,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_DIV_CF(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 0.0,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_DIV_CF(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 0.0,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_DIV_CF(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 0.0,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_DIV_CF(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 0.0,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_DIV_CF(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 0.0,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_DIV_CF(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_STK_PURCH_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_STK_PURCH_CF(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": 32.6770010903422,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_STK_PURCH_CF(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": 0.0,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_STK_PURCH_CF(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": 0.0,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_STK_PURCH_CF(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": 0.0,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_STK_PURCH_CF(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 0.0,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_STK_PURCH_CF(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 0.0,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_STK_PURCH_CF(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 0.0,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_STK_PURCH_CF(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 0.0,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_STK_PURCH_CF(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 0.0,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_STK_PURCH_CF(ANN,20251231,20251231,,RP,CNY)"
+}
+},
+"FF_ACQ_BUS_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "CNY",
+"formula": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"cur": "CNY",
+"formula": "FF_ACQ_BUS_CF(ANN,20161231,20161231,,RP,CNY)"
+},
+"2017": {
+"v": 0.0,
+"end": "2017-12-31",
+"cur": "CNY",
+"formula": "FF_ACQ_BUS_CF(ANN,20171231,20171231,,RP,CNY)"
+},
+"2018": {
+"v": 0.0,
+"end": "2018-12-31",
+"cur": "CNY",
+"formula": "FF_ACQ_BUS_CF(ANN,20181231,20181231,,RP,CNY)"
+},
+"2019": {
+"v": 0.0,
+"end": "2019-12-31",
+"cur": "CNY",
+"formula": "FF_ACQ_BUS_CF(ANN,20191231,20191231,,RP,CNY)"
+},
+"2020": {
+"v": 0.0,
+"end": "2020-12-31",
+"cur": "CNY",
+"formula": "FF_ACQ_BUS_CF(ANN,20201231,20201231,,RP,CNY)"
+},
+"2021": {
+"v": 0.0,
+"end": "2021-12-31",
+"cur": "CNY",
+"formula": "FF_ACQ_BUS_CF(ANN,20211231,20211231,,RP,CNY)"
+},
+"2022": {
+"v": 0.0,
+"end": "2022-12-31",
+"cur": "CNY",
+"formula": "FF_ACQ_BUS_CF(ANN,20221231,20221231,,RP,CNY)"
+},
+"2023": {
+"v": 0.0,
+"end": "2023-12-31",
+"cur": "CNY",
+"formula": "FF_ACQ_BUS_CF(ANN,20231231,20231231,,RP,CNY)"
+},
+"2024": {
+"v": 0.0,
+"end": "2024-12-31",
+"cur": "CNY",
+"formula": "FF_ACQ_BUS_CF(ANN,20241231,20241231,,RP,CNY)"
+},
+"2025": {
+"v": 0.0,
+"end": "2025-12-31",
+"cur": "CNY",
+"formula": "FF_ACQ_BUS_CF(ANN,20251231,20251231,,RP,CNY)"
+}
+}
+},
+"adj_eps_actual": {
+"2014": {
+"v": null,
+"end": "2014-12-31",
+"consensus_before": null,
+"date": null
+},
+"2015": {
+"v": null,
+"end": "2015-12-31",
+"consensus_before": null,
+"date": null
+},
+"2016": {
+"v": null,
+"end": "2016-12-31",
+"consensus_before": null,
+"date": null
+},
+"2017": {
+"v": null,
+"end": "2017-12-31",
+"consensus_before": null,
+"date": null
+},
+"2018": {
+"v": -13.88,
+"end": "2018-12-31",
+"consensus_before": -3.924580909090909,
+"date": "2019-03-13"
+},
+"2019": {
+"v": -6.04,
+"end": "2019-12-31",
+"consensus_before": -5.715952225056666,
+"date": "2020-03-11"
+},
+"2020": {
+"v": -6.02,
+"end": "2020-12-31",
+"consensus_before": -3.93586336353,
+"date": "2021-03-17"
+},
+"2021": {
+"v": 9.56,
+"end": "2021-12-31",
+"consensus_before": 2.8308934455947368,
+"date": "2022-03-21"
+},
+"2022": {
+"v": 27.45,
+"end": "2022-12-31",
+"consensus_before": 26.178158868179068,
+"date": "2023-03-20"
+},
+"2023": {
+"v": 46.51,
+"end": "2023-12-31",
+"consensus_before": 41.11353640489189,
+"date": "2024-03-20"
+},
+"2024": {
+"v": 82.71,
+"end": "2024-12-31",
+"consensus_before": 82.24128957805277,
+"date": "2025-03-20"
+},
+"2025": {
+"v": 72.38,
+"end": "2025-12-31",
+"consensus_before": 75.20438353807273,
+"date": "2026-03-25"
+}
+},
+"entity": {
+"name": "PDD Holdings Inc.",
+"description": "PDD Holdings, Inc. is a multinational commerce group that owns and operates a portfolio of businesses. The company aims to bring more businesses and people into the digital economy so that local communities and small businesses can benefit from increased productivity and new opportunities. It has built a network of sourcing, logistics, and fulfillment capabilities, that support its underlying businesses. PDD Holdings was founded by Hua Lin Cai and Zheng Huang in 2015 and is headquartered in Dublin, Ireland.",
+"rbics_econ": "Consumer Non-Cyclicals",
+"rbics_sector": "Food and Staples Retail",
+"rbics_subsector": "General Merchandise Retail",
+"rbics_indgrp": "Department Stores",
+"country_of_risk": "US"
+},
+"sources": {
+"fundamentals": "FactSet Fundamentals ANN (USD), pulled 2026-10-19",
+"entity": "FactSet EntityReference, pulled 2026-10-19",
+"adj_eps": "FactSet EstimatesConsensus surprise (actual EPS, broker/adjusted basis, USD), pulled 2026-10-19"
+},
+"missing": [],
+"fmp_backup": {},
+"name": "PDD Holdings Inc."
+}

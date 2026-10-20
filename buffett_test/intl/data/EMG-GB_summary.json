@@ -1,0 +1,176 @@
+{
+"ticker": "EMG-GB",
+"name": "Man Group PLC",
+"last_fy": 2025,
+"rbics": "Investment Services / Investment Services / Asset Management and Financial Advisory Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 2.7,
+"eps_cagr_5y": 11.2,
+"gaap_eps_cagr_10y": 4.2,
+"rev_cagr_10y": 2.3,
+"rev_cagr_5y": 8.2,
+"shares_cagr_10y": -3.8,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2023,
+-54.0
+],
+"eps_series": {
+"2015": 0.21,
+"2016": 0.1,
+"2017": 0.2,
+"2018": 0.14,
+"2019": 0.21,
+"2020": 0.16,
+"2021": 0.39,
+"2022": 0.49,
+"2023": 0.22,
+"2024": 0.32,
+"2025": 0.28
+},
+"gaap_eps_series": {
+"2015": 0.1,
+"2016": -0.16,
+"2017": 0.15,
+"2018": 0.17,
+"2019": 0.18,
+"2020": 0.09,
+"2021": 0.34,
+"2022": 0.46,
+"2023": 0.19,
+"2024": 0.25,
+"2025": 0.15
+},
+"rev_series_m": {
+"2015": 1162,
+"2016": 866,
+"2017": 1118,
+"2018": 1070,
+"2019": 1145,
+"2020": 987,
+"2021": 1523,
+"2022": 1736,
+"2023": 1237,
+"2024": 1509,
+"2025": 1461
+},
+"ebit_margin_series": {
+"2015": 27.7,
+"2016": 14.1,
+"2017": 26.9,
+"2018": 26.1,
+"2019": 27.5,
+"2020": 23.7,
+"2021": 39.6,
+"2022": 42.6,
+"2023": 25.5,
+"2024": 27.9,
+"2025": 22.5
+},
+"ebit_margin_latest": 22.5,
+"ebit_margin_10y_avg": 27.6,
+"ebit_margin_10y_max": 42.6,
+"ebit_margin_10y_min": 14.1,
+"margin_pctile_in_history": 18,
+"latest_eps_vs_10y_max": 0.57,
+"fcf_conversion_5y": 1.24,
+"fcf_conversion_10y": 1.48,
+"acq_to_fcf_10y": 0.09,
+"buyback_to_fcf_10y": 0.48,
+"div_to_fcf_10y": 0.47,
+"net_debt_m": -7,
+"net_debt_ebitda": -0.02,
+"roic_latest": 9.2,
+"roic_10y_avg": 13.5,
+"roe_latest": 10.6,
+"roe_10y_avg": 15.6,
+"adj_vs_gaap_gap_5y_avg_pct": 29.6,
+"adj_vs_gaap_gap_latest_pct": 83.8,
+"ntm_pe": 8.92,
+"is_reit": "False",
+"price": "4.448045",
+"fcf_yield": 12.1,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.276,
+"std": null,
+"hi": 0.276,
+"lo": 0.276,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.482,
+"std": 0.049,
+"hi": 0.5977943866,
+"lo": 0.406676,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.503,
+"std": 0.052,
+"hi": 0.614036,
+"lo": 0.44,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.552,
+"std": 0.064,
+"hi": 0.682813,
+"lo": 0.469256,
+"n": 10
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+4.3,
+9.8
+],
+"cons_EPS_growth_FY1": 74.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1398.0,
+"std": null,
+"hi": 1398.0,
+"lo": 1398.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1971.052,
+"std": 92.692,
+"hi": 2161.3091670538,
+"lo": 1847.3,
+"n": 10
+},
+"FY2": {
+"fy": 2027,
+"mean": 2048.518,
+"std": 74.408,
+"hi": 2166.7374570235,
+"lo": 1940.5585304257,
+"n": 10
+},
+"FY3": {
+"fy": 2028,
+"mean": 2157.562,
+"std": 55.532,
+"hi": 2254.3229867517,
+"lo": 2059.4777143408,
+"n": 9
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.9,
+5.3
+],
+"cons_SALES_growth_FY1": 41.0,
+"eps_ltg": 20.8265045743,
+"missing": [],
+"fmp_backup": []
+}

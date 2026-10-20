@@ -1,0 +1,176 @@
+{
+"ticker": "ITV-GB",
+"name": "ITV PLC",
+"last_fy": 2025,
+"rbics": "Media and Publishing Services / Media and Publishing Services / Entertainment and Programming Providers",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -6.4,
+"eps_cagr_5y": -4.9,
+"gaap_eps_cagr_10y": -7.2,
+"rev_cagr_10y": 1.7,
+"rev_cagr_5y": 4.8,
+"shares_cagr_10y": -0.7,
+"years_eps_growth_ge7": "2/10",
+"worst_eps_year": [
+2023,
+-41.2
+],
+"eps_series": {
+"2015": 0.16,
+"2016": 0.17,
+"2017": 0.16,
+"2018": 0.15,
+"2019": 0.14,
+"2020": 0.11,
+"2021": 0.15,
+"2022": 0.13,
+"2023": 0.08,
+"2024": 0.09,
+"2025": 0.08
+},
+"gaap_eps_series": {
+"2015": 0.12,
+"2016": 0.11,
+"2017": 0.1,
+"2018": 0.12,
+"2019": 0.12,
+"2020": 0.07,
+"2021": 0.09,
+"2022": 0.11,
+"2023": 0.05,
+"2024": 0.1,
+"2025": 0.06
+},
+"rev_series_m": {
+"2015": 2972,
+"2016": 3064,
+"2017": 3132,
+"2018": 3211,
+"2019": 3308,
+"2020": 2781,
+"2021": 3453,
+"2022": 3728,
+"2023": 3624,
+"2024": 3488,
+"2025": 3511
+},
+"ebit_margin_series": {
+"2015": 26.1,
+"2016": 25.1,
+"2017": 22.6,
+"2018": 21.7,
+"2019": 18.7,
+"2020": 16.8,
+"2021": 19.5,
+"2022": 15.9,
+"2023": 8.9,
+"2024": 11.0,
+"2025": 13.2
+},
+"ebit_margin_latest": 13.2,
+"ebit_margin_10y_avg": 18.1,
+"ebit_margin_10y_max": 26.1,
+"ebit_margin_10y_min": 8.9,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 0.5,
+"fcf_conversion_5y": 0.67,
+"fcf_conversion_10y": 0.88,
+"acq_to_fcf_10y": 0.12,
+"buyback_to_fcf_10y": 0.09,
+"div_to_fcf_10y": 0.78,
+"net_debt_m": 574,
+"net_debt_ebitda": 1.01,
+"roic_latest": 8.9,
+"roic_10y_avg": 18.3,
+"roe_latest": 12.2,
+"roe_10y_avg": 35.7,
+"adj_vs_gaap_gap_5y_avg_pct": 35.1,
+"adj_vs_gaap_gap_latest_pct": 46.0,
+"ntm_pe": 7.93,
+"is_reit": "False",
+"price": "0.867635125",
+"fcf_yield": 12.1,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.085,
+"std": null,
+"hi": 0.08499999810010193,
+"lo": 0.08499999810010193,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.081,
+"std": 0.003,
+"hi": 0.08530619228925795,
+"lo": 0.07689043554136478,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.082,
+"std": 0.006,
+"hi": 0.0887999980151653,
+"lo": 0.07227101816661681,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.087,
+"std": 0.002,
+"hi": 0.08869999801740049,
+"lo": 0.08419999811798333,
+"n": 6
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+2.4,
+5.6
+],
+"cons_EPS_growth_FY1": -5.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 4121.0,
+"std": null,
+"hi": 4121.0,
+"lo": 4121.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3617.092,
+"std": 34.737,
+"hi": 3660.703708,
+"lo": 3568.1933365031,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 3659.896,
+"std": 60.198,
+"hi": 3713.8983,
+"lo": 3545.348065645,
+"n": 6
+},
+"FY3": {
+"fy": 2028,
+"mean": 3756.663,
+"std": 20.743,
+"hi": 3777.0,
+"lo": 3725.433248,
+"n": 5
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+1.2,
+2.6
+],
+"cons_SALES_growth_FY1": -12.2,
+"eps_ltg": 0.719759,
+"missing": [],
+"fmp_backup": []
+}

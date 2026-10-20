@@ -1,0 +1,176 @@
+{
+"ticker": "DRX-GB",
+"name": "Drax Group plc",
+"last_fy": 2025,
+"rbics": "Utilities / Energy Utilities / Other Electric and Natural Gas Utilities",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 28.4,
+"eps_cagr_5y": 35.9,
+"gaap_eps_cagr_10y": 3.7,
+"rev_cagr_10y": 5.7,
+"rev_cagr_5y": 4.8,
+"shares_cagr_10y": -1.2,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2017,
+-86.0
+],
+"eps_series": {
+"2015": 0.11,
+"2016": 0.05,
+"2017": 0.01,
+"2018": 0.1,
+"2019": 0.3,
+"2020": 0.29,
+"2021": 0.21,
+"2022": 0.85,
+"2023": 1.2,
+"2024": 1.28,
+"2025": 1.34
+},
+"gaap_eps_series": {
+"2015": 0.14,
+"2016": 0.47,
+"2017": -0.37,
+"2018": 0.05,
+"2019": 0.0,
+"2020": -0.4,
+"2021": 0.19,
+"2022": 0.21,
+"2023": 1.39,
+"2024": 1.35,
+"2025": 0.2
+},
+"rev_series_m": {
+"2015": 3065,
+"2016": 2950,
+"2017": 3685,
+"2018": 4237,
+"2019": 4703,
+"2020": 4235,
+"2021": 5174,
+"2022": 8159,
+"2023": 7842,
+"2024": 6081,
+"2025": 5355
+},
+"ebit_margin_series": {
+"2015": 2.2,
+"2016": 0.9,
+"2017": 1.7,
+"2018": 1.8,
+"2019": 4.3,
+"2020": 4.5,
+"2021": 8.6,
+"2022": 8.1,
+"2023": 10.0,
+"2024": 13.4,
+"2025": 9.9
+},
+"ebit_margin_latest": 9.9,
+"ebit_margin_10y_avg": 5.9,
+"ebit_margin_10y_max": 13.4,
+"ebit_margin_10y_min": 0.9,
+"margin_pctile_in_history": 82,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.15,
+"fcf_conversion_10y": 1.92,
+"acq_to_fcf_10y": 0.59,
+"buyback_to_fcf_10y": 0.24,
+"div_to_fcf_10y": 0.28,
+"net_debt_m": 776,
+"net_debt_ebitda": 1.0,
+"roic_latest": 2.5,
+"roic_10y_avg": 3.9,
+"roe_latest": 3.9,
+"roe_10y_avg": 6.6,
+"adj_vs_gaap_gap_5y_avg_pct": 174.5,
+"adj_vs_gaap_gap_latest_pct": 565.8,
+"ntm_pe": 13.07,
+"is_reit": "False",
+"price": "10.44757875",
+"fcf_yield": 14.3,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.345,
+"std": null,
+"hi": 1.344999969936907,
+"lo": 1.344999969936907,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.822,
+"std": 0.058,
+"hi": 0.9085999796912072,
+"lo": 0.7229999838396906,
+"n": 9
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.546,
+"std": 0.062,
+"hi": 0.6384999857284127,
+"lo": 0.44899617364715316,
+"n": 9
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.742,
+"std": 0.102,
+"hi": 0.8869999801740048,
+"lo": 0.6189999861642717,
+"n": 9
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-33.6,
+35.9
+],
+"cons_EPS_growth_FY1": -38.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 5355.4,
+"std": null,
+"hi": 5355.4,
+"lo": 5355.4,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5482.351,
+"std": 667.421,
+"hi": 6339.218374,
+"lo": 4396.0,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 4887.306,
+"std": 1127.33,
+"hi": 6287.352448,
+"lo": 2862.0,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 4702.696,
+"std": 1112.432,
+"hi": 5880.312388,
+"lo": 2588.0,
+"n": 8
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+-10.9,
+-3.8
+],
+"cons_SALES_growth_FY1": 2.4,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

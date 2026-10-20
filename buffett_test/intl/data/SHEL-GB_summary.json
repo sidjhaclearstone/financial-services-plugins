@@ -1,0 +1,176 @@
+{
+"ticker": "SHEL-GB",
+"name": "Shell Plc",
+"last_fy": 2025,
+"rbics": "Integrated Oil and Gas Exploration and Production / Integrated Oil and Gas Exploration and Production / Integrated Oil and Gas Exploration and Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 6.4,
+"eps_cagr_5y": 38.4,
+"gaap_eps_cagr_10y": 25.9,
+"rev_cagr_10y": -0.3,
+"rev_cagr_5y": 8.6,
+"shares_cagr_10y": -0.7,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2020,
+-69.6
+],
+"eps_series": {
+"2015": 1.69,
+"2016": 0.92,
+"2017": 1.92,
+"2018": 2.58,
+"2019": 2.04,
+"2020": 0.62,
+"2021": 2.49,
+"2022": 5.43,
+"2023": 4.2,
+"2024": 3.76,
+"2025": 3.15
+},
+"gaap_eps_series": {
+"2015": 0.3,
+"2016": 0.58,
+"2017": 1.56,
+"2018": 2.8,
+"2019": 1.95,
+"2020": -2.78,
+"2021": 2.57,
+"2022": 5.71,
+"2023": 2.85,
+"2024": 2.53,
+"2025": 3.0
+},
+"rev_series_m": {
+"2015": 264960,
+"2016": 233591,
+"2017": 305218,
+"2018": 385289,
+"2019": 340032,
+"2020": 169971,
+"2021": 261553,
+"2022": 369625,
+"2023": 300216,
+"2024": 273756,
+"2025": 257331
+},
+"ebit_margin_series": {
+"2015": 2.0,
+"2016": 2.2,
+"2017": 6.6,
+"2018": 7.2,
+"2019": 6.2,
+"2020": -5.3,
+"2021": 9.9,
+"2022": 12.8,
+"2023": 7.3,
+"2024": 8.3,
+"2025": 7.6
+},
+"ebit_margin_latest": 7.6,
+"ebit_margin_10y_avg": 5.9,
+"ebit_margin_10y_max": 12.8,
+"ebit_margin_10y_min": -5.3,
+"margin_pctile_in_history": 73,
+"latest_eps_vs_10y_max": 0.58,
+"fcf_conversion_5y": 1.29,
+"fcf_conversion_10y": 1.42,
+"acq_to_fcf_10y": 0.06,
+"buyback_to_fcf_10y": 0.41,
+"div_to_fcf_10y": 0.46,
+"net_debt_m": 45427,
+"net_debt_ebitda": 1.04,
+"roic_latest": 7.2,
+"roic_10y_avg": 5.8,
+"roe_latest": 10.0,
+"roe_10y_avg": 8.1,
+"adj_vs_gaap_gap_5y_avg_pct": 18.6,
+"adj_vs_gaap_gap_latest_pct": 5.1,
+"ntm_pe": 9.61,
+"is_reit": "False",
+"price": "52.36441",
+"fcf_yield": 11.3,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.15,
+"std": null,
+"hi": 3.15,
+"lo": 3.15,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 6.216,
+"std": 0.618,
+"hi": 7.58,
+"lo": 4.83,
+"n": 28
+},
+"FY2": {
+"fy": 2027,
+"mean": 5.259,
+"std": 0.894,
+"hi": 7.71,
+"lo": 2.845,
+"n": 29
+},
+"FY3": {
+"fy": 2028,
+"mean": 4.714,
+"std": 0.692,
+"hi": 6.44,
+"lo": 3.275,
+"n": 25
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-15.4,
+-10.4
+],
+"cons_EPS_growth_FY1": 97.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 266886.0,
+"std": null,
+"hi": 266886.0,
+"lo": 266886.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 351579.152,
+"std": 37677.223,
+"hi": 419891.163051412,
+"lo": 269555.0,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 323811.992,
+"std": 41393.187,
+"hi": 417618.0,
+"lo": 253634.0,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 305859.084,
+"std": 37475.644,
+"hi": 380997.0,
+"lo": 260035.431567296,
+"n": 18
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+-7.9,
+-5.5
+],
+"cons_SALES_growth_FY1": 31.7,
+"eps_ltg": 14.5421638823,
+"missing": [],
+"fmp_backup": []
+}

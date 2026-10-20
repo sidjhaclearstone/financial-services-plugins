@@ -1,0 +1,176 @@
+{
+"ticker": "MF-FR",
+"name": "Wendel SE",
+"last_fy": 2025,
+"rbics": "Investment Services / Investment Services / Investment Holding Companies",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 4.2,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": -0.4,
+"rev_cagr_5y": 0.3,
+"shares_cagr_10y": -0.8,
+"years_eps_growth_ge7": "2/8",
+"worst_eps_year": [
+2016,
+-417.3
+],
+"eps_series": {
+"2015": 2.53,
+"2016": -8.02,
+"2017": 3.65,
+"2018": 0.5,
+"2019": 10.17,
+"2020": -4.75,
+"2021": 19.89,
+"2022": 1.51,
+"2023": 9.5,
+"2024": 5.48,
+"2025": 3.8
+},
+"gaap_eps_series": {
+"2015": -3.17,
+"2016": -10.51,
+"2017": -2.62,
+"2018": -2.92,
+"2019": 8.95,
+"2020": -6.03,
+"2021": 23.78,
+"2022": 1.55,
+"2023": 3.2,
+"2024": 6.71,
+"2025": -3.58
+},
+"rev_series_m": {
+"2015": 7867,
+"2016": 8284,
+"2017": 8329,
+"2018": 8389,
+"2019": 8562,
+"2020": 7459,
+"2021": 7504,
+"2022": 8700,
+"2023": 7128,
+"2024": 8064,
+"2025": 7568
+},
+"ebit_margin_series": {
+"2015": 9.5,
+"2016": 9.9,
+"2017": 8.9,
+"2018": 9.1,
+"2019": 9.0,
+"2020": 7.0,
+"2021": 10.7,
+"2022": 11.2,
+"2023": 12.2,
+"2024": 12.1,
+"2025": 12.0
+},
+"ebit_margin_latest": 12.0,
+"ebit_margin_10y_avg": 10.2,
+"ebit_margin_10y_max": 12.2,
+"ebit_margin_10y_min": 7.0,
+"margin_pctile_in_history": 82,
+"latest_eps_vs_10y_max": 0.19,
+"fcf_conversion_5y": 10.34,
+"fcf_conversion_10y": null,
+"acq_to_fcf_10y": 0.04,
+"buyback_to_fcf_10y": 0.1,
+"div_to_fcf_10y": 0.13,
+"net_debt_m": 3290,
+"net_debt_ebitda": 2.19,
+"roic_latest": -2.0,
+"roic_10y_avg": -0.4,
+"roe_latest": -5.3,
+"roe_10y_avg": -1.7,
+"adj_vs_gaap_gap_5y_avg_pct": 39.8,
+"adj_vs_gaap_gap_latest_pct": null,
+"ntm_pe": 24.94,
+"is_reit": "False",
+"price": "91.9794",
+"fcf_yield": 24.6,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.803,
+"std": null,
+"hi": 3.802681,
+"lo": 3.802681,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.175,
+"std": 3.64,
+"hi": 6.79,
+"lo": -1.74,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 3.315,
+"std": 3.156,
+"hi": 6.79,
+"lo": -0.84,
+"n": 4
+},
+"FY3": {
+"fy": 2028,
+"mean": 3.85,
+"std": 2.63,
+"hi": 6.79,
+"lo": 0.48,
+"n": 4
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+4.4,
+16.1
+],
+"cons_EPS_growth_FY1": -16.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 7567.9,
+"std": null,
+"hi": 7567.9,
+"lo": 7567.9,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 7744.25,
+"std": 461.835,
+"hi": 8064.0,
+"lo": 7063.0,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 8003.75,
+"std": 529.075,
+"hi": 8540.0,
+"lo": 7275.0,
+"n": 4
+},
+"FY3": {
+"fy": 2028,
+"mean": 8214.75,
+"std": 585.968,
+"hi": 8881.0,
+"lo": 7493.0,
+"n": 4
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.4,
+2.6
+],
+"cons_SALES_growth_FY1": 2.3,
+"eps_ltg": 9.0,
+"missing": [],
+"fmp_backup": []
+}

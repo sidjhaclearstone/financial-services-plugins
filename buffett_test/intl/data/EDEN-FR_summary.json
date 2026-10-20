@@ -1,0 +1,174 @@
+{
+"ticker": "EDEN-FR",
+"name": "Edenred SA",
+"last_fy": 2025,
+"rbics": "Business Services / Other Professional Services / Administrative Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 11.8,
+"eps_cagr_5y": 18.1,
+"gaap_eps_cagr_10y": 10.8,
+"rev_cagr_10y": 10.6,
+"rev_cagr_5y": 13.9,
+"shares_cagr_10y": 0.6,
+"years_eps_growth_ge7": "7/10",
+"worst_eps_year": [
+2020,
+-18.7
+],
+"eps_series": {
+"2015": 0.85,
+"2016": 0.78,
+"2017": 1.04,
+"2018": 1.15,
+"2019": 1.39,
+"2020": 1.13,
+"2021": 1.35,
+"2022": 1.62,
+"2023": 1.68,
+"2024": 2.07,
+"2025": 2.59
+},
+"gaap_eps_series": {
+"2015": 0.76,
+"2016": 0.77,
+"2017": 1.05,
+"2018": 1.06,
+"2019": 1.29,
+"2020": 0.97,
+"2021": 1.19,
+"2022": 1.46,
+"2023": 1.01,
+"2024": 2.01,
+"2025": 2.12
+},
+"rev_series_m": {
+"2015": 1000,
+"2016": 1073,
+"2017": 1272,
+"2018": 1327,
+"2019": 1570,
+"2020": 1423,
+"2021": 1583,
+"2022": 1944,
+"2023": 2311,
+"2024": 2609,
+"2025": 2732
+},
+"ebit_margin_series": {
+"2015": 27.2,
+"2016": 28.3,
+"2017": 29.1,
+"2018": 31.0,
+"2019": 32.2,
+"2020": 29.3,
+"2021": 31.3,
+"2022": 31.0,
+"2023": 23.5,
+"2024": 30.4,
+"2025": 31.6
+},
+"ebit_margin_latest": 31.6,
+"ebit_margin_10y_avg": 29.5,
+"ebit_margin_10y_max": 32.2,
+"ebit_margin_10y_min": 23.5,
+"margin_pctile_in_history": 91,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.56,
+"fcf_conversion_10y": 2.19,
+"acq_to_fcf_10y": 0.45,
+"buyback_to_fcf_10y": 0.1,
+"div_to_fcf_10y": 0.23,
+"net_debt_m": -609,
+"net_debt_ebitda": -0.54,
+"roic_latest": 19.5,
+"roic_10y_avg": 53.5,
+"adj_vs_gaap_gap_5y_avg_pct": 23.4,
+"adj_vs_gaap_gap_latest_pct": 22.4,
+"ntm_pe": 12.88,
+"is_reit": "False",
+"price": "33.639782999999994",
+"fcf_yield": 11.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.59,
+"std": null,
+"hi": 2.59,
+"lo": 2.59,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.087,
+"std": 0.172,
+"hi": 2.414844,
+"lo": 1.886714929,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.389,
+"std": 0.2,
+"hi": 2.93,
+"lo": 2.0389469169,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.695,
+"std": 0.251,
+"hi": 3.2215,
+"lo": 2.2745849441,
+"n": 14
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+14.4,
+12.8
+],
+"cons_EPS_growth_FY1": -19.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 2961.0,
+"std": null,
+"hi": 2961.0,
+"lo": 2961.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2967.211,
+"std": 27.087,
+"hi": 3006.2,
+"lo": 2921.9,
+"n": 12
+},
+"FY2": {
+"fy": 2027,
+"mean": 3149.876,
+"std": 35.102,
+"hi": 3222.064094,
+"lo": 3101.0425,
+"n": 12
+},
+"FY3": {
+"fy": 2028,
+"mean": 3368.396,
+"std": 67.073,
+"hi": 3471.479487,
+"lo": 3275.7,
+"n": 11
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+6.2,
+6.9
+],
+"cons_SALES_growth_FY1": 0.2,
+"eps_ltg": 8.746670484533333,
+"missing": [],
+"fmp_backup": []
+}

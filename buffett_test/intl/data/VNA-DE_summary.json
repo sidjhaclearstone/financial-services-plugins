@@ -1,0 +1,215 @@
+{
+"ticker": "VNA-DE",
+"name": "Vonovia SE",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment and Services / Property Owners",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 5.5,
+"eps_cagr_5y": -3.4,
+"gaap_eps_cagr_10y": 7.3,
+"rev_cagr_10y": 5.6,
+"rev_cagr_5y": 3.9,
+"shares_cagr_10y": 7.1,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2024,
+-13.4
+],
+"eps_series": {
+"2015": 1.04,
+"2016": 1.44,
+"2017": 1.68,
+"2018": 1.82,
+"2019": 1.99,
+"2020": 2.11,
+"2021": 2.03,
+"2022": 2.42,
+"2023": 2.16,
+"2024": 1.87,
+"2025": 1.77
+},
+"gaap_eps_series": {
+"2015": 2.15,
+"2016": 4.63,
+"2017": 4.74,
+"2018": 4.2,
+"2019": 2.02,
+"2020": 5.5,
+"2021": 4.22,
+"2022": -0.82,
+"2023": -7.8,
+"2024": -1.09,
+"2025": 4.36
+},
+"rev_series_m": {
+"2015": 2883,
+"2016": 3510,
+"2017": 3707,
+"2018": 4132,
+"2019": 3712,
+"2020": 4102,
+"2021": 5427,
+"2022": 5254,
+"2023": 4929,
+"2024": 5127,
+"2025": 4977
+},
+"ebit_margin_series": {
+"2015": 34.2,
+"2016": 29.6,
+"2017": 31.0,
+"2018": 35.1,
+"2019": 38.5,
+"2020": 39.8,
+"2021": -27.7,
+"2022": 17.6,
+"2023": 35.8,
+"2024": 38.6,
+"2025": 35.8
+},
+"ebit_margin_latest": 35.8,
+"ebit_margin_10y_avg": 28.0,
+"ebit_margin_10y_max": 39.8,
+"ebit_margin_10y_min": -27.7,
+"margin_pctile_in_history": 73,
+"latest_eps_vs_10y_max": 0.73,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": 0.85,
+"acq_to_fcf_10y": 3.01,
+"buyback_to_fcf_10y": 0.01,
+"div_to_fcf_10y": 0.57,
+"net_debt_m": 40053,
+"net_debt_ebitda": 17.45,
+"roic_latest": 5.7,
+"roic_10y_avg": 3.4,
+"roe_latest": 14.2,
+"roe_10y_avg": 6.9,
+"adj_vs_gaap_gap_5y_avg_pct": -55.6,
+"adj_vs_gaap_gap_latest_pct": -59.4,
+"ntm_pe": 9.36,
+"is_reit": "True",
+"price": "18.586568999999997",
+"fcf_yield": 16.4,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.746,
+"std": null,
+"hi": 1.7462539259,
+"lo": 1.7462539259,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.802,
+"std": 0.193,
+"hi": 2.23,
+"lo": 1.57,
+"n": 10
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.758,
+"std": 0.134,
+"hi": 2.07,
+"lo": 1.52,
+"n": 10
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.801,
+"std": 0.165,
+"hi": 2.13598,
+"lo": 1.53,
+"n": 9
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-2.4,
+2.4
+],
+"cons_EPS_growth_FY1": 3.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 3428.9,
+"std": null,
+"hi": 3428.9,
+"lo": 3428.9,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3493.17,
+"std": 143.516,
+"hi": 3619.202825,
+"lo": 3070.94864201,
+"n": 11
+},
+"FY2": {
+"fy": 2027,
+"mean": 3594.523,
+"std": 130.908,
+"hi": 3744.791127,
+"lo": 3228.2043582444,
+"n": 11
+},
+"FY3": {
+"fy": 2028,
+"mean": 3709.905,
+"std": 136.319,
+"hi": 3898.86592,
+"lo": 3378.9616286752,
+"n": 11
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.9,
+3.2
+],
+"cons_SALES_growth_FY1": 1.9,
+"cons_FFO": {
+"FY0": {
+"fy": 2025,
+"mean": 1.77,
+"std": 0.125,
+"hi": 2.0199910277,
+"lo": 1.6141049801,
+"n": 9
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.728,
+"std": 0.083,
+"hi": 1.907225,
+"lo": 1.57,
+"n": 10
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.781,
+"std": 0.089,
+"hi": 1.973028,
+"lo": 1.68,
+"n": 10
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.832,
+"std": 0.146,
+"hi": 2.065183,
+"lo": 1.66,
+"n": 9
+}
+},
+"cons_FFO_growth_FY2_FY3": [
+3.0,
+2.9
+],
+"cons_FFO_growth_FY1": -2.3,
+"eps_ltg": 0.7430701334,
+"missing": [],
+"fmp_backup": []
+}
