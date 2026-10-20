@@ -77,7 +77,7 @@ FY3 2028 consensus ($27.30) is already 6% above target. FY2029–31 can fall ~2%
 FY1 2026 is +15.9% vs an 18.28 threshold (low estimate $19.21), so P ≈ 0.98. History: 6/10 years ≥7%. Two of the four misses were divestiture years (2021 −0.9%, 2025 +0.9%) and two were near-misses (2017 +6.9%, 2020 +6.8%) (FactSet). Revenue is ~70%+ recurring (renewals, retainer and outsourcing; estimate), and buybacks add ~3.5 pts in a weak year.
 - Normal-year pass rates FY27–30: 0.80, 0.78, 0.70, 0.70 → product 0.31
 - Recession branch (40% within 5y, cuts that year's pass rate to ~0.45): factor 0.6 + 0.4 × 0.6 = 0.84
-- 0.98 × 0.31 × 0.84 ≈ 0.25; less ~3 pts for the habit of dilutive disposals → **P(Test 3) ≈ 22%. FAIL.**
+- 0.98 × 0.31 × 0.84 ≈ 0.25; less ~3 pts for the habit of dilutive disposals, and capped at peer AON (18%), which has the stronger record → **P(Test 3) ≈ 18%. FAIL.**
 
 ## 6. Key uncertainty and what would change the view
 The key uncertainty is whether Propel and AI lift the margin to ~30% by 2028 without losing HWC revenue. If organic growth holds at ≥5% through 2027 with visible savings, P(Test 2) moves to ~88%. If HWC organic turns negative because of AI substitution, it falls to ~70%. FX: WTW reports in USD, but about half of revenue is non-US (estimate); a stronger dollar is a translation headwind (FY26 FX tailwind guided at +$0.35, StreetAccount 30-Apr-2026).
@@ -86,4 +86,4 @@ The key uncertainty is whether Propel and AI lift the margin to ~30% by 2028 wit
 **Flag: adj vs GAAP gap 17.3% 5y avg** (FactSet). The gap comes from amortisation of acquired intangibles (Towers Watson), transformation/restructuring charges and the FY2024 GAAP loss (TRANZACT impairment, estimate). The latest-year gap is 5.4%. FCF conversion is 1.13x 10y / 1.11x 5y (FactSet), so cash backs adjusted earnings.
 
 ## Verdict line
-`RESULT | P(Test2)=83% (FAIL) | P(Test3)=22% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
+`RESULT | P(Test2)=83% (FAIL) | P(Test3)=18% (FAIL) | Tests passed: 1/3 | Near-miss: N | Confidence: M`
