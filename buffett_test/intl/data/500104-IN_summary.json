@@ -1,0 +1,176 @@
+{
+"ticker": "500104-IN",
+"name": "Hindustan Petroleum Corporation Limited",
+"last_fy": 2025,
+"rbics": "Downstream and Midstream Energy / Downstream Energy / Petroleum Refineries",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 15.4,
+"eps_cagr_5y": 11.4,
+"gaap_eps_cagr_10y": 14.7,
+"rev_cagr_10y": 8.9,
+"rev_cagr_5y": 13.6,
+"shares_cagr_10y": -0.7,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2022,
+-240.8
+],
+"eps_series": {
+"2015": 19.3,
+"2016": 26.72,
+"2017": 29.86,
+"2018": 28.02,
+"2019": 13.87,
+"2020": 47.05,
+"2021": 29.96,
+"2022": -42.17,
+"2023": 69.05,
+"2024": 34.61,
+"2025": 80.72
+},
+"gaap_eps_series": {
+"2015": 21.53,
+"2016": 36.03,
+"2017": 31.58,
+"2018": 29.27,
+"2019": 11.54,
+"2020": 47.04,
+"2021": 34.24,
+"2022": -32.8,
+"2023": 75.26,
+"2024": 31.66,
+"2025": 84.81
+},
+"rev_series_m": {
+"2015": 1869663,
+"2016": 1873093,
+"2017": 2181802,
+"2018": 2746385,
+"2019": 2678885,
+"2020": 2324229,
+"2021": 3489866,
+"2022": 4396860,
+"2023": 4328577,
+"2024": 4330139,
+"2025": 4404883
+},
+"ebit_margin_series": {
+"2015": 4.1,
+"2016": 4.3,
+"2017": 3.1,
+"2018": 3.1,
+"2019": 0.8,
+"2020": 5.0,
+"2021": 1.8,
+"2022": -2.4,
+"2023": 4.3,
+"2024": 2.3,
+"2025": 5.6
+},
+"ebit_margin_latest": 5.6,
+"ebit_margin_10y_avg": 2.9,
+"ebit_margin_10y_max": 5.6,
+"ebit_margin_10y_min": -2.4,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.58,
+"fcf_conversion_10y": 0.34,
+"acq_to_fcf_10y": 0.0,
+"buyback_to_fcf_10y": 0.12,
+"div_to_fcf_10y": 0.97,
+"net_debt_m": 526867,
+"net_debt_ebitda": 1.64,
+"roic_latest": 18.5,
+"roic_10y_avg": 13.4,
+"roe_latest": 30.9,
+"roe_10y_avg": 22.2,
+"adj_vs_gaap_gap_5y_avg_pct": -4.1,
+"adj_vs_gaap_gap_latest_pct": -4.8,
+"ntm_pe": 11.21,
+"is_reit": "False",
+"price": "3.6533374628266593",
+"fcf_yield": 7.1,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 80.72,
+"std": null,
+"hi": 80.72,
+"lo": 80.72,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": -1.087,
+"std": 32.209,
+"hi": 60.6,
+"lo": -80.6,
+"n": 31
+},
+"FY2": {
+"fy": 2027,
+"mean": 56.491,
+"std": 21.396,
+"hi": 121.3,
+"lo": 26.0,
+"n": 31
+},
+"FY3": {
+"fy": 2028,
+"mean": 62.483,
+"std": 21.443,
+"hi": 115.9,
+"lo": 34.0,
+"n": 18
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-5297.7,
+10.6
+],
+"cons_EPS_growth_FY1": -101.3,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 4812340.1,
+"std": null,
+"hi": 4812340.1,
+"lo": 4812340.1,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 5220580.171,
+"std": 694607.597,
+"hi": 6504785.0,
+"lo": 3740000.0,
+"n": 32
+},
+"FY2": {
+"fy": 2027,
+"mean": 5018647.485,
+"std": 640335.637,
+"hi": 6197600.0,
+"lo": 3711250.0,
+"n": 32
+},
+"FY3": {
+"fy": 2028,
+"mean": 5161342.646,
+"std": 606561.222,
+"hi": 6180000.0,
+"lo": 3830672.0,
+"n": 18
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+-3.9,
+2.8
+],
+"cons_SALES_growth_FY1": 8.5,
+"eps_ltg": 1.0,
+"missing": [],
+"fmp_backup": []
+}

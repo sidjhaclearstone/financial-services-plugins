@@ -1,0 +1,164 @@
+{
+"ticker": "YACHT-IT",
+"name": "Ferretti S.p.A.",
+"last_fy": 2025,
+"rbics": "Consumer Goods / Leisure Goods Products / Recreational Goods",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 24.8,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": 15.9,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "3/7",
+"worst_eps_year": [
+2020,
+-33.1
+],
+"eps_series": {
+"2018": 0.17,
+"2019": 0.13,
+"2020": 0.09,
+"2021": 0.15,
+"2022": 0.19,
+"2023": 0.25,
+"2024": 0.26,
+"2025": 0.27
+},
+"gaap_eps_series": {
+"2018": 0.17,
+"2019": 0.13,
+"2020": 0.09,
+"2021": 0.15,
+"2022": 0.19,
+"2023": 0.25,
+"2024": 0.26,
+"2025": 0.27
+},
+"rev_series_m": {
+"2018": 615,
+"2019": 649,
+"2020": 611,
+"2021": 898,
+"2022": 1030,
+"2023": 1134,
+"2024": 1240,
+"2025": 1281
+},
+"ebit_margin_series": {
+"2018": 2.7,
+"2019": 1.2,
+"2020": 0.2,
+"2021": 4.1,
+"2022": 4.7,
+"2023": 7.1,
+"2024": 8.0,
+"2025": 8.1
+},
+"ebit_margin_latest": 8.1,
+"ebit_margin_10y_avg": 4.5,
+"ebit_margin_10y_max": 8.1,
+"ebit_margin_10y_min": 0.2,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.42,
+"fcf_conversion_10y": 0.13,
+"acq_to_fcf_10y": 0.23,
+"buyback_to_fcf_10y": 0.0,
+"div_to_fcf_10y": 1.82,
+"net_debt_m": -110,
+"net_debt_ebitda": -0.63,
+"roic_latest": 9.6,
+"roic_10y_avg": 8.2,
+"roe_latest": 9.8,
+"roe_10y_avg": 8.7,
+"adj_vs_gaap_gap_5y_avg_pct": 0.8,
+"adj_vs_gaap_gap_latest_pct": 1.5,
+"ntm_pe": 10.59,
+"is_reit": "False",
+"price": "2.938854",
+"fcf_yield": 6.2,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.27,
+"std": null,
+"hi": 0.27,
+"lo": 0.27,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.234,
+"std": 0.018,
+"hi": 0.26,
+"lo": 0.2,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.251,
+"std": 0.024,
+"hi": 0.3,
+"lo": 0.22,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.285,
+"std": 0.035,
+"hi": 0.35,
+"lo": 0.24,
+"n": 7
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+7.0,
+13.7
+],
+"cons_EPS_growth_FY1": -13.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1280.556,
+"std": null,
+"hi": 1280.556,
+"lo": 1280.556,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1254.688,
+"std": 38.659,
+"hi": 1321.078081,
+"lo": 1190.0,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 1292.421,
+"std": 59.095,
+"hi": 1376.559615,
+"lo": 1214.0,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 1354.722,
+"std": 74.014,
+"hi": 1438.899,
+"lo": 1246.169696,
+"n": 7
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.0,
+4.8
+],
+"cons_SALES_growth_FY1": -2.0,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

@@ -1,0 +1,176 @@
+{
+"ticker": "NOVN-CH",
+"name": "Novartis AG",
+"last_fy": 2025,
+"rbics": "Biopharmaceuticals / Other Biopharmaceuticals / Diversified Biopharmaceuticals",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 8.2,
+"eps_cagr_5y": 10.4,
+"gaap_eps_cagr_10y": -0.2,
+"rev_cagr_10y": 1.0,
+"rev_cagr_5y": 2.3,
+"shares_cagr_10y": -2.2,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2016,
+-3.9
+],
+"eps_series": {
+"2015": 4.1,
+"2016": 3.94,
+"2017": 4.07,
+"2018": 4.31,
+"2019": 5.12,
+"2020": 5.48,
+"2021": 5.96,
+"2022": 5.8,
+"2023": 6.47,
+"2024": 7.81,
+"2025": 8.98
+},
+"gaap_eps_series": {
+"2015": 7.29,
+"2016": 2.8,
+"2017": 3.25,
+"2018": 5.38,
+"2019": 3.04,
+"2020": 3.52,
+"2021": 10.63,
+"2022": 3.17,
+"2023": 7.1,
+"2024": 5.87,
+"2025": 7.15
+},
+"rev_series_m": {
+"2015": 49440,
+"2016": 48518,
+"2017": 49109,
+"2018": 51900,
+"2019": 47498,
+"2020": 48659,
+"2021": 51626,
+"2022": 50545,
+"2023": 45440,
+"2024": 50317,
+"2025": 54532
+},
+"ebit_margin_series": {
+"2015": 20.1,
+"2016": 17.2,
+"2017": 18.7,
+"2018": 18.8,
+"2019": 21.2,
+"2020": 22.2,
+"2021": 22.5,
+"2022": 24.3,
+"2023": 26.1,
+"2024": 30.7,
+"2025": 31.2
+},
+"ebit_margin_latest": 31.2,
+"ebit_margin_10y_avg": 23.0,
+"ebit_margin_10y_max": 31.2,
+"ebit_margin_10y_min": 17.2,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.98,
+"fcf_conversion_10y": 1.08,
+"acq_to_fcf_10y": 0.35,
+"buyback_to_fcf_10y": 0.49,
+"div_to_fcf_10y": 0.61,
+"net_debt_m": 23786,
+"net_debt_ebitda": 1.07,
+"roic_latest": 19.2,
+"roic_10y_avg": 13.1,
+"roe_latest": 30.4,
+"roe_10y_avg": 18.5,
+"adj_vs_gaap_gap_5y_avg_pct": 17.8,
+"adj_vs_gaap_gap_latest_pct": 25.5,
+"ntm_pe": 15.63,
+"is_reit": "False",
+"price": "150.40871934604905",
+"fcf_yield": 6.2,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 8.98,
+"std": null,
+"hi": 8.98,
+"lo": 8.98,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 8.809,
+"std": 0.139,
+"hi": 9.06,
+"lo": 8.4950028139,
+"n": 24
+},
+"FY2": {
+"fy": 2027,
+"mean": 9.822,
+"std": 0.37,
+"hi": 10.7,
+"lo": 9.1053098996,
+"n": 24
+},
+"FY3": {
+"fy": 2028,
+"mean": 10.796,
+"std": 0.589,
+"hi": 12.2,
+"lo": 9.74,
+"n": 22
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+11.5,
+9.9
+],
+"cons_EPS_growth_FY1": -1.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 54532.0,
+"std": null,
+"hi": 54532.0,
+"lo": 54532.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 57236.444,
+"std": 1099.788,
+"hi": 59883.0,
+"lo": 55945.0,
+"n": 24
+},
+"FY2": {
+"fy": 2027,
+"mean": 61026.005,
+"std": 1367.61,
+"hi": 64004.0,
+"lo": 58373.0,
+"n": 23
+},
+"FY3": {
+"fy": 2028,
+"mean": 64880.971,
+"std": 1938.957,
+"hi": 69469.0,
+"lo": 61874.0,
+"n": 22
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+6.6,
+6.3
+],
+"cons_SALES_growth_FY1": 5.0,
+"eps_ltg": 6.908347744314286,
+"missing": [],
+"fmp_backup": []
+}

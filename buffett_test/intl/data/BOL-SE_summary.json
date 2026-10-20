@@ -1,0 +1,176 @@
+{
+"ticker": "BOL-SE",
+"name": "Boliden AB",
+"last_fy": 2025,
+"rbics": "Mining and Mineral Products / Metal Products / Primary Metals Products",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 14.5,
+"eps_cagr_5y": 8.4,
+"gaap_eps_cagr_10y": 13.2,
+"rev_cagr_10y": 8.8,
+"rev_cagr_5y": 10.7,
+"shares_cagr_10y": 0.3,
+"years_eps_growth_ge7": "7/10",
+"worst_eps_year": [
+2023,
+-49.5
+],
+"eps_series": {
+"2015": 8.59,
+"2016": 13.59,
+"2017": 22.06,
+"2018": 23.63,
+"2019": 19.31,
+"2020": 22.26,
+"2021": 29.56,
+"2022": 43.96,
+"2023": 22.21,
+"2024": 35.21,
+"2025": 33.39
+},
+"gaap_eps_series": {
+"2015": 9.65,
+"2016": 15.49,
+"2017": 25.06,
+"2018": 26.32,
+"2019": 21.15,
+"2020": 24.86,
+"2021": 31.81,
+"2022": 45.37,
+"2023": 22.2,
+"2024": 36.65,
+"2025": 33.39
+},
+"rev_series_m": {
+"2015": 40227,
+"2016": 40350,
+"2017": 49531,
+"2018": 52454,
+"2019": 49936,
+"2020": 56321,
+"2021": 68636,
+"2022": 86437,
+"2023": 78554,
+"2024": 89207,
+"2025": 93509
+},
+"ebit_margin_series": {
+"2015": 8.5,
+"2016": 13.9,
+"2017": 18.3,
+"2018": 17.0,
+"2019": 14.7,
+"2020": 15.6,
+"2021": 15.7,
+"2022": 18.2,
+"2023": 9.8,
+"2024": 11.6,
+"2025": 14.5
+},
+"ebit_margin_latest": 14.5,
+"ebit_margin_10y_avg": 14.4,
+"ebit_margin_10y_max": 18.3,
+"ebit_margin_10y_min": 8.5,
+"margin_pctile_in_history": 45,
+"latest_eps_vs_10y_max": 0.76,
+"fcf_conversion_5y": 0.39,
+"fcf_conversion_10y": 0.51,
+"acq_to_fcf_10y": 0.6,
+"buyback_to_fcf_10y": 0.19,
+"div_to_fcf_10y": 0.58,
+"net_debt_m": 14558,
+"net_debt_ebitda": 0.64,
+"roic_latest": 10.7,
+"roic_10y_avg": 14.5,
+"roe_latest": 13.3,
+"roe_10y_avg": 16.7,
+"adj_vs_gaap_gap_5y_avg_pct": -2.8,
+"adj_vs_gaap_gap_latest_pct": -0.0,
+"ntm_pe": 9.49,
+"is_reit": "False",
+"price": "51.96168481826532",
+"fcf_yield": 6.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 33.39,
+"std": null,
+"hi": 33.39,
+"lo": 33.39,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 44.545,
+"std": 4.164,
+"hi": 51.6,
+"lo": 35.19,
+"n": 21
+},
+"FY2": {
+"fy": 2027,
+"mean": 56.618,
+"std": 11.118,
+"hi": 88.0,
+"lo": 37.42,
+"n": 21
+},
+"FY3": {
+"fy": 2028,
+"mean": 62.773,
+"std": 13.495,
+"hi": 95.2,
+"lo": 44.2,
+"n": 20
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+27.1,
+10.9
+],
+"cons_EPS_growth_FY1": 33.4,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 93509.0,
+"std": null,
+"hi": 93509.0,
+"lo": 93509.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 115565.402,
+"std": 9987.247,
+"hi": 145783.0,
+"lo": 97821.3466439211,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 135503.629,
+"std": 24778.102,
+"hi": 195271.0,
+"lo": 99119.0,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 137493.574,
+"std": 27239.357,
+"hi": 199289.0,
+"lo": 99226.0,
+"n": 19
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+17.3,
+1.5
+],
+"cons_SALES_growth_FY1": 23.6,
+"eps_ltg": 11.340887881133334,
+"missing": [],
+"fmp_backup": []
+}

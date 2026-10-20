@@ -1,0 +1,176 @@
+{
+"ticker": "FRE-DE",
+"name": "Fresenius SE & Co. KGaA",
+"last_fy": 2025,
+"rbics": "Healthcare Services / Patient Care / Acute Care and Institutional Patient Care",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 1.1,
+"eps_cagr_5y": -2.3,
+"gaap_eps_cagr_10y": -1.2,
+"rev_cagr_10y": -2.0,
+"rev_cagr_5y": -8.8,
+"shares_cagr_10y": 0.3,
+"years_eps_growth_ge7": "3/10",
+"worst_eps_year": [
+2023,
+-13.3
+],
+"eps_series": {
+"2015": 2.57,
+"2016": 2.9,
+"2017": 3.35,
+"2018": 3.4,
+"2019": 3.37,
+"2020": 3.22,
+"2021": 3.35,
+"2022": 3.08,
+"2023": 2.67,
+"2024": 3.12,
+"2025": 2.87
+},
+"gaap_eps_series": {
+"2015": 2.53,
+"2016": 2.83,
+"2017": 3.25,
+"2018": 3.63,
+"2019": 3.38,
+"2020": 3.06,
+"2021": 3.26,
+"2022": 2.44,
+"2023": -1.05,
+"2024": 0.84,
+"2025": 2.24
+},
+"rev_series_m": {
+"2015": 27995,
+"2016": 29471,
+"2017": 33886,
+"2018": 33530,
+"2019": 35409,
+"2020": 36277,
+"2021": 37077,
+"2022": 40637,
+"2023": 22299,
+"2024": 21833,
+"2025": 22873
+},
+"ebit_margin_series": {
+"2015": 14.0,
+"2016": 14.5,
+"2017": 12.9,
+"2018": 12.6,
+"2019": 12.2,
+"2020": 11.4,
+"2021": 9.7,
+"2022": 7.3,
+"2023": 5.8,
+"2024": 8.4,
+"2025": 9.5
+},
+"ebit_margin_latest": 9.5,
+"ebit_margin_10y_avg": 10.8,
+"ebit_margin_10y_max": 14.5,
+"ebit_margin_10y_min": 5.8,
+"margin_pctile_in_history": 36,
+"latest_eps_vs_10y_max": 0.84,
+"fcf_conversion_5y": 1.52,
+"fcf_conversion_10y": 1.33,
+"acq_to_fcf_10y": 0.53,
+"buyback_to_fcf_10y": 0.05,
+"div_to_fcf_10y": 0.23,
+"net_debt_m": 10348,
+"net_debt_ebitda": 3.14,
+"roic_latest": 5.1,
+"roic_10y_avg": 4.7,
+"roe_latest": 7.9,
+"roe_10y_avg": 9.5,
+"adj_vs_gaap_gap_5y_avg_pct": 82.4,
+"adj_vs_gaap_gap_latest_pct": 27.9,
+"ntm_pe": 11.63,
+"is_reit": "False",
+"price": "50.369938499999996",
+"fcf_yield": 6.8,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.87,
+"std": null,
+"hi": 2.87,
+"lo": 2.87,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.665,
+"std": 0.199,
+"hi": 3.97,
+"lo": 3.1773454397,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 3.909,
+"std": 0.185,
+"hi": 4.15,
+"lo": 3.4535220429,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 4.325,
+"std": 0.229,
+"hi": 4.67,
+"lo": 3.77,
+"n": 13
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+6.7,
+10.6
+],
+"cons_EPS_growth_FY1": 27.7,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 22554.0,
+"std": null,
+"hi": 22554.0,
+"lo": 22554.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 23740.775,
+"std": 169.854,
+"hi": 24096.83,
+"lo": 23557.115302,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 24958.604,
+"std": 290.94,
+"hi": 25776.453,
+"lo": 24633.0,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 26259.938,
+"std": 495.747,
+"hi": 27551.682,
+"lo": 25736.0,
+"n": 12
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.1,
+5.2
+],
+"cons_SALES_growth_FY1": 5.3,
+"eps_ltg": 6.1402340014,
+"missing": [],
+"fmp_backup": []
+}

@@ -1,0 +1,212 @@
+{
+"ticker": "DWNI-DE",
+"name": "Deutsche Wohnen SE",
+"last_fy": 2025,
+"rbics": "Real Estate / Real Estate Investment and Services / Property Owners",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 2.4,
+"eps_cagr_5y": -6.0,
+"gaap_eps_cagr_10y": -2.2,
+"rev_cagr_10y": -0.2,
+"rev_cagr_5y": -13.7,
+"shares_cagr_10y": 2.1,
+"years_eps_growth_ge7": "4/5",
+"worst_eps_year": [
+2020,
+6.2
+],
+"eps_series": {
+"2015": 0.94,
+"2016": 1.14,
+"2017": 1.23,
+"2018": 1.35,
+"2019": 1.53,
+"2020": 1.63,
+"2023": 1.31,
+"2025": 1.19
+},
+"gaap_eps_series": {
+"2015": 3.62,
+"2016": 4.43,
+"2017": 4.74,
+"2018": 4.86,
+"2019": 3.82,
+"2020": 4.13,
+"2021": 2.45,
+"2022": -1.09,
+"2023": -6.8,
+"2024": -1.49,
+"2025": 2.89
+},
+"rev_series_m": {
+"2015": 1376,
+"2016": 1140,
+"2017": 1184,
+"2018": 1461,
+"2019": 2346,
+"2020": 2819,
+"2021": 2378,
+"2022": 1563,
+"2023": 1332,
+"2024": 1395,
+"2025": 1350
+},
+"ebit_margin_series": {
+"2015": 34.3,
+"2016": 50.2,
+"2017": 50.2,
+"2018": 44.4,
+"2019": 35.4,
+"2020": 22.9,
+"2021": 26.1,
+"2022": 28.1,
+"2023": 35.8,
+"2024": 40.4,
+"2025": 15.2
+},
+"ebit_margin_latest": 15.2,
+"ebit_margin_10y_avg": 34.8,
+"ebit_margin_10y_max": 50.2,
+"ebit_margin_10y_min": 15.2,
+"margin_pctile_in_history": 9,
+"latest_eps_vs_10y_max": 0.73,
+"fcf_conversion_5y": null,
+"fcf_conversion_10y": -0.23,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"net_debt_m": 7617,
+"net_debt_ebitda": 12.49,
+"roic_latest": 5.3,
+"roic_10y_avg": 4.1,
+"roe_latest": 7.9,
+"roe_10y_avg": 7.3,
+"adj_vs_gaap_gap_5y_avg_pct": -62.9,
+"adj_vs_gaap_gap_latest_pct": -58.7,
+"ntm_pe": 12.98,
+"is_reit": "True",
+"price": "17.072274",
+"fcf_yield": 6.7,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.89,
+"std": null,
+"hi": 2.89,
+"lo": 2.89,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.732,
+"std": 0.827,
+"hi": 2.317487,
+"lo": 1.147323,
+"n": 2
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.76,
+"std": 2.107,
+"hi": 3.249927,
+"lo": 0.270708,
+"n": 2
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.951,
+"std": 1.513,
+"hi": 4.020946,
+"lo": 1.881644,
+"n": 2
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+1.6,
+67.7
+],
+"cons_EPS_growth_FY1": -40.1,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1334.2,
+"std": null,
+"hi": 1334.2,
+"lo": 1334.2,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1062.116,
+"std": 207.064,
+"hi": 1208.532784,
+"lo": 915.7,
+"n": 2
+},
+"FY2": {
+"fy": 2027,
+"mean": 1099.021,
+"std": 208.061,
+"hi": 1246.142265,
+"lo": 951.9,
+"n": 2
+},
+"FY3": {
+"fy": 2028,
+"mean": 1144.433,
+"std": 216.279,
+"hi": 1297.365074,
+"lo": 991.5,
+"n": 2
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+3.5,
+4.1
+],
+"cons_SALES_growth_FY1": -20.4,
+"cons_FFO": {
+"FY0": {
+"fy": 2025,
+"mean": 1.194,
+"std": 0.094,
+"hi": 1.26,
+"lo": 1.127389,
+"n": 2
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.177,
+"std": 0.06,
+"hi": 1.22,
+"lo": 1.134646,
+"n": 2
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.171,
+"std": 0.027,
+"hi": 1.19,
+"lo": 1.152443,
+"n": 2
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.142,
+"std": 0.031,
+"hi": 1.163741,
+"lo": 1.12,
+"n": 2
+}
+},
+"cons_FFO_growth_FY2_FY3": [
+-0.5,
+-2.5
+],
+"cons_FFO_growth_FY1": -1.4,
+"eps_ltg": 1.063464,
+"missing": [],
+"fmp_backup": []
+}

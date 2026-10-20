@@ -1,0 +1,157 @@
+{
+"ticker": "BARC-GB",
+"name": "Barclays PLC",
+"last_fy": 2025,
+"rbics": "Investment Services / Investment Services / Investment Banking and Corporate Finance",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 9.8,
+"eps_cagr_5y": 34.8,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 5.5,
+"rev_cagr_5y": 14.6,
+"shares_cagr_10y": -1.5,
+"years_eps_growth_ge7": "6/10",
+"worst_eps_year": [
+2020,
+-61.1
+],
+"eps_series": {
+"2015": 0.17,
+"2016": 0.13,
+"2017": 0.16,
+"2018": 0.22,
+"2019": 0.24,
+"2020": 0.09,
+"2021": 0.37,
+"2022": 0.31,
+"2023": 0.27,
+"2024": 0.36,
+"2025": 0.42
+},
+"gaap_eps_series": {
+"2015": -0.02,
+"2016": 0.1,
+"2017": -0.1,
+"2018": 0.09,
+"2019": 0.14,
+"2020": 0.09,
+"2021": 0.36,
+"2022": 0.3,
+"2023": 0.27,
+"2024": 0.35,
+"2025": 0.42
+},
+"rev_series_m": {
+"2015": 31844,
+"2016": 26625,
+"2017": 26799,
+"2018": 28699,
+"2019": 30043,
+"2020": 27606,
+"2021": 27313,
+"2022": 36592,
+"2023": 51336,
+"2024": 55222,
+"2025": 54612
+},
+"ebit_margin_series": {},
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.45,
+"fcf_conversion_10y": 0.13,
+"acq_to_fcf_10y": 0.84,
+"buyback_to_fcf_10y": 7.39,
+"div_to_fcf_10y": 3.48,
+"roic_latest": 1.5,
+"roic_10y_avg": 1.5,
+"roe_latest": 9.9,
+"roe_10y_avg": 6.1,
+"adj_vs_gaap_gap_5y_avg_pct": 1.9,
+"adj_vs_gaap_gap_latest_pct": 0.0,
+"ntm_pe": 6.75,
+"is_reit": "False",
+"price": "5.56005625",
+"fcf_yield": 23.0,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.423,
+"std": null,
+"hi": 0.42299999054521314,
+"lo": 0.42299999054521314,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.518,
+"std": 0.015,
+"hi": 0.5383999879658221,
+"lo": 0.4901999890431761,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.643,
+"std": 0.027,
+"hi": 0.7117999840900301,
+"lo": 0.6017999865487217,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.757,
+"std": 0.04,
+"hi": 0.8442999811284242,
+"lo": 0.7023999843001364,
+"n": 17
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+24.0,
+17.8
+],
+"cons_EPS_growth_FY1": 22.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 29140.0,
+"std": null,
+"hi": 29140.0,
+"lo": 29140.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 31475.674,
+"std": 175.952,
+"hi": 31694.9239650319,
+"lo": 31160.798415,
+"n": 15
+},
+"FY2": {
+"fy": 2027,
+"mean": 32916.626,
+"std": 257.487,
+"hi": 33597.872,
+"lo": 32585.8132150996,
+"n": 15
+},
+"FY3": {
+"fy": 2028,
+"mean": 34417.333,
+"std": 328.463,
+"hi": 35069.335,
+"lo": 33970.9724823867,
+"n": 15
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.6,
+4.6
+],
+"cons_SALES_growth_FY1": 8.0,
+"eps_ltg": 18.27378785645,
+"missing": [],
+"fmp_backup": []
+}

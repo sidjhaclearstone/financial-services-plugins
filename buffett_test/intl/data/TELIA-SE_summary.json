@@ -1,0 +1,176 @@
+{
+"ticker": "TELIA-SE",
+"name": "Telia Company AB",
+"last_fy": 2025,
+"rbics": "Telecommunications / General Telecommunications Services / Pan-Europe Mixed Telecommunications Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -6.4,
+"eps_cagr_5y": -2.2,
+"gaap_eps_cagr_10y": -7.7,
+"rev_cagr_10y": -0.7,
+"rev_cagr_5y": -1.9,
+"shares_cagr_10y": -1.0,
+"years_eps_growth_ge7": "2/10",
+"worst_eps_year": [
+2022,
+-390.3
+],
+"eps_series": {
+"2015": 2.51,
+"2016": 3.76,
+"2017": 2.66,
+"2018": 2.17,
+"2019": 1.77,
+"2020": 1.44,
+"2021": 1.25,
+"2022": -3.63,
+"2023": 1.58,
+"2024": 1.8,
+"2025": 1.29
+},
+"gaap_eps_series": {
+"2015": 1.97,
+"2016": 1.08,
+"2017": 2.26,
+"2018": 2.44,
+"2019": 1.7,
+"2020": -5.53,
+"2021": 2.81,
+"2022": -3.63,
+"2023": 0.08,
+"2024": 0.97,
+"2025": 0.89
+},
+"rev_series_m": {
+"2015": 86569,
+"2016": 84178,
+"2017": 79867,
+"2018": 83559,
+"2019": 85965,
+"2020": 89191,
+"2021": 88343,
+"2022": 90827,
+"2023": 88785,
+"2024": 89127,
+"2025": 80982
+},
+"ebit_margin_series": {
+"2015": 16.5,
+"2016": 16.9,
+"2017": 16.6,
+"2018": 15.4,
+"2019": 13.9,
+"2020": 11.7,
+"2021": 10.6,
+"2022": 11.7,
+"2023": 12.0,
+"2024": 14.1,
+"2025": 13.3
+},
+"ebit_margin_latest": 13.3,
+"ebit_margin_10y_avg": 13.9,
+"ebit_margin_10y_max": 16.9,
+"ebit_margin_10y_min": 10.6,
+"margin_pctile_in_history": 45,
+"latest_eps_vs_10y_max": 0.34,
+"fcf_conversion_5y": 9.48,
+"fcf_conversion_10y": 4.59,
+"acq_to_fcf_10y": 0.43,
+"buyback_to_fcf_10y": 0.15,
+"div_to_fcf_10y": 0.87,
+"net_debt_m": 75569,
+"net_debt_ebitda": 2.36,
+"roic_latest": 3.7,
+"roic_10y_avg": 1.3,
+"roe_latest": 9.5,
+"roe_10y_avg": 2.4,
+"adj_vs_gaap_gap_5y_avg_pct": 506.9,
+"adj_vs_gaap_gap_latest_pct": 45.2,
+"ntm_pe": 17.92,
+"is_reit": "False",
+"price": "4.62487256871196",
+"fcf_yield": 6.3,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.29,
+"std": null,
+"hi": 1.29,
+"lo": 1.29,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.333,
+"std": 0.183,
+"hi": 2.59,
+"lo": 2.1272,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 2.612,
+"std": 0.212,
+"hi": 2.86,
+"lo": 2.23,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 2.859,
+"std": 0.277,
+"hi": 3.43,
+"lo": 2.31,
+"n": 17
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+12.0,
+9.5
+],
+"cons_EPS_growth_FY1": 80.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 80982.0,
+"std": null,
+"hi": 80982.0,
+"lo": 80982.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 83565.106,
+"std": 418.545,
+"hi": 84181.0,
+"lo": 82752.298698,
+"n": 17
+},
+"FY2": {
+"fy": 2027,
+"mean": 85915.267,
+"std": 1186.659,
+"hi": 87666.0,
+"lo": 83732.946248,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 87565.96,
+"std": 1536.416,
+"hi": 89694.0,
+"lo": 84419.960086,
+"n": 16
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.8,
+1.9
+],
+"cons_SALES_growth_FY1": 3.2,
+"eps_ltg": 6.45837,
+"missing": [],
+"fmp_backup": []
+}

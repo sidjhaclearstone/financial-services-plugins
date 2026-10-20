@@ -1,0 +1,148 @@
+{
+"ticker": "KALMAR-FI",
+"name": "Kalmar Corporation",
+"last_fy": 2025,
+"rbics": "Industrial Manufacturing / Machinery Manufacturing / Factory Automation Equipment",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "GAAP diluted",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": null,
+"rev_cagr_5y": null,
+"shares_cagr_10y": null,
+"years_eps_growth_ge7": "1/2",
+"worst_eps_year": [
+2024,
+-34.4
+],
+"eps_series": {
+"2023": 3.03,
+"2024": 1.99,
+"2025": 2.54
+},
+"gaap_eps_series": {
+"2023": 3.03,
+"2024": 1.99,
+"2025": 2.54
+},
+"rev_series_m": {
+"2021": 1512,
+"2022": 1943,
+"2023": 2050,
+"2024": 1720,
+"2025": 1741
+},
+"ebit_margin_series": {
+"2021": 4.8,
+"2022": 7.1,
+"2023": 11.7,
+"2024": 11.9,
+"2025": 12.6
+},
+"ebit_margin_latest": 12.6,
+"ebit_margin_10y_avg": 9.6,
+"ebit_margin_10y_max": 12.6,
+"ebit_margin_10y_min": 4.8,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 0.84,
+"fcf_conversion_5y": 0.72,
+"fcf_conversion_10y": 0.72,
+"acq_to_fcf_10y": 0.02,
+"buyback_to_fcf_10y": 0.01,
+"div_to_fcf_10y": 0.41,
+"net_debt_m": 8,
+"net_debt_ebitda": 0.03,
+"roic_latest": 16.9,
+"roic_10y_avg": 15.5,
+"roe_latest": 24.1,
+"roe_10y_avg": 19.1,
+"adj_vs_gaap_gap_5y_avg_pct": 17.7,
+"adj_vs_gaap_gap_latest_pct": 1.3,
+"ntm_pe": 12.18,
+"is_reit": "False",
+"price": "41.12152199999999",
+"fcf_yield": 6.6,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 2.578,
+"std": 0.024,
+"hi": 2.62,
+"lo": 2.54,
+"n": 8
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.746,
+"std": 0.081,
+"hi": 2.9,
+"lo": 2.66,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 3.076,
+"std": 0.116,
+"hi": 3.31,
+"lo": 2.92,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 3.4,
+"std": 0.185,
+"hi": 3.83,
+"lo": 3.22,
+"n": 8
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+12.0,
+10.5
+],
+"cons_EPS_growth_FY1": 6.5,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 1741.05,
+"std": 0.937,
+"hi": 1742.0,
+"lo": 1739.0,
+"n": 8
+},
+"FY1": {
+"fy": 2026,
+"mean": 1831.5,
+"std": 14.823,
+"hi": 1851.0,
+"lo": 1811.0,
+"n": 8
+},
+"FY2": {
+"fy": 2027,
+"mean": 1929.75,
+"std": 31.739,
+"hi": 1977.0,
+"lo": 1888.0,
+"n": 8
+},
+"FY3": {
+"fy": 2028,
+"mean": 2030.125,
+"std": 74.836,
+"hi": 2191.0,
+"lo": 1949.0,
+"n": 8
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.4,
+5.2
+],
+"cons_SALES_growth_FY1": 5.2,
+"eps_ltg": 6.0,
+"missing": [],
+"fmp_backup": []
+}

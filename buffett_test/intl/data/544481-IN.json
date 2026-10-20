@@ -1,0 +1,672 @@
+{
+"ticker": "544481-IN",
+"fundamentals": {
+"FF_SALES": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 30335.73,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_SALES(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 34756.54,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_SALES(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 39331.72,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_SALES(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 30813.98,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_SALES(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_EBIT_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 18980.01,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_EBIT_OPER(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 22538.89,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_EBIT_OPER(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 27531.84,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_EBIT_OPER(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 14851.74,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_EBIT_OPER(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_EBIT_OPER_MGN": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 62.5665180959878,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_EBIT_OPER_MGN(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 64.8479106378253,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_EBIT_OPER_MGN(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 69.9990745383116,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_EBIT_OPER_MGN(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 48.1980581541236,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_EBIT_OPER_MGN(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 24907.82,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_EBITDA_OPER(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 28414.11,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_EBITDA_OPER(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 31339.89,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_EBITDA_OPER(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 25356.53,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_EBITDA_OPER(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_NET_INC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 2192.4,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_NET_INC(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 3396.59,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_NET_INC(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 2225.16,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_NET_INC(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 3754.36,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_NET_INC(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 6.6397,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_EPS_DIL(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 10.2866,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_EPS_DIL(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 6.7389,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_EPS_DIL(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 1.3155,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_EPS_DIL(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_EPS_DIL_BEF_UNUSUAL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 6.24715150735818,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 9.39184498494336,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 6.2526845751305,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 1.29390841145151,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_EPS_DIL_BEF_UNUSUAL(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_COM_SHS_OUT_EPS_DIL": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 330.19657,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 330.19657,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 330.19657,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 2854.022717,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_COM_SHS_OUT_EPS_DIL(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_ROIC": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": null,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_ROIC(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 1.69889781141594,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_ROIC(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 1.07161716592811,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_ROIC(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 0.986296120044319,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_ROIC(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_ROE": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": null,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_ROE(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 17.4057397704594,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_ROE(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 9.76490434153731,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_ROE(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 1.65744395350331,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_ROE(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_FREE_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": -993.66,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_FREE_CF(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": -2680.19,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_FREE_CF(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 3228.49,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_FREE_CF(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": -2184.62,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_FREE_CF(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_OPER_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 8958.31,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_OPER_CF(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 5771.93,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_OPER_CF(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 10473.54,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_OPER_CF(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 14128.43,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_OPER_CF(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_CAPEX": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 8681.9,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_CAPEX(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 8452.12,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_CAPEX(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 6601.92,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_CAPEX(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 2459.86,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_CAPEX(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_NET_DEBT": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 192548.06,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_NET_DEBT(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 189611.4,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_NET_DEBT(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 188770.79,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_NET_DEBT(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 114534.11,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_NET_DEBT(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_DEBT_EBITDA_OPER": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 8.12858652423215,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 6.95642798595487,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 6.31677775512294,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 4.87574719411528,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_DEBT_EBITDA_OPER(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_DIV_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 1270.07,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_DIV_CF(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 0.0,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_DIV_CF(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 643.13,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_DIV_CF(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 13853.19,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_DIV_CF(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_STK_PURCH_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 0.0,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_STK_PURCH_CF(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 0.0,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_STK_PURCH_CF(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 5649.61,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_STK_PURCH_CF(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": 0.0,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_STK_PURCH_CF(ANN,20260331,20260331,,RP,INR)"
+}
+},
+"FF_ACQ_BUS_CF": {
+"0": {
+"v": null,
+"end": null,
+"cur": "INR",
+"formula": null
+},
+"2022": {
+"v": 216.62,
+"end": "2023-03-31",
+"cur": "INR",
+"formula": "FF_ACQ_BUS_CF(ANN,20230331,20230331,,RP,INR)"
+},
+"2023": {
+"v": 10.0,
+"end": "2024-03-31",
+"cur": "INR",
+"formula": "FF_ACQ_BUS_CF(ANN,20240331,20240331,,RP,INR)"
+},
+"2024": {
+"v": 0.0,
+"end": "2025-03-31",
+"cur": "INR",
+"formula": "FF_ACQ_BUS_CF(ANN,20250331,20250331,,RP,INR)"
+},
+"2025": {
+"v": -24169.6,
+"end": "2026-03-31",
+"cur": "INR",
+"formula": "FF_ACQ_BUS_CF(ANN,20260331,20260331,,RP,INR)"
+}
+}
+},
+"adj_eps_actual": {
+"2014": {
+"v": null,
+"end": "2015-03-31",
+"consensus_before": null,
+"date": null
+},
+"2015": {
+"v": null,
+"end": "2016-03-31",
+"consensus_before": null,
+"date": null
+},
+"2016": {
+"v": null,
+"end": "2017-03-31",
+"consensus_before": null,
+"date": null
+},
+"2017": {
+"v": null,
+"end": "2018-03-31",
+"consensus_before": null,
+"date": null
+},
+"2018": {
+"v": null,
+"end": "2019-03-31",
+"consensus_before": null,
+"date": null
+},
+"2019": {
+"v": null,
+"end": "2020-03-31",
+"consensus_before": null,
+"date": null
+},
+"2020": {
+"v": null,
+"end": "2021-03-31",
+"consensus_before": null,
+"date": null
+},
+"2021": {
+"v": null,
+"end": "2022-03-31",
+"consensus_before": null,
+"date": null
+},
+"2022": {
+"v": null,
+"end": "2023-03-31",
+"consensus_before": null,
+"date": null
+},
+"2023": {
+"v": null,
+"end": "2024-03-31",
+"consensus_before": null,
+"date": null
+},
+"2024": {
+"v": null,
+"end": "2025-03-31",
+"consensus_before": null,
+"date": null
+},
+"2025": {
+"v": null,
+"end": "2026-03-31",
+"consensus_before": null,
+"date": null
+}
+},
+"entity": {
+"name": "Knowledge Realty Trust",
+"description": "Knowledge Realty Trust is an Indian real estate investment trust (REIT) focused on owning, developing, and managing a large portfolio of Grade A commercial office properties. The company was founded on October 10, 2024 and is headquartered in Mumbai, India.",
+"rbics_econ": "Finance",
+"rbics_sector": "Real Estate",
+"rbics_subsector": "Real Estate Investment Trusts (REITs)",
+"rbics_indgrp": "Equity REITs",
+"country_of_risk": "IN"
+},
+"sources": {
+"fundamentals": "FactSet Fundamentals ANN (USD), pulled 2026-10-19",
+"entity": "FactSet EntityReference, pulled 2026-10-19",
+"adj_eps": "FactSet EstimatesConsensus surprise (actual EPS, broker/adjusted basis, USD), pulled 2026-10-19"
+},
+"missing": [],
+"fmp_backup": {},
+"name": "Knowledge Realty Trust"
+}

@@ -1,0 +1,176 @@
+{
+"ticker": "BVI-FR",
+"name": "Bureau Veritas SA",
+"last_fy": 2025,
+"rbics": "Business Services / Other Professional Services / Consulting/Business Process Outsourcing Services",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 4.0,
+"eps_cagr_5y": 17.3,
+"gaap_eps_cagr_10y": 8.5,
+"rev_cagr_10y": 3.4,
+"rev_cagr_5y": 7.0,
+"shares_cagr_10y": 0.1,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2020,
+-37.3
+],
+"eps_series": {
+"2015": 0.96,
+"2016": 0.94,
+"2017": 0.95,
+"2018": 0.96,
+"2019": 1.02,
+"2020": 0.64,
+"2021": 1.05,
+"2022": 1.18,
+"2023": 1.27,
+"2024": 1.38,
+"2025": 1.42
+},
+"gaap_eps_series": {
+"2015": 0.58,
+"2016": 0.73,
+"2017": 0.7,
+"2018": 0.76,
+"2019": 0.83,
+"2020": 0.28,
+"2021": 0.93,
+"2022": 1.02,
+"2023": 1.1,
+"2024": 1.25,
+"2025": 1.31
+},
+"rev_series_m": {
+"2015": 4635,
+"2016": 4549,
+"2017": 4689,
+"2018": 4796,
+"2019": 5100,
+"2020": 4601,
+"2021": 4981,
+"2022": 5651,
+"2023": 5868,
+"2024": 6241,
+"2025": 6466
+},
+"ebit_margin_series": {
+"2015": 14.4,
+"2016": 13.7,
+"2017": 12.5,
+"2018": 12.8,
+"2019": 13.7,
+"2020": 9.9,
+"2021": 14.2,
+"2022": 13.8,
+"2023": 14.2,
+"2024": 14.5,
+"2025": 14.6
+},
+"ebit_margin_latest": 14.6,
+"ebit_margin_10y_avg": 13.5,
+"ebit_margin_10y_max": 14.6,
+"ebit_margin_10y_min": 9.9,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 1.39,
+"fcf_conversion_10y": 1.48,
+"acq_to_fcf_10y": 0.21,
+"buyback_to_fcf_10y": 0.09,
+"div_to_fcf_10y": 0.45,
+"net_debt_m": 1719,
+"net_debt_ebitda": 1.38,
+"roic_latest": 13.6,
+"roic_10y_avg": 10.0,
+"roe_latest": 31.9,
+"roe_10y_avg": 27.8,
+"adj_vs_gaap_gap_5y_avg_pct": 12.5,
+"adj_vs_gaap_gap_latest_pct": 8.5,
+"ntm_pe": 17.32,
+"is_reit": "False",
+"price": "31.385166",
+"fcf_yield": 6.6,
+"test1_route": "+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.42,
+"std": null,
+"hi": 1.42,
+"lo": 1.42,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.528,
+"std": 0.053,
+"hi": 1.59,
+"lo": 1.42,
+"n": 14
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.637,
+"std": 0.106,
+"hi": 1.8056363625,
+"lo": 1.39013355,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.773,
+"std": 0.125,
+"hi": 1.9712873305,
+"lo": 1.52440661,
+"n": 13
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+7.1,
+8.3
+],
+"cons_EPS_growth_FY1": 7.6,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 6466.4,
+"std": null,
+"hi": 6466.4,
+"lo": 6466.4,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 6685.411,
+"std": 249.952,
+"hi": 6869.0,
+"lo": 6079.0,
+"n": 13
+},
+"FY2": {
+"fy": 2027,
+"mean": 7029.439,
+"std": 375.761,
+"hi": 7492.3335321822,
+"lo": 6496.0,
+"n": 13
+},
+"FY3": {
+"fy": 2028,
+"mean": 7489.428,
+"std": 424.767,
+"hi": 7967.77,
+"lo": 6882.0,
+"n": 12
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+5.1,
+6.5
+],
+"cons_SALES_growth_FY1": 3.4,
+"eps_ltg": 5.450893546233333,
+"missing": [],
+"fmp_backup": []
+}

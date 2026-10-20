@@ -1,0 +1,175 @@
+{
+"ticker": "TPE-PL",
+"name": "TAURON Polska Energia S.A.",
+"last_fy": 2025,
+"rbics": "Utilities / Energy Utilities / Electric Utilities",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 9.1,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": 6.5,
+"rev_cagr_5y": 11.0,
+"shares_cagr_10y": 0.0,
+"years_eps_growth_ge7": "3/6",
+"worst_eps_year": [
+2024,
+-65.1
+],
+"eps_series": {
+"2014": 0.68,
+"2015": 0.74,
+"2016": 0.41,
+"2017": 0.95,
+"2018": 0.41,
+"2020": -1.41,
+"2021": 0.19,
+"2023": 0.95,
+"2024": 0.33,
+"2025": 1.78
+},
+"gaap_eps_series": {
+"2015": -1.03,
+"2016": 0.21,
+"2017": 0.79,
+"2018": 0.12,
+"2019": -0.01,
+"2020": -1.42,
+"2021": 0.19,
+"2022": -0.08,
+"2023": 0.95,
+"2024": 0.33,
+"2025": 1.89
+},
+"rev_series_m": {
+"2015": 18375,
+"2016": 17646,
+"2017": 17416,
+"2018": 18122,
+"2019": 20511,
+"2020": 20434,
+"2021": 25301,
+"2022": 36795,
+"2023": 50715,
+"2024": 35399,
+"2025": 34358
+},
+"ebit_margin_series": {
+"2015": 8.9,
+"2016": 9.4,
+"2017": 10.5,
+"2018": 8.7,
+"2019": 7.1,
+"2020": 8.8,
+"2021": 6.5,
+"2022": 2.6,
+"2023": 7.6,
+"2024": 11.5,
+"2025": 14.4
+},
+"ebit_margin_latest": 14.4,
+"ebit_margin_10y_avg": 8.7,
+"ebit_margin_10y_max": 14.4,
+"ebit_margin_10y_min": 2.6,
+"margin_pctile_in_history": 100,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.38,
+"fcf_conversion_10y": -0.47,
+"acq_to_fcf_10y": null,
+"buyback_to_fcf_10y": null,
+"div_to_fcf_10y": null,
+"net_debt_m": 12629,
+"net_debt_ebitda": 1.69,
+"roic_latest": 10.5,
+"roic_10y_avg": 2.0,
+"roe_latest": 17.2,
+"roe_10y_avg": 3.2,
+"adj_vs_gaap_gap_5y_avg_pct": -1.8,
+"adj_vs_gaap_gap_latest_pct": -5.7,
+"ntm_pe": 6.25,
+"is_reit": "False",
+"price": "2.31421497569048",
+"fcf_yield": 3.3,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 1.782,
+"std": 0.167,
+"hi": 1.9,
+"lo": 1.6635714286,
+"n": 2
+},
+"FY1": {
+"fy": 2026,
+"mean": 1.483,
+"std": 0.084,
+"hi": 1.5435226596,
+"lo": 1.36,
+"n": 4
+},
+"FY2": {
+"fy": 2027,
+"mean": 1.432,
+"std": 0.263,
+"hi": 1.7789088788,
+"lo": 1.1386046512,
+"n": 4
+},
+"FY3": {
+"fy": 2028,
+"mean": 1.468,
+"std": 0.291,
+"hi": 1.8810649991,
+"lo": 1.2324324324,
+"n": 4
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-3.5,
+2.5
+],
+"cons_EPS_growth_FY1": -16.7,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 32821.75,
+"std": 2640.048,
+"hi": 34686.0,
+"lo": 28966.0,
+"n": 4
+},
+"FY1": {
+"fy": 2026,
+"mean": 32888.498,
+"std": 1642.313,
+"hi": 34162.0,
+"lo": 30380.4904830835,
+"n": 5
+},
+"FY2": {
+"fy": 2027,
+"mean": 33633.579,
+"std": 751.738,
+"hi": 34640.0,
+"lo": 32687.0,
+"n": 5
+},
+"FY3": {
+"fy": 2028,
+"mean": 33368.301,
+"std": 1107.922,
+"hi": 34300.0,
+"lo": 31488.0,
+"n": 5
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.3,
+-0.8
+],
+"cons_SALES_growth_FY1": 0.2,
+"eps_ltg": null,
+"missing": [],
+"fmp_backup": []
+}

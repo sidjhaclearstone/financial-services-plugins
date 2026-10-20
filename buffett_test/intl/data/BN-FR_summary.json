@@ -1,0 +1,176 @@
+{
+"ticker": "BN-FR",
+"name": "Danone SA",
+"last_fy": 2025,
+"rbics": "Food and Tobacco Production / Food and Beverage Production / Food Production",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 2.7,
+"eps_cagr_5y": 2.6,
+"gaap_eps_cagr_10y": 3.0,
+"rev_cagr_10y": 2.0,
+"rev_cagr_5y": 2.9,
+"shares_cagr_10y": 0.6,
+"years_eps_growth_ge7": "2/10",
+"worst_eps_year": [
+2020,
+-13.2
+],
+"eps_series": {
+"2015": 2.92,
+"2016": 3.1,
+"2017": 3.49,
+"2018": 3.56,
+"2019": 3.85,
+"2020": 3.34,
+"2021": 3.31,
+"2022": 3.43,
+"2023": 3.54,
+"2024": 3.63,
+"2025": 3.8
+},
+"gaap_eps_series": {
+"2015": 2.1,
+"2016": 2.79,
+"2017": 3.91,
+"2018": 3.63,
+"2019": 2.95,
+"2020": 2.99,
+"2021": 2.94,
+"2022": 1.48,
+"2023": 1.36,
+"2024": 3.13,
+"2025": 2.81
+},
+"rev_series_m": {
+"2015": 22412,
+"2016": 21944,
+"2017": 24677,
+"2018": 24610,
+"2019": 25244,
+"2020": 23584,
+"2021": 24242,
+"2022": 27608,
+"2023": 27581,
+"2024": 27300,
+"2025": 27242
+},
+"ebit_margin_series": {
+"2015": 13.2,
+"2016": 13.9,
+"2017": 14.9,
+"2018": 14.6,
+"2019": 15.3,
+"2020": 14.1,
+"2021": 13.8,
+"2022": 12.3,
+"2023": 12.7,
+"2024": 13.0,
+"2025": 13.5
+},
+"ebit_margin_latest": 13.5,
+"ebit_margin_10y_avg": 13.8,
+"ebit_margin_10y_max": 15.3,
+"ebit_margin_10y_min": 12.3,
+"margin_pctile_in_history": 45,
+"latest_eps_vs_10y_max": 0.99,
+"fcf_conversion_5y": 1.69,
+"fcf_conversion_10y": 1.29,
+"acq_to_fcf_10y": 0.57,
+"buyback_to_fcf_10y": 0.08,
+"div_to_fcf_10y": 0.47,
+"net_debt_m": 8548,
+"net_debt_ebitda": 1.7,
+"roic_latest": 6.6,
+"roic_10y_avg": 6.2,
+"roe_latest": 10.5,
+"roe_10y_avg": 11.3,
+"adj_vs_gaap_gap_5y_avg_pct": 71.2,
+"adj_vs_gaap_gap_latest_pct": 35.0,
+"ntm_pe": 14.49,
+"is_reit": "False",
+"price": "67.97502",
+"fcf_yield": 7.0,
+"test1_route": "PE+FCF",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 3.8,
+"std": null,
+"hi": 3.8,
+"lo": 3.8,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3.944,
+"std": 0.057,
+"hi": 4.03,
+"lo": 3.77,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 4.241,
+"std": 0.083,
+"hi": 4.39223,
+"lo": 4.06,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 4.526,
+"std": 0.166,
+"hi": 4.83979,
+"lo": 4.21,
+"n": 19
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+7.5,
+6.7
+],
+"cons_EPS_growth_FY1": 3.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 27283.0,
+"std": null,
+"hi": 27283.0,
+"lo": 27283.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 28145.023,
+"std": 87.622,
+"hi": 28310.6,
+"lo": 28006.0,
+"n": 20
+},
+"FY2": {
+"fy": 2027,
+"mean": 29470.65,
+"std": 346.84,
+"hi": 30108.0,
+"lo": 29001.0,
+"n": 20
+},
+"FY3": {
+"fy": 2028,
+"mean": 30575.912,
+"std": 487.468,
+"hi": 31583.0,
+"lo": 29708.0,
+"n": 18
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.7,
+3.8
+],
+"cons_SALES_growth_FY1": 3.2,
+"eps_ltg": 6.0451061148,
+"missing": [],
+"fmp_backup": []
+}

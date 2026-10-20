@@ -1,0 +1,176 @@
+{
+"ticker": "MT-NL",
+"name": "ArcelorMittal SA",
+"last_fy": 2025,
+"rbics": "Mining and Mineral Products / Metal Products / Primary Metals Products",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": null,
+"gaap_eps_cagr_10y": null,
+"rev_cagr_10y": -0.4,
+"rev_cagr_5y": 2.9,
+"shares_cagr_10y": -0.1,
+"years_eps_growth_ge7": "4/8",
+"worst_eps_year": [
+2020,
+-315.4
+],
+"eps_series": {
+"2015": -10.17,
+"2016": 1.86,
+"2017": 4.46,
+"2018": 5.04,
+"2019": 0.3,
+"2020": -0.64,
+"2021": 13.49,
+"2022": 10.18,
+"2023": 1.09,
+"2024": 1.69,
+"2025": 4.11
+},
+"gaap_eps_series": {
+"2015": -10.31,
+"2016": 1.86,
+"2017": 4.46,
+"2018": 5.04,
+"2019": -2.42,
+"2020": -0.64,
+"2021": 13.5,
+"2022": 10.18,
+"2023": 1.09,
+"2024": 1.69,
+"2025": 4.11
+},
+"rev_series_m": {
+"2015": 63578,
+"2016": 56791,
+"2017": 68679,
+"2018": 76033,
+"2019": 70615,
+"2020": 53270,
+"2021": 76571,
+"2022": 79844,
+"2023": 68275,
+"2024": 62441,
+"2025": 61352
+},
+"ebit_margin_series": {
+"2015": 0.9,
+"2016": 7.7,
+"2017": 8.2,
+"2018": 9.9,
+"2019": 1.8,
+"2020": 6.5,
+"2021": 21.9,
+"2022": 14.2,
+"2023": 4.9,
+"2024": 5.5,
+"2025": 3.2
+},
+"ebit_margin_latest": 3.2,
+"ebit_margin_10y_avg": 7.7,
+"ebit_margin_10y_max": 21.9,
+"ebit_margin_10y_min": 0.9,
+"margin_pctile_in_history": 27,
+"latest_eps_vs_10y_max": 0.3,
+"fcf_conversion_5y": 0.59,
+"fcf_conversion_10y": 0.65,
+"acq_to_fcf_10y": 0.17,
+"buyback_to_fcf_10y": 0.48,
+"div_to_fcf_10y": 0.09,
+"net_debt_m": 7934,
+"net_debt_ebitda": 1.61,
+"roic_latest": 5.0,
+"roic_10y_avg": 7.2,
+"roe_latest": 5.9,
+"roe_10y_avg": 8.8,
+"adj_vs_gaap_gap_5y_avg_pct": -0.0,
+"adj_vs_gaap_gap_latest_pct": -0.1,
+"ntm_pe": 10.18,
+"is_reit": "False",
+"price": "63.398484",
+"fcf_yield": 4.7,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 4.11,
+"std": null,
+"hi": 4.11,
+"lo": 4.11,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 2.594,
+"std": 0.187,
+"hi": 2.8145410063,
+"lo": 2.31,
+"n": 9
+},
+"FY2": {
+"fy": 2027,
+"mean": 7.121,
+"std": 0.839,
+"hi": 8.9264266431,
+"lo": 6.05,
+"n": 14
+},
+"FY3": {
+"fy": 2028,
+"mean": 7.872,
+"std": 0.942,
+"hi": 9.86,
+"lo": 6.47,
+"n": 12
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+174.5,
+10.6
+],
+"cons_EPS_growth_FY1": -36.9,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 61352.0,
+"std": null,
+"hi": 61352.0,
+"lo": 61352.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 67219.282,
+"std": 931.686,
+"hi": 68406.0,
+"lo": 65976.8668661701,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 73543.911,
+"std": 2529.584,
+"hi": 76971.0,
+"lo": 68555.0,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 75305.291,
+"std": 3220.249,
+"hi": 79759.0,
+"lo": 68404.074727,
+"n": 13
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+9.4,
+2.4
+],
+"cons_SALES_growth_FY1": 9.6,
+"eps_ltg": 36.04955901903333,
+"missing": [],
+"fmp_backup": []
+}
