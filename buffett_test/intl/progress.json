@@ -57,5 +57,6 @@
  "phase1_batches": "01-30",
  "phase2_batches": "31-50",
  "p1_triage": "KEEP 12 / TOO HARD 136 / NO 451",
- "p2_triage": "KEEP 7 / TOO HARD 76 / NO 304"
+ "p2_triage": "KEEP 7 / TOO HARD 76 / NO 304",
+ "note": "P1 and P2 triage reviews FAILED mid-run (API spend limit, 429). Re-run both reviews on resume before Stage 4."
 }
