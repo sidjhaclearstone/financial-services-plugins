@@ -1,0 +1,176 @@
+{
+"ticker": "BKW-CH",
+"name": "BKW AG",
+"last_fy": 2025,
+"rbics": "Utilities / Energy Utilities / Electric Utilities",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": 6.3,
+"eps_cagr_5y": 6.1,
+"gaap_eps_cagr_10y": 2.5,
+"rev_cagr_10y": 5.2,
+"rev_cagr_5y": 7.4,
+"shares_cagr_10y": 0.0,
+"years_eps_growth_ge7": "4/10",
+"worst_eps_year": [
+2025,
+-28.7
+],
+"eps_series": {
+"2015": 4.55,
+"2016": 5.22,
+"2017": 4.38,
+"2018": 3.55,
+"2019": 7.43,
+"2020": 6.25,
+"2021": 5.77,
+"2022": 10.43,
+"2023": 9.06,
+"2024": 11.8,
+"2025": 8.41
+},
+"gaap_eps_series": {
+"2015": 5.29,
+"2016": 5.93,
+"2017": 4.77,
+"2018": 3.54,
+"2019": 7.42,
+"2020": 6.86,
+"2021": 5.77,
+"2022": 10.43,
+"2023": 9.06,
+"2024": 11.8,
+"2025": 6.77
+},
+"rev_series_m": {
+"2015": 2534,
+"2016": 2665,
+"2017": 2416,
+"2018": 2526,
+"2019": 2711,
+"2020": 2936,
+"2021": 3380,
+"2022": 5064,
+"2023": 4433,
+"2024": 4549,
+"2025": 4201
+},
+"ebit_margin_series": {
+"2015": 16.6,
+"2016": 14.4,
+"2017": 13.9,
+"2018": 15.4,
+"2019": 12.5,
+"2020": 10.8,
+"2021": 7.1,
+"2022": 18.1,
+"2023": 13.2,
+"2024": 14.5,
+"2025": 6.5
+},
+"ebit_margin_latest": 6.5,
+"ebit_margin_10y_avg": 13.0,
+"ebit_margin_10y_max": 18.1,
+"ebit_margin_10y_min": 6.5,
+"margin_pctile_in_history": 9,
+"latest_eps_vs_10y_max": 0.71,
+"fcf_conversion_5y": 0.5,
+"fcf_conversion_10y": 0.53,
+"acq_to_fcf_10y": 0.36,
+"buyback_to_fcf_10y": 0.06,
+"div_to_fcf_10y": 0.65,
+"net_debt_m": 774,
+"net_debt_ebitda": 1.37,
+"roic_latest": 5.2,
+"roic_10y_avg": 7.2,
+"roe_latest": 6.7,
+"roe_10y_avg": 10.1,
+"adj_vs_gaap_gap_5y_avg_pct": 4.9,
+"adj_vs_gaap_gap_latest_pct": 24.3,
+"ntm_pe": 14.75,
+"is_reit": "False",
+"price": "143.14259763851044",
+"fcf_yield": 2.1,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 8.41,
+"std": null,
+"hi": 8.41,
+"lo": 8.41,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 8.978,
+"std": 0.702,
+"hi": 10.31,
+"lo": 8.09,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 7.776,
+"std": 1.325,
+"hi": 10.38,
+"lo": 6.2,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 8.597,
+"std": 1.525,
+"hi": 11.28,
+"lo": 6.6,
+"n": 7
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-13.4,
+10.6
+],
+"cons_EPS_growth_FY1": 6.8,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 4543.6,
+"std": null,
+"hi": 4543.6,
+"lo": 4543.6,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 4460.94,
+"std": 155.531,
+"hi": 4761.0,
+"lo": 4250.0,
+"n": 7
+},
+"FY2": {
+"fy": 2027,
+"mean": 4326.623,
+"std": 195.869,
+"hi": 4673.0,
+"lo": 4134.9,
+"n": 7
+},
+"FY3": {
+"fy": 2028,
+"mean": 4491.049,
+"std": 186.501,
+"hi": 4715.0,
+"lo": 4242.4,
+"n": 7
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+-3.0,
+3.8
+],
+"cons_SALES_growth_FY1": -1.8,
+"eps_ltg": 2.0,
+"missing": [],
+"fmp_backup": []
+}

@@ -1,0 +1,174 @@
+{
+"ticker": "ESSITY.B-SE",
+"name": "Essity AB",
+"last_fy": 2025,
+"rbics": "Household Products / Personal Care and Cleaning Products / Sanitary and Personal Care Paper Products",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": null,
+"eps_cagr_5y": 3.5,
+"gaap_eps_cagr_10y": 7.8,
+"rev_cagr_10y": 3.5,
+"rev_cagr_5y": 2.6,
+"shares_cagr_10y": -0.2,
+"years_eps_growth_ge7": "3/8",
+"worst_eps_year": [
+2021,
+-20.6
+],
+"eps_series": {
+"2017": 13.09,
+"2018": 13.32,
+"2019": 14.69,
+"2020": 15.45,
+"2021": 12.27,
+"2022": 12.28,
+"2023": 17.56,
+"2024": 17.09,
+"2025": 18.37
+},
+"gaap_eps_series": {
+"2015": 8.7,
+"2016": 5.4,
+"2017": 11.56,
+"2018": 11.23,
+"2019": 13.12,
+"2020": 14.56,
+"2021": 12.27,
+"2022": 7.93,
+"2023": 13.6,
+"2024": 17.26,
+"2025": 18.37
+},
+"rev_series_m": {
+"2015": 98519,
+"2016": 101238,
+"2017": 109265,
+"2018": 118500,
+"2019": 128975,
+"2020": 121752,
+"2021": 121867,
+"2022": 156173,
+"2023": 147147,
+"2024": 145546,
+"2025": 138494
+},
+"ebit_margin_series": {
+"2015": 10.1,
+"2016": 8.9,
+"2017": 11.6,
+"2018": 10.3,
+"2019": 11.7,
+"2020": 13.7,
+"2021": 10.2,
+"2022": 10.9,
+"2023": 12.1,
+"2024": 13.2,
+"2025": 13.4
+},
+"ebit_margin_latest": 13.4,
+"ebit_margin_10y_avg": 11.5,
+"ebit_margin_10y_max": 13.7,
+"ebit_margin_10y_min": 8.9,
+"margin_pctile_in_history": 91,
+"latest_eps_vs_10y_max": 1.0,
+"fcf_conversion_5y": 0.95,
+"fcf_conversion_10y": 1.02,
+"acq_to_fcf_10y": 0.38,
+"buyback_to_fcf_10y": 0.06,
+"div_to_fcf_10y": 0.43,
+"net_debt_m": 28879,
+"net_debt_ebitda": 1.13,
+"roic_latest": 10.3,
+"roic_10y_avg": 8.7,
+"roe_latest": 14.6,
+"roe_10y_avg": 15.3,
+"adj_vs_gaap_gap_5y_avg_pct": 16.6,
+"adj_vs_gaap_gap_latest_pct": 0.0,
+"ntm_pe": 14.07,
+"is_reit": "False",
+"price": "27.868339507232047",
+"fcf_yield": 5.2,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 18.37,
+"std": null,
+"hi": 18.37,
+"lo": 18.37,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 18.407,
+"std": 0.685,
+"hi": 19.6,
+"lo": 17.52,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 19.929,
+"std": 1.799,
+"hi": 22.4,
+"lo": 14.7,
+"n": 17
+},
+"FY3": {
+"fy": 2028,
+"mean": 21.807,
+"std": 1.533,
+"hi": 24.6,
+"lo": 18.5,
+"n": 15
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+8.3,
+9.4
+],
+"cons_EPS_growth_FY1": 0.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 138494.0,
+"std": null,
+"hi": 138494.0,
+"lo": 138494.0,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 141862.85,
+"std": 1208.043,
+"hi": 143428.0,
+"lo": 139393.0,
+"n": 16
+},
+"FY2": {
+"fy": 2027,
+"mean": 148744.391,
+"std": 2960.031,
+"hi": 154187.0,
+"lo": 143547.0,
+"n": 16
+},
+"FY3": {
+"fy": 2028,
+"mean": 152509.19,
+"std": 3227.905,
+"hi": 158606.0,
+"lo": 147354.0,
+"n": 14
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+4.9,
+2.5
+],
+"cons_SALES_growth_FY1": 2.4,
+"eps_ltg": 4.4465806521,
+"missing": [],
+"fmp_backup": []
+}

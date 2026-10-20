@@ -1,0 +1,176 @@
+{
+"ticker": "TW-GB",
+"name": "Taylor Wimpey PLC",
+"last_fy": 2025,
+"rbics": "Miscellaneous Retail / Home Builders and Manufactured Buildings / Home Builders",
+"mkt_cap_usd_m": null,
+"eps_basis_for_growth": "adjusted (FactSet actuals)",
+"eps_cagr_10y": -4.3,
+"eps_cagr_5y": 4.2,
+"gaap_eps_cagr_10y": -15.3,
+"rev_cagr_10y": 2.0,
+"rev_cagr_5y": 6.6,
+"shares_cagr_10y": 0.8,
+"years_eps_growth_ge7": "5/10",
+"worst_eps_year": [
+2020,
+-67.8
+],
+"eps_series": {
+"2015": 0.12,
+"2016": 0.15,
+"2017": 0.18,
+"2018": 0.2,
+"2019": 0.2,
+"2020": 0.06,
+"2021": 0.18,
+"2022": 0.2,
+"2023": 0.1,
+"2024": 0.08,
+"2025": 0.08
+},
+"gaap_eps_series": {
+"2015": 0.15,
+"2016": 0.18,
+"2017": 0.17,
+"2018": 0.2,
+"2019": 0.21,
+"2020": 0.06,
+"2021": 0.15,
+"2022": 0.18,
+"2023": 0.1,
+"2024": 0.06,
+"2025": 0.03
+},
+"rev_series_m": {
+"2015": 3140,
+"2016": 3676,
+"2017": 3965,
+"2018": 4082,
+"2019": 4341,
+"2020": 2790,
+"2021": 4285,
+"2022": 4420,
+"2023": 3514,
+"2024": 3401,
+"2025": 3845
+},
+"ebit_margin_series": {
+"2015": 19.6,
+"2016": 20.2,
+"2017": 21.0,
+"2018": 21.1,
+"2019": 19.2,
+"2020": 12.8,
+"2021": 19.1,
+"2022": 20.6,
+"2023": 13.9,
+"2024": 12.0,
+"2025": 10.7
+},
+"ebit_margin_latest": 10.7,
+"ebit_margin_10y_avg": 17.3,
+"ebit_margin_10y_max": 21.1,
+"ebit_margin_10y_min": 10.7,
+"margin_pctile_in_history": 9,
+"latest_eps_vs_10y_max": 0.4,
+"fcf_conversion_5y": 0.76,
+"fcf_conversion_10y": 0.75,
+"acq_to_fcf_10y": 0.0,
+"buyback_to_fcf_10y": 0.06,
+"div_to_fcf_10y": 1.04,
+"net_debt_m": -306,
+"net_debt_ebitda": -0.72,
+"roic_latest": 2.3,
+"roic_10y_avg": 12.6,
+"roe_latest": 2.3,
+"roe_10y_avg": 12.9,
+"adj_vs_gaap_gap_5y_avg_pct": 49.3,
+"adj_vs_gaap_gap_latest_pct": 182.7,
+"ntm_pe": 14.5,
+"is_reit": "False",
+"price": "1.01452715",
+"fcf_yield": 5.4,
+"test1_route": "PE",
+"cons_EPS": {
+"FY0": {
+"fy": 2025,
+"mean": 0.08,
+"std": null,
+"hi": 0.07999999821186064,
+"lo": 0.07999999821186064,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 0.053,
+"std": 0.002,
+"hi": 0.058499998692423096,
+"lo": 0.048332798919677726,
+"n": 19
+},
+"FY2": {
+"fy": 2027,
+"mean": 0.053,
+"std": 0.005,
+"hi": 0.06379999857395886,
+"lo": 0.0433999990299344,
+"n": 19
+},
+"FY3": {
+"fy": 2028,
+"mean": 0.063,
+"std": 0.008,
+"hi": 0.0782999982498586,
+"lo": 0.04924907889919727,
+"n": 18
+}
+},
+"cons_EPS_growth_FY2_FY3": [
+-0.1,
+20.9
+],
+"cons_EPS_growth_FY1": -34.2,
+"cons_SALES": {
+"FY0": {
+"fy": 2025,
+"mean": 3844.6,
+"std": null,
+"hi": 3844.6,
+"lo": 3844.6,
+"n": 1
+},
+"FY1": {
+"fy": 2026,
+"mean": 3811.829,
+"std": 37.983,
+"hi": 3886.8,
+"lo": 3724.8,
+"n": 18
+},
+"FY2": {
+"fy": 2027,
+"mean": 3921.014,
+"std": 107.96,
+"hi": 4095.9,
+"lo": 3610.0558257908,
+"n": 18
+},
+"FY3": {
+"fy": 2028,
+"mean": 4149.375,
+"std": 145.617,
+"hi": 4377.5535,
+"lo": 3916.274697,
+"n": 17
+}
+},
+"cons_SALES_growth_FY2_FY3": [
+2.9,
+5.8
+],
+"cons_SALES_growth_FY1": -0.9,
+"eps_ltg": -7.4776135360666665,
+"missing": [],
+"fmp_backup": []
+}
